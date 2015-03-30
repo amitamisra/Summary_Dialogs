@@ -1,0 +1,8 @@
+root(ROOT-0, irrelevant-3)
+nsubj(irrelevant-3, location-1)
+cop(irrelevant-3, is-2)
+prep(irrelevant-3, in-4)
+pcomp(in-4, refuting-5)
+poss(logic-8, S1-6)
+possessive(S1-6, 's-7)
+dobj(refuting-5, logic-8)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NNS theominionists)) (VP (VBZ exists))))) (. .)))

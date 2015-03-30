@@ -1,0 +1,3 @@
+root(ROOT-0, Biblical-3)
+nsubj(Biblical-3, it-1)
+cop(Biblical-3, 's-2)

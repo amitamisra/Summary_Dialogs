@@ -1,0 +1,28 @@
+ he did other research  which showed the same results even 
+root(ROOT-0, did-2)
+nsubj(did-2, he-1)
+amod(research-4, other-3)
+dobj(did-2, research-4)
+nsubj(showed-6, which-5)
+rcmod(research-4, showed-6)
+det(results-9, the-7)
+amod(results-9, same-8)
+dobj(showed-6, results-9)
+advmod(showed-6, even-10)
+
+Two people are discussing gay marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+
+Two people are discussing gay marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+

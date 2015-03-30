@@ -1,0 +1,5 @@
+root(ROOT-0, counters-2)
+nn(counters-2, S2-1)
+prepc_by(counters-2, asking-4)
+amod(insemination-7, artificial-6)
+prep_about(asking-4, insemination-7)

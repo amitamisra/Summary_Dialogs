@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (DT An) (JJ anti-gay) (NN stance)) (PP (IN on) (NP (NP (DT the) (NNS grounds)) (PP (IN of) (NP (JJ religious) (NN belief)))))) (VP (VBZ is) (NP (NN prejudice))) (. .)))

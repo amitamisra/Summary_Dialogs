@@ -1,0 +1,34 @@
+ that he does what he thinks is right  that Jesus is not against polygamy .
+
+
+root(ROOT-0, right-8)
+mark(does-3, that-1)
+nsubj(does-3, he-2)
+csubj(right-8, does-3)
+dobj(thinks-6, what-4)
+nsubj(thinks-6, he-5)
+ccomp(does-3, thinks-6)
+cop(right-8, is-7)
+mark(is-11, that-9)
+nsubj(is-11, Jesus-10)
+ccomp(right-8, is-11)
+neg(is-11, not-12)
+prep_against(is-11, polygamy-14)
+
+ that he does what he thinks is right  that Jesus is not against polygamy .
+
+
+root(ROOT-0, right-8)
+mark(does-3, that-1)
+nsubj(does-3, he-2)
+csubj(right-8, does-3)
+dobj(thinks-6, what-4)
+nsubj(thinks-6, he-5)
+ccomp(does-3, thinks-6)
+cop(right-8, is-7)
+mark(is-11, that-9)
+nsubj(is-11, Jesus-10)
+ccomp(right-8, is-11)
+neg(is-11, not-12)
+prep_against(is-11, polygamy-14)
+

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (JJ Moral)) (CC or#1#0) (NP (JJ religious) (NN prejudice))) (VP (VBZ is) (ADVP (RB still#0#0)) (NP (NN prejudice))) (. .)))

@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (IN that) (S (NP (NNS people)) (VP (VP (VBP weight) (NP (DT the) (NN ay) (NN marriage) (NN opinion) (NN issue)) (PP (IN against) (NP (NP (NNS politicians) (NNS weeks)) (PP (IN before) (NP (NNS elections)))))) (CC and) (VP (VB balance) (NP (DT the) (VBG responding) (NN approach))))))) (. .)))

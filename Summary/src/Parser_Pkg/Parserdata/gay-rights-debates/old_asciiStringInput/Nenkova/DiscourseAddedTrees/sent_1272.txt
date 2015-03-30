@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and#0#0) (NN S2)) (VP (VBP are) (VP (VBG talking) (PP (IN about) (NP (NP (DT the) (NNS views)) (PP (IN of) (NP (NP (JJ gay) (NN marriage)) (PP (IN in) (NP (PRP$ our) (NN culture))))))))) (. .)))

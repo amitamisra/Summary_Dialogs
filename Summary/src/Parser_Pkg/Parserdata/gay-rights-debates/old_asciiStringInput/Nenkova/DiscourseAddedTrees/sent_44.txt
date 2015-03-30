@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ advises) (SBAR (S (NP (NNS values)) (VP (VBP are) (ADVP (RB always)) (VP (VBN believed) (S (VP (TO to) (VP (VB be) (ADJP (JJ correct) (PP (IN by) (NP (NP (DT the) (NN person) (CC or#0#0) (NN group)) (SBAR (WHNP (WP who)) (S (NP (NNS practices)) (NP (PRP them))))))))))))))) (. .)))

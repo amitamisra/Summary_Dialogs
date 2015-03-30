@@ -1,0 +1,4 @@
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+prep(is-2, against-3)
+pobj(against-3, diversity-4)

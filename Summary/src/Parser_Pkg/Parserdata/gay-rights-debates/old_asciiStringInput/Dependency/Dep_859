@@ -1,0 +1,38 @@
+   they believe that being gay is morally reprehensible 
+root(ROOT-0, believe-2)
+nsubj(believe-2, they-1)
+mark(reprehensible-8, that-3)
+cop(gay-5, being-4)
+csubj(reprehensible-8, gay-5)
+cop(reprehensible-8, is-6)
+advmod(reprehensible-8, morally-7)
+ccomp(believe-2, reprehensible-8)
+
+He references  how in the 80s bath houses in San Francisco were closed down 
+root(ROOT-0, references-2)
+dep(references-2, He-1)
+advmod(closed-13, how-3)
+det(bath-7, the-5)
+num(bath-7, 80s-6)
+prep_in(closed-13, bath-7)
+nsubjpass(closed-13, houses-8)
+nn(Francisco-11, San-10)
+prep_in(houses-8, Francisco-11)
+auxpass(closed-13, were-12)
+dep(references-2, closed-13)
+advmod(closed-13, down-14)
+
+He references  how in the 80s bath houses in San Francisco were closed down 
+root(ROOT-0, references-2)
+dep(references-2, He-1)
+advmod(closed-13, how-3)
+det(bath-7, the-5)
+num(bath-7, 80s-6)
+prep_in(closed-13, bath-7)
+nsubjpass(closed-13, houses-8)
+nn(Francisco-11, San-10)
+prep_in(houses-8, Francisco-11)
+auxpass(closed-13, were-12)
+dep(references-2, closed-13)
+advmod(closed-13, down-14)
+

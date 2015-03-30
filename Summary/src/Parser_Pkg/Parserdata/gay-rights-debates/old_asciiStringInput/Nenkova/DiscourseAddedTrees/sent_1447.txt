@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and#0#0) (NN S2)) (VP (VBP are) (PP (IN in) (NP (NP (JJ unfriendly) (NN argument)) (PP (IN about) (NP (JJ gay) (NN marriage)))))) (. .)))

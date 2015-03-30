@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (IN that) (S (NP (PRP$ his) (JJ religious) (NN freedom)) (VP (VBZ is) (VP (VBG being) (VP (VBN ignored) (PP (IN by) (NP (NP (DT a) (NN politician)) (VP (VBG attempting) (S (VP (TO to) (VP (VB make) (NP (PRP$ her) (JJ religious) (NNS beliefs) (NN law)))))))))))))) (. .)))

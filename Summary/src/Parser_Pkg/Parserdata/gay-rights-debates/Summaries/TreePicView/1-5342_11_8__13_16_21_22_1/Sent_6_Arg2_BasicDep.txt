@@ -1,0 +1,8 @@
+root(ROOT-0, share-3)
+nsubj(share-3, they-1)
+aux(share-3, must-2)
+det(beliefs-5, the-4)
+dobj(share-3, beliefs-5)
+prep(beliefs-5, of-6)
+det(person-8, that-7)
+pobj(of-6, person-8)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (ADVP (RB also)) (VP (VBZ believes) (SBAR (S (NP (NNS gays)) (VP (VBD were) (RB not) (VP (VBN thought) (PP (IN of) (PP (IN as) (NP (JJ human))))))))) (. .)))

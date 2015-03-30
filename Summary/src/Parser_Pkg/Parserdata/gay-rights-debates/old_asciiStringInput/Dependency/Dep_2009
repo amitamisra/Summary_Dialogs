@@ -1,0 +1,57 @@
+S1 is very rude and constantly being immature towards S2 .
+
+
+root(ROOT-0, rude-4)
+nsubj(rude-4, S1-1)
+nsubj(immature-8, S1-1)
+cop(rude-4, is-2)
+advmod(rude-4, very-3)
+advmod(immature-8, constantly-6)
+cop(immature-8, being-7)
+conj_and(rude-4, immature-8)
+prep_towards(immature-8, S2-10)
+
+S1 is talking about a female who is ignoring S1s religious freedom and barring his family from legal protections .
+
+
+root(ROOT-0, talking-3)
+nsubj(talking-3, S1-1)
+aux(talking-3, is-2)
+det(female-6, a-5)
+prep_about(talking-3, female-6)
+nsubj(ignoring-9, who-7)
+nsubj(barring-14, who-7)
+aux(ignoring-9, is-8)
+rcmod(female-6, ignoring-9)
+dobj(ignoring-9, S1s-10)
+amod(freedom-12, religious-11)
+dep(S1s-10, freedom-12)
+rcmod(female-6, barring-14)
+conj_and(ignoring-9, barring-14)
+poss(family-16, his-15)
+dobj(barring-14, family-16)
+amod(protections-19, legal-18)
+prep_from(barring-14, protections-19)
+
+S1 is talking about a female who is ignoring S1s religious freedom and barring his family from legal protections .
+
+
+root(ROOT-0, talking-3)
+nsubj(talking-3, S1-1)
+aux(talking-3, is-2)
+det(female-6, a-5)
+prep_about(talking-3, female-6)
+nsubj(ignoring-9, who-7)
+nsubj(barring-14, who-7)
+aux(ignoring-9, is-8)
+rcmod(female-6, ignoring-9)
+dobj(ignoring-9, S1s-10)
+amod(freedom-12, religious-11)
+dep(S1s-10, freedom-12)
+rcmod(female-6, barring-14)
+conj_and(ignoring-9, barring-14)
+poss(family-16, his-15)
+dobj(barring-14, family-16)
+amod(protections-19, legal-18)
+prep_from(barring-14, protections-19)
+

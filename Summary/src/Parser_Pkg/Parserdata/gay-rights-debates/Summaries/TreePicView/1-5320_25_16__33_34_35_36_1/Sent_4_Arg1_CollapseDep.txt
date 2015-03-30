@@ -1,0 +1,6 @@
+root(ROOT-0, passing-4)
+nsubj(passing-4, we-1)
+aux(passing-4, 're-2)
+neg(passing-4, not-3)
+amod(colors-7, flying-6)
+prep_with(passing-4, colors-7)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (NNS states)) (VP (NN willingness) (S (VP (TO to) (VP (VB debate) (PP (ADVP (NP (DT the) (NN matter)) (RBR further)) (IN with) (NP (NN S2))))))) (. .)))

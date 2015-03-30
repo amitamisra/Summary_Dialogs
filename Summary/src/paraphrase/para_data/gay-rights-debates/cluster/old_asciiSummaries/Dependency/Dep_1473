@@ -1,0 +1,17 @@
+(S1) says NAMECALLING ANVIOLENCE were things commonly use at the same time to oppose gay marriage.
+root(ROOT-0, says-4)
+nsubj(says-4, S1-2)
+nn(ANVIOLENCE-6, NAMECALLING-5)
+nsubj(things-8, ANVIOLENCE-6)
+cop(things-8, were-7)
+ccomp(says-4, things-8)
+advmod(use-10, commonly-9)
+dep(things-8, use-10)
+det(time-14, the-12)
+amod(time-14, same-13)
+prep_at(use-10, time-14)
+aux(oppose-16, to-15)
+xcomp(use-10, oppose-16)
+amod(marriage-18, gay-17)
+dobj(oppose-16, marriage-18)
+

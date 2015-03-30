@@ -1,0 +1,8 @@
+root(ROOT-0, making-3)
+nsubj(making-3, they-1)
+aux(making-3, are-2)
+dobj(making-3, those-4)
+prep_with(making-3, AIS-6)
+amod(AIS-6, unimportant-7)
+aux(cure-9, to-8)
+xcomp(unimportant-7, cure-9)

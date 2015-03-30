@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (IN if#1#Contingency) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ right) (NN wing) (S (VP (TO to) (VP (VB support) (NP (DT a) (NN ban)) (PP (IN on) (NP (JJ gay) (NN marriage/polygamy)))))))))))) (RB then#1#Contingency) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ left) (NN wing) (S (VP (TO to) (VP (VB oppose) (NP (PRP it)))))))) (. .)))

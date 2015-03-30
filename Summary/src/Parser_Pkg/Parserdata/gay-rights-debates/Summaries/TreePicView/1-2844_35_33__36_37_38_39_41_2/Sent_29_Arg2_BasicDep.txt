@@ -1,0 +1,3 @@
+root(ROOT-0, opposing-1)
+amod(marriage-3, gay-2)
+dobj(opposing-1, marriage-3)

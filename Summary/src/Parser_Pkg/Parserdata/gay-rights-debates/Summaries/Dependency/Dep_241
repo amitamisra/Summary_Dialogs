@@ -1,0 +1,42 @@
+gay people pay into the same system.
+root(ROOT-0, pay-3)
+amod(people-2, gay-1)
+nsubj(pay-3, people-2)
+prep(pay-3, into-4)
+det(system-7, the-5)
+amod(system-7, same-6)
+pobj(into-4, system-7)
+
+gay people pay into the same system.
+root(ROOT-0, pay-3)
+amod(people-2, gay-1)
+nsubj(pay-3, people-2)
+prep(pay-3, into-4)
+det(system-7, the-5)
+amod(system-7, same-6)
+pobj(into-4, system-7)
+
+gay people pay into the same system.
+root(ROOT-0, pay-3)
+amod(people-2, gay-1)
+nsubj(pay-3, people-2)
+prep(pay-3, into-4)
+det(system-7, the-5)
+amod(system-7, same-6)
+pobj(into-4, system-7)
+
+S1 is against gay marriage as well as shared healthcare between gay couples.
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+prep(is-2, against-3)
+amod(marriage-5, gay-4)
+pobj(against-3, marriage-5)
+advmod(well-7, as-6)
+cc(marriage-5, well-7)
+mwe(well-7, as-8)
+amod(healthcare-10, shared-9)
+conj(marriage-5, healthcare-10)
+prep(healthcare-10, between-11)
+amod(couples-13, gay-12)
+pobj(between-11, couples-13)
+

@@ -1,0 +1,3 @@
+root(ROOT-0, angered-3)
+nsubjpass(angered-3, S1-1)
+auxpass(angered-3, is-2)

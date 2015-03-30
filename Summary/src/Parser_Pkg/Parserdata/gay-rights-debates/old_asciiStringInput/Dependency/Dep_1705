@@ -1,0 +1,47 @@
+ NAMECALLING ANVIOLENCE were things commonly use at the same time to oppose gay marriage .
+
+
+root(ROOT-0, things-4)
+csubj(things-4, NAMECALLING-1)
+dobj(NAMECALLING-1, ANVIOLENCE-2)
+cop(things-4, were-3)
+advmod(use-6, commonly-5)
+dep(things-4, use-6)
+det(time-10, the-8)
+amod(time-10, same-9)
+prep_at(use-6, time-10)
+aux(oppose-12, to-11)
+xcomp(use-6, oppose-12)
+amod(marriage-14, gay-13)
+dobj(oppose-12, marriage-14)
+
+  He or she ,  ,  that they have no desire to impose such beliefs on anyone else .  
+root(ROOT-0, He-1)
+conj_or(He-1, she-3)
+mark(have-8, that-6)
+nsubj(have-8, they-7)
+dep(He-1, have-8)
+neg(desire-10, no-9)
+dobj(have-8, desire-10)
+aux(impose-12, to-11)
+vmod(desire-10, impose-12)
+amod(beliefs-14, such-13)
+dobj(impose-12, beliefs-14)
+prep_on(impose-12, anyone-16)
+advmod(anyone-16, else-17)
+
+  He or she ,  ,  that they have no desire to impose such beliefs on anyone else .  
+root(ROOT-0, He-1)
+conj_or(He-1, she-3)
+mark(have-8, that-6)
+nsubj(have-8, they-7)
+dep(He-1, have-8)
+neg(desire-10, no-9)
+dobj(have-8, desire-10)
+aux(impose-12, to-11)
+vmod(desire-10, impose-12)
+amod(beliefs-14, such-13)
+dobj(impose-12, beliefs-14)
+prep_on(impose-12, anyone-16)
+advmod(anyone-16, else-17)
+

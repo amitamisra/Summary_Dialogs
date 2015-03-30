@@ -1,0 +1,3 @@
+root(ROOT-0, says-4)
+det(Bible-3, the-2)
+nsubj(says-4, Bible-3)

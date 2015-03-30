@@ -1,0 +1,2 @@
+root(ROOT-0, to-1)
+pcomp(to-1, wed.-2)

@@ -1,0 +1,13 @@
+He thinks gay rights are a real test of the constitutional system.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+amod(rights-4, gay-3)
+nsubj(test-8, rights-4)
+cop(test-8, are-5)
+det(test-8, a-6)
+amod(test-8, real-7)
+ccomp(thinks-2, test-8)
+det(system-12, the-10)
+amod(system-12, constitutional-11)
+prep_of(test-8, system-12)
+

@@ -1,0 +1,5 @@
+root(ROOT-0, viewed-2)
+nsubj(viewed-2, society-1)
+dobj(viewed-2, it-3)
+advmod(wrong-6, morally-5)
+prep_as(viewed-2, wrong-6)

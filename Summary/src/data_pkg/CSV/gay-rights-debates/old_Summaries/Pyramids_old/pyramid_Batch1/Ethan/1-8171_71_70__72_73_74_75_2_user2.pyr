@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>It seems like they are discussing the inconsistency of each other's arguments. S1 is getting annoyed and seems to just be arguing because they are &quot;venting&quot; while S2 is saying that the inconsistency is present and making all arguments invalid without proof. Both S1 and S2 are for gay rights, S2 is stating that S1 isn't being consistent and &quot;admits&quot; to being inconsistent, while S1 is saying they don't care about the inconsistency because of the point they are trying to get across. They bring up Biden and abortion in ways that dont exactly fit the discussion, but just to show the inconsistency in each others opinions. S2 is saying they would handle this same situation with Biden the exact same way because S2 is simply talking about perspective. S1 believes S2 is stating that S1 believes in gay marriage but not gay rights, which seems contradictory to S1's point. This argument does not have a set topic.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>In this discussion S1 and S2 are addressing the inconsistencies of the position of being for gay rights, but against gay marriage. S1 believes that Biden saying this is inconsistent, and it should bother S2 because S2 is for gay marriage. S2 does not believe this is an inconsistent statement and attributes Bidens view to S1, making it seem like S1 is calling his own view inconsistent. S1 and S2 begin arguing about the meaning of inconsistent and eventually starting fighting. The example of abortion comes up to try and prove inconsistency, but both use it in different ways so it does not stop the argument. S1 believes that S2 should be more concerned with Biden being inconsistent, while S1 is just trying to address the issue as a whole. S2 claims to only have brought up Biden to address the lack of political action due to social pressures. S2 claims that if given the opportunity, they would express the same concerns with Biden on a one on one conversation. </line>
+  <line> </line>
+  <line> </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line></line>
+  <line> (S1) states that one who supports gay right but not gay marriage brings an inconsistent problem. (S2) says that he does not sees any inconsistency, and compares it to the issue of abortion and how one can be against such issue for society but for ones position it may be possible. (S1) tells (S2) that it seems like he does not understand the concept of inconsistency. (S1) also says that he hopes that (S2) did not think of gay marriage to be a right. They keep arguing about positions in the matter and who is inconsistent. (S2)  says that many people often times say things such as I dont believe gay marriage is a right but they also believe that gay people should have equal rights. He argues that Bidens opinion is consistent and Biden is not lying about what he believes. (S1) says that he know that there is inconsistency but he does not care. (S2) says that people weight the ay marriage opinion issue against politicians weeks before elections and balance the responding approach. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line></line>
+  <line> S1 one believes that it is inconsistent to support gay rights but to be against gay marriage. S1 does not have a problem with such an inconsistency but knowing that S2 supports gay marriage it would make sense that S2 would be bothered by it. S1 doesnt believe that S2 understands the concept of inconsistency. S1 thinks that S2 would be troubled by Bidens position on gay marriage.  it would be like someone saying they are for reproductive / abortion rights , but yet being against it being legal for women to get an abortion at an abortion clinic . </line>
+  <line> </line>
+  <line> </line>
+  <line> S2 does not see an inconsistency in not supporting gay marriage but being for gay rights. S2 explains that  there is not an inconsistency in being against gay marriage , but for gay rights in every other way . Showing an inconsistency would be like Frank saying he is against abortion rights but has no problem with his wife getting one. Just saying that Frank is inconsistent on abortion issues is not enough to show what is inconsistent. S2 is arguing against the position regardless of who is holding it.</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 is not bothered by the inconsistency of one supporting gay rights but not gay marriage, but if one supports gay marriage they would be bothered by it. S2 doesnt see the inconsistency and doesnt understand why S1 keeps calling it that. He says that S1 hasnt shown an inconsistency yet and gives an example of how it is like saying Frank is inconsistent on the abortion issue, but would be showing inconsistency if is Frank said I am against all abortion. S1 doesnt know what else to say and that it would be different if S2 didnt think gay marriage would be a right. S2 argues that S1s position is inconsistent and that S2 can see a person for gay rights and against gay marriage. He thinks Biden is wrong but his view is consistent. S1 says he doesnt care about the inconsistency of one supporting gay rights and not gay marriage. S2 says to push hard on Biden about the gay marriage opinion a few weeks away from election day and balance the response.</line>
+ </text>
+ <scu uid="51" label="S1 and S2 both compare the issue of gay rights to abortion to show inconsistency">
+  <contributor label="abortion rights , but yet being against it being legal for women to get an abortion...against abortion rights but has no problem with his wife getting one...inconsistent on abortion issues">
+   <part label="against abortion rights but has no problem with his wife getting one" start="3818" end="3886"/>
+   <part label="inconsistent on abortion issues" start="3914" end="3945"/>
+   <part label="abortion rights , but yet being against it being legal for women to get an abortion" start="3436" end="3519"/>
+  </contributor>
+  <contributor label="example of abortion comes">
+   <part label="example of abortion comes" start="1451" end="1476"/>
+  </contributor>
+  <contributor label="abortion in ways">
+   <part label="abortion in ways" start="535" end="551"/>
+  </contributor>
+  <contributor label="compares it to the issue of abortion">
+   <part label="compares it to the issue of abortion" start="2123" end="2159"/>
+  </contributor>
+ </scu>
+ <scu uid="70" label="S1 and S2 discussing to support gay rights but not gay marriage">
+  <contributor label="the position of being for gay rights, but against gay marriage">
+   <part label="the position of being for gay rights, but against gay marriage" start="1034" end="1096"/>
+  </contributor>
+  <contributor label="one supporting gay rights but not gay marriage">
+   <part label="one supporting gay rights but not gay marriage" start="4127" end="4173"/>
+  </contributor>
+  <contributor label="who supports gay right but not gay marriage">
+   <part label="who supports gay right but not gay marriage" start="1992" end="2035"/>
+  </contributor>
+  <contributor label="support gay rights but to be against gay marriage...not supporting gay marriage but being for gay rights...being against gay marriage , but for gay rights">
+   <part label="support gay rights but to be against gay marriage" start="3035" end="3084"/>
+   <part label="not supporting gay marriage but being for gay rights" start="3586" end="3638"/>
+   <part label="being against gay marriage , but for gay rights" start="3691" end="3738"/>
+  </contributor>
+ </scu>
+ <scu uid="48" label="S2 doesn't see the inconsistency in being for gay rights, but against gay marriage ">
+  <contributor label="doesnt see the inconsistency">
+   <part label="doesnt see the inconsistency" start="4241" end="4269"/>
+  </contributor>
+  <contributor label="does not see an inconsistency">
+   <part label="does not see an inconsistency" start="3553" end="3582"/>
+  </contributor>
+  <contributor label="not believe this is an inconsistent statement">
+   <part label="not believe this is an inconsistent statement" start="1214" end="1259"/>
+  </contributor>
+  <contributor label="says that he does not sees any inconsistency">
+   <part label="says that he does not sees any inconsistency" start="2073" end="2117"/>
+  </contributor>
+ </scu>
+ <scu uid="62" label="S1 and S2 begin arguing">
+  <contributor label="to just be arguing">
+   <part label="to just be arguing" start="137" end="155"/>
+  </contributor>
+  <contributor label="arguing about positions">
+   <part label="arguing about positions" start="2434" end="2457"/>
+  </contributor>
+  <contributor label="arguing about the meaning of inconsistent">
+   <part label="arguing about the meaning of inconsistent" start="1371" end="1412"/>
+  </contributor>
+ </scu>
+ <scu uid="52" label="S1 believes it is inconsistent to believe in gay rights, but not gay marriage">
+  <contributor label="saying that the inconsistency">
+   <part label="saying that the inconsistency" start="195" end="224"/>
+  </contributor>
+  <contributor label="brings an inconsistent problem...says that he know that there is inconsistency">
+   <part label="brings an inconsistent problem" start="2036" end="2066"/>
+   <part label="says that he know that there is inconsistency" start="2755" end="2800"/>
+  </contributor>
+  <contributor label="S1 one believes that it is inconsistent">
+   <part label="S1 one believes that it is inconsistent" start="2992" end="3031"/>
+  </contributor>
+ </scu>
+ <scu uid="54" label="S1 believes someone who is for gay marriage would be bothered by the inconsistencies of Biden's view">
+  <contributor label="would be troubled by Bidens position on gay marriage">
+   <part label="would be troubled by Bidens position on gay marriage" start="3321" end="3373"/>
+  </contributor>
+  <contributor label="Biden saying this is inconsistent, and it should bother...should be more concerned with Biden being inconsistent">
+   <part label="Biden saying this is inconsistent, and it should bother" start="1115" end="1170"/>
+   <part label="should be more concerned with Biden being inconsistent" start="1600" end="1654"/>
+  </contributor>
+  <contributor label="bring up Biden">
+   <part label="bring up Biden" start="516" end="530"/>
+  </contributor>
+ </scu>
+ <scu uid="53" label="S1 doesn't think S2 understands the concept of inconsistency">
+  <contributor label="doesnt believe that S2 understands the concept">
+   <part label="doesnt believe that S2 understands the concept" start="3238" end="3284"/>
+  </contributor>
+  <contributor label="does not understand the concept of inconsistency">
+   <part label="does not understand the concept of inconsistency" start="2290" end="2338"/>
+  </contributor>
+  <contributor label="doesnt understand why S1 keeps calling it that">
+   <part label="doesnt understand why S1 keeps calling it that" start="4274" end="4320"/>
+  </contributor>
+ </scu>
+ <scu uid="49" label="S1 is not bothered by the inconsistency of being for gay rights, but against gay marriage">
+  <contributor label="not bothered by the inconsistency...he doesnt care about the inconsistency">
+   <part label="not bothered by the inconsistency" start="4090" end="4123"/>
+   <part label="he doesnt care about the inconsistency" start="4828" end="4866"/>
+  </contributor>
+  <contributor label="does not have a problem with such an inconsistency">
+   <part label="does not have a problem with such an inconsistency" start="3089" end="3139"/>
+  </contributor>
+  <contributor label="he does not care">
+   <part label="he does not care" start="2805" end="2821"/>
+  </contributor>
+ </scu>
+ <scu uid="45" label="S1 and S2 discuss the inconsistencies of each other's argument">
+  <contributor label="inconsistency of each other's arguments">
+   <part label="inconsistency of each other's arguments" start="64" end="103"/>
+  </contributor>
+  <contributor label="addressing the inconsistencies">
+   <part label="addressing the inconsistencies" start="1000" end="1030"/>
+  </contributor>
+ </scu>
+ <scu uid="57" label="S1 is trying to address the topic as a whole">
+  <contributor label="just trying to address the issue as a whole">
+   <part label="just trying to address the issue as a whole" start="1668" end="1711"/>
+  </contributor>
+  <contributor label="point they are trying to get across">
+   <part label="point they are trying to get across" start="474" end="509"/>
+  </contributor>
+ </scu>
+ <scu uid="47" label="S1 thinks S2 would be bothered by the inconsistency because he supports gay marriage ">
+  <contributor label="supports gay marriage they would be bothered by it">
+   <part label="supports gay marriage they would be bothered by it" start="4186" end="4236"/>
+  </contributor>
+  <contributor label="supports gay marriage it would make sense that S2 would be bothered by it">
+   <part label="supports gay marriage it would make sense that S2 would be bothered by it" start="3160" end="3233"/>
+  </contributor>
+ </scu>
+ <scu uid="68" label="S2 believes Bidens opinion is consistent">
+  <contributor label="Bidens opinion is consistent">
+   <part label="Bidens opinion is consistent" start="2674" end="2702"/>
+  </contributor>
+  <contributor label="Biden is wrong but his view is consistent. S1 says he doesnt care about the inconsistency of one">
+   <part label="Biden is wrong but his view is consistent. S1 says he doesnt care about the inconsistency of one" start="4777" end="4873"/>
+  </contributor>
+ </scu>
+ <scu uid="59" label="S2 explains they would express the same concerns with Biden on a one on one">
+  <contributor label="express the same concerns with Biden on a one on one">
+   <part label="express the same concerns with Biden on a one on one" start="1870" end="1922"/>
+  </contributor>
+  <contributor label="saying they would handle this same situation with Biden the exact same way">
+   <part label="saying they would handle this same situation with Biden the exact same way" start="656" end="730"/>
+  </contributor>
+ </scu>
+ <scu uid="67" label="S2 recommends bringing up these issue against politicians weeks before elections">
+  <contributor label="issue against politicians weeks before elections">
+   <part label="issue against politicians weeks before elections" start="2876" end="2924"/>
+  </contributor>
+  <contributor label="few weeks away from election day">
+   <part label="few weeks away from election day" start="4981" end="5013"/>
+  </contributor>
+ </scu>
+ <scu uid="63" label="S1 and S2 are for gay rights">
+  <contributor label="S1 and S2 are for gay rights">
+   <part label="S1 and S2 are for gay rights" start="289" end="317"/>
+  </contributor>
+ </scu>
+ <scu uid="55" label="S1 is calling his own view inconsistent">
+  <contributor label="S1 is calling his own view inconsistent">
+   <part label="S1 is calling his own view inconsistent" start="1314" end="1353"/>
+  </contributor>
+ </scu>
+ <scu uid="69" label="S1 is getting annoyed">
+  <contributor label="S1 is getting annoyed">
+   <part label="S1 is getting annoyed" start="105" end="126"/>
+  </contributor>
+ </scu>
+ <scu uid="58" label="S2 claims to have brought up Biden to address the lack of political action due to social pressures">
+  <contributor label="address the lack of political action due to social pressures">
+   <part label="address the lack of political action due to social pressures" start="1756" end="1816"/>
+  </contributor>
+ </scu>
+ <scu uid="50" label="S2 is against the position regardless of who is holding it">
+  <contributor label="against the position regardless of who is holding it">
+   <part label="against the position regardless of who is holding it" start="4004" end="4056"/>
+  </contributor>
+ </scu>
+ <scu uid="64" label="S2 is simply talking about perspective">
+  <contributor label="S2 is simply talking about perspective">
+   <part label="S2 is simply talking about perspective" start="739" end="777"/>
+  </contributor>
+ </scu>
+</pyramid>

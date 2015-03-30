@@ -1,0 +1,3 @@
+root(ROOT-0, honest-3)
+nsubj(honest-3, politicians-1)
+cop(honest-3, were-2)

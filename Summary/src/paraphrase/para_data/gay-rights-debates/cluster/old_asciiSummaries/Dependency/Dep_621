@@ -1,0 +1,10 @@
+S1 feels gay people are more promiscuous than heterosexuals.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+amod(people-4, gay-3)
+nsubj(promiscuous-7, people-4)
+cop(promiscuous-7, are-5)
+advmod(promiscuous-7, more-6)
+ccomp(feels-2, promiscuous-7)
+prep_than(promiscuous-7, heterosexuals-9)
+

@@ -1,0 +1,14 @@
+S2 argues that Coretta Scott King and Jillian Bond are against gay rights.
+root(ROOT-0, argues-2)
+nsubj(argues-2, S2-1)
+mark(are-10, that-3)
+nn(King-6, Coretta-4)
+nn(King-6, Scott-5)
+nsubj(are-10, King-6)
+nn(Bond-9, Jillian-8)
+conj_and(King-6, Bond-9)
+nsubj(are-10, Bond-9)
+ccomp(argues-2, are-10)
+amod(rights-13, gay-12)
+prep_against(are-10, rights-13)
+

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Theemocratic) (NNP Party)) (NP-TMP (NN today)) (VP (VBZ is) (VP (VBG favoring) (NP (JJ special) (NN interest) (NNS groups)) (PP (RB instead) (IN of) (S (VP (VBG engaging) (PP (IN in) (NP (NP (JJ honest) (NN advocacy)) (PP (IN for) (NP (DT the) (NNS people)))))))))) (. .)))

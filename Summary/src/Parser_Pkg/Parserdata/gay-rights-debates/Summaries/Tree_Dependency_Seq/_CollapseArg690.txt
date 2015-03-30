@@ -1,0 +1,8 @@
+root(ROOT-0, rule-5)
+det(court-2, a-1)
+nsubj(rule-5, court-2)
+aux(rule-5, would-3)
+neg(rule-5, not-4)
+det(issue-8, that-7)
+prep_on(rule-5, issue-8)
+advmod(rule-5, individually-9)

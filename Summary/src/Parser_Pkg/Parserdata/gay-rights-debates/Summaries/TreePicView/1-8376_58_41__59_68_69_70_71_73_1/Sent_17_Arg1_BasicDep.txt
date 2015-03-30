@@ -1,0 +1,6 @@
+root(ROOT-0, inevitable-6)
+det(government-2, the-1)
+poss(involvement-4, government-2)
+possessive(government-2, 's-3)
+nsubj(inevitable-6, involvement-4)
+cop(inevitable-6, is-5)

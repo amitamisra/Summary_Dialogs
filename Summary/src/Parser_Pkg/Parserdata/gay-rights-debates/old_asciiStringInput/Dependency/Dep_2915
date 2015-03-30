@@ -1,0 +1,22 @@
+To him , it means  that people are changing against homophobic bigotry 
+root(ROOT-0, means-5)
+prep_to(means-5, him-2)
+nsubj(means-5, it-4)
+mark(changing-9, that-6)
+nsubj(changing-9, people-7)
+aux(changing-9, are-8)
+ccomp(means-5, changing-9)
+amod(bigotry-12, homophobic-11)
+prep_against(changing-9, bigotry-12)
+
+To him , it means  that people are changing against homophobic bigotry 
+root(ROOT-0, means-5)
+prep_to(means-5, him-2)
+nsubj(means-5, it-4)
+mark(changing-9, that-6)
+nsubj(changing-9, people-7)
+aux(changing-9, are-8)
+ccomp(means-5, changing-9)
+amod(bigotry-12, homophobic-11)
+prep_against(changing-9, bigotry-12)
+

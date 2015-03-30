@@ -1,0 +1,30 @@
+ there will be privileges that come only in government recognized unions .
+
+
+root(ROOT-0, privileges-4)
+nsubj(privileges-4, there-1)
+aux(privileges-4, will-2)
+cop(privileges-4, be-3)
+nsubj(come-6, that-5)
+rcmod(privileges-4, come-6)
+advmod(recognized-10, only-7)
+mark(recognized-10, in-8)
+nsubj(recognized-10, government-9)
+advcl(come-6, recognized-10)
+dobj(recognized-10, unions-11)
+
+ there will be privileges that come only in government recognized unions .
+
+
+root(ROOT-0, privileges-4)
+nsubj(privileges-4, there-1)
+aux(privileges-4, will-2)
+cop(privileges-4, be-3)
+nsubj(come-6, that-5)
+rcmod(privileges-4, come-6)
+advmod(recognized-10, only-7)
+mark(recognized-10, in-8)
+nsubj(recognized-10, government-9)
+advcl(come-6, recognized-10)
+dobj(recognized-10, unions-11)
+

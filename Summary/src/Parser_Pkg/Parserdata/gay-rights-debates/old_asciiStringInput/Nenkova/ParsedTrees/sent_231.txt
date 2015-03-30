@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ apologizes) (PP (IN for) (S (VP (VP (VBG jumping) (NP (DT the) (NN gun))) (CC and) (VP (VBG misreading) (NP (DT the) (ADJP (QP (CD one) (CD billion))) (NN dollar) (NN surplus) (NN link))))))) (. .)))

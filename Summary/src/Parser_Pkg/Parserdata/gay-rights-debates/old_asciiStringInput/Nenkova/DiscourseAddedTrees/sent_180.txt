@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ likens) (NP (DT this)) (PP (TO to) (NP (NP (NN slavery)) (, ,) (NP (NN prohibition)) (, ,) (CC and#0#0) (NP (NP (NNS women) (POS 's)) (NN suffrage))))) (. .)))

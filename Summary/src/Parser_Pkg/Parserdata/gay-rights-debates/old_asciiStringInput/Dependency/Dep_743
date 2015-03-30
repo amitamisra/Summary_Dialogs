@@ -1,0 +1,40 @@
+ that dismissing results , rather than checking validity is reactionary .
+
+
+root(ROOT-0, reactionary-10)
+mark(reactionary-10, that-1)
+csubj(reactionary-10, dismissing-2)
+dobj(dismissing-2, results-3)
+conj_negcc(dismissing-2, checking-7)
+csubj(reactionary-10, checking-7)
+dobj(checking-7, validity-8)
+cop(reactionary-10, is-9)
+
+ that Coretta Scott King and Jillian Bond are against gay rights .
+
+
+root(ROOT-0, are-8)
+mark(are-8, that-1)
+nn(King-4, Coretta-2)
+nn(King-4, Scott-3)
+nsubj(are-8, King-4)
+nn(Bond-7, Jillian-6)
+conj_and(King-4, Bond-7)
+nsubj(are-8, Bond-7)
+amod(rights-11, gay-10)
+prep_against(are-8, rights-11)
+
+ that Coretta Scott King and Jillian Bond are against gay rights .
+
+
+root(ROOT-0, are-8)
+mark(are-8, that-1)
+nn(King-4, Coretta-2)
+nn(King-4, Scott-3)
+nsubj(are-8, King-4)
+nn(Bond-7, Jillian-6)
+conj_and(King-4, Bond-7)
+nsubj(are-8, Bond-7)
+amod(rights-11, gay-10)
+prep_against(are-8, rights-11)
+

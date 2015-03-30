@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionForm xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd">
+	<Overview>
+    	
+        <FormattedContent><![CDATA[
+            <h1>Summarization of a Dialogue</h1>
+            
+            <h2>Instructions</h2><br/>
+            
+           	In this task, you will carefully read a dialogue where two people are debating over the gay rights issue. Then you will produce a summary of the dialog in <b> 175 </b>words.<br/>
+            
+           <b>THE SUMMARY SHOULD INCLUDE THE KEY ARGUMENTS AND REBUTTALS EXPRESSED IN THE DIALOG AND NOT ANY PERSONAL OPINIONS. PLEASE ADHERE TO THE WORD LIMIT. SUMMARIES THAT ARE TOO SHORT AND DO NOT CONVEY THE CONTENT IN THE DIALOG WILL BE REJECTED.
+           </b> <br/><br/>
+           
+           Given below is a dialog and sample summary to illustrate our requirement.<br/>
+            S1 and S2 indicate the different writers of these typed debates. Numbers indicate turns of each writer.S1:1- indicates the first turn by Writer1, and S2:1- indicates the first turn by Writer2.<br/><br/>
+            
+            
+            <h2 align="center"> Sample Dialog </h2>
+     
+        
+             ]]></FormattedContent>
+            <Text>
+                S1:1 - Give us a break , the bibe saying ' in the future there will be Wars ... and Earthquakes ! ' is hardly proof , that is beyond coincidence predicting that ' things will stay much the same as they are and natural events will occur as usual ' . Abortions an unwed couples seems to have pretty much nothing to do with the last line . As for minorities and the constitution , the majority can change the constitution or just ignore it . It is in the majorities interest to support and accept minorities because pretty much everyone falls within one of them and minorites still have a significant number of people , maybe not the most important but enough to swing power between forces competting over the majority.
+                S2: 1 - The number of earthquales that have happened outside of Israel in the last 100 yrs is exponentially increased . Believe what you will . If you have a better understanding of love waxing cold I'd like to hear it . Obviously we don't have the smae understanding of the US government . Teh majority rules unless it violates the constitution . If you can point out how that isn't true then I'd be interested in being enlightened.
+                S1:2 - Unless you are a beleiver in a religion , then the whole Earthquake thing is irrelevant and if you are then this isn't the debate for you . I haven't been argued that homosexuality is right according to religious beleifs , but more often that your religious beleifs should have nothing to do with my life . Acceptance of homosexuality effecting plate tectonics ? Time to come back to the real world , even if it is true , why should you worship a being that is quite happy to destroy homes and kill people for becoming more tolerant but is quite happy with the famine and AIDS situation and doesn't get involved with politics ? The constitution is not magic , it has been changed because enough people wanted it done , if the majority wants to ignore or change a part of the consititution it will do.
+                S2:2 - First opff Jake started this rel ; igious topic . Reread the posts I'm only refuting his assertions . I did not say homosexuality is the cause of anything religious only citing support against Jake's comments . Don't ever try to assume you know God's mentality . Most parents love their children but they raise them according to how they feel is best . According tro what they know . Why are some parents motivator and others discipliners ? That's my popint if the majority want it they will do it .
+                S1:3 - And I refute your refutations . You implied that the Earthquakes were not a natural thing and dinviinly caused Even if there is a god , any ' loving parent ' that kills some of its children to make a point , when they are fully capable of just changing the issue anyway is hardly deserving of worship . As for people changing , not only is that dubious anyway but not really proof of anything , there are alcoholics who recover and don't drink and that is definitely genetically influenced . You clearly have no real idea about the state of genetic research or how it works , we are nowhere near finding the purpose of everything . There doesn't appear to be one gene , but there is probably a combination that lead to a greater chance of being gay . @ Rev , Power of Attorney would be fine , but giving that there is already favouritism shown to some people , why should that favouritism be arteficailly restricted . In the interest of fairness it seems a lot easy to recognise a few more people in an existing group that abolishing it . Also not everyone shares your view on the purpose and role of a government
+                S2:3 - No you refute your inferences No I didn't Who said God killed them ? For someoen that claims there is no God it's amazing how you're the expert now on the nature of God . i agree there is a disposition but that doesn't mean that they are genetically confined as the alcoholic isn't . So why draw the line at homosexuals ? Why not polygamists ? Why do homosexuals deserve the right and polygamists don't ? What merits do homosexuality bring that polygamy doesn't ?
+                S1:4 - So that little peice of geological trivia was just that , and had nothing to do with this debate or any points whatsoever ? Perhaps some people are capable of thinking from another's point of view , if God is a loving parent I can't see how you can justify the view that anything lethal can be used as a punishment . I don't think you know how genetics works in this instance . Or do you think that the method of upbringing they have is purely responisble ? I don't really see any real problem with polygamy itself , but it would have to be watched a little more carefully perhaps as the cultures that practise polygamy tend to be less focused on equality between sexs . As long as you make sure that the marriages are still volentary for both partners and that any person is fully able to leave if they want to then I can't really see the problem . However it is a lot more complicated if you are looking from the benefits point of view with respect to inheritance and other aspects ( child support and suchlike ) but these are realitively minor points that would just have to be worked out if this type of marriage was to be recognised
+                
+                </Text>
+                
+                    <FormattedContent><![CDATA[
+                         <h2 align="center"> Sample Summary </h2>
+                     ]]></FormattedContent>
+                                                               
+                    <Text>
+                        S2 believes that earthquakes have been increasing over the last few years as mentioned in the Bible prophecies. It may be due to government changing the policies and the constitution as per the majority, with rights for abortion and homosexuals being introduced. God is analogous to a loving, all encompassing parent and does best for his children. He compares homosexuals to polygamists, with rights for homosexuals eventually leading to legalizing polygamy.
+                        S1 contends that religious arguments may not be used to determine if homosexuality is right or wrong. He refutes the other writer’s opinions about the link between natural disasters such as earthquakes and homosexuality and rejects the bible prophecy. He attributes multiple reasons for origin of homosexuality and not a single gene. He then questions the existence of God, and if he loved his children, why does he punish them in a lethal manner with famine and AIDS. Polygamy is more complicated, it opens up other issues such as gender equality, inheritance benefit and child support that need to be addressed before legalizing it.
+                    
+                    
+           
+            
+                    </Text>
+    </Overview>
+		
+	    <Question>
+	        <QuestionIdentifier>1</QuestionIdentifier>
+	        <IsRequired>true</IsRequired>
+	        <QuestionContent>
+	        	
+                    
+                    <FormattedContent><![CDATA[
+                        <h2 align="center"> Summarize the Dialogue given below in <b> 175 words</b></h2>
+                    ]]></FormattedContent>
+                    
+                    <Text>
+                    
+                    S1:1 - So the CDC's distinction of males having sex with males doesn't mean that they're gay ? Minimally , they're bisexual . And , if you recall , we were talking about male children , as in " my son " . No , the CDC statistics show that the risk of women getting HIV from hetero males is small , unless they're drug addicts . You're attempting to make a distinction without a difference . Are you claiming that MSM aren't gay ? They certainly aren't heterosexuals . The only time I would think that occurs is in prison . There are lots of things that I can do to decrease the risks associated with an inherently dangerous practice , but none of them are as " safe " as abstention . Sorry .
+                    S2:1 - It's still a young disease , give it some more time ... Women Women make up nearly one-third of new HIV infections . 4 In 1992 , women accounted for 13.8% of people living with AIDS 5 ; by the end of 2001 that percentage had increased to 21% . 6 Among women , sexual contact accounts for 75% of infections . 7 http://www.cdcnpin.org/scripts/hiv/hiv.asp#women Percentage with HIV who are women in North America increases from 20% in 2001 to 25% in 2003 ... http://www.unaids.org/bangkok2004/GA....htm#TopOfPage
+                    S1:2 - I've seen the facts on women . I believe that you are attempting to deflect the issue , however . If you dig a bit deeper , you find that women contracting HIV are doing so predominantly by having sex with bisexual men , having sex with heterosexual junkies with HIV and sharing needles with HIV infected people . It can't be argued that it's a mainstream " straight " disease by any stretch of the imagination .
+                    S2:2 - It's being spread by men having sex with women . None of your data disproves that fact .
+                    S1:3 - Usually by men who acquired HIV from having sex with other men , that is . You like to omit salient facts in your argument .
+                    S2:3 - You should take off the blinders and learn to read more carefully . Your data only said they MAY contact it from a man who had sex with another man . Even if it were usually from men who first aquired it from other men , it is still being spread by men having sex with women . I am not omitting anything . You are looking for a scapegoat so relations between men and women won't be held responsible for the diseases they spread from that activity . It's similar to Mary getting a disease from a parnter John , and John and Mary blaming the person and the activity which gave him the disease , saying that he Mary and their activity isn't really to blame , just because they contracted the disease from John and Mary's activity . They had no need to use a condom , and it's not John or Mary's fault for not involving a condom in their activity .
+                    S1:4 - If you want to find the source of a leak , you don't look at the end of the pipe , do you ? Wouldn't you trace the pipe back to its origin ? The origin of women with HIV is typically from having sex with a man with HIV who acquired it by having sex with a man with HIV who got it by having sex with a man with HIV ... etc. , etc. , Now , I agree that due to all of the bisexuals and MSMs out there who have spread the disease to women today , even having heterosexual relations isn't safe . But the widespread propagation of HIV took place in the gay community , not straight America . Straight America has acquired HIV tangentially to the main cause , either through transfers of blood from needles or via sex with a high risk partner , namely drug addict or MSM .
+                    S2:4 - We do not know where the original leak of HIV started . Yes , it's easy for you to scapegoat a certain group you don't like , when you don't know where that original leak was , as I said above . The CDC also cites women having sex with an already infected partner or men with unspecified risks , as risky for women . It's not just MSM .
+                    S1:5 - Agreed . But the floodgates opened up in the gay community . When did I EVER use the term " always " or " exclusively " ? I've used the word predominantly a few times , however . Do you dispute that ?
+                    S2:5 - A victim of a disease is a victim of a disease . That is very subjective to say " floodgates " opened with a certain group . If the " floodgates " had opened with heterosexuals as could be said of Africa , would that have made any difference ? If one group instead of another has more cases of the disease , or had more at the beginning , does that make any difference ? It's a virus that continues to spread among all groups of people . You are saying one particular group which gets the disease , has made a bad choice , simply because it chooses to express it's sexuality . I haven't seen anything which states the most predominant higher risk area ( for women ) , exclusively , involves a woman partnering with an MSM .
+
+
+                </Text>
+	       	</QuestionContent>
+	        <AnswerSpecification>
+	    		<FreeTextAnswer>
+  					<Constraints>
+    					
+    					<AnswerFormatRegex regex="\S" errorText="The content cannot be blank."/>
+  					</Constraints>
+  					
+				</FreeTextAnswer>
+	        </AnswerSpecification>
+	    </Question>
+	    	    
+</QuestionForm>

@@ -1,0 +1,24 @@
+ that 5 States had already approved gay marriage .
+
+
+root(ROOT-0, approved-6)
+mark(approved-6, that-1)
+num(States-3, 5-2)
+nsubj(approved-6, States-3)
+aux(approved-6, had-4)
+advmod(approved-6, already-5)
+amod(marriage-8, gay-7)
+dobj(approved-6, marriage-8)
+
+ that 5 States had already approved gay marriage .
+
+
+root(ROOT-0, approved-6)
+mark(approved-6, that-1)
+num(States-3, 5-2)
+nsubj(approved-6, States-3)
+aux(approved-6, had-4)
+advmod(approved-6, already-5)
+amod(marriage-8, gay-7)
+dobj(approved-6, marriage-8)
+

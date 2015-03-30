@@ -1,0 +1,32 @@
+S2 believes gay marriage laws will be passed.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+amod(laws-5, gay-3)
+nn(laws-5, marriage-4)
+nsubjpass(passed-8, laws-5)
+aux(passed-8, will-6)
+auxpass(passed-8, be-7)
+ccomp(believes-2, passed-8)
+
+S2 believes gay marriage laws will be passed.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+amod(laws-5, gay-3)
+nn(laws-5, marriage-4)
+nsubjpass(passed-8, laws-5)
+aux(passed-8, will-6)
+auxpass(passed-8, be-7)
+ccomp(believes-2, passed-8)
+
+S2 retorts that S1 is relying on rumors and misinformation.
+root(ROOT-0, relying-6)
+nn(retorts-2, S2-1)
+dep(relying-6, retorts-2)
+dobj(relying-6, that-3)
+nsubj(relying-6, S1-4)
+aux(relying-6, is-5)
+prep(relying-6, on-7)
+pobj(on-7, rumors-8)
+cc(rumors-8, and-9)
+conj(rumors-8, misinformation-10)
+

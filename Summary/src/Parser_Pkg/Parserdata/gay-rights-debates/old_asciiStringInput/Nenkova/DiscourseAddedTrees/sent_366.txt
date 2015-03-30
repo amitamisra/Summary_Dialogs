@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (SBAR (S (NP (DT this)) (VP (VBZ is) (RB not) (NP (DT the) (NN case))))) (CC and#0#Expansion) (SBAR (IN that) (S (NP (JJS most) (NNS Christians)) (VP (VBP do) (RB n't) (VP (VB treat) (NP (JJ gay) (NNS people)) (PP (IN in) (NP (DT this) (NN fashion))))))))) (. .)))

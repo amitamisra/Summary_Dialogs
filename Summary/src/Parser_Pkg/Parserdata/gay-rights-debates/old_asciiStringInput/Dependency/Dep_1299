@@ -1,0 +1,51 @@
+ S2 responds by stating that the evidence provided does not classify these unions as marriage , 
+root(ROOT-0, responds-2)
+nsubj(responds-2, S2-1)
+prepc_by(responds-2, stating-4)
+mark(classify-11, that-5)
+det(evidence-7, the-6)
+nsubj(classify-11, evidence-7)
+vmod(evidence-7, provided-8)
+aux(classify-11, does-9)
+neg(classify-11, not-10)
+ccomp(stating-4, classify-11)
+det(unions-13, these-12)
+dobj(classify-11, unions-13)
+prep_as(classify-11, marriage-15)
+
+This seems to be an argument about gay rights and generalizing the political beliefs of people .
+
+
+root(ROOT-0, seems-2)
+nsubj(seems-2, This-1)
+aux(argument-6, to-3)
+cop(argument-6, be-4)
+det(argument-6, an-5)
+dep(seems-2, argument-6)
+amod(rights-9, gay-8)
+prep_about(argument-6, rights-9)
+dep(seems-2, generalizing-11)
+conj_and(argument-6, generalizing-11)
+det(beliefs-14, the-12)
+amod(beliefs-14, political-13)
+dobj(generalizing-11, beliefs-14)
+prep_of(beliefs-14, people-16)
+
+This seems to be an argument about gay rights and generalizing the political beliefs of people .
+
+
+root(ROOT-0, seems-2)
+nsubj(seems-2, This-1)
+aux(argument-6, to-3)
+cop(argument-6, be-4)
+det(argument-6, an-5)
+dep(seems-2, argument-6)
+amod(rights-9, gay-8)
+prep_about(argument-6, rights-9)
+dep(seems-2, generalizing-11)
+conj_and(argument-6, generalizing-11)
+det(beliefs-14, the-12)
+amod(beliefs-14, political-13)
+dobj(generalizing-11, beliefs-14)
+prep_of(beliefs-14, people-16)
+

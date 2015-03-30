@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS states)) (PP (IN that) (NP (NP (DT a) (NN problem)) (PP (IN with) (NP (DT the) (NN study)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (NP (JJS most) (NNS people)) (PP (IN in) (NP (DT the) (NN country)))) (VP (VBZ identifies) (PP (IN as#0#0) (NP (NNP Christian))))))) (. .)))

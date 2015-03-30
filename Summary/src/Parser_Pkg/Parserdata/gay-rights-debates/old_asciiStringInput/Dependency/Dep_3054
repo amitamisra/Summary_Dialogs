@@ -1,0 +1,24 @@
+He said that he has a right be against gay marriage.
+root(ROOT-0, said-2)
+nsubj(said-2, He-1)
+mark(has-5, that-3)
+nsubj(has-5, he-4)
+ccomp(said-2, has-5)
+det(right-7, a-6)
+nsubj(be-8, right-7)
+ccomp(has-5, be-8)
+amod(marriage-11, gay-10)
+prep_against(be-8, marriage-11)
+
+He said that he has a right be against gay marriage.
+root(ROOT-0, said-2)
+nsubj(said-2, He-1)
+mark(has-5, that-3)
+nsubj(has-5, he-4)
+ccomp(said-2, has-5)
+det(right-7, a-6)
+nsubj(be-8, right-7)
+ccomp(has-5, be-8)
+amod(marriage-11, gay-10)
+prep_against(be-8, marriage-11)
+

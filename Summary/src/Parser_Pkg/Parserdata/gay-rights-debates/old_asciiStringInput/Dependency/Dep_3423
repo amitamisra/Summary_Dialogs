@@ -1,0 +1,14 @@
+ that anyone would  be satisfied 
+root(ROOT-0, satisfied-5)
+mark(satisfied-5, that-1)
+nsubj(satisfied-5, anyone-2)
+aux(satisfied-5, would-3)
+cop(satisfied-5, be-4)
+
+ that anyone would  be satisfied 
+root(ROOT-0, satisfied-5)
+mark(satisfied-5, that-1)
+nsubj(satisfied-5, anyone-2)
+aux(satisfied-5, would-3)
+cop(satisfied-5, be-4)
+

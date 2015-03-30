@@ -1,0 +1,1 @@
+(ROOT (S (NP (CD Two) (NNS people)) (VP (VBP are) (VP (VBG discussing) (SBAR (IN whether) (CC or#0#0) (RB not) (S (NP (NNS Christians)) (VP (VBP want) (S (VP (TO to) (VP (VB ban) (NP (JJ gay) (NNS people)))))))))) (. .)))

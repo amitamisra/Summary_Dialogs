@@ -1,0 +1,7 @@
+root(ROOT-0, challenges-2)
+nsubj(challenges-2, S2-1)
+det(aspects-5, the-3)
+amod(aspects-5, religious-4)
+dobj(challenges-2, aspects-5)
+poss(belief-9, S1-7)
+prep_of(aspects-5, belief-9)

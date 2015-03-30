@@ -1,0 +1,2 @@
+QualificationTypeId	QualificationRequestId	SubjectId	Answer
+3BH2VZXPB752CXCF7QCGVMXQIJ1C7C	3GBCA5TH8AOZHOMOVCGSVL0U21MEAB	A2TNNKHFNY5WQ4	1	check sandbox subjective language

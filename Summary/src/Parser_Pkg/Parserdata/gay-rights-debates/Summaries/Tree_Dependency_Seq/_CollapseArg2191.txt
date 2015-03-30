@@ -1,0 +1,4 @@
+root(ROOT-0, happy-4)
+nsubj(happy-4, they-1)
+aux(happy-4, would-2)
+cop(happy-4, be-3)

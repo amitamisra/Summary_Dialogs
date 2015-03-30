@@ -1,0 +1,3 @@
+root(ROOT-0, unconstitutional-3)
+amod(marriage-2, gay-1)
+dep(unconstitutional-3, marriage-2)

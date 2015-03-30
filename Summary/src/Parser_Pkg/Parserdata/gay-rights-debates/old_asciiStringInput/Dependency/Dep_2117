@@ -1,0 +1,16 @@
+  that South Africa takes his view , 
+root(ROOT-0, takes-4)
+mark(takes-4, that-1)
+nn(Africa-3, South-2)
+nsubj(takes-4, Africa-3)
+poss(view-6, his-5)
+dobj(takes-4, view-6)
+
+  that South Africa takes his view , 
+root(ROOT-0, takes-4)
+mark(takes-4, that-1)
+nn(Africa-3, South-2)
+nsubj(takes-4, Africa-3)
+poss(view-6, his-5)
+dobj(takes-4, view-6)
+

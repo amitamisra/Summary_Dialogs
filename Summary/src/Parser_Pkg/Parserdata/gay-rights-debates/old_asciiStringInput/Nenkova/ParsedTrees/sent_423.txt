@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VP (VBZ does) (RB not) (VP (VB see) (NP (DT the) (NN logic)) (PP (IN in) (S (VP (VBG bringing) (PRT (RP up)) (NP (NN sibling) (NNS marriages))))))) (CC and) (VP (VBZ is) (ADJP (JJ curious) (S (VP (TO to) (VP (VB know) (SBAR (WHADVP (WRB how)) (S (NP (NN S1)) (VP (MD would) (VP (VB respond) (PP (TO to) (NP (JJ such) (NNS movements))))))))))))) (. .)))

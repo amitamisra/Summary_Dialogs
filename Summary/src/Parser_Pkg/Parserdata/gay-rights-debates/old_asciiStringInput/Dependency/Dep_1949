@@ -1,0 +1,49 @@
+They state  that any step towards viewing homosexuals as normal people is a good thing , 
+root(ROOT-0, state-2)
+nsubj(state-2, They-1)
+mark(thing-15, that-3)
+det(step-5, any-4)
+nsubj(thing-15, step-5)
+amod(homosexuals-8, viewing-7)
+prep_towards(step-5, homosexuals-8)
+amod(people-11, normal-10)
+prep_as(homosexuals-8, people-11)
+cop(thing-15, is-12)
+det(thing-15, a-13)
+amod(thing-15, good-14)
+ccomp(state-2, thing-15)
+
+ that someone is making religion into law by saying marriage should be between a heterosexual couple .
+
+
+root(ROOT-0, be-12)
+mark(making-4, that-1)
+nsubj(making-4, someone-2)
+aux(making-4, is-3)
+csubj(be-12, making-4)
+dobj(making-4, religion-5)
+prep_into(making-4, law-7)
+prepc_by(making-4, saying-9)
+dobj(saying-9, marriage-10)
+aux(be-12, should-11)
+det(couple-16, a-14)
+amod(couple-16, heterosexual-15)
+prep_between(be-12, couple-16)
+
+ that someone is making religion into law by saying marriage should be between a heterosexual couple .
+
+
+root(ROOT-0, be-12)
+mark(making-4, that-1)
+nsubj(making-4, someone-2)
+aux(making-4, is-3)
+csubj(be-12, making-4)
+dobj(making-4, religion-5)
+prep_into(making-4, law-7)
+prepc_by(making-4, saying-9)
+dobj(saying-9, marriage-10)
+aux(be-12, should-11)
+det(couple-16, a-14)
+amod(couple-16, heterosexual-15)
+prep_between(be-12, couple-16)
+

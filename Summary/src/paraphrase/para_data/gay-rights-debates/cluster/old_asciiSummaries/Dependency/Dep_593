@@ -1,0 +1,10 @@
+S1 believes that S2 is making ridiculous generalizations.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+mark(making-6, that-3)
+nsubj(making-6, S2-4)
+aux(making-6, is-5)
+ccomp(believes-2, making-6)
+amod(generalizations-8, ridiculous-7)
+dobj(making-6, generalizations-8)
+

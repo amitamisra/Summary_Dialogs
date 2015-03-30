@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Speaker) (CD two)) (VP (VBZ believes) (SBAR (IN that) (S (NP (DT the) (NN majority)) (VP (VBZ is) (VP (VP (VBG oppressing) (NP (DT the) (NNP LGBT) (NN community))) (CC and) (VP (VBG being) (VP (VBN treated) (PP (IN as) (NP (JJ second-class) (NNS citizens)))))))))) (. .)))

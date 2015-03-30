@@ -1,0 +1,3 @@
+root(ROOT-0, arguing-1)
+det(point-3, a-2)
+dobj(arguing-1, point-3)

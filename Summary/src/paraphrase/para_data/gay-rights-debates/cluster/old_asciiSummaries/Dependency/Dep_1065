@@ -1,0 +1,18 @@
+(S2) brings up the question of what is socially accepted and the types of taboo relationship and legality.
+root(ROOT-0, brings-4)
+nsubj(brings-4, S2-2)
+prt(brings-4, up-5)
+det(question-7, the-6)
+dobj(brings-4, question-7)
+nsubjpass(accepted-12, what-9)
+auxpass(accepted-12, is-10)
+advmod(accepted-12, socially-11)
+prepc_of(question-7, accepted-12)
+det(types-15, the-14)
+dobj(brings-4, types-15)
+conj_and(question-7, types-15)
+amod(relationship-18, taboo-17)
+prep_of(types-15, relationship-18)
+prep_of(types-15, legality-20)
+conj_and(relationship-18, legality-20)
+

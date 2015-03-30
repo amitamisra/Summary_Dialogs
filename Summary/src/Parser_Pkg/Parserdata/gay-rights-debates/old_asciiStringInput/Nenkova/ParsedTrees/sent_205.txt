@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT The) (NN debate)) (VP (VBZ is) (ADJP (RBR more) (PP (IN for) (NP (JJ straight) (NNS couples)))) (SBAR (IN than) (S (NP (PRP it)) (VP (VBZ is) (PP (IN about) (NP (JJ gay) (NNS relationships))))))) (. .)))

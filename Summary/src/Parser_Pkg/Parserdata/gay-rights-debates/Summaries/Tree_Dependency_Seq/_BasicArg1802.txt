@@ -1,0 +1,4 @@
+root(ROOT-0, lie-3)
+dobj(lie-3, what-1)
+nsubj(lie-3, they-2)
+advmod(lie-3, about-4)

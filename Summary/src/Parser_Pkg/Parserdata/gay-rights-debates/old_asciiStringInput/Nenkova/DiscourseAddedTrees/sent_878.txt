@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBD was) (ADJP (JJ unable) (S (VP (TO to) (VP (VB locate) (NP (NP (DT any) (NN information)) (PP (IN on) (NP (DT the) (NN group) (JJ other)))) (PP (IN than) (NP (NNS articles))) (PP (IN by) (NP (NNS liberals)))))))) (. .)))

@@ -1,0 +1,5 @@
+root(ROOT-0, based-4)
+amod(sentiments-2, anti-homosexual-1)
+nsubjpass(based-4, sentiments-2)
+auxpass(based-4, are-3)
+prep_on(based-4, prejudice-6)

@@ -1,0 +1,24 @@
+They believe separate rules will be too easy to manipulate.
+root(ROOT-0, believe-2)
+nsubj(believe-2, They-1)
+amod(rules-4, separate-3)
+nsubj(easy-8, rules-4)
+aux(easy-8, will-5)
+cop(easy-8, be-6)
+advmod(easy-8, too-7)
+ccomp(believe-2, easy-8)
+aux(manipulate-10, to-9)
+xcomp(easy-8, manipulate-10)
+
+They believe separate rules will be too easy to manipulate.
+root(ROOT-0, believe-2)
+nsubj(believe-2, They-1)
+amod(rules-4, separate-3)
+nsubj(easy-8, rules-4)
+aux(easy-8, will-5)
+cop(easy-8, be-6)
+advmod(easy-8, too-7)
+ccomp(believe-2, easy-8)
+aux(manipulate-10, to-9)
+xcomp(easy-8, manipulate-10)
+

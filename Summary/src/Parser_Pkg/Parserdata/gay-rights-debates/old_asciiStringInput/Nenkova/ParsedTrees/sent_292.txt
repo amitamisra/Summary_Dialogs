@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VP (VBZ asks) (PP (IN for) (NP (NP (NNS references)) (PP (IN of) (NP (NNP Coretta) (NNP Scott) (NNP King) (CC and) (NNP Julian) (NNP Bond))))) (S (VP (VBG being) (PP (IN for) (NP (JJ gay) (NN marriage)))))) (CC and) (VP (VBZ is) (VP (VBN surprised) (S (VP (TO to) (VP (VB get) (NP (PRP them)))))))) (. .)))

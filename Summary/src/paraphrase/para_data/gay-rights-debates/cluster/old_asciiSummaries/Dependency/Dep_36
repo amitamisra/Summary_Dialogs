@@ -1,0 +1,6 @@
+Marriage is more convenient.
+root(ROOT-0, convenient-4)
+nsubj(convenient-4, Marriage-1)
+cop(convenient-4, is-2)
+advmod(convenient-4, more-3)
+

@@ -1,0 +1,30 @@
+ that he has served Uncle Sam and fought for his freedom rights .
+
+
+root(ROOT-0, served-4)
+mark(served-4, that-1)
+nsubj(served-4, he-2)
+nsubj(fought-8, he-2)
+aux(served-4, has-3)
+nn(Sam-6, Uncle-5)
+dobj(served-4, Sam-6)
+conj_and(served-4, fought-8)
+poss(rights-12, his-10)
+nn(rights-12, freedom-11)
+prep_for(fought-8, rights-12)
+
+ that he has served Uncle Sam and fought for his freedom rights .
+
+
+root(ROOT-0, served-4)
+mark(served-4, that-1)
+nsubj(served-4, he-2)
+nsubj(fought-8, he-2)
+aux(served-4, has-3)
+nn(Sam-6, Uncle-5)
+dobj(served-4, Sam-6)
+conj_and(served-4, fought-8)
+poss(rights-12, his-10)
+nn(rights-12, freedom-11)
+prep_for(fought-8, rights-12)
+

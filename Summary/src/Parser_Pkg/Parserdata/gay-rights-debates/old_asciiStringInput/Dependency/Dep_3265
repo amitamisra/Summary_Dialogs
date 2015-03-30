@@ -1,0 +1,36 @@
+-LRB- S1 -RRB- tells -LRB- S2 -RRB- that it seems like he does not understand the concept of inconsistency .
+
+
+root(ROOT-0, tells-4)
+nsubj(tells-4, S1-2)
+dobj(tells-4, S2-6)
+mark(seems-10, that-8)
+nsubj(seems-10, it-9)
+dep(S2-6, seems-10)
+mark(understand-15, like-11)
+nsubj(understand-15, he-12)
+aux(understand-15, does-13)
+neg(understand-15, not-14)
+advcl(seems-10, understand-15)
+det(concept-17, the-16)
+dobj(understand-15, concept-17)
+prep_of(concept-17, inconsistency-19)
+
+-LRB- S1 -RRB- tells -LRB- S2 -RRB- that it seems like he does not understand the concept of inconsistency .
+
+
+root(ROOT-0, tells-4)
+nsubj(tells-4, S1-2)
+dobj(tells-4, S2-6)
+mark(seems-10, that-8)
+nsubj(seems-10, it-9)
+dep(S2-6, seems-10)
+mark(understand-15, like-11)
+nsubj(understand-15, he-12)
+aux(understand-15, does-13)
+neg(understand-15, not-14)
+advcl(seems-10, understand-15)
+det(concept-17, the-16)
+dobj(understand-15, concept-17)
+prep_of(concept-17, inconsistency-19)
+

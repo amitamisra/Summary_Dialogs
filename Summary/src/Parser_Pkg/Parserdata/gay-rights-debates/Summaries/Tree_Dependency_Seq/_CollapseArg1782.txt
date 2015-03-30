@@ -1,0 +1,8 @@
+root(ROOT-0, lie-2)
+nsubj(lie-2, politicians-1)
+poss(opinion-5, their-4)
+prep_about(lie-2, opinion-5)
+aux(loose-8, to-6)
+neg(loose-8, not-7)
+vmod(opinion-5, loose-8)
+dobj(loose-8, votes-9)

@@ -1,0 +1,22 @@
+addendum to everytime they weighed in on it .
+
+
+root(ROOT-0, weighed-5)
+nsubj(weighed-5, addendum-1)
+aux(everytime-3, to-2)
+vmod(addendum-1, everytime-3)
+dobj(everytime-3, they-4)
+prt(weighed-5, in-6)
+prep_on(weighed-5, it-8)
+
+addendum to everytime they weighed in on it .
+
+
+root(ROOT-0, weighed-5)
+nsubj(weighed-5, addendum-1)
+aux(everytime-3, to-2)
+vmod(addendum-1, everytime-3)
+dobj(everytime-3, they-4)
+prt(weighed-5, in-6)
+prep_on(weighed-5, it-8)
+

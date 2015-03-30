@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ explains) (PP (TO to) (NP (NN S1))) (SBAR (IN that) (S (S (NP (NP (DT the) (NN right)) (PP (TO to) (NP (NP (NN freedom)) (PP (IN of) (NP (NN speech)))))) (VP (VBZ is) (VP (VBN guaranteed) (PP (IN by) (NP (DT the) (NNP Constitution)))))) (CC and#0#Expansion) (S (NP (JJ gay)) (VP (VBP are) (RB not) (VP (VBG being) (VP (VBN protected)))))))) (. .)))

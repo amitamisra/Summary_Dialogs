@@ -1,0 +1,1 @@
+(ROOT (S (NP (JJ Evangelical) (NNS Christians)) (VP (VP (VBP have) (VP (VBN been) (VP (VBN opposed)))) (CC and#0#0) (VP (VBP do) (VP (VB speak) (PRT (IN out)) (PP (IN against) (NP (JJ gay) (NN marriage)))))) (. .)))

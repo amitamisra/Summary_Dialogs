@@ -1,0 +1,5 @@
+root(ROOT-0, intervene-5)
+det(government-2, the-1)
+nsubj(intervene-5, government-2)
+aux(intervene-5, did-3)
+neg(intervene-5, n't-4)

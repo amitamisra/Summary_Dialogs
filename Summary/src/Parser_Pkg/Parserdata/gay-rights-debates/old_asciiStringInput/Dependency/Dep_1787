@@ -1,0 +1,26 @@
+S1 and S2 are talking about what marriage means to the government .
+
+
+root(ROOT-0, talking-5)
+nsubj(talking-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(talking-5, S2-3)
+aux(talking-5, are-4)
+dobj(means-9, what-7)
+nsubj(means-9, marriage-8)
+prepc_about(talking-5, means-9)
+det(government-12, the-11)
+prep_to(means-9, government-12)
+
+ They want the rights 
+root(ROOT-0, want-2)
+nsubj(want-2, They-1)
+det(rights-4, the-3)
+dobj(want-2, rights-4)
+
+ They want the rights 
+root(ROOT-0, want-2)
+nsubj(want-2, They-1)
+det(rights-4, the-3)
+dobj(want-2, rights-4)
+

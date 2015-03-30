@@ -1,0 +1,32 @@
+ that taxpayers and employers are the ones providing the paycheck , not God .
+
+
+root(ROOT-0, ones-7)
+mark(ones-7, that-1)
+nsubj(ones-7, taxpayers-2)
+conj_and(taxpayers-2, employers-4)
+nsubj(ones-7, employers-4)
+cop(ones-7, are-5)
+det(ones-7, the-6)
+vmod(ones-7, providing-8)
+det(paycheck-10, the-9)
+dobj(providing-8, paycheck-10)
+neg(God-13, not-12)
+appos(paycheck-10, God-13)
+
+ that taxpayers and employers are the ones providing the paycheck , not God .
+
+
+root(ROOT-0, ones-7)
+mark(ones-7, that-1)
+nsubj(ones-7, taxpayers-2)
+conj_and(taxpayers-2, employers-4)
+nsubj(ones-7, employers-4)
+cop(ones-7, are-5)
+det(ones-7, the-6)
+vmod(ones-7, providing-8)
+det(paycheck-10, the-9)
+dobj(providing-8, paycheck-10)
+neg(God-13, not-12)
+appos(paycheck-10, God-13)
+

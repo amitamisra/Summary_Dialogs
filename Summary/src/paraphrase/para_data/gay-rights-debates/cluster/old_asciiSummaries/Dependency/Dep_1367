@@ -1,0 +1,13 @@
+S2 believes those with more than one wife can still be committed.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+nsubjpass(committed-12, those-3)
+mwe(than-6, more-5)
+quantmod(one-7, than-6)
+num(wife-8, one-7)
+prep_with(those-3, wife-8)
+aux(committed-12, can-9)
+advmod(committed-12, still-10)
+auxpass(committed-12, be-11)
+ccomp(believes-2, committed-12)
+

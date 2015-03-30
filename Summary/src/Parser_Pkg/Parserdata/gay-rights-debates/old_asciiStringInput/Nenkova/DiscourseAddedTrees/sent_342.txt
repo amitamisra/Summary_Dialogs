@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ refuses) (S (VP (TO to) (VP (VB view) (NP (NP (DT the) (NNS articles)) (VP (VBG calling) (NP (PRP them)) (NP (NN propoganda)))))))) (. .)))

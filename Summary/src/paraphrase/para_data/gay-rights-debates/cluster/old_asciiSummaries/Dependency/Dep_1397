@@ -1,0 +1,11 @@
+S1 doesnt believe that S2 understands the concept of inconsistency.
+root(ROOT-0, believe-3)
+nn(doesnt-2, S1-1)
+nsubj(believe-3, doesnt-2)
+mark(understands-6, that-4)
+nsubj(understands-6, S2-5)
+ccomp(believe-3, understands-6)
+det(concept-8, the-7)
+dobj(understands-6, concept-8)
+prep_of(concept-8, inconsistency-10)
+

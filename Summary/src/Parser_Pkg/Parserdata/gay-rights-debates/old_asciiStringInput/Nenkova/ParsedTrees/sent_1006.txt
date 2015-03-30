@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBP resorting) (S (VP (TO to) (VP (VB name) (S (VP (VBG calling)))))))))) (VP (VBZ indicates) (NP (DT the) (NN inability) (S (VP (TO to) (VP (VB resort) (S (VP (TO to) (VP (VB sound) (NP (NNS arguments)))))))))) (. .)))

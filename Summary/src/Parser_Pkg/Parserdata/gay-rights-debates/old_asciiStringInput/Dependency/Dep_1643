@@ -1,0 +1,19 @@
+ that he know that there is inconsistency 
+root(ROOT-0, know-3)
+mark(know-3, that-1)
+nsubj(know-3, he-2)
+mark(is-6, that-4)
+expl(is-6, there-5)
+ccomp(know-3, is-6)
+nsubj(is-6, inconsistency-7)
+
+   it 's Biblical 
+root(ROOT-0, Biblical-3)
+nsubj(Biblical-3, it-1)
+cop(Biblical-3, 's-2)
+
+   it 's Biblical 
+root(ROOT-0, Biblical-3)
+nsubj(Biblical-3, it-1)
+cop(Biblical-3, 's-2)
+

@@ -1,0 +1,36 @@
+same sex partners living together are roommates.
+root(ROOT-0, roommates-7)
+amod(partners-3, same-1)
+nn(partners-3, sex-2)
+nsubj(roommates-7, partners-3)
+vmod(partners-3, living-4)
+advmod(living-4, together-5)
+cop(roommates-7, are-6)
+
+same sex partners living together are roommates.
+root(ROOT-0, roommates-7)
+amod(partners-3, same-1)
+nn(partners-3, sex-2)
+nsubj(roommates-7, partners-3)
+vmod(partners-3, living-4)
+advmod(living-4, together-5)
+cop(roommates-7, are-6)
+
+same sex partners living together are roommates.
+root(ROOT-0, roommates-7)
+amod(partners-3, same-1)
+nn(partners-3, sex-2)
+nsubj(roommates-7, partners-3)
+vmod(partners-3, living-4)
+advmod(living-4, together-5)
+cop(roommates-7, are-6)
+
+who ca n't get any health care.
+root(ROOT-0, get-4)
+nsubj(get-4, who-1)
+aux(get-4, ca-2)
+neg(get-4, n't-3)
+det(care-7, any-5)
+nn(care-7, health-6)
+dobj(get-4, care-7)
+

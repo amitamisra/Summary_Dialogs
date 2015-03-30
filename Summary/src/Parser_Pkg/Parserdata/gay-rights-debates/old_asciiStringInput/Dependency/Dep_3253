@@ -1,0 +1,42 @@
+S2 claims to only have brought up Biden to address the lack of political action due to social pressures .
+
+
+root(ROOT-0, claims-2)
+nsubj(claims-2, S2-1)
+aux(brought-6, to-3)
+advmod(brought-6, only-4)
+aux(brought-6, have-5)
+xcomp(claims-2, brought-6)
+prt(brought-6, up-7)
+dobj(brought-6, Biden-8)
+aux(address-10, to-9)
+vmod(brought-6, address-10)
+det(lack-12, the-11)
+nsubj(due-16, lack-12)
+amod(action-15, political-14)
+prep_of(lack-12, action-15)
+xcomp(address-10, due-16)
+amod(pressures-19, social-18)
+prep_to(due-16, pressures-19)
+
+S2 claims to only have brought up Biden to address the lack of political action due to social pressures .
+
+
+root(ROOT-0, claims-2)
+nsubj(claims-2, S2-1)
+aux(brought-6, to-3)
+advmod(brought-6, only-4)
+aux(brought-6, have-5)
+xcomp(claims-2, brought-6)
+prt(brought-6, up-7)
+dobj(brought-6, Biden-8)
+aux(address-10, to-9)
+vmod(brought-6, address-10)
+det(lack-12, the-11)
+nsubj(due-16, lack-12)
+amod(action-15, political-14)
+prep_of(lack-12, action-15)
+xcomp(address-10, due-16)
+amod(pressures-19, social-18)
+prep_to(due-16, pressures-19)
+

@@ -1,0 +1,48 @@
+ that he has been unjustly called a bigot for stating as a fact that AIs is initially spread in the US primarily by gays .
+
+
+root(ROOT-0, called-6)
+mark(called-6, that-1)
+nsubjpass(called-6, he-2)
+aux(called-6, has-3)
+auxpass(called-6, been-4)
+advmod(called-6, unjustly-5)
+det(bigot-8, a-7)
+dobj(called-6, bigot-8)
+prepc_for(called-6, stating-10)
+det(fact-13, a-12)
+prep_as(stating-10, fact-13)
+mark(spread-18, that-14)
+nsubjpass(spread-18, AIs-15)
+auxpass(spread-18, is-16)
+advmod(spread-18, initially-17)
+ccomp(stating-10, spread-18)
+det(US-21, the-20)
+prep_in(spread-18, US-21)
+advmod(spread-18, primarily-22)
+agent(spread-18, gays-24)
+
+ that he has been unjustly called a bigot for stating as a fact that AIs is initially spread in the US primarily by gays .
+
+
+root(ROOT-0, called-6)
+mark(called-6, that-1)
+nsubjpass(called-6, he-2)
+aux(called-6, has-3)
+auxpass(called-6, been-4)
+advmod(called-6, unjustly-5)
+det(bigot-8, a-7)
+dobj(called-6, bigot-8)
+prepc_for(called-6, stating-10)
+det(fact-13, a-12)
+prep_as(stating-10, fact-13)
+mark(spread-18, that-14)
+nsubjpass(spread-18, AIs-15)
+auxpass(spread-18, is-16)
+advmod(spread-18, initially-17)
+ccomp(stating-10, spread-18)
+det(US-21, the-20)
+prep_in(spread-18, US-21)
+advmod(spread-18, primarily-22)
+agent(spread-18, gays-24)
+

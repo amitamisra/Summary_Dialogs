@@ -1,0 +1,1 @@
+(ROOT (S (NP (JJ Political) (NN cynicism)) (VP (VBZ is) (NP (DT no) (NN excuse) (S (VP (TO to) (VP (RB not) (VB put) (S (NP (NP (NNS expectations)) (PP (IN on) (NP (PRP$ our) (NNS candidates)))) (VP (TO to) (VP (VB be) (ADJP (JJ honest) (PP (IN with) (NP (DT the) (JJ American) (NNS people)))))))))))) (. .)))

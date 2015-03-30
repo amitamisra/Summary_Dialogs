@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ concedes) (SBAR (IN that) (S (NP (JJ same-sex) (NN marriage)) (VP (VBZ does) (RB not) (VP (VB have) (NP (DT the) (JJ negative) (JJ financial) (NN impact)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (MD would)))))))))))) (. .)))

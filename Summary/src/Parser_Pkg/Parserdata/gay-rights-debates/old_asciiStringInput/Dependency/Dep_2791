@@ -1,0 +1,28 @@
+He questions how S1 can claim that he does n't hate  gays 
+root(ROOT-0, questions-2)
+nsubj(questions-2, He-1)
+advmod(claim-6, how-3)
+nsubj(claim-6, S1-4)
+aux(claim-6, can-5)
+ccomp(questions-2, claim-6)
+mark(hate-11, that-7)
+nsubj(hate-11, he-8)
+aux(hate-11, does-9)
+neg(hate-11, n't-10)
+ccomp(claim-6, hate-11)
+dobj(hate-11, gays-12)
+
+He questions how S1 can claim that he does n't hate  gays 
+root(ROOT-0, questions-2)
+nsubj(questions-2, He-1)
+advmod(claim-6, how-3)
+nsubj(claim-6, S1-4)
+aux(claim-6, can-5)
+ccomp(questions-2, claim-6)
+mark(hate-11, that-7)
+nsubj(hate-11, he-8)
+aux(hate-11, does-9)
+neg(hate-11, n't-10)
+ccomp(claim-6, hate-11)
+dobj(hate-11, gays-12)
+

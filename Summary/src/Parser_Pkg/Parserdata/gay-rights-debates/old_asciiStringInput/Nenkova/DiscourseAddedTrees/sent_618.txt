@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (JJ religious) (NN belief)) (PRN (: -) (NP (RB not) (NN prejudice)) (: -)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (SBAR (S (NP (CD one)) (VP (VBP take) (NP (DT an) (JJ anti-gay) (NN stance)))))))))) (. .)))

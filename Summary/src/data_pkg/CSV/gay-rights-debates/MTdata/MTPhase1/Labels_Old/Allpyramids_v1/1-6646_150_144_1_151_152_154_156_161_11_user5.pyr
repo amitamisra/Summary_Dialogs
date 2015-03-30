@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 claims that AIDS was initially spread in the US primarily be homosexuals and that no one argues with this fact. He believes that the resources spent fighting the disease could have been better spent on other diseases such as cancer if the homosexual minority had not spread AIDS to the heterosexual majority with their promiscuous sexual activity. He clarifies that now that AIDS does exist, he does not advocate ignoring AIDS research.</line>
+  <line>S2 agrees that AIDS was initially contracted and spread by homosexuals, but claims that its early spread was due to blood transfusions rather than sexual contact. He suggests that S1 believes that homosexuals are less important than heterosexuals based on his comment that other diseases are more important to cure than AIDS. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 wants to see an actual argument supporting AIDS was not spread in the United States by homosexuals.  S1 believes had AIDS not spread to the point of becoming and epidemic, the United States' medical research could have been more geared toward curing cancer and other diseases and blames promiscuity.</line>
+  <line></line>
+  <line>S2 agrees in the beginning AIDS was spread primarily by gay men but also that blood transfusions played a big part as well an accuses S1 of being in support of Paul Cameron's 1985 statement advising of the extermination of the homosexual community.  Based on S1's argument in regard to medical resources, S2 accuses him/her of implying the lives of gay men and women are worth less than those of  heterosexual</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two people are discussing the spread of AIDS in the US.  S2 agrees that gay people were the first victims of AIDS and the first so spread it, but the blame partly lies with blood transfusions also.  S1 states that allot of medical resources that could be spent curing cancer and other diseases are being wasted because of the promiscuity of the gay community.  S2 refutes this by saying it is a bigoted statement; as it means the lives of gay people are less important.  To contradict, S1 states that the statement means that if the US didn't have this many HIV cases, the medical resources could have been put elsewhere, not that the infected should be forgotten.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 believes that AIDS was initially spread among the United States through the homosexual male community and does not see sufficient evidence to refute these claims. They believe that homosexuals are a drain on resources because of this, and places the blame on homosexuals for introducing a new strain of virus that has drawn medical attention away from other pursuits like cancer. </line>
+  <line>S2 concedes that the homosexual community was one of the first places AIDS began to be spread through the United States, but also states that a large number of cases were because of blood transfusions. They believe that S1 is bigoted and turns their statement around by pointing out that it seems as if they are making those with AIDS unimportant to cure. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 claim that he has been unjustly called a bigot for stating as a fact that AIDs is initially spread in the US primarily by gays. He feels that research to combat AIDs have consumed an inordinate amount of resources that could have been used to curing cancer and other diseases. He asserts that the majority of US population is paying the price for the promiscuity of the gay minority. </line>
+  <line>S2 asserts that gays are the first victims of the AIDS epidemic and acknowledges that gays are the first people to spread it. He argues that casting gays as spreaders of AIDs alone drives hate-speech. An example is Paul Cameron's statements that call for the extermination of gays.</line>
+ </text>
+ <scu uid="1" label="AIDs was initially spread in the United States primarily by homosexuals.">
+  <contributor label="AIDS was spread primarily by gay men">
+   <part label="AIDS was spread primarily by gay men" start="1151" end="1187"/>
+  </contributor>
+  <contributor label="Two people are discussing the spread of AIDS in the US...that gay people were the first victims of AIDS and the first so spread it">
+   <part label="that gay people were the first victims of AIDS and the first so spread it" start="1628" end="1701"/>
+   <part label="Two people are discussing the spread of AIDS in the US" start="1561" end="1615"/>
+  </contributor>
+  <contributor label="AIDS was initially spread among the United States through the homosexual male community...homosexual community was one of the first places AIDS began to be spread through the United States">
+   <part label="AIDS was initially spread among the United States through the homosexual male community" start="2270" end="2357"/>
+   <part label="homosexual community was one of the first places AIDS began to be spread through the United States" start="2658" end="2756"/>
+  </contributor>
+  <contributor label="AIDs is initially spread in the US primarily by gays...gays are the first victims of the AIDS epidemic and acknowledges that gays are the first people to spread it">
+   <part label="AIDs is initially spread in the US primarily by gays" start="3098" end="3150"/>
+   <part label="gays are the first victims of the AIDS epidemic and acknowledges that gays are the first people to spread it" start="3425" end="3533"/>
+  </contributor>
+  <contributor label="S1 claims that AIDS was initially spread in the US primarily be homosexuals...S2 agrees that AIDS was initially contracted and spread by homosexuals">
+   <part label="S1 claims that AIDS was initially spread in the US primarily be homosexuals" start="26" end="101"/>
+   <part label="S2 agrees that AIDS was initially contracted and spread by homosexuals" start="466" end="536"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="Only if homosexual minority had not spread AIDs to the heterosexual majority.">
+  <contributor label="if the homosexual minority had not spread AIDS to the heterosexual majority">
+   <part label="if the homosexual minority had not spread AIDS to the heterosexual majority" start="261" end="336"/>
+  </contributor>
+  <contributor label="had AIDS not spread to the point of becoming and epidemic...blames promiscuity">
+   <part label="had AIDS not spread to the point of becoming and epidemic" start="936" end="993"/>
+   <part label="blames promiscuity" start="1103" end="1121"/>
+  </contributor>
+  <contributor label="because of the promiscuity of the gay community">
+   <part label="because of the promiscuity of the gay community" start="1872" end="1919"/>
+  </contributor>
+  <contributor label="homosexuals are a drain on resources because of this, and places the blame on homosexuals for introducing a new strain of virus">
+   <part label="homosexuals are a drain on resources because of this, and places the blame on homosexuals for introducing a new strain of virus" start="2437" end="2564"/>
+  </contributor>
+  <contributor label="majority of US population is paying the price for the promiscuity of the gay minority">
+   <part label="majority of US population is paying the price for the promiscuity of the gay minority" start="3321" end="3406"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="Resources spent on fighting AIDs could have been spent on curing other diseases, such as cancer.">
+  <contributor label="resources spent fighting the disease could have been better spent on other diseases such as cancer">
+   <part label="resources spent fighting the disease could have been better spent on other diseases such as cancer" start="162" end="260"/>
+  </contributor>
+  <contributor label="United States' medical research could have been more geared toward curing cancer and other diseases">
+   <part label="United States' medical research could have been more geared toward curing cancer and other diseases" start="999" end="1098"/>
+  </contributor>
+  <contributor label="drawn medical attention away from other pursuits like cancer">
+   <part label="drawn medical attention away from other pursuits like cancer" start="2574" end="2634"/>
+  </contributor>
+  <contributor label="allot of medical resources that could be spent curing cancer and other diseases are being wasted...if the US didn't have this many HIV cases, the medical resources could have been put elsewhere">
+   <part label="allot of medical resources that could be spent curing cancer and other diseases are being wasted" start="1775" end="1871"/>
+   <part label="if the US didn't have this many HIV cases, the medical resources could have been put elsewhere" start="2087" end="2181"/>
+  </contributor>
+  <contributor label="He feels that research to combat AIDs have consumed an inordinate amount of resources that could have been used to curing cancer and other diseases">
+   <part label="He feels that research to combat AIDs have consumed an inordinate amount of resources that could have been used to curing cancer and other diseases" start="3152" end="3299"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="Early spread of AIDs was due to blood transfusions rather than sexual contact.">
+  <contributor label="early spread was due to blood transfusions rather than sexual contact">
+   <part label="early spread was due to blood transfusions rather than sexual contact" start="558" end="627"/>
+  </contributor>
+  <contributor label="but also that blood transfusions played a big part">
+   <part label="but also that blood transfusions played a big part" start="1188" end="1238"/>
+  </contributor>
+  <contributor label="blame partly lies with blood transfusions also">
+   <part label="blame partly lies with blood transfusions also" start="1711" end="1757"/>
+  </contributor>
+  <contributor label="states that a large number of cases were because of blood transfusions">
+   <part label="states that a large number of cases were because of blood transfusions" start="2767" end="2837"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="No one argues the point that AIDs was spread in the United States by homosexuals.">
+  <contributor label="no one argues with this fact">
+   <part label="no one argues with this fact" start="111" end="139"/>
+  </contributor>
+  <contributor label="wants to see an actual argument supporting AIDS was not spread in the United States by homosexuals">
+   <part label="wants to see an actual argument supporting AIDS was not spread in the United States by homosexuals" start="823" end="921"/>
+  </contributor>
+  <contributor label="does not see sufficient evidence to refute these claims">
+   <part label="does not see sufficient evidence to refute these claims" start="2362" end="2417"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="S1 believes that homosexuals are less important that heterosexuals.">
+  <contributor label="believes that homosexuals are less important than heterosexuals">
+   <part label="believes that homosexuals are less important than heterosexuals" start="649" end="712"/>
+  </contributor>
+  <contributor label="implying the lives of gay men and women are worth less than those of  heterosexual">
+   <part label="implying the lives of gay men and women are worth less than those of  heterosexual" start="1451" end="1533"/>
+  </contributor>
+  <contributor label="means the lives of gay people are less important">
+   <part label="means the lives of gay people are less important" start="1981" end="2029"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="S1 is making it seem like AIDs is less important to cure than other diseases.">
+  <contributor label="they are making those with AIDS unimportant to cure">
+   <part label="they are making those with AIDS unimportant to cure" start="2940" end="2991"/>
+  </contributor>
+  <contributor label="that other diseases are more important to cure than AIDS">
+   <part label="that other diseases are more important to cure than AIDS" start="734" end="790"/>
+  </contributor>
+  <contributor label="not that the infected should be forgotten">
+   <part label="not that the infected should be forgotten" start="2183" end="2224"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="S2 believes S1's statement of gays spreading AIDs is bigotted.">
+  <contributor label="refutes this by saying it is a bigoted statement;">
+   <part label="refutes this by saying it is a bigoted statement;" start="1925" end="1974"/>
+  </contributor>
+  <contributor label="believe that S1 is bigoted">
+   <part label="believe that S1 is bigoted" start="2844" end="2870"/>
+  </contributor>
+  <contributor label="that he has been unjustly called a bigot for stating as a fact that">
+   <part label="that he has been unjustly called a bigot for stating as a fact that" start="3030" end="3097"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="S2 believes S1 supports Paul Cameron's statement for the extermination of gays.">
+  <contributor label="support of Paul Cameron's 1985 statement advising of the extermination of the homosexual community">
+   <part label="support of Paul Cameron's 1985 statement advising of the extermination of the homosexual community" start="1273" end="1371"/>
+  </contributor>
+  <contributor label="example is Paul Cameron's statements that call for the extermination of gays">
+   <part label="example is Paul Cameron's statements that call for the extermination of gays" start="3613" end="3689"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="AIDS does exist, he does not advocate ignoring AIDS research">
+  <contributor label="AIDS does exist, he does not advocate ignoring AIDS research">
+   <part label="AIDS does exist, he does not advocate ignoring AIDS research" start="404" end="464"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="argues that casting gays as spreaders of AIDs alone drives hate-speech">
+  <contributor label="argues that casting gays as spreaders of AIDs alone drives hate-speech">
+   <part label="argues that casting gays as spreaders of AIDs alone drives hate-speech" start="3538" end="3608"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="argument in regard to medical resources">
+  <contributor label="argument in regard to medical resources">
+   <part label="argument in regard to medical resources" start="1388" end="1427"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="their promiscuous sexual activity">
+  <contributor label="their promiscuous sexual activity">
+   <part label="their promiscuous sexual activity" start="342" end="375"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="turns their statement around by pointing out">
+  <contributor label="turns their statement around by pointing out">
+   <part label="turns their statement around by pointing out" start="2875" end="2919"/>
+  </contributor>
+ </scu>
+</pyramid>

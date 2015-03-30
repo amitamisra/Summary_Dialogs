@@ -1,0 +1,54 @@
+   he states that polygamy is a way for bisexuals to stay under the radar .   
+root(ROOT-0, states-2)
+nsubj(states-2, he-1)
+mark(way-7, that-3)
+nsubj(way-7, polygamy-4)
+cop(way-7, is-5)
+det(way-7, a-6)
+ccomp(states-2, way-7)
+prep_for(way-7, bisexuals-9)
+aux(stay-11, to-10)
+vmod(bisexuals-9, stay-11)
+det(radar-14, the-13)
+prep_under(stay-11, radar-14)
+
+ that polygamous marriage is not recognized by governments in Western societies and is unlikely to be recognized in future .
+
+
+root(ROOT-0, recognized-6)
+mark(recognized-6, that-1)
+amod(marriage-3, polygamous-2)
+nsubjpass(recognized-6, marriage-3)
+nsubj(unlikely-14, marriage-3)
+auxpass(recognized-6, is-4)
+neg(recognized-6, not-5)
+agent(recognized-6, governments-8)
+amod(societies-11, Western-10)
+prep_in(governments-8, societies-11)
+cop(unlikely-14, is-13)
+conj_and(recognized-6, unlikely-14)
+aux(recognized-17, to-15)
+auxpass(recognized-17, be-16)
+xcomp(unlikely-14, recognized-17)
+prep_in(recognized-17, future-19)
+
+ that polygamous marriage is not recognized by governments in Western societies and is unlikely to be recognized in future .
+
+
+root(ROOT-0, recognized-6)
+mark(recognized-6, that-1)
+amod(marriage-3, polygamous-2)
+nsubjpass(recognized-6, marriage-3)
+nsubj(unlikely-14, marriage-3)
+auxpass(recognized-6, is-4)
+neg(recognized-6, not-5)
+agent(recognized-6, governments-8)
+amod(societies-11, Western-10)
+prep_in(governments-8, societies-11)
+cop(unlikely-14, is-13)
+conj_and(recognized-6, unlikely-14)
+aux(recognized-17, to-15)
+auxpass(recognized-17, be-16)
+xcomp(unlikely-14, recognized-17)
+prep_in(recognized-17, future-19)
+

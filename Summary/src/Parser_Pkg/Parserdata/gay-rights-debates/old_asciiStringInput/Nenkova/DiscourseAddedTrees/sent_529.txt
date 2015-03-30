@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NNP Paul) (NNP Cameron) (POS 's)) (NN research)) (VP (VBZ is) (VP (VBN cited) (PP (IN in) (NP (NP (RB virtually) (DT every) (JJ single) (NN attack)) (PP (IN on) (NP (NP (JJ gay) (NNS people)) (PP (IN in) (NP (NN state))))))) (PP (IN after#0#0) (NP (NN state))) (PP (IN after#1#0) (NP (NN state) (NN legislature))))) (. .)))

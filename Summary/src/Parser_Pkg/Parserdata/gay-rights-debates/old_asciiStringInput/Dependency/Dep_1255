@@ -1,0 +1,50 @@
+   S2 agrees that gay people were the first victims of AIS and the first so spread it ,    the blame partly lies with blood transfusions  .   
+root(ROOT-0, lies-22)
+nsubj(agrees-2, S2-1)
+ccomp(lies-22, agrees-2)
+mark(victims-9, that-3)
+amod(people-5, gay-4)
+nsubj(victims-9, people-5)
+cop(victims-9, were-6)
+det(victims-9, the-7)
+amod(victims-9, first-8)
+ccomp(agrees-2, victims-9)
+prep_of(victims-9, AIS-11)
+det(spread-16, the-13)
+amod(spread-16, first-14)
+amod(spread-16, so-15)
+ccomp(agrees-2, spread-16)
+conj_and(victims-9, spread-16)
+dep(spread-16, it-17)
+det(blame-20, the-19)
+nsubj(lies-22, blame-20)
+advmod(lies-22, partly-21)
+nn(transfusions-25, blood-24)
+prep_with(lies-22, transfusions-25)
+
+Two people are discussing gay marriage and the Ccnstitution .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+det(Ccnstitution-9, the-8)
+dobj(discussing-4, Ccnstitution-9)
+conj_and(marriage-6, Ccnstitution-9)
+
+Two people are discussing gay marriage and the Ccnstitution .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+det(Ccnstitution-9, the-8)
+dobj(discussing-4, Ccnstitution-9)
+conj_and(marriage-6, Ccnstitution-9)
+

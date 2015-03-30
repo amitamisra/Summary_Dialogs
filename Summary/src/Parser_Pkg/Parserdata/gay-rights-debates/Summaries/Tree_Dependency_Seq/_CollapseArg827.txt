@@ -1,0 +1,6 @@
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S1-1)
+det(results-4, the-3)
+nsubj(professional-6, results-4)
+cop(professional-6, are-5)
+ccomp(thinks-2, professional-6)

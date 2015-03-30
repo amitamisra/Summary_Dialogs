@@ -1,0 +1,46 @@
+ that religious freedom allows for people to not do something , such as serve a gay customer , that they find objective to their religion .
+
+
+root(ROOT-0, allows-4)
+mark(allows-4, that-1)
+amod(freedom-3, religious-2)
+nsubj(allows-4, freedom-3)
+prep_for(allows-4, people-6)
+aux(do-9, to-7)
+neg(do-9, not-8)
+xcomp(allows-4, do-9)
+dobj(do-9, something-10)
+prep_such_as(something-10, serve-14)
+det(customer-17, a-15)
+amod(customer-17, gay-16)
+dobj(serve-14, customer-17)
+mark(find-21, that-19)
+nsubj(find-21, they-20)
+ccomp(allows-4, find-21)
+dobj(find-21, objective-22)
+poss(religion-25, their-24)
+prep_to(find-21, religion-25)
+
+ that religious freedom allows for people to not do something , such as serve a gay customer , that they find objective to their religion .
+
+
+root(ROOT-0, allows-4)
+mark(allows-4, that-1)
+amod(freedom-3, religious-2)
+nsubj(allows-4, freedom-3)
+prep_for(allows-4, people-6)
+aux(do-9, to-7)
+neg(do-9, not-8)
+xcomp(allows-4, do-9)
+dobj(do-9, something-10)
+prep_such_as(something-10, serve-14)
+det(customer-17, a-15)
+amod(customer-17, gay-16)
+dobj(serve-14, customer-17)
+mark(find-21, that-19)
+nsubj(find-21, they-20)
+ccomp(allows-4, find-21)
+dobj(find-21, objective-22)
+poss(religion-25, their-24)
+prep_to(find-21, religion-25)
+

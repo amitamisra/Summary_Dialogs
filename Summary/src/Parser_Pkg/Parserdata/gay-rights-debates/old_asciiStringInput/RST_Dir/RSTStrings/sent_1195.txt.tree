@@ -1,0 +1,11 @@
+(Explanation[N][S]
+  (Explanation[N][S]
+    _!S2 addresses that S1 also believes that honesty should be demanded!_
+    (Attribution[S][N]
+      _!because their earlier statements insinuated!_
+      _!that they thought this practice was wrong!_))
+  (same-unit[N][N]
+    _!( S1 )!_
+    (Elaboration[N][S]
+      _!argues that overtime-religious politicians , conservative republicans have made the effort!_
+      _!to make gay rights a poison topic . <s>!_)))

@@ -1,0 +1,4 @@
+root(ROOT-0, declared-3)
+aux(declared-3, to-1)
+auxpass(declared-3, be-2)
+xcomp(declared-3, unconstitutional-4)

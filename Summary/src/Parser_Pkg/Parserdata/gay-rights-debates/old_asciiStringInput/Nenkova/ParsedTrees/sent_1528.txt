@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP enter) (NP (NP (NP (DT a) (NN discussion)) (PP (IN on) (NP (JJ gay) (NNS rights)))) (CC and) (NP (NP (NN religion) (NN impact)) (PP (IN of) (NP (NN legislation)))))) (. .)))

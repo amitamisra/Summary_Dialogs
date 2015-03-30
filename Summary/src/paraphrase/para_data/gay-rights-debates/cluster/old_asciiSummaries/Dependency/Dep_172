@@ -1,0 +1,11 @@
+(S2) questions if (S1) is beginning to debate about abortion.
+root(ROOT-0, beginning-10)
+nn(questions-4, S2-2)
+dep(beginning-10, questions-4)
+mark(beginning-10, if-5)
+nsubj(beginning-10, S1-7)
+aux(beginning-10, is-9)
+aux(debate-12, to-11)
+xcomp(beginning-10, debate-12)
+prep_about(debate-12, abortion-14)
+

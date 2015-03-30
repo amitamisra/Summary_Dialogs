@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ states) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ has) (ADVP (RB never)) (VP (VBN seen) (S (NP (NN someone)) (VP (VB justify) (NP (NP (DT an) (JJ anti-gay) (NN agenda)) (VP (VBN based) (ADVP (RB solely)) (PP (IN on) (NP (NNS morals) (CC or) (NN religion)))))))))))) (. .)))

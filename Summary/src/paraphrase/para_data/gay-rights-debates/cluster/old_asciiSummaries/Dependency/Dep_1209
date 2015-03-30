@@ -1,0 +1,12 @@
+S1 specifically names a woman in particular to admit her discrimination.
+root(ROOT-0, S1-1)
+advmod(names-3, specifically-2)
+rcmod(S1-1, names-3)
+det(woman-5, a-4)
+dep(names-3, woman-5)
+prep_in(woman-5, particular-7)
+aux(admit-9, to-8)
+vmod(S1-1, admit-9)
+poss(discrimination-11, her-10)
+dobj(admit-9, discrimination-11)
+

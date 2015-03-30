@@ -1,0 +1,8 @@
+root(ROOT-0, are-2)
+nsubj(are-2, you-1)
+prep_for(are-2, equality-4)
+prep_for(equality-4, gays-6)
+nsubj(need-8, you-7)
+rcmod(gays-6, need-8)
+dobj(need-8, equality-9)
+prep_for(equality-9, all-11)

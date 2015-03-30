@@ -1,0 +1,46 @@
+ that no one in western society has recognized marriage rights for polygamists , to which S2 rebuts , stating that marriage is recognizing a family unit based on heterosexual contract .
+
+
+root(ROOT-0, recognized-8)
+mark(recognized-8, that-1)
+neg(one-3, no-2)
+nsubj(recognized-8, one-3)
+amod(society-6, western-5)
+prep_in(one-3, society-6)
+aux(recognized-8, has-7)
+nn(rights-10, marriage-9)
+dobj(recognized-8, rights-10)
+prep_for(recognized-8, polygamists-12)
+prep_to(rebuts-17, which-15)
+nsubj(rebuts-17, S2-16)
+rcmod(polygamists-12, rebuts-17)
+xcomp(rebuts-17, stating-19)
+mark(recognizing-23, that-20)
+nsubj(recognizing-23, marriage-21)
+aux(recognizing-23, is-22)
+ccomp(stating-19, recognizing-23)
+det(unit-26, a-24)
+nn(unit-26, family-25)
+dobj(recognizing-23, unit-26)
+prepc_based_on(recognizing-23, on-28)
+amod(contract-30, heterosexual-29)
+pobj(recognizing-23, contract-30)
+
+ that all sex is behavior .
+
+
+root(ROOT-0, behavior-5)
+mark(behavior-5, that-1)
+det(sex-3, all-2)
+nsubj(behavior-5, sex-3)
+cop(behavior-5, is-4)
+
+ that all sex is behavior .
+
+
+root(ROOT-0, behavior-5)
+mark(behavior-5, that-1)
+det(sex-3, all-2)
+nsubj(behavior-5, sex-3)
+cop(behavior-5, is-4)
+

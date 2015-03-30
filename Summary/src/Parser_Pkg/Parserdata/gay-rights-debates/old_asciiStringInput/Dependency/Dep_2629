@@ -1,0 +1,16 @@
+ ,     it is not a new concept  . 
+root(ROOT-0, is-3)
+nsubj(is-3, it-2)
+prep(is-3, not-4)
+det(concept-7, a-5)
+amod(concept-7, new-6)
+dep(not-4, concept-7)
+
+ ,     it is not a new concept  . 
+root(ROOT-0, is-3)
+nsubj(is-3, it-2)
+prep(is-3, not-4)
+det(concept-7, a-5)
+amod(concept-7, new-6)
+dep(not-4, concept-7)
+

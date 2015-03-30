@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB also#0#Expansion)) (VP (VBZ argues) (SBAR (IN that) (S (S (RB not) (VP (VBG accepting) (NP (JJ gay) (NN marriage)))) (VP (VBZ is) (NP (NP (NN punishment)) (PP (TO to) (NP (NP (PRP him)) (, ,) (NP (PRP$ his) (NN family)) (CC and#1#0) (NP (NNS others))))))))) (. .)))

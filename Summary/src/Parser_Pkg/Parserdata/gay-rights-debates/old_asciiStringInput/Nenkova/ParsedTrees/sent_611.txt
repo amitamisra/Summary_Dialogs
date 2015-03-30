@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Sodomy)) (VP (VBD was) (VP (VBN criminalized) (, ,) (PP (RB not) (S (VP (VBG being) (ADJP (JJ gay))))))) (. .)))

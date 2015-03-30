@@ -1,0 +1,6 @@
+root(ROOT-0, believes-2)
+nsubj(believes-2, who-1)
+det(application-5, the-4)
+prep_in(believes-2, application-5)
+det(Constitution-8, the-7)
+prep_of(application-5, Constitution-8)

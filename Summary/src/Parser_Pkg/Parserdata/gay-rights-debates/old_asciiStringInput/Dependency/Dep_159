@@ -1,0 +1,28 @@
+   same-sex marriages are not recognized in Virginia  
+root(ROOT-0, recognized-5)
+amod(marriages-2, same-sex-1)
+nsubjpass(recognized-5, marriages-2)
+auxpass(recognized-5, are-3)
+neg(recognized-5, not-4)
+prep_in(recognized-5, Virginia-7)
+
+ He accepts that everyone has their own values 
+root(ROOT-0, accepts-2)
+nsubj(accepts-2, He-1)
+mark(has-5, that-3)
+nsubj(has-5, everyone-4)
+ccomp(accepts-2, has-5)
+poss(values-8, their-6)
+amod(values-8, own-7)
+dobj(has-5, values-8)
+
+ He accepts that everyone has their own values 
+root(ROOT-0, accepts-2)
+nsubj(accepts-2, He-1)
+mark(has-5, that-3)
+nsubj(has-5, everyone-4)
+ccomp(accepts-2, has-5)
+poss(values-8, their-6)
+amod(values-8, own-7)
+dobj(has-5, values-8)
+

@@ -1,0 +1,18 @@
+S2 feels that a federal amendment to the US Constitution is unlike over the next few years.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S2-1)
+mark(is-11, that-3)
+det(amendment-6, a-4)
+amod(amendment-6, federal-5)
+nsubj(is-11, amendment-6)
+det(Constitution-10, the-8)
+nn(Constitution-10, US-9)
+prep_to(amendment-6, Constitution-10)
+ccomp(feels-2, is-11)
+prep(is-11, unlike-12)
+pcomp(unlike-12, over-13)
+det(years-17, the-14)
+amod(years-17, next-15)
+amod(years-17, few-16)
+pobj(over-13, years-17)
+

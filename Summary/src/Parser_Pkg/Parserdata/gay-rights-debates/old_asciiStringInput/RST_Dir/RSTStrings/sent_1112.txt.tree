@@ -1,0 +1,7 @@
+(Elaboration[N][S]
+  _!S2 is defending a statement he/she!_
+  (same-unit[N][N]
+    _!made in regard!_
+    (Elaboration[N][S]
+      _!to the possibility that Massachusetts may at some point decide to overturn the decision!_
+      (Enablement[N][S] _!to allow gay couples!_ _!to marry . <s>!_))))

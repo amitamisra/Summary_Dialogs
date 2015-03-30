@@ -1,0 +1,3 @@
+root(ROOT-0, wants-2)
+nsubj(wants-2, someone-1)
+prep(wants-2, to-3)

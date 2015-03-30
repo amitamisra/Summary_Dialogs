@@ -1,0 +1,16 @@
+   many gays have fidelity in their relationshipso . 
+root(ROOT-0, have-3)
+amod(gays-2, many-1)
+nsubj(have-3, gays-2)
+dobj(have-3, fidelity-4)
+poss(relationshipso-7, their-6)
+prep_in(fidelity-4, relationshipso-7)
+
+   many gays have fidelity in their relationshipso . 
+root(ROOT-0, have-3)
+amod(gays-2, many-1)
+nsubj(have-3, gays-2)
+dobj(have-3, fidelity-4)
+poss(relationshipso-7, their-6)
+prep_in(fidelity-4, relationshipso-7)
+

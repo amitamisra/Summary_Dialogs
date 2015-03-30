@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ responds) (SBAR (IN that) (S (NP (PRP he)) (VP (VP (VBZ does) (RB n't) (VP (VB want) (S (VP (TO to) (VP (VB impose) (NP (PRP$ his) (NNS morals)) (PP (IN on) (NP (NNS others)))))))) (, ,) (CC but#0#0) (VP (VBZ believes) (PP (IN in) (S (VP (VBG defending) (NP (DT the) (NNP Constitution)))))))))) (. .)))

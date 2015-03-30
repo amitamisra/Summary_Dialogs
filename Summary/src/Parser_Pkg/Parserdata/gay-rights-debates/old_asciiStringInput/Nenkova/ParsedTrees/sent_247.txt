@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ supports) (NP (NP (NP (JJ equal) (NN opportunity)) (PP (IN for) (NP (JJ gay) (NNS people)))) (, ,) (CONJP (CC but) (RB not)) (NP (NP (DT the) (NN redefinition)) (PP (IN of) (NP (NP (NN marriage)) (PP (IN in) (NP (DT the) (NNP US)))))))) (. .)))

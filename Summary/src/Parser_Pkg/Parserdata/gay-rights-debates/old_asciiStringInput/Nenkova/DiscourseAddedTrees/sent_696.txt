@@ -1,0 +1,1 @@
+(ROOT (S (S (VP (VBZ Is) (NP (NP (DT a) (JJ gay) (NN person)) (SBAR (S (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB have) (NP (DT the) (NN freedom)))))))))))) (, ,) (ADVP (RB so#1#Contingency)) (VP (VBZ does) (NP (NP (NP (PRP he)) (SBAR (WHNP (WP who)))) (CC and#0#0) (NP (NP (NNS others)) (SBAR (WHNP (WP who)) (S (VP (MD may) (RB not) (VP (VB agree)))))))) (. .)))

@@ -1,0 +1,6 @@
+root(ROOT-0, are-4)
+amod(Americans-2, Most-1)
+nsubj(are-4, Americans-2)
+prep(are-4, against-5)
+amod(marriage-7, gay-6)
+pobj(against-5, marriage-7)

@@ -1,0 +1,5 @@
+root(ROOT-0, are-4)
+amod(Americans-2, Most-1)
+nsubj(are-4, Americans-2)
+amod(marriage-7, gay-6)
+prep_against(are-4, marriage-7)

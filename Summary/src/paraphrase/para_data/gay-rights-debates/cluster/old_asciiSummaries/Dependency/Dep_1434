@@ -1,0 +1,11 @@
+Roommates are single and should not have marriage benefits.
+root(ROOT-0, single-3)
+nsubj(single-3, Roommates-1)
+nsubj(have-7, Roommates-1)
+cop(single-3, are-2)
+aux(have-7, should-5)
+neg(have-7, not-6)
+conj_and(single-3, have-7)
+nn(benefits-9, marriage-8)
+dobj(have-7, benefits-9)
+

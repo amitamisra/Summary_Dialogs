@@ -1,0 +1,6 @@
+root(ROOT-0, important-3)
+nsubj(important-3, it-1)
+cop(important-3, is-2)
+prep(important-3, to-4)
+poss(situation-6, their-5)
+pobj(to-4, situation-6)

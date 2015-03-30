@@ -1,0 +1,11 @@
+She should admit to her bigotry, discrimination and anti-gay views.
+root(ROOT-0, admit-3)
+nsubj(admit-3, She-1)
+aux(admit-3, should-2)
+poss(views-11, her-5)
+nn(discrimination-8, bigotry-6)
+nn(views-11, discrimination-8)
+conj_and(discrimination-8, anti-gay-10)
+nn(views-11, anti-gay-10)
+prep_to(admit-3, views-11)
+

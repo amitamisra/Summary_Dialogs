@@ -1,0 +1,10 @@
+0  S2 thinks 
+root(ROOT-0, thinks-3)
+num(S2-2, 0-1)
+nsubj(thinks-3, S2-2)
+
+0  S2 thinks 
+root(ROOT-0, thinks-3)
+num(S2-2, 0-1)
+nsubj(thinks-3, S2-2)
+

@@ -1,0 +1,28 @@
+ thatemocratic Vice President Joe Biden stated he was against gay marriage .
+
+
+root(ROOT-0, stated-6)
+amod(Biden-5, thatemocratic-1)
+nn(Biden-5, Vice-2)
+nn(Biden-5, President-3)
+nn(Biden-5, Joe-4)
+nsubj(stated-6, Biden-5)
+nsubj(was-8, he-7)
+ccomp(stated-6, was-8)
+amod(marriage-11, gay-10)
+prep_against(was-8, marriage-11)
+
+ thatemocratic Vice President Joe Biden stated he was against gay marriage .
+
+
+root(ROOT-0, stated-6)
+amod(Biden-5, thatemocratic-1)
+nn(Biden-5, Vice-2)
+nn(Biden-5, President-3)
+nn(Biden-5, Joe-4)
+nsubj(stated-6, Biden-5)
+nsubj(was-8, he-7)
+ccomp(stated-6, was-8)
+amod(marriage-11, gay-10)
+prep_against(was-8, marriage-11)
+

@@ -1,0 +1,22 @@
+ that a couple of Buddhist sects allow it .
+
+
+root(ROOT-0, allow-7)
+mark(allow-7, that-1)
+det(couple-3, a-2)
+nsubj(allow-7, couple-3)
+nn(sects-6, Buddhist-5)
+prep_of(couple-3, sects-6)
+dobj(allow-7, it-8)
+
+ that a couple of Buddhist sects allow it .
+
+
+root(ROOT-0, allow-7)
+mark(allow-7, that-1)
+det(couple-3, a-2)
+nsubj(allow-7, couple-3)
+nn(sects-6, Buddhist-5)
+prep_of(couple-3, sects-6)
+dobj(allow-7, it-8)
+

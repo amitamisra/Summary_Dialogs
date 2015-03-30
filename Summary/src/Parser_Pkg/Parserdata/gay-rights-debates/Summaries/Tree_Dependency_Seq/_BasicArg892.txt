@@ -1,0 +1,4 @@
+root(ROOT-0, issued-4)
+det(opinion-2, the-1)
+nsubjpass(issued-4, opinion-2)
+auxpass(issued-4, was-3)

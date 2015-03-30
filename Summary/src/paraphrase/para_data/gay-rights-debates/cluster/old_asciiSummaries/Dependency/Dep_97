@@ -1,0 +1,14 @@
+S2 thinks that most Christians in this country oppose civil marriages for gay rights.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S2-1)
+mark(oppose-9, that-3)
+amod(Christians-5, most-4)
+nsubj(oppose-9, Christians-5)
+det(country-8, this-7)
+prep_in(Christians-5, country-8)
+ccomp(thinks-2, oppose-9)
+amod(marriages-11, civil-10)
+dobj(oppose-9, marriages-11)
+amod(rights-14, gay-13)
+prep_for(marriages-11, rights-14)
+

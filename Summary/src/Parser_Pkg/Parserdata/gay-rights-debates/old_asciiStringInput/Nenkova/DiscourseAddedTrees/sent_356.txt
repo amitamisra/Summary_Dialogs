@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP They)) (VP (VBP refute) (NP (NP (NN S1) (POS 's)) (NN argument)) (PP (IN by) (S (VP (VBG pointing) (PRT (RP out)) (SBAR (IN that) (S (NP (JJ heterosexual) (NNS marriages)) (ADVP (RB still#0#0)) (VP (VB end) (PP (IN in) (NP (NN divorce))) (PP (IN around) (NP (NP (CD 50) (NN %)) (PP (IN of) (NP (DT the) (NN time)))))))))))) (. .)))

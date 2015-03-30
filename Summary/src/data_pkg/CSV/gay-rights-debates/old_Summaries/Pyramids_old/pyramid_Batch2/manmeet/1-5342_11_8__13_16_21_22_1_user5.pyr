@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>This seems to be an argument about gay rights and generalizing the political beliefs of people. According to S1, S2 talks about Paul Cameron and makes it seem as if he is the voice of the Republicans. S1 argues that it is not the case and one person who sides with a specific party doesn't represent the party. S1 uses John Lennon as an example of this not being a proper way to generalize political views of parties, in his case the Democratic party. S1 accuses S2 of making an assertion including the Republicans creating another Holocaust, because of the generalization that S2 made. S2 believes that Paul Cameron's views are cited and used in many cases against gay rights because most people do share the same views, which S1 thinks otherwise. S2 says that most attacks on gay rights have cited Paul Cameron, even within the US Senate, showing that he has a strong opinion in the Republican party, or at least it seems so.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line></line>
+  <line> </line>
+  <line> S1 and S2 enter a discussion about gay rights, but more specifically on the claims made by a certain Republican Party member: Paul Cameron. S1 is angered that S2 is making wide generalization about the Republican Party, and agrees that Cameron is eccentric party member. S2 believes that since Republican Party members often use Cameron as citation for research and therefore most share his views that gays are bad for the world and must be exterminated, like the Jews in the Holocaust.  S1 thinks S2 is making a generalization on the entire partys based off one person. S2 thinks this unfair because Cameron is not apart of the Republican Leadership, and that the views of Cameron are outdated with the views of Republicans today.  S1 compares this to quoting singer John Lennon against religion and attributing it to the entire Democratic Party. S2 responds by connecting Cameron with George W. Bush, and believes that if a party constantly uses the research of single person, then they must share the beliefs of that person. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>(S1) starts talking about how its ridiculous to think that republicans would send gays to concentration camps like the Germans practiced in the Holocaust.  He talks about Paul Cameron a psychologist having nothing to do with politicians ideas or decisions.  He tries to assert that republicans do not cite or reference Paul because he is not a reliable source. However, (S2) argues that Paul is frequently referenced as an expert on the issue of gay marriage and rights. He talks about the moral behind Pauls research and how its fraudulent. (S1) then asks (S2) to stay on point and not divert the conversation.  He also states that someone who may not be republican may hate gays and that Republicans platform or party leadership does not has to do with Pauls views. (S2) says that Pauls research is present in the debate over gay marriage. (S2) also says that Paul has been cited in virtually every legal brief filed opposing gay marriage. (S1) says that (S2) is generalizing while (S2) talks about family values.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 believes that there's a big difference between possibility and likelihood. S1 finds fault with the stance that republicans would ship gay people to concentration camps. S1 objects to bringing up  a statement by Paul Cameron , as if Paul Cameron has anything to do whatsoever with Republican politics or leadership. Matt is pulling some wild point out of his hat , saying that because someone who may not even be a republican hates gays , that republicans hate gays. I might as well have said that since John Lennon attacked religion , then Democrats hate religion.  It's about Matt's ridiculous generalizations and comments and S1 holds that there is NO republican in leadership that would call for the extermination of gays. S1 believes that S2 is making ridiculous generalizations.</line>
+  <line> </line>
+  <line> </line>
+  <line> S2 believes that S1 is defending Paul Cameron and states that he is the single most frequently quoted &quot; expert &quot; cited by the GOP in ALL their attempts to limit the rights of gay people . Paul Cameron's research is cited in virtually every single attack on gay people in state after state after state legislature . It was presented in the &quot; debate &quot; about same-sex marriage in the U.S. friggin ' Senate . His name appears in the citations of virtually every legal brief filed by opponents of same-sex marriage . S2 is surprised that reasonable people talk about Paul Cameron. S2 finds it laughable to try to defend the GOP when one of their admittedly most effective propaganda campaigns is to rally the &quot; family-values &quot; crowd against gay rights .</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 is upset with Matt about making an assertion that Republicans would send gays to concentration camps and about a statement by psychologist Paul Cameron. Instead he should have linked someone in the Republican leadership saying those things. Paul Cameron is a frequent target of gay pride movement for demonization. S2 says that Paul Cameron is the most frequently quoted expert cited by GOP in all their attempts to limit the rights of gay people. S1 says the point is that Matt commented that someone who may not even be a republican hates gays, and that republicans hate gays. He says its not about Paul Cameron but about Matts ridiculous comments and that no republican in leadership would call for the extermination of gays. S2 argues that Paul Camerons research is cited in almost every single attack on gay people in state after state legislature. S1 says to S2 that he is making a ridiculous generalization while S2 replies that he said S1 is probably right to assume that some people were anti-religion.</line>
+ </text>
+ <scu uid="155" label="Assertion that Republicans would send gays to concentration campus like the Jews in the Holocaust.">
+  <contributor label="republicans would send gays to concentration camps like the Germans practiced in the Holocaust">
+   <part label="republicans would send gays to concentration camps like the Germans practiced in the Holocaust" start="2100" end="2194"/>
+  </contributor>
+  <contributor label="assertion that Republicans would send gays to concentration camps...that no republican in leadership would call for the extermination of gays">
+   <part label="assertion that Republicans would send gays to concentration camps" start="4689" end="4754"/>
+   <part label="that no republican in leadership would call for the extermination of gays" start="5308" end="5381"/>
+  </contributor>
+  <contributor label="gays are bad for the world and must be exterminated, like the Jews in the Holocaust">
+   <part label="gays are bad for the world and must be exterminated, like the Jews in the Holocaust" start="1387" end="1470"/>
+  </contributor>
+  <contributor label="making an assertion including the Republicans creating another Holocaust">
+   <part label="making an assertion including the Republicans creating another Holocaust" start="495" end="567"/>
+  </contributor>
+  <contributor label="republicans would ship gay people to concentration camps...NO republican in leadership that would call for the extermination of gays">
+   <part label="republicans would ship gay people to concentration camps" start="3198" end="3254"/>
+   <part label="NO republican in leadership that would call for the extermination of gays" start="3738" end="3811"/>
+  </contributor>
+ </scu>
+ <scu uid="153" label="S1 and S2 are generalizing the political beliefs of people.">
+  <contributor label="generalizing the political beliefs of people...because of the generalization that S2 made">
+   <part label="generalizing the political beliefs of people" start="76" end="120"/>
+   <part label="because of the generalization that S2 made" start="569" end="611"/>
+  </contributor>
+  <contributor label="generalization about the Republican Party...making a generalization on the entire partys based off one person">
+   <part label="generalization about the Republican Party" start="1162" end="1203"/>
+   <part label="making a generalization on the entire partys based off one person" start="1489" end="1554"/>
+  </contributor>
+  <contributor label="he is making a ridiculous generalization">
+   <part label="he is making a ridiculous generalization" start="5527" end="5567"/>
+  </contributor>
+  <contributor label="generalizing while (S2) talks about family values">
+   <part label="generalizing while (S2) talks about family values" start="3006" end="3055"/>
+  </contributor>
+  <contributor label="S2 is making ridiculous generalizations">
+   <part label="S2 is making ridiculous generalizations" start="3830" end="3869"/>
+  </contributor>
+ </scu>
+ <scu uid="158" label="A person siding with a specific party does not represent the party.">
+  <contributor label="it is not the case and one person who sides with a specific party doesn't represent the party">
+   <part label="it is not the case and one person who sides with a specific party doesn't represent the party" start="242" end="335"/>
+  </contributor>
+  <contributor label="someone who may not be republican may hate gays">
+   <part label="someone who may not be republican may hate gays" start="2674" end="2721"/>
+  </contributor>
+  <contributor label="because someone who may not even be a republican hates gays , that republicans hate gays">
+   <part label="because someone who may not even be a republican hates gays , that republicans hate gays" start="3463" end="3551"/>
+  </contributor>
+  <contributor label="Matt commented that someone who may not even be a republican hates gays, and that republicans hate gays">
+   <part label="Matt commented that someone who may not even be a republican hates gays, and that republicans hate gays" start="5128" end="5231"/>
+  </contributor>
+ </scu>
+ <scu uid="157" label="Paul is frequently referenced as an expert on the issue of gay marriage and rights">
+  <contributor label="Paul is frequently referenced as an expert on the issue of gay marriage and rights...Paul has been cited in virtually every legal brief filed opposing gay marriage">
+   <part label="Paul is frequently referenced as an expert on the issue of gay marriage and rights" start="2428" end="2510"/>
+   <part label="Paul has been cited in virtually every legal brief filed opposing gay marriage" start="2903" end="2981"/>
+  </contributor>
+  <contributor label="Paul Cameron and states that he is the single most frequently quoted &quot; expert &quot; cited by the GOP...Paul Cameron's research is cited in virtually every single attack on gay people in state after state after state legislature">
+   <part label="Paul Cameron and states that he is the single most frequently quoted &quot; expert &quot; cited by the GOP" start="3909" end="4005"/>
+   <part label="Paul Cameron's research is cited in virtually every single attack on gay people in state after state after state legislature" start="4064" end="4188"/>
+  </contributor>
+  <contributor label="Paul Cameron is a frequent target of gay pride movement for demonization...Paul Cameron is the most frequently quoted expert cited by GOP in all their attempts to limit the rights of gay people...Paul Camerons research is cited in almost every single attack on gay people in state after state legislature">
+   <part label="Paul Cameron is a frequent target of gay pride movement for demonization" start="4895" end="4967"/>
+   <part label="Paul Cameron is the most frequently quoted expert cited by GOP in all their attempts to limit the rights of gay people" start="4982" end="5100"/>
+   <part label="Paul Camerons research is cited in almost every single attack on gay people in state after state legislature" start="5398" end="5506"/>
+  </contributor>
+  <contributor label="Paul Cameron's views are cited and used in many cases against gay rights...most attacks on gay rights have cited Paul Cameron, even within the US Senate">
+   <part label="most attacks on gay rights have cited Paul Cameron, even within the US Senate" start="788" end="865"/>
+   <part label="Paul Cameron's views are cited and used in many cases against gay rights" start="630" end="702"/>
+  </contributor>
+ </scu>
+ <scu uid="154" label="specifically on the claims made by a certain Republican Party member: Paul Cameron">
+  <contributor label="specifically on the claims made by a certain Republican Party member: Paul Cameron...agrees that Cameron is eccentric party member...Republican Party members often use Cameron as citation for research">
+   <part label="specifically on the claims made by a certain Republican Party member: Paul Cameron" start="1041" end="1123"/>
+   <part label="Republican Party members often use Cameron as citation for research" start="1279" end="1346"/>
+   <part label="agrees that Cameron is eccentric party member" start="1209" end="1254"/>
+  </contributor>
+  <contributor label="Paul Cameron and makes it seem as if he is the voice of the Republicans...showing that he has a strong opinion in the Republican party">
+   <part label="Paul Cameron and makes it seem as if he is the voice of the Republicans" start="154" end="225"/>
+   <part label="showing that he has a strong opinion in the Republican party" start="867" end="927"/>
+  </contributor>
+  <contributor label="Pauls research is present in the debate over gay marriage">
+   <part label="Pauls research is present in the debate over gay marriage" start="2824" end="2881"/>
+  </contributor>
+  <contributor label="bringing up  a statement by Paul Cameron...name appears in the citations of virtually every legal brief filed by opponents of same-sex marriage">
+   <part label="bringing up  a statement by Paul Cameron" start="3270" end="3310"/>
+   <part label="name appears in the citations of virtually every legal brief filed by opponents of same-sex marriage" start="4285" end="4385"/>
+  </contributor>
+ </scu>
+ <scu uid="159" label="John Lennon is used as an example of not having a proper way to generlize political views of parties.">
+  <contributor label="John Lennon as an example of this not being a proper way to generalize political views of parties">
+   <part label="John Lennon as an example of this not being a proper way to generalize political views of parties" start="345" end="442"/>
+  </contributor>
+  <contributor label="compares this to quoting singer John Lennon against religion and attributing it to the entire Democratic Party">
+   <part label="compares this to quoting singer John Lennon against religion and attributing it to the entire Democratic Party" start="1721" end="1831"/>
+  </contributor>
+  <contributor label="since John Lennon attacked religion , then Democrats hate religion">
+   <part label="since John Lennon attacked religion , then Democrats hate religion" start="3584" end="3650"/>
+  </contributor>
+ </scu>
+ <scu uid="162" label="Pauls Cameron's research.">
+  <contributor label="about the moral behind Pauls research and how its fraudulent">
+   <part label="about the moral behind Pauls research and how its fraudulent" start="2521" end="2581"/>
+  </contributor>
+  <contributor label="surprised that reasonable people talk about Paul Cameron">
+   <part label="surprised that reasonable people talk about Paul Cameron" start="4394" end="4450"/>
+  </contributor>
+  <contributor label="about a statement by psychologist Paul Cameron">
+   <part label="about a statement by psychologist Paul Cameron" start="4759" end="4805"/>
+  </contributor>
+ </scu>
+ <scu uid="152" label="There is an argument about gay rights.">
+  <contributor label="argument about gay rights">
+   <part label="argument about gay rights" start="46" end="71"/>
+  </contributor>
+  <contributor label="enter a discussion about gay rights">
+   <part label="enter a discussion about gay rights" start="995" end="1030"/>
+  </contributor>
+  <contributor label="presented in the &quot; debate &quot; about same-sex marriage in the U.S. friggin ' Senate">
+   <part label="presented in the &quot; debate &quot; about same-sex marriage in the U.S. friggin ' Senate" start="4198" end="4278"/>
+  </contributor>
+ </scu>
+ <scu uid="156" label="unfair because Cameron is not apart of the Republican Leadership">
+  <contributor label="unfair because Cameron is not apart of the Republican Leadership...views of Cameron are outdated with the views of Republicans today">
+   <part label="unfair because Cameron is not apart of the Republican Leadership" start="1571" end="1635"/>
+   <part label="views of Cameron are outdated with the views of Republicans today" start="1650" end="1715"/>
+  </contributor>
+  <contributor label="Paul Cameron a psychologist having nothing to do with politicians ideas or decisions...republicans do not cite or reference Paul because he is not a reliable source...Republicans platform or party leadership does not has to do with Pauls views">
+   <part label="Paul Cameron a psychologist having nothing to do with politicians ideas or decisions" start="2212" end="2296"/>
+   <part label="republicans do not cite or reference Paul because he is not a reliable source" start="2323" end="2400"/>
+   <part label="Republicans platform or party leadership does not has to do with Pauls views" start="2731" end="2807"/>
+  </contributor>
+  <contributor label="Paul Cameron has anything to do whatsoever with Republican politics or leadership">
+   <part label="Paul Cameron has anything to do whatsoever with Republican politics or leadership" start="3319" end="3400"/>
+  </contributor>
+ </scu>
+ <scu uid="165" label="Matt is making ridiculous comments and generalizations.">
+  <contributor label="Matt is pulling some wild point out of his hat...Matt's ridiculous generalizations and comments">
+   <part label="Matt is pulling some wild point out of his hat" start="3402" end="3448"/>
+   <part label="Matt's ridiculous generalizations and comments" start="3664" end="3710"/>
+  </contributor>
+  <contributor label="its not about Paul Cameron but about Matts ridiculous comments">
+   <part label="its not about Paul Cameron but about Matts ridiculous comments" start="5241" end="5303"/>
+  </contributor>
+ </scu>
+ <scu uid="160" label="Most people share the same views on a topic.">
+  <contributor label="most people do share the same views">
+   <part label="most people do share the same views" start="711" end="746"/>
+  </contributor>
+  <contributor label="if a party constantly uses the research of single person, then they must share the beliefs of that person">
+   <part label="if a party constantly uses the research of single person, then they must share the beliefs of that person" start="1906" end="2011"/>
+  </contributor>
+ </scu>
+ <scu uid="161" label="connecting Cameron with George W. Bush">
+  <contributor label="connecting Cameron with George W. Bush">
+   <part label="connecting Cameron with George W. Bush" start="1848" end="1886"/>
+  </contributor>
+ </scu>
+ <scu uid="169" label="he should have linked someone in the Republican leadership saying those things">
+  <contributor label="he should have linked someone in the Republican leadership saying those things">
+   <part label="he should have linked someone in the Republican leadership saying those things" start="4815" end="4893"/>
+  </contributor>
+ </scu>
+ <scu uid="166" label="in ALL their attempts to limit the rights of gay people">
+  <contributor label="in ALL their attempts to limit the rights of gay people">
+   <part label="in ALL their attempts to limit the rights of gay people" start="4006" end="4061"/>
+  </contributor>
+ </scu>
+ <scu uid="167" label="laughable to try to defend the GOP">
+  <contributor label="laughable to try to defend the GOP">
+   <part label="laughable to try to defend the GOP" start="4464" end="4498"/>
+  </contributor>
+ </scu>
+ <scu uid="168" label="one of their admittedly most effective propaganda campaigns is to rally the &quot; family-values &quot; crowd against gay rights">
+  <contributor label="one of their admittedly most effective propaganda campaigns is to rally the &quot; family-values &quot; crowd against gay rights">
+   <part label="one of their admittedly most effective propaganda campaigns is to rally the &quot; family-values &quot; crowd against gay rights" start="4504" end="4622"/>
+  </contributor>
+ </scu>
+ <scu uid="170" label="S1 is probably right to assume that some people were anti-religion">
+  <contributor label="S1 is probably right to assume that some people were anti-religion">
+   <part label="S1 is probably right to assume that some people were anti-religion" start="5598" end="5664"/>
+  </contributor>
+ </scu>
+ <scu uid="164" label="there's a big difference between possibility and likelihood">
+  <contributor label="there's a big difference between possibility and likelihood">
+   <part label="there's a big difference between possibility and likelihood" start="3101" end="3160"/>
+  </contributor>
+ </scu>
+ <scu uid="163" label="to stay on point and not divert the conversation">
+  <contributor label="to stay on point and not divert the conversation">
+   <part label="to stay on point and not divert the conversation" start="2603" end="2651"/>
+  </contributor>
+ </scu>
+</pyramid>

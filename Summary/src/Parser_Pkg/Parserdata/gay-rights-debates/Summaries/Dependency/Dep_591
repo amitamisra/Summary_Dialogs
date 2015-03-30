@@ -1,0 +1,36 @@
+marriage , legally , to them , is only between one man and one woman.
+root(ROOT-0, is-8)
+nsubj(is-8, marriage-1)
+advmod(is-8, legally-3)
+prep(is-8, to-5)
+pobj(to-5, them-6)
+advmod(is-8, only-9)
+prep(is-8, between-10)
+num(man-12, one-11)
+pobj(between-10, man-12)
+cc(man-12, and-13)
+num(woman-15, one-14)
+conj(man-12, woman-15)
+
+marriage , legally , to them , is only between one man and one woman.
+root(ROOT-0, is-8)
+nsubj(is-8, marriage-1)
+advmod(is-8, legally-3)
+prep(is-8, to-5)
+pobj(to-5, them-6)
+advmod(is-8, only-9)
+prep(is-8, between-10)
+num(man-12, one-11)
+pobj(between-10, man-12)
+cc(man-12, and-13)
+num(woman-15, one-14)
+conj(man-12, woman-15)
+
+S2 wants to draw the line.
+root(ROOT-0, wants-2)
+nsubj(wants-2, S2-1)
+aux(draw-4, to-3)
+xcomp(wants-2, draw-4)
+det(line-6, the-5)
+dobj(draw-4, line-6)
+

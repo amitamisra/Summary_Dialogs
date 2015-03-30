@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (DT either#0#0) (CD one)) (PP (IN of) (NP (PRP them)))) (VP (MD can) (VP (VB be) (VP (VBG impeding) (PP (IN on) (NP (DT the) (NNS others) (JJ religious) (NN freedom))))))))) (. .)))

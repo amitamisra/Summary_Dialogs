@@ -1,0 +1,2 @@
+root(ROOT-0, about-1)
+pobj(about-1, hoe-2)

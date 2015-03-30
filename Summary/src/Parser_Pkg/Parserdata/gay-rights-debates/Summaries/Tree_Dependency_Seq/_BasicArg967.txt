@@ -1,0 +1,7 @@
+root(ROOT-0, prejudice-7)
+nsubj(prejudice-7, Moral-1)
+cc(Moral-1, or-2)
+amod(prejudice-4, religious-3)
+conj(Moral-1, prejudice-4)
+cop(prejudice-7, is-5)
+advmod(prejudice-7, still-6)

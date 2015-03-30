@@ -1,0 +1,28 @@
+  that the divorce rate drops significantly 
+root(ROOT-0, drops-5)
+mark(drops-5, that-1)
+det(rate-4, the-2)
+nn(rate-4, divorce-3)
+nsubj(drops-5, rate-4)
+advmod(drops-5, significantly-6)
+
+   heterosexuals ca n't marry members of the same sex . 
+root(ROOT-0, marry-4)
+nsubj(marry-4, heterosexuals-1)
+aux(marry-4, ca-2)
+neg(marry-4, n't-3)
+dobj(marry-4, members-5)
+det(sex-9, the-7)
+amod(sex-9, same-8)
+prep_of(members-5, sex-9)
+
+   heterosexuals ca n't marry members of the same sex . 
+root(ROOT-0, marry-4)
+nsubj(marry-4, heterosexuals-1)
+aux(marry-4, ca-2)
+neg(marry-4, n't-3)
+dobj(marry-4, members-5)
+det(sex-9, the-7)
+amod(sex-9, same-8)
+prep_of(members-5, sex-9)
+

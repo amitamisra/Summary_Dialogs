@@ -1,0 +1,30 @@
+This discussion is about the government roll in marriage , specifically pertaining to homosexual marriage .
+
+
+root(ROOT-0, pertaining-12)
+det(discussion-2, This-1)
+nsubj(pertaining-12, discussion-2)
+aux(pertaining-12, is-3)
+det(roll-7, the-5)
+nn(roll-7, government-6)
+prep_about(pertaining-12, roll-7)
+prep_in(roll-7, marriage-9)
+advmod(pertaining-12, specifically-11)
+amod(marriage-15, homosexual-14)
+prep_to(pertaining-12, marriage-15)
+
+This discussion is about the government roll in marriage , specifically pertaining to homosexual marriage .
+
+
+root(ROOT-0, pertaining-12)
+det(discussion-2, This-1)
+nsubj(pertaining-12, discussion-2)
+aux(pertaining-12, is-3)
+det(roll-7, the-5)
+nn(roll-7, government-6)
+prep_about(pertaining-12, roll-7)
+prep_in(roll-7, marriage-9)
+advmod(pertaining-12, specifically-11)
+amod(marriage-15, homosexual-14)
+prep_to(pertaining-12, marriage-15)
+

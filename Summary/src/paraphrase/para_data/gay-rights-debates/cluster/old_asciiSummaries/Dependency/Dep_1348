@@ -1,0 +1,18 @@
+S2 quoted a CNN poll which found that many people do not want gay marriage, includingm.
+root(ROOT-0, quoted-2)
+nsubj(quoted-2, S2-1)
+det(poll-5, a-3)
+nn(poll-5, CNN-4)
+dobj(quoted-2, poll-5)
+nsubj(found-7, which-6)
+rcmod(poll-5, found-7)
+mark(want-13, that-8)
+amod(people-10, many-9)
+nsubj(want-13, people-10)
+aux(want-13, do-11)
+neg(want-13, not-12)
+ccomp(found-7, want-13)
+amod(marriage-15, gay-14)
+dobj(want-13, marriage-15)
+appos(marriage-15, includingm-17)
+

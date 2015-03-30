@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ brings) (PRT (RP up)) (NP (NP (NP (DT the) (NN question)) (PP (IN of) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (RB socially) (VBN accepted))))))) (CC and#0#0) (NP (NP (DT the) (NNS types)) (PP (IN of) (NP (JJ taboo) (NN relationship) (CC and#1#0) (NN legality)))))) (. .)))

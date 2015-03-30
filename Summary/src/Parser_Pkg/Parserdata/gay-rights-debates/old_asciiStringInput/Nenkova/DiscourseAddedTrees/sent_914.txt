@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBD brought) (PRT (RP out)) (NP (NP (NNS AIs)) (PP (IN in) (NP (NNP Africa)))) (SBAR (IN because#0#Contingency) (S (NP (NN location)) (VP (VBZ is) (ADJP (JJ irrelevant) (PP (IN in) (S (VP (VBG refuting) (NP (NP (NN S1) (POS 's)) (NN logic)))))))))) (. .)))

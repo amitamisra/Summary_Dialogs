@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS notes)) (PP (IN that) (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NP (NNS earthquakes)) (PP (IN outside) (NP (NNP Israel)))))))) (VP (VBZ has) (VP (VBN increased) (NP (PRP I)) (NP (NP (DT the) (JJ last) (CD one) (CD hundred) (NNS years)) (ADVP (RB exponentially))))) (. .)))

@@ -1,0 +1,59 @@
+S1 presents the idea that gay marriage has been pervasive in many cultures , including the Romans , Greeks , Celts , and American Indians .
+
+
+root(ROOT-0, presents-2)
+nsubj(presents-2, S1-1)
+det(idea-4, the-3)
+dobj(presents-2, idea-4)
+mark(pervasive-10, that-5)
+amod(marriage-7, gay-6)
+nsubj(pervasive-10, marriage-7)
+aux(pervasive-10, has-8)
+cop(pervasive-10, been-9)
+ccomp(presents-2, pervasive-10)
+amod(cultures-13, many-12)
+prep_in(pervasive-10, cultures-13)
+det(Romans-17, the-16)
+prep_including(pervasive-10, Romans-17)
+prep_including(pervasive-10, Greeks-19)
+conj_and(Romans-17, Greeks-19)
+prep_including(pervasive-10, Celts-21)
+conj_and(Romans-17, Celts-21)
+amod(Indians-25, American-24)
+prep_including(pervasive-10, Indians-25)
+conj_and(Romans-17, Indians-25)
+
+ that eight of nine supreme courts have contended same sex marriage to be unconstitutional .
+
+
+root(ROOT-0, contended-8)
+mark(contended-8, that-1)
+nsubj(contended-8, eight-2)
+num(courts-6, nine-4)
+nn(courts-6, supreme-5)
+prep_of(eight-2, courts-6)
+aux(contended-8, have-7)
+amod(marriage-11, same-9)
+nn(marriage-11, sex-10)
+dobj(contended-8, marriage-11)
+aux(unconstitutional-14, to-12)
+cop(unconstitutional-14, be-13)
+vmod(contended-8, unconstitutional-14)
+
+ that eight of nine supreme courts have contended same sex marriage to be unconstitutional .
+
+
+root(ROOT-0, contended-8)
+mark(contended-8, that-1)
+nsubj(contended-8, eight-2)
+num(courts-6, nine-4)
+nn(courts-6, supreme-5)
+prep_of(eight-2, courts-6)
+aux(contended-8, have-7)
+amod(marriage-11, same-9)
+nn(marriage-11, sex-10)
+dobj(contended-8, marriage-11)
+aux(unconstitutional-14, to-12)
+cop(unconstitutional-14, be-13)
+vmod(contended-8, unconstitutional-14)
+

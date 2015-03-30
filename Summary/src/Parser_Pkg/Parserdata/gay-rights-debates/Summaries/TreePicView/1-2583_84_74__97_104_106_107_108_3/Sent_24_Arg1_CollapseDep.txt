@@ -1,0 +1,7 @@
+root(ROOT-0, does-4)
+amod(marriage-3, same-1)
+nn(marriage-3, sex-2)
+nsubj(does-4, marriage-3)
+ccomp(does-4, benefit-6)
+poss(U.S.-8, our-7)
+dobj(benefit-6, U.S.-8)

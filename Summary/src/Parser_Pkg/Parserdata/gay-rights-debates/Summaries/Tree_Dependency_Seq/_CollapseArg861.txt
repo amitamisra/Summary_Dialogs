@@ -1,0 +1,6 @@
+root(ROOT-0, wrong-8)
+prep_in(wrong-8, 1909-2)
+cop(homosexual-5, being-4)
+csubj(wrong-8, homosexual-5)
+cop(wrong-8, was-6)
+advmod(wrong-8, morally-7)

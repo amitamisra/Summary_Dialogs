@@ -1,0 +1,3 @@
+root(ROOT-0, agree-4)
+nsubj(agree-4, each-1)
+prep_of(each-1, them-3)

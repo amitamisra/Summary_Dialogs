@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ goes) (PRT (IN on)) (S (VP (TO to) (VP (VB wonder) (SBAR (WHNP (WP what)) (S (NP (NNP MLK)) (VP (MD would) (VP (VB have) (VP (VBN had) (S (VP (TO to) (VP (VB say) (PP (IN on) (NP (DT the) (NN subject))))))))))))))) (. .)))

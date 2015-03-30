@@ -1,0 +1,1 @@
+(ROOT (S (RB Then) (NP (NN S1)) (VP (VBZ goes) (PRT (IN on)) (S (VP (TO to) (VP (VB say) (SBAR (IN that) (S (NP (DT this) (NN tactic)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB instill) (NP (NN fear)) (PP (TO to) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB not) (VP (VB support) (NP (DT those) (JJ other) (NNS issues))))))))))))))))))) (. .)))

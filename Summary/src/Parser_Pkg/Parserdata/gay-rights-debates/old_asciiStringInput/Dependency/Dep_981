@@ -1,0 +1,40 @@
+  that gay marriage doesnt violate her/politicians rights of heterosexual privilege , entitlement 
+root(ROOT-0, violate-5)
+mark(violate-5, that-1)
+amod(doesnt-4, gay-2)
+nn(doesnt-4, marriage-3)
+nsubj(violate-5, doesnt-4)
+nn(rights-7, her/politicians-6)
+dobj(violate-5, rights-7)
+amod(privilege-10, heterosexual-9)
+prep_of(rights-7, privilege-10)
+appos(privilege-10, entitlement-12)
+
+ that most Christians in this country oppose civil marriages for gay rights .
+
+
+root(ROOT-0, oppose-7)
+mark(oppose-7, that-1)
+amod(Christians-3, most-2)
+nsubj(oppose-7, Christians-3)
+det(country-6, this-5)
+prep_in(Christians-3, country-6)
+amod(marriages-9, civil-8)
+dobj(oppose-7, marriages-9)
+amod(rights-12, gay-11)
+prep_for(marriages-9, rights-12)
+
+ that most Christians in this country oppose civil marriages for gay rights .
+
+
+root(ROOT-0, oppose-7)
+mark(oppose-7, that-1)
+amod(Christians-3, most-2)
+nsubj(oppose-7, Christians-3)
+det(country-6, this-5)
+prep_in(Christians-3, country-6)
+amod(marriages-9, civil-8)
+dobj(oppose-7, marriages-9)
+amod(rights-12, gay-11)
+prep_for(marriages-9, rights-12)
+

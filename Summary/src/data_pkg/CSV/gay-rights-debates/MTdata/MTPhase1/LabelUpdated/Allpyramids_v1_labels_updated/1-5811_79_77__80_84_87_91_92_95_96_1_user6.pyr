@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1: Religion is a good tool to guide one's own actions, but not for telling others how to live. People have been prejudiced against homosexuals for a long time. Moral or religious prejudice is still prejudice. A person can claim a moral or religious stance without having one. You cannot justify an anti-gay agenda on morals or religion. An anti-gay stance on the grounds of religious belief is prejudice. Prejudice based on religious belief implies that a religious person's acts of prejudice could have a negative impact on homosexuals, because they believe that being gay is morally reprehensible. </line>
+  <line> </line>
+  <line>S2: Prejudice is a fact of human existence. Christianity is a moral system. When people claim religion in morals, they abandon that moral system. It is religious belief - not prejudice - that makes one take an anti-gay stance. The Bible says that homosexuality is wrong, so if you believe in the Bible as your moral canon, then you believe that homosexuality is wrong as well.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>Two people are discussing gay marriage.  S1 believes that the anti-gay agenda is based on prejudice, and that simply calling something moral or religious does not mean it can't be prejudice at the same time.  He contends that people who justify the anti-gay agenda claim a moral or religious stance without having one. He also states that he has never seen someone justify an anti-gay agenda based solely on morals or religion. S2 retorts by stating that when people claim religion in doing prejudice they are actually abandoning their morals, and prejudice is not what's behind people's opposition to gays being in romantic relationships.  He states that the simple reason is because it's Biblical; the Bible says it shouldn't be done so it shouldn't be done.  S2 then points out that if that is someone's belief then that's fine, but banning someone else from doing it due to that belief is imposing their views on others, which is wrong.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 believes it is prejudice as opposed to religious or moral beliefs which fuel the anti-gay agenda; advising a moral-bases system does not allow for the intentional targeting of another and also religion could be cited but is not based upon dictating how another should live.  S1 believes all religious based arguments regarding gay issues eventually circle around to prejudice and invites S2 to support the religious argument without this happening.  S1 advises there is no issue with people who do not try to push their views on others.</line>
+  <line></line>
+  <line>S2 concedes religion is not to blame in and of itself and eludes to the point that often times people who are claiming a religious or moral reason for their actions are doing so after having gone against the premise on which their belief is based.  S2 also advises he/she is against same sex relationships because the Bible says it's wrong but does not impose his/her beliefs on others and is not prejudice.  S2 refuses to give the summary of their religious argument.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing anti-gay bias and the nature of prejudice versus valid religious beliefs.  S1 believes it is prejudicial to hold anti-gay opinions, whether based on religious values or otherwise, and use them to impose ones views on another. S2 agrees that religious belief can be improperly used as the pretext for acts of prejudice against the gay community, but proposes that only people who are lying about having religious values against homosexuality should be accused of being prejudiced.  S2 asserts vaguely that her belief that &quot;Christ is a resurrected being&quot; somehow absolves her of prejudice in being generally opposed to homosexuality.  S1 seems inclined to grant her leeway based on such a religious objection, but requests more specifics as to why a Christian must oppose homosexuality and admonishes S1 not to actively agitate against the gay community or advocate for public policies which are discriminatory.  S1 is opposed to groups such as &quot;Focus on the Family&quot; (may be a misnomer) who attempt to impose their views on others.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 believes that people can be prejudiced without having a true religious or moral reasoning behind it, and that sometimes those that do are claiming that they do falsely. This person believes that anti-homosexual sentiments are based on prejudice and that those who oppose homosexual lifestyles use religion and morals as an excuse to say that they aren't actually prejudiced. This person voices a displeasure in those who would press their own personal biases upon others, especially when using morals or religion as reasons for doing so.</line>
+  <line>S2 believes that people can have a strong moral or religious belief and not be prejudiced. This person does not approve of a homosexual lifestyle and argues that it is not because of prejudice but because of his or her personal religious beliefs. He or she, however, states that they have no desire to impose such beliefs on anyone else. This person believes that what they personally believe is not what everyone else does, and agrees that people can falsely claim a moral or religious opposition to homosexual lifestyles.</line>
+ </text>
+ <scu uid="23" label="it is prejudice as opposed to religious or moral beliefs which fuel the anti-gay agenda;">
+  <contributor label="S1 believes it is prejudice as opposed to religious or moral beliefs which fuel the anti-gay agenda;...S2 concedes religion is not to blame in and of itself">
+   <part label="S1 believes it is prejudice as opposed to religious or moral beliefs which fuel the anti-gay agenda;" start="2002" end="2102"/>
+   <part label="S2 concedes religion is not to blame in and of itself" start="2543" end="2596"/>
+  </contributor>
+  <contributor label="S1 believes it is prejudicial to hold anti-gay opinions, whether based on religious values or otherwise">
+   <part label="S1 believes it is prejudicial to hold anti-gay opinions, whether based on religious values or otherwise" start="3139" end="3242"/>
+  </contributor>
+  <contributor label="S1 believes that the anti-gay agenda is based on prejudice...simply calling something moral or religious does not mean it can't be prejudice at the same time">
+   <part label="S1 believes that the anti-gay agenda is based on prejudice" start="1075" end="1133"/>
+   <part label="simply calling something moral or religious does not mean it can't be prejudice at the same time" start="1144" end="1240"/>
+  </contributor>
+  <contributor label="Moral or religious prejudice is still prejudice...An anti-gay stance on the grounds of religious belief is prejudice">
+   <part label="Moral or religious prejudice is still prejudice" start="187" end="234"/>
+   <part label="An anti-gay stance on the grounds of religious belief is prejudice" start="364" end="430"/>
+  </contributor>
+  <contributor label="S1 believes that people can be prejudiced without having a true religious or moral reasoning behind it...This person believes that anti-homosexual sentiments are based on prejudice">
+   <part label="S1 believes that people can be prejudiced without having a true religious or moral reasoning behind it" start="4121" end="4223"/>
+   <part label="This person believes that anti-homosexual sentiments are based on prejudice" start="4293" end="4368"/>
+  </contributor>
+ </scu>
+ <scu uid="32" label="It is religious belief - not prejudice - that makes one take an anti-gay stance">
+  <contributor label="they believe that being gay is morally reprehensible...It is religious belief - not prejudice - that makes one take an anti-gay stance...The Bible says that homosexuality is wrong, so if you believe in the Bible as your moral canon, then you believe that homosexuality is wrong as well">
+   <part label="It is religious belief - not prejudice - that makes one take an anti-gay stance" start="776" end="855"/>
+   <part label="The Bible says that homosexuality is wrong, so if you believe in the Bible as your moral canon, then you believe that homosexuality is wrong as well" start="857" end="1005"/>
+   <part label="they believe that being gay is morally reprehensible" start="573" end="625"/>
+  </contributor>
+  <contributor label="prejudice is not what's behind people's opposition to gays being in romantic relationships...He states that the simple reason is because it's Biblical; the Bible says it shouldn't be done so it shouldn't be done">
+   <part label="He states that the simple reason is because it's Biblical; the Bible says it shouldn't be done so it shouldn't be done" start="1675" end="1793"/>
+   <part label="prejudice is not what's behind people's opposition to gays being in romantic relationships" start="1582" end="1672"/>
+  </contributor>
+  <contributor label="S2 believes that people can have a strong moral or religious belief and not be prejudiced...does not approve of a homosexual lifestyle and argues that it is not because of prejudice but because of his or her personal religious beliefs">
+   <part label="S2 believes that people can have a strong moral or religious belief and not be prejudiced" start="4662" end="4751"/>
+   <part label="does not approve of a homosexual lifestyle and argues that it is not because of prejudice but because of his or her personal religious beliefs" start="4765" end="4907"/>
+  </contributor>
+  <contributor label="he/she is against same sex relationships because the Bible says it's wrong but does not impose his/her beliefs on others and is not prejudice">
+   <part label="he/she is against same sex relationships because the Bible says it's wrong but does not impose his/her beliefs on others and is not prejudice" start="2808" end="2949"/>
+  </contributor>
+  <contributor label="S2 asserts vaguely that her belief that &quot;Christ is a resurrected being&quot; somehow absolves her of prejudice in being generally opposed to homosexuality...S1 seems inclined to grant her leeway based on such a religious objection">
+   <part label="S2 asserts vaguely that her belief that &quot;Christ is a resurrected being&quot; somehow absolves her of prejudice in being generally opposed to homosexuality" start="3545" end="3694"/>
+   <part label="S1 seems inclined to grant her leeway based on such a religious objection" start="3697" end="3770"/>
+  </contributor>
+ </scu>
+ <scu uid="33" label="when people claim religion in doing prejudice they are actually abandoning their morals">
+  <contributor label="when people claim religion in doing prejudice they are actually abandoning their morals">
+   <part label="when people claim religion in doing prejudice they are actually abandoning their morals" start="1489" end="1576"/>
+  </contributor>
+  <contributor label="When people claim religion in morals, they abandon that moral system">
+   <part label="When people claim religion in morals, they abandon that moral system" start="706" end="774"/>
+  </contributor>
+  <contributor label="only people who are lying about having religious values against homosexuality should be accused of being prejudiced">
+   <part label="only people who are lying about having religious values against homosexuality should be accused of being prejudiced" start="3427" end="3542"/>
+  </contributor>
+  <contributor label="people who are claiming a religious or moral reason for their actions are doing so after having gone against the premise on which their belief is based">
+   <part label="people who are claiming a religious or moral reason for their actions are doing so after having gone against the premise on which their belief is based" start="2638" end="2789"/>
+  </contributor>
+  <contributor label="those who oppose homosexual lifestyles use religion and morals as an excuse to say that they aren't actually prejudiced...when using morals or religion as reasons for doing so">
+   <part label="those who oppose homosexual lifestyles use religion and morals as an excuse to say that they aren't actually prejudiced" start="4378" end="4497"/>
+   <part label="when using morals or religion as reasons for doing so" start="4607" end="4660"/>
+  </contributor>
+ </scu>
+ <scu uid="21" label="Two people are discussing gay marriage">
+  <contributor label="Two people are discussing gay marriage">
+   <part label="Two people are discussing gay marriage" start="1034" end="1072"/>
+  </contributor>
+  <contributor label="S1 and S2 are discussing anti-gay bias">
+   <part label="S1 and S2 are discussing anti-gay bias" start="3039" end="3077"/>
+  </contributor>
+ </scu>
+ <scu uid="31" label="You cannot justify an anti-gay agenda on morals or religion">
+  <contributor label="You cannot justify an anti-gay agenda on morals or religion">
+   <part label="You cannot justify an anti-gay agenda on morals or religion" start="303" end="362"/>
+  </contributor>
+  <contributor label="He also states that he has never seen someone justify an anti-gay agenda based solely on morals or religion">
+   <part label="He also states that he has never seen someone justify an anti-gay agenda based solely on morals or religion" start="1353" end="1460"/>
+  </contributor>
+  <contributor label="advising a moral-bases system does not allow for the intentional targeting of another">
+   <part label="advising a moral-bases system does not allow for the intentional targeting of another" start="2103" end="2188"/>
+  </contributor>
+ </scu>
+ <scu uid="27" label="People have been prejudiced against homosexuals for a long time">
+  <contributor label="People have been prejudiced against homosexuals for a long time">
+   <part label="People have been prejudiced against homosexuals for a long time" start="122" end="185"/>
+  </contributor>
+ </scu>
+ <scu uid="28" label="Religion is a good tool to guide one's own actions, but not for telling others how to live">
+  <contributor label="Religion is a good tool to guide one's own actions, but not for telling others how to live">
+   <part label="Religion is a good tool to guide one's own actions, but not for telling others how to live" start="30" end="120"/>
+  </contributor>
+  <contributor label="religion could be cited but is not based upon dictating how another should live">
+   <part label="religion could be cited but is not based upon dictating how another should live" start="2198" end="2277"/>
+  </contributor>
+ </scu>
+ <scu uid="34" label="A person can claim a moral or religious stance without having one">
+  <contributor label="A person can claim a moral or religious stance without having one">
+   <part label="A person can claim a moral or religious stance without having one" start="236" end="301"/>
+  </contributor>
+  <contributor label="He contends that people who justify the anti-gay agenda claim a moral or religious stance without having one">
+   <part label="He contends that people who justify the anti-gay agenda claim a moral or religious stance without having one" start="1243" end="1351"/>
+  </contributor>
+  <contributor label="claiming that they do falsely...agrees that people can falsely claim a moral or religious opposition to homosexual lifestyles">
+   <part label="agrees that people can falsely claim a moral or religious opposition to homosexual lifestyles" start="5091" end="5184"/>
+   <part label="claiming that they do falsely" start="4262" end="4291"/>
+  </contributor>
+ </scu>
+ <scu uid="35" label="the nature of prejudice versus valid religious beliefs">
+  <contributor label="the nature of prejudice versus valid religious beliefs">
+   <part label="the nature of prejudice versus valid religious beliefs" start="3082" end="3136"/>
+  </contributor>
+  <contributor label="Prejudice is a fact of human existence. Christianity is a moral system">
+   <part label="Prejudice is a fact of human existence. Christianity is a moral system" start="634" end="704"/>
+  </contributor>
+ </scu>
+ <scu uid="36" label="summary of their religious argument">
+  <contributor label="S2 refuses to give the summary of their religious argument">
+   <part label="S2 refuses to give the summary of their religious argument" start="2952" end="3010"/>
+  </contributor>
+ </scu>
+ <scu uid="38" label="there is no issue with people who do not try to push their views on others">
+  <contributor label="S1 advises there is no issue with people who do not try to push their views on others">
+   <part label="S1 advises there is no issue with people who do not try to push their views on others" start="2455" end="2540"/>
+  </contributor>
+  <contributor label="banning someone else from doing it due to that belief is imposing their views on others, which is wrong">
+   <part label="banning someone else from doing it due to that belief is imposing their views on others, which is wrong" start="1870" end="1973"/>
+  </contributor>
+  <contributor label="use them to impose ones views on another...admonishes S1 not to actively agitate against the gay community or advocate for public policies which are discriminatory...S1 is opposed to groups such as &quot;Focus on the Family&quot; (may be a misnomer) who attempt to impose their views on others">
+   <part label="S1 is opposed to groups such as &quot;Focus on the Family&quot; (may be a misnomer) who attempt to impose their views on others" start="3975" end="4092"/>
+   <part label="admonishes S1 not to actively agitate against the gay community or advocate for public policies which are discriminatory" start="3852" end="3972"/>
+   <part label="use them to impose ones views on another" start="3248" end="3288"/>
+  </contributor>
+  <contributor label="This person voices a displeasure in those who would press their own personal biases upon others...states that they have no desire to impose such beliefs on anyone else...This person believes that what they personally believe is not what everyone else does">
+   <part label="states that they have no desire to impose such beliefs on anyone else" start="4929" end="4998"/>
+   <part label="This person believes that what they personally believe is not what everyone else does" start="5000" end="5085"/>
+   <part label="This person voices a displeasure in those who would press their own personal biases upon others" start="4499" end="4594"/>
+  </contributor>
+ </scu>
+ <scu uid="39" label="A Christian must oppose homosexuality">
+  <contributor label="requests more specifics as to why a Christian must oppose homosexuality">
+   <part label="requests more specifics as to why a Christian must oppose homosexuality" start="3776" end="3847"/>
+  </contributor>
+ </scu>
+ <scu uid="41" label="all religious based arguments regarding gay issues eventually circle around to prejudice">
+  <contributor label="S1 believes all religious based arguments regarding gay issues eventually circle around to prejudice">
+   <part label="S1 believes all religious based arguments regarding gay issues eventually circle around to prejudice" start="2280" end="2380"/>
+  </contributor>
+ </scu>
+ <scu uid="42" label="religious belief can be improperly used as the pretext for acts of prejudice against the gay community">
+  <contributor label="religious belief can be improperly used as the pretext for acts of prejudice against the gay community">
+   <part label="religious belief can be improperly used as the pretext for acts of prejudice against the gay community" start="3305" end="3407"/>
+  </contributor>
+  <contributor label="Prejudice based on religious belief implies that a religious person's acts of prejudice could have a negative impact on homosexuals">
+   <part label="Prejudice based on religious belief implies that a religious person's acts of prejudice could have a negative impact on homosexuals" start="432" end="563"/>
+  </contributor>
+ </scu>
+ <scu uid="43" label="someone's belief is fine">
+  <contributor label="S2 then points out that if that is someone's belief then that's fine">
+   <part label="S2 then points out that if that is someone's belief then that's fine" start="1796" end="1864"/>
+  </contributor>
+ </scu>
+ <scu uid="44" label="support the religious argument without this happening">
+  <contributor label="invites S2 to support the religious argument without this happening">
+   <part label="invites S2 to support the religious argument without this happening" start="2385" end="2452"/>
+  </contributor>
+ </scu>
+</pyramid>

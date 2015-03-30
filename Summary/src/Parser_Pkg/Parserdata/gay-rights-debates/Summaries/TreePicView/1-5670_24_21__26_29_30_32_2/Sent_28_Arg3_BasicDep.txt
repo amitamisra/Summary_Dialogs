@@ -1,0 +1,3 @@
+root(ROOT-0, thinks-3)
+det(person-2, This-1)
+nsubj(thinks-3, person-2)

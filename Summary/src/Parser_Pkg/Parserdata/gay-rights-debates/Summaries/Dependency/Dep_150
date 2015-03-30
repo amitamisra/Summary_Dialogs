@@ -1,0 +1,46 @@
+S2 counters by asking about artificial insemination.
+root(ROOT-0, counters-2)
+nn(counters-2, S2-1)
+prep(counters-2, by-3)
+pcomp(by-3, asking-4)
+prep(asking-4, about-5)
+amod(insemination-7, artificial-6)
+pobj(about-5, insemination-7)
+
+S2 counters by asking about artificial insemination.
+root(ROOT-0, counters-2)
+nn(counters-2, S2-1)
+prep(counters-2, by-3)
+pcomp(by-3, asking-4)
+prep(asking-4, about-5)
+amod(insemination-7, artificial-6)
+pobj(about-5, insemination-7)
+
+S2 counters by asking about artificial insemination.
+root(ROOT-0, counters-2)
+nn(counters-2, S2-1)
+prep(counters-2, by-3)
+pcomp(by-3, asking-4)
+prep(asking-4, about-5)
+amod(insemination-7, artificial-6)
+pobj(about-5, insemination-7)
+
+S2 counters by asking about artificial insemination.
+root(ROOT-0, counters-2)
+nn(counters-2, S2-1)
+prep(counters-2, by-3)
+pcomp(by-3, asking-4)
+prep(asking-4, about-5)
+amod(insemination-7, artificial-6)
+pobj(about-5, insemination-7)
+
+ he felt like shaking something at S2 and.
+root(ROOT-0, felt-2)
+nsubj(felt-2, he-1)
+prep(felt-2, like-3)
+dep(like-3, shaking-4)
+dobj(shaking-4, something-5)
+prep(something-5, at-6)
+pobj(at-6, S2-7)
+cc(shaking-4, and-8)
+

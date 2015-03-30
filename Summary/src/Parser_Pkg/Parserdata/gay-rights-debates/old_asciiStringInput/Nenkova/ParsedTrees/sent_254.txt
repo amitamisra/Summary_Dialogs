@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT a) (JJ double) (JJ standard)) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB basically)) (VP (VBG saying) (NP (NP (JJ equal) (NNS rights)) (PP (IN for) (NP (DT all))))))))))))) (CC but) (S (NP (NNS gays)) (ADVP (RB still)) (VP (MD can) (RB not) (VP (VB marry)))) (. .)))

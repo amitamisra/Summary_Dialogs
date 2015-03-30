@@ -1,0 +1,5 @@
+root(ROOT-0, relative-3)
+nsubj(relative-3, it-1)
+nsubj(subjective-5, it-1)
+cop(relative-3, is-2)
+conj_and(relative-3, subjective-5)

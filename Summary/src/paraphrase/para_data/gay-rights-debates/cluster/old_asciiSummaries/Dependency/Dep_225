@@ -1,0 +1,15 @@
+He asks for objective evidence and thinks S1's lack of evidence proves there is none.
+root(ROOT-0, asks-2)
+nsubj(asks-2, He-1)
+nsubj(thinks-7, He-1)
+amod(evidence-5, objective-4)
+prep_for(asks-2, evidence-5)
+conj_and(asks-2, thinks-7)
+poss(lack-10, S1-8)
+nsubj(proves-13, lack-10)
+prep_of(lack-10, evidence-12)
+ccomp(thinks-7, proves-13)
+expl(is-15, there-14)
+ccomp(proves-13, is-15)
+nsubj(is-15, none-16)
+

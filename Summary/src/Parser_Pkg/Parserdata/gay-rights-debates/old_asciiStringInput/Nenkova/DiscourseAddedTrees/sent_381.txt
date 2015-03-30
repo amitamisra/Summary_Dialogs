@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT That)) (VP (VBZ means) (SBAR (IN that) (S (NP (JJ same) (NN sex) (NNS couples)) (VP (MD will) (VP (VB be) (VP (VBN seen) (PP (IN in) (NP (NP (DT the) (JJ same) (NN light)) (PP (IN as#0#0) (NP (JJ straight) (NNS couples))))))))))) (. .)))

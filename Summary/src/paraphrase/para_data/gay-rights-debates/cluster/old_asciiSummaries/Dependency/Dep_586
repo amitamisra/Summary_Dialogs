@@ -1,0 +1,13 @@
+(S1) says that (S2) is generalizing while (S2) talks about family values.
+root(ROOT-0, says-4)
+nsubj(says-4, S1-2)
+mark(generalizing-10, that-5)
+nsubj(generalizing-10, S2-7)
+aux(generalizing-10, is-9)
+ccomp(says-4, generalizing-10)
+mark(talks-15, while-11)
+nsubj(talks-15, S2-13)
+advcl(generalizing-10, talks-15)
+nn(values-18, family-17)
+prep_about(talks-15, values-18)
+

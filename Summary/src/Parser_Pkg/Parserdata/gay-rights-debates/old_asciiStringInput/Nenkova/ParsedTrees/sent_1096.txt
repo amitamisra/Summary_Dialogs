@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN He/she)) (SBAR (S (VP (VBZ believes) (ADVP (ADVP (RB as) (JJ long)) (SBAR (IN as) (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ separate) (NN set)) (PP (IN of) (NP (NNS standards)))))))))))) (ADVP (RB there)) (VP (MD can) (VP (VB be) (NP (NN rule) (NNS changes)) (S (VP (TO to) (VP (VB prevent) (NP (PRP$ their) (NNS benefits))))))) (. .)))

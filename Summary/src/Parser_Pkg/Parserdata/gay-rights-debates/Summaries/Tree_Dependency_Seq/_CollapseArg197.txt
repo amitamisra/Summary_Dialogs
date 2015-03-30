@@ -1,0 +1,3 @@
+root(ROOT-0, outlawed-2)
+auxpass(outlawed-2, be-1)
+advmod(outlawed-2, everywhere-3)

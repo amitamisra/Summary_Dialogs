@@ -1,0 +1,26 @@
+ it is based on conservative principles against intrusions into individual lives .
+
+
+root(ROOT-0, based-3)
+nsubjpass(based-3, it-1)
+auxpass(based-3, is-2)
+amod(principles-6, conservative-5)
+prep_on(based-3, principles-6)
+prep_against(principles-6, intrusions-8)
+amod(lives-11, individual-10)
+prep_into(based-3, lives-11)
+
+   it vilifies a group of people . 
+root(ROOT-0, vilifies-2)
+nsubj(vilifies-2, it-1)
+det(group-4, a-3)
+dobj(vilifies-2, group-4)
+prep_of(group-4, people-6)
+
+   it vilifies a group of people . 
+root(ROOT-0, vilifies-2)
+nsubj(vilifies-2, it-1)
+det(group-4, a-3)
+dobj(vilifies-2, group-4)
+prep_of(group-4, people-6)
+

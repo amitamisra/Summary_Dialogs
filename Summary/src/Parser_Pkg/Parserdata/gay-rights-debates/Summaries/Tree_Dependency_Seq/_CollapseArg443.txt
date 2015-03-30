@@ -1,0 +1,6 @@
+root(ROOT-0, are-4)
+det(Americans-3, all-1)
+nn(Americans-3, African-2)
+nsubj(are-4, Americans-3)
+amod(marriage-7, gay-6)
+prep_against(are-4, marriage-7)

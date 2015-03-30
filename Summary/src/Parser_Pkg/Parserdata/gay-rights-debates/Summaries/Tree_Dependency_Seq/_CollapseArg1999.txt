@@ -1,0 +1,5 @@
+root(ROOT-0, try-2)
+aux(try-2, to-1)
+conj_and(try-2, remove-4)
+nn(involvement-6, government-5)
+dobj(try-2, involvement-6)

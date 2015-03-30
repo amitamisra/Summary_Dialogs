@@ -1,0 +1,14 @@
+  its for one man and wife 
+root(ROOT-0, its-1)
+num(man-4, one-3)
+prep_for(its-1, man-4)
+prep_for(its-1, wife-6)
+conj_and(man-4, wife-6)
+
+  its for one man and wife 
+root(ROOT-0, its-1)
+num(man-4, one-3)
+prep_for(its-1, man-4)
+prep_for(its-1, wife-6)
+conj_and(man-4, wife-6)
+

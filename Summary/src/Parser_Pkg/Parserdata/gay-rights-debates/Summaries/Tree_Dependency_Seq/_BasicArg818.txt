@@ -1,0 +1,6 @@
+root(ROOT-0, uncomfortable-3)
+nsubj(uncomfortable-3, S1-1)
+cop(uncomfortable-3, is-2)
+prep(uncomfortable-3, with-4)
+det(study-6, the-5)
+pobj(with-4, study-6)

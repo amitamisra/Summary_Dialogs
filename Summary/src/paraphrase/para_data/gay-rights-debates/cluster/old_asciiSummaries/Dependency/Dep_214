@@ -1,0 +1,7 @@
+S1 and S2 are discussingomionists.
+root(ROOT-0, discussingomionists-5)
+nsubj(discussingomionists-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussingomionists-5, S2-3)
+cop(discussingomionists-5, are-4)
+

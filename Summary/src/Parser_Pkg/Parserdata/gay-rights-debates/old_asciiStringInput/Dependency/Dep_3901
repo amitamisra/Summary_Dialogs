@@ -1,0 +1,36 @@
+ that marriage equality is something that the majority of the voters wish to see enacted .
+
+
+root(ROOT-0, something-5)
+mark(something-5, that-1)
+nn(equality-3, marriage-2)
+nsubj(something-5, equality-3)
+cop(something-5, is-4)
+mark(wish-12, that-6)
+det(majority-8, the-7)
+nsubj(wish-12, majority-8)
+det(voters-11, the-10)
+prep_of(majority-8, voters-11)
+ccomp(something-5, wish-12)
+aux(see-14, to-13)
+xcomp(wish-12, see-14)
+dep(see-14, enacted-15)
+
+ that marriage equality is something that the majority of the voters wish to see enacted .
+
+
+root(ROOT-0, something-5)
+mark(something-5, that-1)
+nn(equality-3, marriage-2)
+nsubj(something-5, equality-3)
+cop(something-5, is-4)
+mark(wish-12, that-6)
+det(majority-8, the-7)
+nsubj(wish-12, majority-8)
+det(voters-11, the-10)
+prep_of(majority-8, voters-11)
+ccomp(something-5, wish-12)
+aux(see-14, to-13)
+xcomp(wish-12, see-14)
+dep(see-14, enacted-15)
+

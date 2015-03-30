@@ -1,0 +1,22 @@
+ S1 does not have a problem with such an inconsistency 
+root(ROOT-0, have-4)
+nsubj(have-4, S1-1)
+aux(have-4, does-2)
+neg(have-4, not-3)
+det(problem-6, a-5)
+dobj(have-4, problem-6)
+amod(inconsistency-10, such-8)
+det(inconsistency-10, an-9)
+prep_with(problem-6, inconsistency-10)
+
+ S1 does not have a problem with such an inconsistency 
+root(ROOT-0, have-4)
+nsubj(have-4, S1-1)
+aux(have-4, does-2)
+neg(have-4, not-3)
+det(problem-6, a-5)
+dobj(have-4, problem-6)
+amod(inconsistency-10, such-8)
+det(inconsistency-10, an-9)
+prep_with(problem-6, inconsistency-10)
+

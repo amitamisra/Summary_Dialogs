@@ -1,0 +1,34 @@
+Two people are discussing gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+
+  that a traditional family is composed of a husband and wife 
+root(ROOT-0, composed-6)
+mark(composed-6, that-1)
+det(family-4, a-2)
+amod(family-4, traditional-3)
+nsubjpass(composed-6, family-4)
+auxpass(composed-6, is-5)
+det(husband-9, a-8)
+prep_of(composed-6, husband-9)
+prep_of(composed-6, wife-11)
+conj_and(husband-9, wife-11)
+
+  that a traditional family is composed of a husband and wife 
+root(ROOT-0, composed-6)
+mark(composed-6, that-1)
+det(family-4, a-2)
+amod(family-4, traditional-3)
+nsubjpass(composed-6, family-4)
+auxpass(composed-6, is-5)
+det(husband-9, a-8)
+prep_of(composed-6, husband-9)
+prep_of(composed-6, wife-11)
+conj_and(husband-9, wife-11)
+

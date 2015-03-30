@@ -1,0 +1,1 @@
+(ROOT (S (NP (CD Two) (NNS people)) (VP (VBP are) (VP (VBG discussing) (NP (NP (NN equality)) (CC and) (NP (JJ natural) (NNS rights))))) (. .)))

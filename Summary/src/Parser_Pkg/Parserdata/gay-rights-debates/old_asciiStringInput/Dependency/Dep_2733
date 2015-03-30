@@ -1,0 +1,10 @@
+  S1 is against diversity 
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+prep_against(is-2, diversity-4)
+
+  S1 is against diversity 
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+prep_against(is-2, diversity-4)
+

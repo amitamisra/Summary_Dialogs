@@ -1,0 +1,6 @@
+root(ROOT-0, need-2)
+nsubj(need-2, gays-1)
+det(strategy-6, a-3)
+amod(strategy-6, better-4)
+nn(strategy-6, PR-5)
+dobj(need-2, strategy-6)

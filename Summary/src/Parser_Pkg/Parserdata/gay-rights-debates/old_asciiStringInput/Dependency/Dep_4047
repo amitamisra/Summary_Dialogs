@@ -1,0 +1,32 @@
+S1 and S2 enter a discussion on gay rights and religion impact of legislation .
+
+
+root(ROOT-0, enter-4)
+nsubj(enter-4, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(enter-4, S2-3)
+det(discussion-6, a-5)
+dobj(enter-4, discussion-6)
+amod(rights-9, gay-8)
+prep_on(discussion-6, rights-9)
+nn(impact-12, religion-11)
+dobj(enter-4, impact-12)
+conj_and(discussion-6, impact-12)
+prep_of(impact-12, legislation-14)
+
+S1 and S2 enter a discussion on gay rights and religion impact of legislation .
+
+
+root(ROOT-0, enter-4)
+nsubj(enter-4, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(enter-4, S2-3)
+det(discussion-6, a-5)
+dobj(enter-4, discussion-6)
+amod(rights-9, gay-8)
+prep_on(discussion-6, rights-9)
+nn(impact-12, religion-11)
+dobj(enter-4, impact-12)
+conj_and(discussion-6, impact-12)
+prep_of(impact-12, legislation-14)
+

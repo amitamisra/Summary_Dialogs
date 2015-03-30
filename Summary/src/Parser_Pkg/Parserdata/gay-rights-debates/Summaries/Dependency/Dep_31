@@ -1,0 +1,43 @@
+ all sex is behavior.
+root(ROOT-0, behavior-4)
+det(sex-2, all-1)
+nsubj(behavior-4, sex-2)
+cop(behavior-4, is-3)
+
+ all sex is behavior.
+root(ROOT-0, behavior-4)
+det(sex-2, all-1)
+nsubj(behavior-4, sex-2)
+cop(behavior-4, is-3)
+
+ all sex is behavior.
+root(ROOT-0, behavior-4)
+det(sex-2, all-1)
+nsubj(behavior-4, sex-2)
+cop(behavior-4, is-3)
+
+ all sex is behavior.
+root(ROOT-0, behavior-4)
+det(sex-2, all-1)
+nsubj(behavior-4, sex-2)
+cop(behavior-4, is-3)
+
+in marriage with couples who can not have children , it 's not for a family unit either.
+root(ROOT-0, 's-12)
+prep('s-12, in-1)
+pobj(in-1, marriage-2)
+prep(marriage-2, with-3)
+pobj(with-3, couples-4)
+nsubj(have-8, who-5)
+aux(have-8, can-6)
+neg(have-8, not-7)
+rcmod(couples-4, have-8)
+dobj(have-8, children-9)
+nsubj('s-12, it-11)
+neg('s-12, not-13)
+prep('s-12, for-14)
+det(unit-17, a-15)
+nn(unit-17, family-16)
+pobj(for-14, unit-17)
+advmod('s-12, either-18)
+

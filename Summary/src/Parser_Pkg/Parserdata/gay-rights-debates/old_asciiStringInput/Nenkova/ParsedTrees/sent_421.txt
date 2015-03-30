@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ fallacious) (S (VP (TO to) (VP (VB believe) (SBAR (IN that) (S (NP (NN love)) (VP (MD will) (VP (VB lead) (PP (TO to) (NP (DT a) (JJ slippery) (NN slope)))))))))))) (. .)))

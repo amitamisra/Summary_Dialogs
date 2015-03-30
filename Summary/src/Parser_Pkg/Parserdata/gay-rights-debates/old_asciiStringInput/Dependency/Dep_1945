@@ -1,0 +1,54 @@
+   each of them agree  that the gay community has a PR problem    that many homosexuals are actually boring and inconspicuous  . 
+root(ROOT-0, agree-4)
+nsubj(agree-4, each-1)
+prep_of(each-1, them-3)
+mark(has-9, that-5)
+det(community-8, the-6)
+amod(community-8, gay-7)
+nsubj(has-9, community-8)
+ccomp(agree-4, has-9)
+det(problem-12, a-10)
+nn(problem-12, PR-11)
+dobj(has-9, problem-12)
+mark(boring-18, that-13)
+amod(homosexuals-15, many-14)
+nsubj(boring-18, homosexuals-15)
+nsubj(inconspicuous-20, homosexuals-15)
+cop(boring-18, are-16)
+advmod(boring-18, actually-17)
+dep(problem-12, boring-18)
+dep(problem-12, inconspicuous-20)
+conj_and(boring-18, inconspicuous-20)
+
+S1 and S2 seem to get annoyed with each other by the end of dialog .
+
+
+root(ROOT-0, seem-4)
+nsubj(seem-4, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(seem-4, S2-3)
+aux(annoyed-7, to-5)
+auxpass(annoyed-7, get-6)
+xcomp(seem-4, annoyed-7)
+det(other-10, each-9)
+prep_with(annoyed-7, other-10)
+det(end-13, the-12)
+agent(annoyed-7, end-13)
+prep_of(end-13, dialog-15)
+
+S1 and S2 seem to get annoyed with each other by the end of dialog .
+
+
+root(ROOT-0, seem-4)
+nsubj(seem-4, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(seem-4, S2-3)
+aux(annoyed-7, to-5)
+auxpass(annoyed-7, get-6)
+xcomp(seem-4, annoyed-7)
+det(other-10, each-9)
+prep_with(annoyed-7, other-10)
+det(end-13, the-12)
+agent(annoyed-7, end-13)
+prep_of(end-13, dialog-15)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, one-2)
+cop(one-2, is-1)
+prep(one-2, of-3)
+det(foundations-5, the-4)
+pobj(of-3, foundations-5)
+prep(foundations-5, for-6)
+amod(stability-8, social-7)
+pobj(for-6, stability-8)

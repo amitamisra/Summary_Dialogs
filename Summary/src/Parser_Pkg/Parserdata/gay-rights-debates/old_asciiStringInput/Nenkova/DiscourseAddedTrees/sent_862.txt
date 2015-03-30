@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NNP Polygamy)) (, ,) (PP (IN for#0#0) (NP (NN example#0#0))) (, ,)) (VP (MD would) (VP (VB require) (SBAR (S (NP (JJR more) (NN marriage) (NNS laws)) (VP (VBD changed) (SBAR (IN than) (S (NP (JJ gay) (NN marriage)) (VP (MD would) (, ,) (PP (IN as#1#0) (NP (JJR more) (NNS people))) (VP (VBP are) (ADJP (VBN involved))))))))))) (. .)))

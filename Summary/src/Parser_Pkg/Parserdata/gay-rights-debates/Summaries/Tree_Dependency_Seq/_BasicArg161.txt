@@ -1,0 +1,7 @@
+root(ROOT-0, excludes-5)
+poss(argument-3, S1-1)
+possessive(S1-1, 's-2)
+nsubj(excludes-5, argument-3)
+advmod(excludes-5, purposefully-4)
+det(fact-7, this-6)
+dobj(excludes-5, fact-7)

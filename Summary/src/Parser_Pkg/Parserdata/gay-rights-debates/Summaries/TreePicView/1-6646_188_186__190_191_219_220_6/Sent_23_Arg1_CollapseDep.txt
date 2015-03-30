@@ -1,0 +1,7 @@
+root(ROOT-0, idea-7)
+amod(marriage-2, gay-1)
+nsubj(idea-7, marriage-2)
+cop(idea-7, is-3)
+neg(idea-7, not-4)
+det(idea-7, a-5)
+amod(idea-7, new-6)

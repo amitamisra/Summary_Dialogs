@@ -1,0 +1,7 @@
+root(ROOT-0, are-4)
+det(Americans-3, all-1)
+nn(Americans-3, African-2)
+nsubj(are-4, Americans-3)
+prep(are-4, against-5)
+amod(marriage-7, gay-6)
+pobj(against-5, marriage-7)

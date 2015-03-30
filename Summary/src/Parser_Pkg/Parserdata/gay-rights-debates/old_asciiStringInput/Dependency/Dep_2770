@@ -1,0 +1,26 @@
+When this comment resulted in a challenge from S1 he denied hating gays.
+root(ROOT-0, denied-11)
+advmod(resulted-4, When-1)
+det(comment-3, this-2)
+nsubj(resulted-4, comment-3)
+advcl(denied-11, resulted-4)
+det(challenge-7, a-6)
+prep_in(resulted-4, challenge-7)
+prep_from(resulted-4, S1-9)
+nsubj(denied-11, he-10)
+xcomp(denied-11, hating-12)
+dobj(hating-12, gays-13)
+
+When this comment resulted in a challenge from S1 he denied hating gays.
+root(ROOT-0, denied-11)
+advmod(resulted-4, When-1)
+det(comment-3, this-2)
+nsubj(resulted-4, comment-3)
+advcl(denied-11, resulted-4)
+det(challenge-7, a-6)
+prep_in(resulted-4, challenge-7)
+prep_from(resulted-4, S1-9)
+nsubj(denied-11, he-10)
+xcomp(denied-11, hating-12)
+dobj(hating-12, gays-13)
+

@@ -1,0 +1,26 @@
+   Maines results have any bearing on the scotus look at overturning the 9th . 
+root(ROOT-0, have-3)
+nn(results-2, Maines-1)
+nsubj(have-3, results-2)
+det(bearing-5, any-4)
+dobj(have-3, bearing-5)
+det(look-9, the-7)
+nn(look-9, scotus-8)
+prep_on(bearing-5, look-9)
+prepc_at(have-3, overturning-11)
+det(9th-13, the-12)
+dobj(overturning-11, 9th-13)
+
+   Maines results have any bearing on the scotus look at overturning the 9th . 
+root(ROOT-0, have-3)
+nn(results-2, Maines-1)
+nsubj(have-3, results-2)
+det(bearing-5, any-4)
+dobj(have-3, bearing-5)
+det(look-9, the-7)
+nn(look-9, scotus-8)
+prep_on(bearing-5, look-9)
+prepc_at(have-3, overturning-11)
+det(9th-13, the-12)
+dobj(overturning-11, 9th-13)
+

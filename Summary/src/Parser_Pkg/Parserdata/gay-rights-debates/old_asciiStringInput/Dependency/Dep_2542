@@ -1,0 +1,24 @@
+He argues that casting gays as spreaders of AIs alone drives hate-speech.
+root(ROOT-0, argues-2)
+nsubj(argues-2, He-1)
+mark(drives-11, that-3)
+amod(gays-5, casting-4)
+nsubj(drives-11, gays-5)
+prep_as(gays-5, spreaders-7)
+prep_of(spreaders-7, AIs-9)
+advmod(drives-11, alone-10)
+ccomp(argues-2, drives-11)
+dobj(drives-11, hate-speech-12)
+
+He argues that casting gays as spreaders of AIs alone drives hate-speech.
+root(ROOT-0, argues-2)
+nsubj(argues-2, He-1)
+mark(drives-11, that-3)
+amod(gays-5, casting-4)
+nsubj(drives-11, gays-5)
+prep_as(gays-5, spreaders-7)
+prep_of(spreaders-7, AIs-9)
+advmod(drives-11, alone-10)
+ccomp(argues-2, drives-11)
+dobj(drives-11, hate-speech-12)
+

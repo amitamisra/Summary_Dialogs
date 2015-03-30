@@ -1,0 +1,17 @@
+S1 believes that because this lady is not in favor of gay marriage, the lady is anti-gay.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+mark(anti-gay-18, that-3)
+mark(is-7, because-4)
+det(lady-6, this-5)
+nsubj(is-7, lady-6)
+advcl(anti-gay-18, is-7)
+neg(is-7, not-8)
+prep_in(is-7, favor-10)
+amod(marriage-13, gay-12)
+prep_of(favor-10, marriage-13)
+det(lady-16, the-15)
+nsubj(anti-gay-18, lady-16)
+cop(anti-gay-18, is-17)
+ccomp(believes-2, anti-gay-18)
+

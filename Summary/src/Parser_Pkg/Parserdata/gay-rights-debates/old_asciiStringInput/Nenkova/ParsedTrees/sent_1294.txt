@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (DT Both) (-LRB- -LRB-) (NN S1) (-RRB- -RRB-)) (CC and) (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-))) (VP (VBP keep) (S (S (VP (VBG referring) (PP (TO to) (NP (NP (NNS others) (NNS views)) (PP (IN on) (NP (DT the) (NN issue))))))) (CC and) (S (VP (VB choose) (NP (NNS sides)))))) (. .)))

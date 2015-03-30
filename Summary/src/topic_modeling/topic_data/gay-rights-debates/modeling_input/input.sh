@@ -1,0 +1,2 @@
+cd ~/software/mallet-2.0.7
+./bin/mallet train-topics --input /Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_output/summary_out/1-35_1.mallet --num-topics 3   --output-state topic-state.gz --output-topic-keys /Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_output/summary_out/1-35_1_keys.txt --output-doc-topics /Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_output/summary_out/1-35_1composition.txt

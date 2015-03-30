@@ -1,0 +1,3 @@
+root(ROOT-0, serve-3)
+nsubj(serve-3, gays-1)
+aux(serve-3, can-2)

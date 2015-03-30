@@ -1,0 +1,8 @@
+Homosexuals, he believes, are more political.
+root(ROOT-0, political-8)
+nsubj(political-8, Homosexuals-1)
+nsubj(believes-4, he-3)
+parataxis(political-8, believes-4)
+cop(political-8, are-6)
+advmod(political-8, more-7)
+

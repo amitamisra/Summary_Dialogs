@@ -1,0 +1,4 @@
+root(ROOT-0, poses-2)
+nsubj(poses-2, S1-1)
+det(question-4, a-3)
+dobj(poses-2, question-4)

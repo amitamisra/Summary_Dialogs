@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (DT The) (NN immorality)) (PP (IN of) (NP (NP (NN homosexuality)) (PP (IN in) (NP (CD 1909)))))) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NN ignorance))))) (. .)))

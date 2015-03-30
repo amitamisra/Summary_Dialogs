@@ -1,0 +1,8 @@
+root(ROOT-0, over-intrusion-5)
+det(legislation-2, the-1)
+nsubj(over-intrusion-5, legislation-2)
+cop(over-intrusion-5, is-3)
+det(over-intrusion-5, an-4)
+prep(over-intrusion-5, by-6)
+det(government-8, the-7)
+pobj(by-6, government-8)

@@ -1,0 +1,4 @@
+root(ROOT-0, married-4)
+nsubjpass(married-4, they-1)
+auxpass(married-4, 're-2)
+neg(married-4, not-3)

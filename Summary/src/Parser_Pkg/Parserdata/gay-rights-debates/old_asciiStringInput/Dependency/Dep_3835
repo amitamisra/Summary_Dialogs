@@ -1,0 +1,18 @@
+   that gays need a better PR strategy 
+root(ROOT-0, need-3)
+mark(need-3, that-1)
+nsubj(need-3, gays-2)
+det(strategy-7, a-4)
+amod(strategy-7, better-5)
+nn(strategy-7, PR-6)
+dobj(need-3, strategy-7)
+
+   that gays need a better PR strategy 
+root(ROOT-0, need-3)
+mark(need-3, that-1)
+nsubj(need-3, gays-2)
+det(strategy-7, a-4)
+amod(strategy-7, better-5)
+nn(strategy-7, PR-6)
+dobj(need-3, strategy-7)
+

@@ -1,0 +1,15 @@
+It is religious belief - not prejudice - that makes one take an anti-gay stance.
+root(ROOT-0, belief-4)
+nsubj(belief-4, It-1)
+cop(belief-4, is-2)
+amod(belief-4, religious-3)
+neg(prejudice-7, not-6)
+dep(belief-4, prejudice-7)
+nsubj(makes-10, that-9)
+rcmod(belief-4, makes-10)
+nsubj(take-12, one-11)
+ccomp(makes-10, take-12)
+det(stance-15, an-13)
+amod(stance-15, anti-gay-14)
+dobj(take-12, stance-15)
+

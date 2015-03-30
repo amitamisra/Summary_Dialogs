@@ -1,0 +1,35 @@
+    He  states that even    the societies had homosexual liaisons  , 
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+mark(had-7, that-3)
+advmod(societies-6, even-4)
+det(societies-6, the-5)
+nsubj(had-7, societies-6)
+ccomp(states-2, had-7)
+amod(liaisons-9, homosexual-8)
+dobj(had-7, liaisons-9)
+
+ there is no such piece to the Massachusetts constitution .
+
+
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+neg(piece-5, no-3)
+amod(piece-5, such-4)
+nsubj(is-2, piece-5)
+det(constitution-9, the-7)
+nn(constitution-9, Massachusetts-8)
+prep_to(piece-5, constitution-9)
+
+ there is no such piece to the Massachusetts constitution .
+
+
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+neg(piece-5, no-3)
+amod(piece-5, such-4)
+nsubj(is-2, piece-5)
+det(constitution-9, the-7)
+nn(constitution-9, Massachusetts-8)
+prep_to(piece-5, constitution-9)
+

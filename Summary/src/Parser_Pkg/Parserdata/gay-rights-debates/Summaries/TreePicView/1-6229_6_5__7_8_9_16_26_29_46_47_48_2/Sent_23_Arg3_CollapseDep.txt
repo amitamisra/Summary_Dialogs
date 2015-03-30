@@ -1,0 +1,3 @@
+root(ROOT-0, arguing-3)
+nsubj(arguing-3, S2-1)
+aux(arguing-3, is-2)

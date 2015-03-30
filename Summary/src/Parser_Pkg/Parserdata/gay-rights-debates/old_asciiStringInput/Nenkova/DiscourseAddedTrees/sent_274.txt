@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (NNP Jefferson)) (VP (VBZ is) (PP (IN for#0#0) (NP (NP (NN decentralization)) (PP (IN of) (NP (NN government))) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (NP (DT the) (JJ opposite) (NN stance)) (VP (VBN taken) (PP (IN by) (NP (JJ theemocratic) (NNP Party)))))))))))))) (. .)))

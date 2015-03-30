@@ -1,0 +1,4 @@
+root(ROOT-0, popular-4)
+nsubj(popular-4, they-1)
+cop(popular-4, are-2)
+advmod(popular-4, less-3)

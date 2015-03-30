@@ -1,0 +1,38 @@
+Sodom and Gomorrah liberals are a scourge to decent people everywhere .
+
+
+root(ROOT-0, scourge-7)
+nn(liberals-4, Sodom-1)
+conj_and(Sodom-1, Gomorrah-3)
+nn(liberals-4, Gomorrah-3)
+nsubj(scourge-7, liberals-4)
+cop(scourge-7, are-5)
+det(scourge-7, a-6)
+amod(people-10, decent-9)
+prep_to(scourge-7, people-10)
+advmod(scourge-7, everywhere-11)
+
+She is trying to keep gay people out of marriage .
+
+
+root(ROOT-0, trying-3)
+nsubj(trying-3, She-1)
+aux(trying-3, is-2)
+aux(keep-5, to-4)
+xcomp(trying-3, keep-5)
+amod(people-7, gay-6)
+dobj(keep-5, people-7)
+prep_out_of(keep-5, marriage-10)
+
+She is trying to keep gay people out of marriage .
+
+
+root(ROOT-0, trying-3)
+nsubj(trying-3, She-1)
+aux(trying-3, is-2)
+aux(keep-5, to-4)
+xcomp(trying-3, keep-5)
+amod(people-7, gay-6)
+dobj(keep-5, people-7)
+prep_out_of(keep-5, marriage-10)
+

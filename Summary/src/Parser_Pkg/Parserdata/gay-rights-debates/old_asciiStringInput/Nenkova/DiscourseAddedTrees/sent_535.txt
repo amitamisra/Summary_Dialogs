@@ -1,0 +1,1 @@
+(ROOT (S (ADVP (RB Instead#0#Expansion)) (NP (PRP he)) (VP (MD should) (VP (VB have) (VP (VBN linked) (NP (NN someone)) (PP (IN in) (NP (NP (DT the) (JJ Republican) (NN leadership)) (VP (VBG saying) (NP (DT those) (NNS things)))))))) (. .)))

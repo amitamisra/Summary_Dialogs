@@ -1,0 +1,8 @@
+root(ROOT-0, find-3)
+nsubj(find-3, he-1)
+aux(find-3, would-2)
+nsubj(do-7, someone-4)
+advmod(someone-4, else-5)
+aux(do-7, to-6)
+xcomp(find-3, do-7)
+dobj(do-7, it-8)

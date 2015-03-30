@@ -1,0 +1,7 @@
+root(ROOT-0, decide-1)
+nsubj(mistake-5, it-2)
+cop(mistake-5, was-3)
+det(mistake-5, a-4)
+ccomp(decide-1, mistake-5)
+auxpass(divorced-8, get-7)
+conj_and(decide-1, divorced-8)

@@ -1,0 +1,11 @@
+He thinks Biden is wrong but his view is consistent.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(wrong-5, Biden-3)
+cop(wrong-5, is-4)
+ccomp(thinks-2, wrong-5)
+poss(view-8, his-7)
+nsubj(consistent-10, view-8)
+cop(consistent-10, is-9)
+conj_but(thinks-2, consistent-10)
+

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (NN marriage)) (VP (VP (VBZ is) (VP (VBN classified) (PP (IN by) (NP (DT a) (JJ heterosexual) (NN contract))))) (CC and) (VP (VBZ is) (ADJP (RB not) (JJ legal) (CC or) (JJ natural) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ involves) (NP (NP (NNS couples)) (PP (IN of) (NP (DT the) (JJ same) (NN sex))))))))))))) (. .)))

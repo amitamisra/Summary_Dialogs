@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ thinks) (ADJP (JJ Kingavid)) (S (VP (VBG having) (S (S (NP (QP (JJR more) (IN than) (CD one)) (NN wife)) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (JJ Old) (NN Testament) (NN law)))))) (CC and#0#Expansion) (S (NP (NNP Jesus)) (VP (VBD believed) (PP (IN in) (S (VP (VBG having) (NP (CD one) (NN wife))))))))))) (. .)))

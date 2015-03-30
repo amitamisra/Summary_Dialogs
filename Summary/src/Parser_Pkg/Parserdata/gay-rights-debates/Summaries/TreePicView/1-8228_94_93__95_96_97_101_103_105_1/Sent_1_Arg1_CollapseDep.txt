@@ -1,0 +1,7 @@
+root(ROOT-0, is-2)
+nsubj(is-2, This-1)
+det(use-5, the-4)
+prep_about(is-2, use-5)
+prep_of(use-5, arguments-7)
+prep_of(arguments-7, violence-9)
+prep_towards(violence-9, gay-marriage-11)

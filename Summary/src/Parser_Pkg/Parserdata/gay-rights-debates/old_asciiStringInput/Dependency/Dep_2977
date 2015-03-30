@@ -1,0 +1,24 @@
+S2 cites instances of God supporting polygamy in the Bible .
+
+
+root(ROOT-0, cites-2)
+nsubj(cites-2, S2-1)
+dobj(cites-2, instances-3)
+prep_of(instances-3, God-5)
+vmod(God-5, supporting-6)
+dobj(supporting-6, polygamy-7)
+det(Bible-10, the-9)
+prep_in(polygamy-7, Bible-10)
+
+S2 cites instances of God supporting polygamy in the Bible .
+
+
+root(ROOT-0, cites-2)
+nsubj(cites-2, S2-1)
+dobj(cites-2, instances-3)
+prep_of(instances-3, God-5)
+vmod(God-5, supporting-6)
+dobj(supporting-6, polygamy-7)
+det(Bible-10, the-9)
+prep_in(polygamy-7, Bible-10)
+

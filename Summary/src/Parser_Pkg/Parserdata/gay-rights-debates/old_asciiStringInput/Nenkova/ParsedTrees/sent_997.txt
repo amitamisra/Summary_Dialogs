@@ -1,0 +1,1 @@
+(ROOT (S (VP (NN S) (SBAR (NP (CD 2) (NNS claims)) (IN that) (S (SBAR (IN although) (S (NP (JJ homosexual) (NNS acts)) (VP (VBD did) (VP (VB occur) (PP (IN in) (NP (JJ many) (JJ past) (NNS cultures))))))) (, ,) (NP (DT these) (NNS relationships)) (VP (VBD were) (RB not) (NP (NNS marriages)))))) (. .)))

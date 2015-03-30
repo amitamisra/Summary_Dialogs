@@ -1,0 +1,5 @@
+root(ROOT-0, brought-2)
+nsubj(brought-2, S2-1)
+prt(brought-2, out-3)
+dobj(brought-2, AIs-4)
+prep_in(AIs-4, Africa-6)

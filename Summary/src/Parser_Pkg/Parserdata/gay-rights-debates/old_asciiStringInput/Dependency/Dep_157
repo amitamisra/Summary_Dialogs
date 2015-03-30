@@ -1,0 +1,38 @@
+Two people are discussing the increase in frequency of earthquakes .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(increase-6, the-5)
+dobj(discussing-4, increase-6)
+prep_in(increase-6, frequency-8)
+prep_of(frequency-8, earthquakes-10)
+
+He explains that natural means between a man and a woman .
+
+
+root(ROOT-0, explains-2)
+nsubj(explains-2, He-1)
+amod(means-5, natural-4)
+prep_that(explains-2, means-5)
+det(man-8, a-7)
+prep_between(means-5, man-8)
+det(woman-11, a-10)
+prep_between(means-5, woman-11)
+conj_and(man-8, woman-11)
+
+He explains that natural means between a man and a woman .
+
+
+root(ROOT-0, explains-2)
+nsubj(explains-2, He-1)
+amod(means-5, natural-4)
+prep_that(explains-2, means-5)
+det(man-8, a-7)
+prep_between(means-5, man-8)
+det(woman-11, a-10)
+prep_between(means-5, woman-11)
+conj_and(man-8, woman-11)
+

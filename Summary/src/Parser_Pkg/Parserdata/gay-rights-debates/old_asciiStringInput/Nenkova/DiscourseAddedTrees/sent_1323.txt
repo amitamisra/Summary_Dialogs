@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and#0#0) (NN S2)) (VP (VBP are) (VP (VBG debating) (NP (NP (DT the) (NN topic)) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (NN marriage)) (VP (MD should) (VP (VB mean) (PP (TO to) (NP (PRP$ our) (NN government))))))))))) (. .)))

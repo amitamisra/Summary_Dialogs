@@ -1,0 +1,7 @@
+root(ROOT-0, equates-2)
+nsubj(equates-2, He-1)
+det(word-4, the-3)
+nsubj(perverse-5, word-4)
+xcomp(equates-2, perverse-5)
+prep(perverse-5, with-6)
+pobj(with-6, diversity-7)

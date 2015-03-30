@@ -1,0 +1,14 @@
+  that S1s position is inconsistent 
+root(ROOT-0, inconsistent-5)
+mark(inconsistent-5, that-1)
+nn(position-3, S1s-2)
+nsubj(inconsistent-5, position-3)
+cop(inconsistent-5, is-4)
+
+  that S1s position is inconsistent 
+root(ROOT-0, inconsistent-5)
+mark(inconsistent-5, that-1)
+nn(position-3, S1s-2)
+nsubj(inconsistent-5, position-3)
+cop(inconsistent-5, is-4)
+

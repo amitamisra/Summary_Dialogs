@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNS Homosexuals)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ believes))) (, ,)) (VP (VBP are) (ADJP (RBR more) (JJ political))) (. .)))

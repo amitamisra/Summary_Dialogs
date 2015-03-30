@@ -1,0 +1,34 @@
+ that to view it otherwise would be an insult to all African Americans .
+
+
+root(ROOT-0, insult-9)
+nsubj(view-3, that-1)
+aux(view-3, to-2)
+advcl(insult-9, view-3)
+nsubj(insult-9, it-4)
+advmod(insult-9, otherwise-5)
+aux(insult-9, would-6)
+cop(insult-9, be-7)
+det(insult-9, an-8)
+det(Americans-13, all-11)
+amod(Americans-13, African-12)
+prep_to(insult-9, Americans-13)
+
+She can't get healthcare through his job.
+root(ROOT-0, get-4)
+nsubj(get-4, She-1)
+aux(get-4, ca-2)
+neg(get-4, n't-3)
+dobj(get-4, healthcare-5)
+poss(job-8, his-7)
+prep_through(get-4, job-8)
+
+She can't get healthcare through his job.
+root(ROOT-0, get-4)
+nsubj(get-4, She-1)
+aux(get-4, ca-2)
+neg(get-4, n't-3)
+dobj(get-4, healthcare-5)
+poss(job-8, his-7)
+prep_through(get-4, job-8)
+

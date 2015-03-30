@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (NN something)) (VP (VBZ is) (RB n't) (VP (VBN judged) (PP (IN as) (ADJP (JJ good))) (SBAR (RB just) (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ natural)))))))))) (. .)))

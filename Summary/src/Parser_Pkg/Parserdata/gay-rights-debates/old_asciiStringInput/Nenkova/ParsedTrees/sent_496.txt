@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (S (NP (PRP it)) (VP (MD should) (ADVP (RB always)) (VP (VB be) (ADJP (JJ clear)) (SBAR (WHNP (WDT which)) (S (NP (NN constitution)) (VP (VBZ is) (VP (VBG being) (VP (VBN discussed))))))))))) (. .)))

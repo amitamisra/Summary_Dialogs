@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Jyoshu)) (VP (VBZ says) (SBAR (S (NP (PRP she)) (VP (VP (VBZ understands)) (CC but) (VP (VBZ complains) (SBAR (IN that) (S (NP (JJ gay) (NN marriage)) (VP (MD would) (VP (VB open) (NP (DT the) (NN door)) (PP (TO to) (NP (NP (JJ further)) (VP (VBG broadening) (PP (IN of) (NP (NN marriage))))))))))))))) (. .)))

@@ -1,0 +1,36 @@
+   that S2 is in denial 
+root(ROOT-0, is-3)
+mark(is-3, that-1)
+nsubj(is-3, S2-2)
+prep_in(is-3, denial-5)
+
+   either religious belief were put into law that it would infringe on the others beliefs . 
+root(ROOT-0, put-5)
+det(belief-3, either-1)
+amod(belief-3, religious-2)
+nsubjpass(put-5, belief-3)
+auxpass(put-5, were-4)
+prep_into(put-5, law-7)
+mark(infringe-11, that-8)
+nsubj(infringe-11, it-9)
+aux(infringe-11, would-10)
+ccomp(put-5, infringe-11)
+det(beliefs-15, the-13)
+nn(beliefs-15, others-14)
+prep_on(infringe-11, beliefs-15)
+
+   either religious belief were put into law that it would infringe on the others beliefs . 
+root(ROOT-0, put-5)
+det(belief-3, either-1)
+amod(belief-3, religious-2)
+nsubjpass(put-5, belief-3)
+auxpass(put-5, were-4)
+prep_into(put-5, law-7)
+mark(infringe-11, that-8)
+nsubj(infringe-11, it-9)
+aux(infringe-11, would-10)
+ccomp(put-5, infringe-11)
+det(beliefs-15, the-13)
+nn(beliefs-15, others-14)
+prep_on(infringe-11, beliefs-15)
+

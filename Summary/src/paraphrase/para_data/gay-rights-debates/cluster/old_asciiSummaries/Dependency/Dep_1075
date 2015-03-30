@@ -1,0 +1,14 @@
+It is fallacious to believe that love will lead to a slippery slope.
+root(ROOT-0, fallacious-3)
+nsubj(fallacious-3, It-1)
+cop(fallacious-3, is-2)
+aux(believe-5, to-4)
+xcomp(fallacious-3, believe-5)
+mark(lead-9, that-6)
+nsubj(lead-9, love-7)
+aux(lead-9, will-8)
+ccomp(believe-5, lead-9)
+det(slope-13, a-11)
+amod(slope-13, slippery-12)
+prep_to(lead-9, slope-13)
+

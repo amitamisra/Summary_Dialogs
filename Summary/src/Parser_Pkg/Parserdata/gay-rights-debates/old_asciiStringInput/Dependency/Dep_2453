@@ -1,0 +1,20 @@
+   it was discovered how AIS could be spread .   
+root(ROOT-0, discovered-3)
+nsubjpass(discovered-3, it-1)
+auxpass(discovered-3, was-2)
+advmod(spread-8, how-4)
+nsubjpass(spread-8, AIS-5)
+aux(spread-8, could-6)
+auxpass(spread-8, be-7)
+ccomp(discovered-3, spread-8)
+
+   it was discovered how AIS could be spread .   
+root(ROOT-0, discovered-3)
+nsubjpass(discovered-3, it-1)
+auxpass(discovered-3, was-2)
+advmod(spread-8, how-4)
+nsubjpass(spread-8, AIS-5)
+aux(spread-8, could-6)
+auxpass(spread-8, be-7)
+ccomp(discovered-3, spread-8)
+

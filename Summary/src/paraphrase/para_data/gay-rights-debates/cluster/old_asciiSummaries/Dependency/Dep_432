@@ -1,0 +1,15 @@
+However, this person still desires a debate on moral and health concerns of the issue.
+root(ROOT-0, debate-8)
+dep(debate-8, However-1)
+det(person-4, this-3)
+npadvmod(still-5, person-4)
+dep(desires-6, still-5)
+dep(debate-8, desires-6)
+det(debate-8, a-7)
+amod(concerns-13, moral-10)
+conj_and(moral-10, health-12)
+amod(concerns-13, health-12)
+prep_on(debate-8, concerns-13)
+det(issue-16, the-15)
+prep_of(concerns-13, issue-16)
+

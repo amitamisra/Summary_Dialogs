@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 brings up a quiz from The New York Times that supposedly determines how you compare to the current Supreme Court Justices on Supreme Court issues. He claims that the problem with the quiz is that it is based on people's opinions and he does not believe that the Supreme Court should make rulings based on their opinions because they are supposed to be ruling entirely based on their interpretion of the constitution. S2 agrees with S1 that the Supreme Court decisions should not be described as conservative or liberal because political viewpoints should be irrelevant to interpreting the constitution. He also provides an example of one Supreme Court Justice who is known for making rulings that do not appeal to either political party.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing a quiz which was run on the New York Times website in regard to comparing views of the general public as compared to those of the Supreme Court.  S2 feels the the quiz is horrible as it, in S2's opinion, reinforces the point that people view the court as a legislative body.  S1 feels the quiz is useful but does have some issues.  S2 believes the rulings should not be considered conservative or liberal.  S1 agrees with this point.  S2 feels court rulings should not be based upon a judge's personal beliefs as they are supposed to be based on the constitution.  S2 uses the example of corporations being allowed to run campaign ads.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 does not believe that the Supreme Court should rule based on the majority's opinions of the issue, but on the Court's interpretation of the United States Constitution. They don't believe that court rulings should be reflective of the justices' personal political beliefs. They are against applying labels such as &quot;conservative&quot; or &quot;liberal&quot; to the court's decisions.</line>
+  <line>S2 believes that most people are using the Supreme Court as a second legislative body, and agrees with S1 that a ruling should be made in an unbiased manner and purely on their legality under the Constitution. They agree that the Supreme Court rulings should not lean to one political outlook or the other. They believe that those passing rulings do so regardless if their decision offends the public.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing how Supreme Court Justices should rule on an issue.  S1 introduces the topic with a quiz by the NY Times that shows how a person's views line up with those of the current Supreme Court.  He states that its main problem is that it asks people's opinions of the issue, but doesn't address the constitutional questions involved and he states that the Supreme Court should rule on the constitution, not their personal beliefs.  S2 agrees, adding that rulings shouldn't be considered &quot;conservative&quot; or &quot;liberal.&quot;  He also states that people are making the court a second legislative body, and if the Supreme Court makes decisions based on opinions then Congress should do it because they are voted in.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 provides a link to a quiz to see where ones views line up with those of the Supreme Court and the American public. He thinks the problem with the quiz is that it is opinion based. S1 thinks the Supreme Court should not rule based on their opinions, but rather on their interpretation of the Constitution. Also, he thinks labels such as conservative are incorrect as they express a political view and not judicial interpretation. S2 dislikes the quiz. He thinks people are making courts a legislative body and if rulings are opinion based Congress should do it as they are voted in. He agrees that the rulings should not be considered liberal or conservative and gives an example of corporations running ad campaigns.</line>
+ </text>
+ <scu uid="86" label="Supreme Court decisions should not be described as conservative or liberal">
+  <contributor label="Supreme Court decisions should not be described as conservative or liberal">
+   <part label="Supreme Court decisions should not be described as conservative or liberal" start="473" end="547"/>
+  </contributor>
+  <contributor label="the rulings should not be considered conservative or liberal">
+   <part label="the rulings should not be considered conservative or liberal" start="1163" end="1223"/>
+  </contributor>
+  <contributor label="They are against applying labels such as &quot;conservative&quot; or &quot;liberal&quot; to the court's decisions">
+   <part label="They are against applying labels such as &quot;conservative&quot; or &quot;liberal&quot; to the court's decisions" start="1757" end="1850"/>
+  </contributor>
+  <contributor label="rulings shouldn't be considered &quot;conservative&quot; or &quot;liberal">
+   <part label="rulings shouldn't be considered &quot;conservative&quot; or &quot;liberal" start="2754" end="2812"/>
+  </contributor>
+  <contributor label="he thinks labels such as conservative are incorrect...rulings should not be considered liberal or conservative">
+   <part label="he thinks labels such as conservative are incorrect" start="3345" end="3396"/>
+   <part label="rulings should not be considered liberal or conservative" start="3635" end="3691"/>
+  </contributor>
+ </scu>
+ <scu uid="91" label="the Supreme Court should rule on the constitution, not their personal beliefs">
+  <contributor label="the Supreme Court should not rule based on their opinions, but rather on their interpretation of the Constitution">
+   <part label="the Supreme Court should not rule based on their opinions, but rather on their interpretation of the Constitution" start="3224" end="3337"/>
+  </contributor>
+  <contributor label="the Supreme Court should rule based on the majority's opinions of the issue, but on the Court's interpretation of the United States Constitution">
+   <part label="the Supreme Court should rule based on the majority's opinions of the issue, but on the Court's interpretation of the United States Constitution" start="1507" end="1651"/>
+  </contributor>
+  <contributor label="the Supreme Court should make rulings based on their opinions because they are supposed to be ruling entirely based on their interpretion of the constitution">
+   <part label="the Supreme Court should make rulings based on their opinions because they are supposed to be ruling entirely based on their interpretion of the constitution" start="287" end="444"/>
+  </contributor>
+  <contributor label="S2 feels court rulings should not be based upon a judge's personal beliefs as they are supposed to be based on the constitution">
+   <part label="S2 feels court rulings should not be based upon a judge's personal beliefs as they are supposed to be based on the constitution" start="1254" end="1381"/>
+  </contributor>
+  <contributor label="the Supreme Court should rule on the constitution, not their personal beliefs">
+   <part label="the Supreme Court should rule on the constitution, not their personal beliefs" start="2651" end="2728"/>
+  </contributor>
+ </scu>
+ <scu uid="88" label="a quiz from The New York Times determines a person's view lined up with those of the current Supreme Court Justices on Supreme Court issues">
+  <contributor label="a quiz from The New York Times that supposedly determines how you compare to the current Supreme Court Justices on Supreme Court issues">
+   <part label="a quiz from The New York Times that supposedly determines how you compare to the current Supreme Court Justices on Supreme Court issues" start="39" end="174"/>
+  </contributor>
+  <contributor label="a quiz by the NY Times that shows how a person's views line up with those of the current Supreme Court">
+   <part label="a quiz by the NY Times that shows how a person's views line up with those of the current Supreme Court" start="2389" end="2491"/>
+  </contributor>
+  <contributor label="a quiz which was run on the New York Times website in regard to comparing views of the general public as compared to those of the Supreme Court">
+   <part label="a quiz which was run on the New York Times website in regard to comparing views of the general public as compared to those of the Supreme Court" start="819" end="962"/>
+  </contributor>
+  <contributor label="a quiz to see where ones views line up with those of the Supreme Court and the American public">
+   <part label="a quiz to see where ones views line up with those of the Supreme Court and the American public" start="3053" end="3147"/>
+  </contributor>
+ </scu>
+ <scu uid="77" label="Most people are using the Supreme Court as a second legislative body">
+  <contributor label="S2 believes that most people are using the Supreme Court as a second legislative body">
+   <part label="S2 believes that most people are using the Supreme Court as a second legislative body" start="1852" end="1937"/>
+  </contributor>
+  <contributor label="He also states that people are making the court a second legislative body">
+   <part label="He also states that people are making the court a second legislative body" start="2816" end="2889"/>
+  </contributor>
+  <contributor label="He thinks people are making courts a legislative body">
+   <part label="He thinks people are making courts a legislative body" start="3485" end="3538"/>
+  </contributor>
+  <contributor label="S2's opinion, reinforces the point that people view the court as a legislative body">
+   <part label="S2's opinion, reinforces the point that people view the court as a legislative body" start="1009" end="1092"/>
+  </contributor>
+ </scu>
+ <scu uid="89" label="the problem with the quiz is that it is based on people's opinions">
+  <contributor label="the problem with the quiz is that it is based on people's opinions">
+   <part label="the problem with the quiz is that it is based on people's opinions" start="191" end="257"/>
+  </contributor>
+  <contributor label="the problem with the quiz is that it is opinion based">
+   <part label="the problem with the quiz is that it is opinion based" start="3159" end="3212"/>
+  </contributor>
+  <contributor label="its main problem is that it asks people's opinions of the issue">
+   <part label="its main problem is that it asks people's opinions of the issue" start="2509" end="2572"/>
+  </contributor>
+ </scu>
+ <scu uid="92" label="if the Supreme Court makes decisions based on opinions then Congress should do it because they are voted in">
+  <contributor label="if the Supreme Court makes decisions based on opinions then Congress should do it because they are voted in">
+   <part label="if the Supreme Court makes decisions based on opinions then Congress should do it because they are voted in" start="2895" end="3002"/>
+  </contributor>
+  <contributor label="if rulings are opinion based Congress should do it as they are voted in">
+   <part label="if rulings are opinion based Congress should do it as they are voted in" start="3543" end="3614"/>
+  </contributor>
+ </scu>
+ <scu uid="87" label="political viewpoints should be irrelevant to interpreting the constitution">
+  <contributor label="political viewpoints should be irrelevant to interpreting the constitution">
+   <part label="political viewpoints should be irrelevant to interpreting the constitution" start="556" end="630"/>
+  </contributor>
+  <contributor label="they express a political view and not judicial interpretation">
+   <part label="they express a political view and not judicial interpretation" start="3400" end="3461"/>
+  </contributor>
+ </scu>
+ <scu uid="79" label="S2 feels the the quiz is horrible">
+  <contributor label="S2 feels the the quiz is horrible">
+   <part label="S2 feels the the quiz is horrible" start="965" end="998"/>
+  </contributor>
+  <contributor label="S2 dislikes the quiz">
+   <part label="S2 dislikes the quiz" start="3463" end="3483"/>
+  </contributor>
+ </scu>
+ <scu uid="80" label="S2 uses the example of corporations being allowed to run campaign ads">
+  <contributor label="S2 uses the example of corporations being allowed to run campaign ads">
+   <part label="S2 uses the example of corporations being allowed to run campaign ads" start="1384" end="1453"/>
+  </contributor>
+  <contributor label="gives an example of corporations running ad campaigns">
+   <part label="gives an example of corporations running ad campaigns" start="3696" end="3749"/>
+  </contributor>
+ </scu>
+ <scu uid="82" label="a ruling should be made in an unbiased manner and purely on their legality under the Constitution">
+  <contributor label="a ruling should be made in an unbiased manner and purely on their legality under the Constitution">
+   <part label="a ruling should be made in an unbiased manner and purely on their legality under the Constitution" start="1963" end="2060"/>
+  </contributor>
+ </scu>
+ <scu uid="78" label="He also provides an example of one Supreme Court Justice who is known for making rulings that do not appeal to either political party">
+  <contributor label="He also provides an example of one Supreme Court Justice who is known for making rulings that do not appeal to either political party">
+   <part label="He also provides an example of one Supreme Court Justice who is known for making rulings that do not appeal to either political party" start="632" end="765"/>
+  </contributor>
+ </scu>
+ <scu uid="85" label="S1 agrees with this point">
+  <contributor label="S1 agrees with this point">
+   <part label="S1 agrees with this point" start="1226" end="1251"/>
+  </contributor>
+ </scu>
+ <scu uid="84" label="S1 feels the quiz is useful but does have some issues">
+  <contributor label="S1 feels the quiz is useful but does have some issues">
+   <part label="S1 feels the quiz is useful but does have some issues" start="1095" end="1148"/>
+  </contributor>
+ </scu>
+ <scu uid="93" label="They agree that the Supreme Court rulings should not lean to one political outlook or the other">
+  <contributor label="They agree that the Supreme Court rulings should not lean to one political outlook or the other">
+   <part label="They agree that the Supreme Court rulings should not lean to one political outlook or the other" start="2062" end="2157"/>
+  </contributor>
+ </scu>
+ <scu uid="81" label="They believe that those passing rulings do so regardless if their decision offends the public">
+  <contributor label="They believe that those passing rulings do so regardless if their decision offends the public">
+   <part label="They believe that those passing rulings do so regardless if their decision offends the public" start="2159" end="2252"/>
+  </contributor>
+ </scu>
+ <scu uid="94" label="court rulings should not be reflective of the justices' personal political beliefs">
+  <contributor label="They don't believe that court rulings should be reflective of the justices' personal political beliefs">
+   <part label="They don't believe that court rulings should be reflective of the justices' personal political beliefs" start="1653" end="1755"/>
+  </contributor>
+ </scu>
+ <scu uid="83" label="Two people are discussing how Supreme Court Justices should rule on an issue">
+  <contributor label="Two people are discussing how Supreme Court Justices should rule on an issue">
+   <part label="Two people are discussing how Supreme Court Justices should rule on an issue" start="2281" end="2357"/>
+  </contributor>
+ </scu>
+</pyramid>

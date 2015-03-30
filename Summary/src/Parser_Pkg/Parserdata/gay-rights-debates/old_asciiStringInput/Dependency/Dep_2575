@@ -1,0 +1,16 @@
+   in some cases the homosexuals were valued . 
+root(ROOT-0, valued-7)
+det(cases-3, some-2)
+prep_in(valued-7, cases-3)
+det(homosexuals-5, the-4)
+nsubjpass(valued-7, homosexuals-5)
+auxpass(valued-7, were-6)
+
+   in some cases the homosexuals were valued . 
+root(ROOT-0, valued-7)
+det(cases-3, some-2)
+prep_in(valued-7, cases-3)
+det(homosexuals-5, the-4)
+nsubjpass(valued-7, homosexuals-5)
+auxpass(valued-7, were-6)
+

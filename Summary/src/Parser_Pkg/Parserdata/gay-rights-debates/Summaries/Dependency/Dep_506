@@ -1,0 +1,30 @@
+He said that gay marriage is not an unalienable right.
+root(ROOT-0, said-2)
+nsubj(said-2, He-1)
+mark(right-10, that-3)
+amod(marriage-5, gay-4)
+nsubj(right-10, marriage-5)
+cop(right-10, is-6)
+neg(right-10, not-7)
+det(right-10, an-8)
+amod(right-10, unalienable-9)
+ccomp(said-2, right-10)
+
+He said that gay marriage is not an unalienable right.
+root(ROOT-0, said-2)
+nsubj(said-2, He-1)
+mark(right-10, that-3)
+amod(marriage-5, gay-4)
+nsubj(right-10, marriage-5)
+cop(right-10, is-6)
+neg(right-10, not-7)
+det(right-10, an-8)
+amod(right-10, unalienable-9)
+ccomp(said-2, right-10)
+
+who get married and.
+root(ROOT-0, get-2)
+nsubj(get-2, who-1)
+dep(get-2, married-3)
+advmod(married-3, and-4)
+

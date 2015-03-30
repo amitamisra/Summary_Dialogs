@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 concedes that there would be little financial impact on support for homosexual marriage, and would in fact supply a surplus. However, this person still desires a debate on moral and health concerns of the issue. They do not view themselves as someone who imposes their moral beliefs on others, and is willing to let society determine its own limits. While they vocally defend the United States Constitution as written, they also desire to be more flexible with public determined acceptance of behavior.</line>
+  <line>S2 would like to see this concession as a means to lead to a discussion on the societal benefits of same-sex marriage, however, they believe that S1 is attempting to hide behind their moral grounds because S1 sees it as relative and subjective.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 admits that he previously misrepresented a statistics, claiming that a particular study actually predicted a $1 billion surplus as a result of legalizing same-sex marriage. He claims that although this alleviates his fiscal concerns on the topic, he still objects to same-sex marriage on the grounds of moral and health concerns. S2 suggests that if S1 was wrong about the surplus he might also be wrong about other aspects of the issue of same-sex marriage. He suggests that it would be useful to discuss the ways same-sex marriage could benefit society instead of moving on to a discussion of morality since it is relative and subjective. S1 responds that he doesn't want to impose his morals on others, but believes in defending the Constitution.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two people are discussing the financial effect of allowing for gay marriage.  S1 originally believed allowing gay marriage would have a negative financial impact on society as a whole.  He has since amended that belief due to information found in the CBO.  His reasoning for still supporting the ban on gay marriage has changed over to moral and health related concerns.  Although S2 is pleased with the concession of S1's former opinion, he believes jumping to the moral high ground still ignores other issues.  He would like to discuss the positive impact that allowing gay marriage would have on the country practically.  S1 advises while he is a defender of the Constitution, he does feel society should decide.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing the benefit to society that same-sex marriage has.  S1 concedes that same-sex marriage does not have the negative financial impact that he thought it would.  He states his wish to move past fiscal concerns and move ont the the moral and health concerns of same-sex marriage.  S2 contends that he wishes to discuss the practical benefits.  He states that the discussion of &quot;morality&quot; is a safe ground because morality is relative and subjective.  S1 retorts by stating that he does not feel the need to impose his morality on anyone; he is willing to let society determine its own limits.  He also states his wish that S2 inform him of the benefits of same-sex marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 apologizes for jumping the gun and misreading the one billion dollar surplus link. He/She admits that the civil debate issue about gays didn't have such of a a negative financial impact as they first thought. He then proposes concerns about what the moral and health concerns would be if we continue to do this with civility . S1 is more flexible with accepting societies standard of behavior and is also willing to let society as a whole determine what the limit of same sex marriage is. S2 was hoping to talk more about the fiscal concerns, and he also wants to know how same-sex marriage benefits society in practical ways. He also thinks that same sex marriage does, in fact benefit our U.S.</line>
+ </text>
+ <scu uid="3" label="debate on moral and health concerns of the issue">
+  <contributor label="this person still desires a debate on moral and health concerns of the issue">
+   <part label="this person still desires a debate on moral and health concerns of the issue" start="163" end="239"/>
+  </contributor>
+  <contributor label="he still objects to same-sex marriage on the grounds of moral and health concerns">
+   <part label="he still objects to same-sex marriage on the grounds of moral and health concerns" start="1054" end="1135"/>
+  </contributor>
+  <contributor label="His reasoning for still supporting the ban on gay marriage has changed over to moral and health related concerns">
+   <part label="His reasoning for still supporting the ban on gay marriage has changed over to moral and health related concerns" start="1841" end="1953"/>
+  </contributor>
+  <contributor label="He states his wish to move past fiscal concerns and move ont the the moral and health concerns of same-sex marriage">
+   <part label="He states his wish to move past fiscal concerns and move ont the the moral and health concerns of same-sex marriage" start="2511" end="2626"/>
+  </contributor>
+  <contributor label="He then proposes concerns about what the moral and health concerns would be if we continue to do this with civility">
+   <part label="He then proposes concerns about what the moral and health concerns would be if we continue to do this with civility" start="3262" end="3377"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="Society should determine its own limits">
+  <contributor label="S1 advises while he is a defender of the Constitution, he does feel society should decide">
+   <part label="S1 advises while he is a defender of the Constitution, he does feel society should decide" start="2209" end="2298"/>
+  </contributor>
+  <contributor label="S1 retorts by stating that he does not feel the need to impose his morality on anyone; he is willing to let society determine its own limits">
+   <part label="S1 retorts by stating that he does not feel the need to impose his morality on anyone; he is willing to let society determine its own limits" start="2799" end="2939"/>
+  </contributor>
+  <contributor label="S1 is more flexible with accepting societies standard of behavior and is also willing to let society as a whole determine what the limit of same sex marriage is">
+   <part label="S1 is more flexible with accepting societies standard of behavior and is also willing to let society as a whole determine what the limit of same sex marriage is" start="3380" end="3540"/>
+  </contributor>
+  <contributor label="S1 responds that he doesn't want to impose his morals on others, but believes in defending the Constitution">
+   <part label="S1 responds that he doesn't want to impose his morals on others, but believes in defending the Constitution" start="1448" end="1555"/>
+  </contributor>
+  <contributor label="They do not view themselves as someone who imposes their moral beliefs on others, and is willing to let society determine its own limits...While they vocally defend the United States Constitution as written, they also desire to be more flexible with public determined acceptance of behavior">
+   <part label="While they vocally defend the United States Constitution as written, they also desire to be more flexible with public determined acceptance of behavior" start="379" end="530"/>
+   <part label="They do not view themselves as someone who imposes their moral beliefs on others, and is willing to let society determine its own limits" start="241" end="377"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="useful to discuss the ways same-sex marriage could benefit society">
+  <contributor label="He suggests that it would be useful to discuss the ways same-sex marriage could benefit society">
+   <part label="He suggests that it would be useful to discuss the ways same-sex marriage could benefit society" start="1266" end="1361"/>
+  </contributor>
+  <contributor label="S2 would like to see this concession as a means to lead to a discussion on the societal benefits of same-sex marriage">
+   <part label="S2 would like to see this concession as a means to lead to a discussion on the societal benefits of same-sex marriage" start="532" end="649"/>
+  </contributor>
+  <contributor label="He would like to discuss the positive impact that allowing gay marriage would have on the country practically">
+   <part label="He would like to discuss the positive impact that allowing gay marriage would have on the country practically" start="2097" end="2206"/>
+  </contributor>
+  <contributor label="S2 contends that he wishes to discuss the practical benefits">
+   <part label="S2 contends that he wishes to discuss the practical benefits" start="2629" end="2689"/>
+  </contributor>
+  <contributor label="he also wants to know how same-sex marriage benefits society in practical ways">
+   <part label="he also wants to know how same-sex marriage benefits society in practical ways" start="3600" end="3678"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="discussion of &quot;morality&quot; is a safe ground because morality is relative and subjective">
+  <contributor label="He states that the discussion of &quot;morality&quot; is a safe ground because morality is relative and subjective">
+   <part label="He states that the discussion of &quot;morality&quot; is a safe ground because morality is relative and subjective" start="2692" end="2796"/>
+  </contributor>
+  <contributor label="moving on to a discussion of morality since it is relative and subjective">
+   <part label="moving on to a discussion of morality since it is relative and subjective" start="1373" end="1446"/>
+  </contributor>
+  <contributor label="he believes jumping to the moral high ground still ignores other issues">
+   <part label="he believes jumping to the moral high ground still ignores other issues" start="2023" end="2094"/>
+  </contributor>
+  <contributor label="they believe that S1 is attempting to hide behind their moral grounds because S1 sees it as relative and subjective">
+   <part label="they believe that S1 is attempting to hide behind their moral grounds because S1 sees it as relative and subjective" start="660" end="775"/>
+  </contributor>
+ </scu>
+ <scu uid="1" label="little financial impact on support for homosexual marriage">
+  <contributor label="S1 concedes that same-sex marriage does not have the negative financial impact that he thought it would">
+   <part label="S1 concedes that same-sex marriage does not have the negative financial impact that he thought it would" start="2405" end="2508"/>
+  </contributor>
+  <contributor label="He/She admits that the civil debate issue about gays didn't have such of a a negative financial impact as they first thought">
+   <part label="He/She admits that the civil debate issue about gays didn't have such of a a negative financial impact as they first thought" start="3136" end="3260"/>
+  </contributor>
+  <contributor label="S1 admits that he previously misrepresented a statistics">
+   <part label="S1 admits that he previously misrepresented a statistics" start="804" end="860"/>
+  </contributor>
+  <contributor label="S1 concedes that there would be little financial impact on support for homosexual marriage">
+   <part label="S1 concedes that there would be little financial impact on support for homosexual marriage" start="26" end="116"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="a particular study actually predicted a $1 billion surplus as a result of legalizing same-sex marriage">
+  <contributor label="a particular study actually predicted a $1 billion surplus as a result of legalizing same-sex marriage">
+   <part label="a particular study actually predicted a $1 billion surplus as a result of legalizing same-sex marriage" start="876" end="978"/>
+  </contributor>
+  <contributor label="S1 originally believed allowing gay marriage would have a negative financial impact on society as a whole">
+   <part label="S1 originally believed allowing gay marriage would have a negative financial impact on society as a whole" start="1662" end="1767"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="Two people are discussing the benefit to society that same-sex marriage has">
+  <contributor label="Two people are discussing the benefit to society that same-sex marriage has">
+   <part label="Two people are discussing the benefit to society that same-sex marriage has" start="2327" end="2402"/>
+  </contributor>
+  <contributor label="Two people are discussing the financial effect of allowing for gay marriage">
+   <part label="Two people are discussing the financial effect of allowing for gay marriage" start="1584" end="1659"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="Amending believes due to information found in the CBO">
+  <contributor label="He has since amended that belief due to information found in the CBO">
+   <part label="He has since amended that belief due to information found in the CBO" start="1770" end="1838"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="benefits of same-sex marriage">
+  <contributor label="He also states his wish that S2 inform him of the benefits of same-sex marriage">
+   <part label="He also states his wish that S2 inform him of the benefits of same-sex marriage" start="2942" end="3021"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="Fiscal concerns">
+  <contributor label="S2 was hoping to talk more about the fiscal concerns">
+   <part label="S2 was hoping to talk more about the fiscal concerns" start="3542" end="3594"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="misreading the one billion dollar surplus link">
+  <contributor label="S1 apologizes for jumping the gun and misreading the one billion dollar surplus link">
+   <part label="S1 apologizes for jumping the gun and misreading the one billion dollar surplus link" start="3050" end="3134"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="same sex marriage does, in fact benefit our U.S">
+  <contributor label="He also thinks that same sex marriage does, in fact benefit our U.S">
+   <part label="He also thinks that same sex marriage does, in fact benefit our U.S" start="3680" end="3747"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="Wrong about other aspects of the issue of same-sex marriage">
+  <contributor label="S2 suggests that if S1 was wrong about the surplus he might also be wrong about other aspects of the issue of same-sex marriage">
+   <part label="S2 suggests that if S1 was wrong about the surplus he might also be wrong about other aspects of the issue of same-sex marriage" start="1137" end="1264"/>
+  </contributor>
+ </scu>
+</pyramid>

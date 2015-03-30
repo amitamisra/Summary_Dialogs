@@ -1,0 +1,16 @@
+He thinks conservatives spend more money.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(spend-4, conservatives-3)
+ccomp(thinks-2, spend-4)
+amod(money-6, more-5)
+dobj(spend-4, money-6)
+
+He thinks conservatives spend more money.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(spend-4, conservatives-3)
+ccomp(thinks-2, spend-4)
+amod(money-6, more-5)
+dobj(spend-4, money-6)
+

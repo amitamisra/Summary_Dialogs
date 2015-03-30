@@ -1,0 +1,13 @@
+(Explanation[N][S]
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!S2 :!_
+      (Joint[N][N]
+        _!If Congress removesOMA , a vote for legal gay marriage will pass quickly ,!_
+        _!and certain justices of SCOTUS already approve of gay marriage .!_))
+    _!OMA has yet to be declared unconstitutional!_)
+  (Elaboration[N][S]
+    _!because there has yet to be a case!_
+    (Attribution[S][N]
+      _!made to challengeOMA in the courts , so!_
+      _!it has not been decided upon by SCOTUS . <s>!_)))

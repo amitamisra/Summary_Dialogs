@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT an) (NN insult)) (PP (TO to) (NP (NP (DT all)) (PP (IN of) (NP (JJ African) (JJ American) (NN society))))) (S (VP (TO to) (VP (VB compare) (NP (DT these) (CD two) (NNS plights)))))))))) (. .)))

@@ -1,0 +1,37 @@
+S2 suggests   that   a single person desires the benefits of marriage  , they should marry  , 
+root(ROOT-0, suggests-2)
+nsubj(suggests-2, S2-1)
+mark(marry-15, that-3)
+det(desires-7, a-4)
+amod(desires-7, single-5)
+nn(desires-7, person-6)
+dep(marry-15, desires-7)
+det(benefits-9, the-8)
+dep(desires-7, benefits-9)
+prep_of(benefits-9, marriage-11)
+nsubj(marry-15, they-13)
+aux(marry-15, should-14)
+ccomp(suggests-2, marry-15)
+
+ most divorces of hetero couples are due to adultery .
+
+
+root(ROOT-0, due-7)
+advmod(divorces-2, most-1)
+nsubj(due-7, divorces-2)
+nn(couples-5, hetero-4)
+prep_of(due-7, couples-5)
+cop(due-7, are-6)
+prep_to(due-7, adultery-9)
+
+ most divorces of hetero couples are due to adultery .
+
+
+root(ROOT-0, due-7)
+advmod(divorces-2, most-1)
+nsubj(due-7, divorces-2)
+nn(couples-5, hetero-4)
+prep_of(due-7, couples-5)
+cop(due-7, are-6)
+prep_to(due-7, adultery-9)
+

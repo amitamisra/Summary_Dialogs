@@ -1,0 +1,63 @@
+-LRB- S1 -RRB- begins talking about the death of a child either by natural or in the hands of a doctor .
+
+
+root(ROOT-0, begins-4)
+nsubj(begins-4, S1-2)
+xcomp(begins-4, talking-5)
+xcomp(begins-4, talking-5)
+xcomp(begins-4, talking-5)
+conj_or(talking-5, talking-5)
+conj_or(talking-5, talking-5)
+det(death-8, the-7)
+prep_about(talking-5, death-8)
+det(child-11, a-10)
+prep_of(death-8, child-11)
+preconj(talking-5, either-12)
+prep_by(talking-5, natural-14)
+det(hands-18, the-17)
+prep_in(talking-5, hands-18)
+det(doctor-21, a-20)
+prep_of(hands-18, doctor-21)
+
+The majority should not have the right to enslave their fellow citizens and send them to concentration camps .
+
+
+root(ROOT-0, have-5)
+det(majority-2, The-1)
+nsubj(have-5, majority-2)
+aux(have-5, should-3)
+neg(have-5, not-4)
+det(right-7, the-6)
+dobj(have-5, right-7)
+aux(enslave-9, to-8)
+vmod(right-7, enslave-9)
+poss(citizens-12, their-10)
+amod(citizens-12, fellow-11)
+dobj(enslave-9, citizens-12)
+vmod(right-7, send-14)
+conj_and(enslave-9, send-14)
+dobj(send-14, them-15)
+nn(camps-18, concentration-17)
+prep_to(send-14, camps-18)
+
+The majority should not have the right to enslave their fellow citizens and send them to concentration camps .
+
+
+root(ROOT-0, have-5)
+det(majority-2, The-1)
+nsubj(have-5, majority-2)
+aux(have-5, should-3)
+neg(have-5, not-4)
+det(right-7, the-6)
+dobj(have-5, right-7)
+aux(enslave-9, to-8)
+vmod(right-7, enslave-9)
+poss(citizens-12, their-10)
+amod(citizens-12, fellow-11)
+dobj(enslave-9, citizens-12)
+vmod(right-7, send-14)
+conj_and(enslave-9, send-14)
+dobj(send-14, them-15)
+nn(camps-18, concentration-17)
+prep_to(send-14, camps-18)
+

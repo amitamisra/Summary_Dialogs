@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB then)) (VP (VBZ amends) (NP (PRP$ his) (NN statement)) (PP (IN from) (NP (DT all) (JJ African) (NNPS Americans))) (PP (TO to) (NP (ADJP (RBS most) (JJ African)) (NNPS Americans)))) (. .)))

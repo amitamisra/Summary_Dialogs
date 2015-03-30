@@ -1,0 +1,42 @@
+ each person should be free to marry whoever he/she chooses as despite the reasoning for the marriage , it is commitment .
+
+
+root(ROOT-0, free-5)
+det(person-2, each-1)
+nsubj(free-5, person-2)
+aux(free-5, should-3)
+cop(free-5, be-4)
+aux(marry-7, to-6)
+xcomp(free-5, marry-7)
+nsubj(he/she-9, whoever-8)
+ccomp(marry-7, he/she-9)
+ccomp(he/she-9, chooses-10)
+mark(commitment-21, as-11)
+det(reasoning-14, the-13)
+prep_despite(commitment-21, reasoning-14)
+det(marriage-17, the-16)
+prep_for(reasoning-14, marriage-17)
+nsubj(commitment-21, it-19)
+cop(commitment-21, is-20)
+advcl(chooses-10, commitment-21)
+
+S1 feels gay people are more promiscuous than heterosexuals.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+amod(people-4, gay-3)
+nsubj(promiscuous-7, people-4)
+cop(promiscuous-7, are-5)
+advmod(promiscuous-7, more-6)
+ccomp(feels-2, promiscuous-7)
+prep_than(promiscuous-7, heterosexuals-9)
+
+S1 feels gay people are more promiscuous than heterosexuals.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+amod(people-4, gay-3)
+nsubj(promiscuous-7, people-4)
+cop(promiscuous-7, are-5)
+advmod(promiscuous-7, more-6)
+ccomp(feels-2, promiscuous-7)
+prep_than(promiscuous-7, heterosexuals-9)
+

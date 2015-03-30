@@ -1,0 +1,32 @@
+   that centralized government is a threat 
+root(ROOT-0, threat-6)
+mark(threat-6, that-1)
+amod(government-3, centralized-2)
+nsubj(threat-6, government-3)
+cop(threat-6, is-4)
+det(threat-6, a-5)
+
+S1 holds hope that gay marriage will be banned everywhere.
+root(ROOT-0, holds-2)
+nsubj(holds-2, S1-1)
+dobj(holds-2, hope-3)
+mark(banned-9, that-4)
+amod(marriage-6, gay-5)
+nsubjpass(banned-9, marriage-6)
+aux(banned-9, will-7)
+auxpass(banned-9, be-8)
+ccomp(holds-2, banned-9)
+advmod(banned-9, everywhere-10)
+
+S1 holds hope that gay marriage will be banned everywhere.
+root(ROOT-0, holds-2)
+nsubj(holds-2, S1-1)
+dobj(holds-2, hope-3)
+mark(banned-9, that-4)
+amod(marriage-6, gay-5)
+nsubjpass(banned-9, marriage-6)
+aux(banned-9, will-7)
+auxpass(banned-9, be-8)
+ccomp(holds-2, banned-9)
+advmod(banned-9, everywhere-10)
+

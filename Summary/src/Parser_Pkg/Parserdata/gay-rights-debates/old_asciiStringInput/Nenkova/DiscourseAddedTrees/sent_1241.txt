@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP They)) (VP (VBP keep) (S (VP (VBG arguing) (PP (IN about) (NP (NP (NP (NNS positions)) (PP (IN in) (NP (DT the) (NN matter)))) (CC and#0#0) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADJP (JJ inconsistent)))))))))) (. .)))

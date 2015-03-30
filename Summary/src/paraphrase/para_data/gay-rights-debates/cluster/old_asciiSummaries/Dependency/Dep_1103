@@ -1,0 +1,14 @@
+S2 believes the same argument can be made fro m her perspective.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+det(argument-5, the-3)
+amod(argument-5, same-4)
+nsubjpass(made-8, argument-5)
+aux(made-8, can-6)
+auxpass(made-8, be-7)
+ccomp(believes-2, made-8)
+nn(m-10, fro-9)
+nsubj(perspective-12, m-10)
+poss(perspective-12, her-11)
+xcomp(made-8, perspective-12)
+

@@ -1,0 +1,34 @@
+   they want  the government to get out of marriage    gay people are becoming involved 
+root(ROOT-0, want-2)
+nsubj(want-2, they-1)
+det(government-4, the-3)
+nsubj(get-6, government-4)
+aux(get-6, to-5)
+xcomp(want-2, get-6)
+prep_out_of(get-6, marriage-9)
+amod(people-11, gay-10)
+nsubj(becoming-13, people-11)
+aux(becoming-13, are-12)
+rcmod(marriage-9, becoming-13)
+dep(becoming-13, involved-14)
+
+Two subjects are discussing gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(subjects-2, Two-1)
+nsubj(discussing-4, subjects-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+
+Two subjects are discussing gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(subjects-2, Two-1)
+nsubj(discussing-4, subjects-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+

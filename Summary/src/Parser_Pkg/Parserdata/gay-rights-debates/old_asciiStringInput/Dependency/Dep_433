@@ -1,0 +1,54 @@
+    he does n't have proof of the claim   he should n't make it  . 
+root(ROOT-0, have-4)
+nsubj(have-4, he-1)
+aux(have-4, does-2)
+neg(have-4, n't-3)
+dobj(have-4, proof-5)
+det(claim-8, the-7)
+prep_of(proof-5, claim-8)
+nsubj(make-12, he-9)
+aux(make-12, should-10)
+neg(make-12, n't-11)
+rcmod(claim-8, make-12)
+dobj(make-12, it-13)
+
+ that gays do not now have the right to marry who they love but eventually will .
+
+
+root(ROOT-0, have-6)
+mark(do-3, that-1)
+nsubj(do-3, gays-2)
+ccomp(have-6, do-3)
+neg(do-3, not-4)
+advmod(have-6, now-5)
+det(right-8, the-7)
+dobj(have-6, right-8)
+aux(marry-10, to-9)
+vmod(right-8, marry-10)
+dobj(love-13, who-11)
+nsubj(love-13, they-12)
+ccomp(marry-10, love-13)
+advmod(will-16, eventually-15)
+ccomp(marry-10, will-16)
+conj_but(love-13, will-16)
+
+ that gays do not now have the right to marry who they love but eventually will .
+
+
+root(ROOT-0, have-6)
+mark(do-3, that-1)
+nsubj(do-3, gays-2)
+ccomp(have-6, do-3)
+neg(do-3, not-4)
+advmod(have-6, now-5)
+det(right-8, the-7)
+dobj(have-6, right-8)
+aux(marry-10, to-9)
+vmod(right-8, marry-10)
+dobj(love-13, who-11)
+nsubj(love-13, they-12)
+ccomp(marry-10, love-13)
+advmod(will-16, eventually-15)
+ccomp(marry-10, will-16)
+conj_but(love-13, will-16)
+

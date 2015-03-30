@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ advises) (NP (NP (NNP Jefferson)) (VP (VBN believed) (SBAR (S (NP (NN liberty)) (VP (MD would) (VP (VB be) (VP (VBN threatened) (PP (IN by) (NP (DT a) (JJ centralized) (NN government))))))))))) (. .)))

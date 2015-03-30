@@ -1,0 +1,16 @@
+He said too that the pastemocratic presidents left far fewer deficits than the Republican presidents.
+root(ROOT-0, said-2)
+nsubj(said-2, He-1)
+advmod(said-2, too-3)
+mark(left-8, that-4)
+det(presidents-7, the-5)
+amod(presidents-7, pastemocratic-6)
+nsubj(left-8, presidents-7)
+ccomp(said-2, left-8)
+advmod(fewer-10, far-9)
+amod(deficits-11, fewer-10)
+dobj(left-8, deficits-11)
+det(presidents-15, the-13)
+amod(presidents-15, Republican-14)
+prep_than(left-8, presidents-15)
+

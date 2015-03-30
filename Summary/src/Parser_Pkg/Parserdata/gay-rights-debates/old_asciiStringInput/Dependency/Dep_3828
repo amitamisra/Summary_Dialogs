@@ -1,0 +1,22 @@
+S1: WashingtonC' s city council recently legalized gay marriage.
+root(ROOT-0, legalized-9)
+nsubj(legalized-9, S1-1)
+dep(S1-1, WashingtonC-3)
+num(council-7, s-5)
+nn(council-7, city-6)
+npadvmod(recently-8, council-7)
+advmod(legalized-9, recently-8)
+amod(marriage-11, gay-10)
+dobj(legalized-9, marriage-11)
+
+S1: WashingtonC' s city council recently legalized gay marriage.
+root(ROOT-0, legalized-9)
+nsubj(legalized-9, S1-1)
+dep(S1-1, WashingtonC-3)
+num(council-7, s-5)
+nn(council-7, city-6)
+npadvmod(recently-8, council-7)
+advmod(legalized-9, recently-8)
+amod(marriage-11, gay-10)
+dobj(legalized-9, marriage-11)
+

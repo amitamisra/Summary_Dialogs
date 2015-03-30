@@ -1,0 +1,4 @@
+root(ROOT-0, arguing-4)
+aux(arguing-4, to-1)
+advmod(arguing-4, just-2)
+aux(arguing-4, be-3)

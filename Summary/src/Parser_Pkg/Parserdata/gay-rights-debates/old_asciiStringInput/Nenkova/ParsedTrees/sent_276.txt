@@ -1,0 +1,1 @@
+(ROOT (NP (NP (NN S2) (NNS retorts)) (PP (IN by) (S (VP (VBG saying) (SBAR (IN that) (S (NP (NNP Coretta) (NNP Scott) (NNP King) (CC and) (NNP Julian) (NNP Bond)) (VP (VBP are) (DT both) (PP (IN for) (NP (JJ gay) (NN marriage))))))))) (. .)))

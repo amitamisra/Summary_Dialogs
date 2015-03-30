@@ -1,0 +1,15 @@
+(S2) also indicates playing devils advocate to also talk about gay rights in relation to abortion.
+root(ROOT-0, indicates-5)
+nsubj(indicates-5, S2-2)
+advmod(S2-2, also-4)
+amod(devils-7, playing-6)
+nsubj(advocate-8, devils-7)
+ccomp(indicates-5, advocate-8)
+aux(talk-11, to-9)
+advmod(talk-11, also-10)
+xcomp(advocate-8, talk-11)
+amod(rights-14, gay-13)
+prep_about(talk-11, rights-14)
+prep_in(talk-11, relation-16)
+prep_to(talk-11, abortion-18)
+

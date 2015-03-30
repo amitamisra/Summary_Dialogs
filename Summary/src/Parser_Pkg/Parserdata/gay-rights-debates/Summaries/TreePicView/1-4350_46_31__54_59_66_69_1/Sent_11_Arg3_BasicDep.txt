@@ -1,0 +1,8 @@
+root(ROOT-0, begins-4)
+nsubj(begins-4, S1-2)
+xcomp(begins-4, talking-5)
+prep(talking-5, about-6)
+advmod(benefit-9, how-7)
+nsubj(benefit-9, we-8)
+pcomp(about-6, benefit-9)
+prep(benefit-9, from-10)

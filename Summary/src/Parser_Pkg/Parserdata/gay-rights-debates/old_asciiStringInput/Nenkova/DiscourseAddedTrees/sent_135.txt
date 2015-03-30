@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB then#0#Temporal)) (VP (VBD compared) (NP (DT this)) (PP (TO to) (SBAR (WHNP (WP what)) (S (VP (VBZ happens) (PP (IN with) (NP (NP (DT the) (NN girlfriend)) (PP (IN of) (NP (NP (DT a) (JJ straight) (NN guy)) (SBAR (WHNP (WP who)) (S (VP (MD can) (RB not) (VP (VB get) (NP (PRP$ his) (NN healthcare) (NNS benefits))))))))))))))) (. .)))

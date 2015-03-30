@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (ADVP (RB also)) (VP (VBZ feels) (SBAR (IN that) (S (NP (NP (NN divorce) (NNS rates)) (PP (IN among) (NP (NNS Christians)))) (VP (VBZ has) (NP (NN nothing) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (JJ gay) (NN marriage))))))))))))) (. .)))

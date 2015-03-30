@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (-LRB- -LRB-) (NN S1) (-RRB- -RRB-)) (ADVP (RB then#0#0))) (VP (VBZ asks) (S (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-) (VP (TO to) (VP (VP (VB stay) (PP (IN on) (NP (NN point)))) (CC and#1#0) (RB not) (VP (VB divert) (NP (DT the) (NN conversation))))))) (. .)))

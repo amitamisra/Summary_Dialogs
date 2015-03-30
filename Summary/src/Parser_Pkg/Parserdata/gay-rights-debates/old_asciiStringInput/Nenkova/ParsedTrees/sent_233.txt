@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB then)) (VP (VBZ proposes) (NP (NP (NNS concerns)) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (DT the) (JJ moral) (CC and) (NN health) (NNS concerns)) (VP (MD would) (VP (VB be) (SBAR (IN if) (S (NP (PRP we)) (VP (VBP continue) (S (VP (TO to) (VP (VB do) (NP (NP (DT this)) (PP (IN with) (NP (NN civility))))))))))))))))) (. .)))

@@ -1,0 +1,16 @@
+S2 believes that S1 is making up objections and deciding without any factual evidence.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+mark(making-6, that-3)
+nsubj(making-6, S1-4)
+nsubj(deciding-10, S1-4)
+aux(making-6, is-5)
+ccomp(believes-2, making-6)
+prt(making-6, up-7)
+dobj(making-6, objections-8)
+ccomp(believes-2, deciding-10)
+conj_and(making-6, deciding-10)
+det(evidence-14, any-12)
+amod(evidence-14, factual-13)
+prep_without(deciding-10, evidence-14)
+

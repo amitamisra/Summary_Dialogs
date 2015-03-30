@@ -1,0 +1,26 @@
+ ,     it is not a new concept  . 
+root(ROOT-0, is-3)
+nsubj(is-3, it-2)
+prep(is-3, not-4)
+det(concept-7, a-5)
+amod(concept-7, new-6)
+dep(not-4, concept-7)
+
+ ,   they must share the beliefs of that person 
+root(ROOT-0, share-4)
+nsubj(share-4, they-2)
+aux(share-4, must-3)
+det(beliefs-6, the-5)
+dobj(share-4, beliefs-6)
+det(person-9, that-8)
+prep_of(beliefs-6, person-9)
+
+ ,   they must share the beliefs of that person 
+root(ROOT-0, share-4)
+nsubj(share-4, they-2)
+aux(share-4, must-3)
+det(beliefs-6, the-5)
+dobj(share-4, beliefs-6)
+det(person-9, that-8)
+prep_of(beliefs-6, person-9)
+

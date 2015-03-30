@@ -1,0 +1,13 @@
+He cites Jerry Falwell and Pat Robertson as sources that refer to theominionists.
+root(ROOT-0, cites-2)
+nsubj(cites-2, He-1)
+nn(Falwell-4, Jerry-3)
+dobj(cites-2, Falwell-4)
+nn(Robertson-7, Pat-6)
+dobj(cites-2, Robertson-7)
+conj_and(Falwell-4, Robertson-7)
+prep_as(cites-2, sources-9)
+nsubj(refer-11, that-10)
+rcmod(sources-9, refer-11)
+prep_to(refer-11, theominionists-13)
+

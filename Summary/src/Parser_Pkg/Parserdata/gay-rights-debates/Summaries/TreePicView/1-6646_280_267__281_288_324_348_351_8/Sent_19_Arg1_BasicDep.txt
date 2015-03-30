@@ -1,0 +1,8 @@
+root(ROOT-0, resulted-3)
+det(comment-2, this-1)
+nsubj(resulted-3, comment-2)
+prep(resulted-3, in-4)
+det(challenge-6, a-5)
+pobj(in-4, challenge-6)
+prep(resulted-3, from-7)
+pobj(from-7, S1-8)

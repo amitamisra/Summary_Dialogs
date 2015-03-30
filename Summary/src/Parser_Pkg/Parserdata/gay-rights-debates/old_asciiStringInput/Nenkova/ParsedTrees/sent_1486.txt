@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S1)) (VP (VBD served) (PP (IN in) (NP (DT the) (JJ military))))) (CC and) (S (NP (PRP they)) (VP (VBD believed) (SBAR (S (NP (PRP they)) (VP (VBP have) (VP (VBN earned) (NP (PRP$ their) (NN right) (S (VP (TO to) (VP (VB have) (NP (NP (NN freedom)) (PP (IN of) (NP (NN speech)))))))))))))) (. .)))

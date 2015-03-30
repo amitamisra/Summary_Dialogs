@@ -1,0 +1,11 @@
+(Joint[N][N]
+  (Attribution[S][N]
+    _!In his dissenting opinion in Bowers Justice Stevens concluded that!_
+    (Elaboration[N][S]
+      _!( 1 ) the fact a State s governing majority has traditionally viewed a particular practice as immoral is not a sufficient reason for upholding a law!_
+      _!prohibiting the practice ,!_))
+  (same-unit[N][N]
+    _!and!_
+    (Elaboration[N][S]
+      _!( 2 ) individual decisions concerning the intimacies of physical relationships , even when not intended to produce offspring , are a form of liberty!_
+      _!protected by due process . <s>!_)))

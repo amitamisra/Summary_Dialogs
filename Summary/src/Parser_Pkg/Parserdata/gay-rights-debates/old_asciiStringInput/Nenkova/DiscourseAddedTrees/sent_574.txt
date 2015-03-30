@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT This) (NN person)) (VP (VBZ thinks) (SBAR (IN that) (S (S (VP (VP (VBG dismissing) (NP (NNS results))) (, ,) (CONJP (RB rather#0#0) (IN than)) (VP (VBG checking) (NP (NN validity))))) (VP (VBZ is) (ADJP (JJ reactionary)))))) (. .)))

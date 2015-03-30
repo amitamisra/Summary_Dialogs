@@ -1,0 +1,13 @@
+They think that the GUEST has blown the whole conversation out of proportion.
+root(ROOT-0, think-2)
+nsubj(think-2, They-1)
+mark(blown-7, that-3)
+det(GUEST-5, the-4)
+nsubj(blown-7, GUEST-5)
+aux(blown-7, has-6)
+ccomp(think-2, blown-7)
+det(conversation-10, the-8)
+amod(conversation-10, whole-9)
+dobj(blown-7, conversation-10)
+prep_out_of(blown-7, proportion-13)
+

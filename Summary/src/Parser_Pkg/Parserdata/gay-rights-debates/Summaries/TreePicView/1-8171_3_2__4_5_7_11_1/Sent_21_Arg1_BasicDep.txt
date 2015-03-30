@@ -1,0 +1,8 @@
+root(ROOT-0, says-2)
+nsubj(says-2, Biden-1)
+nsubj(support-6, he-3)
+aux(support-6, does-4)
+neg(support-6, n't-5)
+ccomp(says-2, support-6)
+amod(marriage-8, gay-7)
+dobj(support-6, marriage-8)

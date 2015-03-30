@@ -1,0 +1,6 @@
+root(ROOT-0, goes-3)
+det(argument-2, any-1)
+nsubj(goes-3, argument-2)
+advmod(goes-3, back-4)
+poss(motivations-8, one-6)
+prep_to(goes-3, motivations-8)

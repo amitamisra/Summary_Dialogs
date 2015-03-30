@@ -1,0 +1,46 @@
+S1 is against gay rights and believes they earned their freedom of speech through serving in the military .
+
+
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+nsubj(believes-7, S1-1)
+amod(rights-5, gay-4)
+prep_against(is-2, rights-5)
+conj_and(is-2, believes-7)
+nsubj(earned-9, they-8)
+ccomp(believes-7, earned-9)
+poss(freedom-11, their-10)
+dobj(earned-9, freedom-11)
+prep_of(freedom-11, speech-13)
+prepc_through(earned-9, serving-15)
+det(military-18, the-17)
+prep_in(serving-15, military-18)
+
+ that she isnt protecting marriage but preserving her heterosexual privilege .
+
+
+root(ROOT-0, isnt-3)
+mark(isnt-3, that-1)
+nsubj(isnt-3, she-2)
+ccomp(isnt-3, protecting-4)
+dobj(protecting-4, marriage-5)
+ccomp(isnt-3, preserving-7)
+conj_but(protecting-4, preserving-7)
+poss(privilege-10, her-8)
+amod(privilege-10, heterosexual-9)
+dobj(preserving-7, privilege-10)
+
+ that she isnt protecting marriage but preserving her heterosexual privilege .
+
+
+root(ROOT-0, isnt-3)
+mark(isnt-3, that-1)
+nsubj(isnt-3, she-2)
+ccomp(isnt-3, protecting-4)
+dobj(protecting-4, marriage-5)
+ccomp(isnt-3, preserving-7)
+conj_but(protecting-4, preserving-7)
+poss(privilege-10, her-8)
+amod(privilege-10, heterosexual-9)
+dobj(preserving-7, privilege-10)
+

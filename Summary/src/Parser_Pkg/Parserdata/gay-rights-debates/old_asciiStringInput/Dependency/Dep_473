@@ -1,0 +1,40 @@
+   that those accusing them of doing so are doing so falsely 
+root(ROOT-0, doing-9)
+mark(doing-9, that-1)
+nsubj(doing-9, those-2)
+vmod(those-2, accusing-3)
+dobj(accusing-3, them-4)
+prepc_of(accusing-3, doing-6)
+advmod(doing-6, so-7)
+aux(doing-9, are-8)
+advmod(doing-9, so-10)
+advmod(doing-9, falsely-11)
+
+S2 asks why a homosexual union is not legally recognized .
+
+
+root(ROOT-0, asks-2)
+nsubj(asks-2, S2-1)
+advmod(recognized-10, why-3)
+det(union-6, a-4)
+amod(union-6, homosexual-5)
+nsubjpass(recognized-10, union-6)
+auxpass(recognized-10, is-7)
+neg(recognized-10, not-8)
+advmod(recognized-10, legally-9)
+ccomp(asks-2, recognized-10)
+
+S2 asks why a homosexual union is not legally recognized .
+
+
+root(ROOT-0, asks-2)
+nsubj(asks-2, S2-1)
+advmod(recognized-10, why-3)
+det(union-6, a-4)
+amod(union-6, homosexual-5)
+nsubjpass(recognized-10, union-6)
+auxpass(recognized-10, is-7)
+neg(recognized-10, not-8)
+advmod(recognized-10, legally-9)
+ccomp(asks-2, recognized-10)
+

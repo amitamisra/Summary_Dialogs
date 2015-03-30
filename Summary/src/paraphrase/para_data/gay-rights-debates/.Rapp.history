@@ -1,0 +1,32 @@
+library(tm)
+install.packages("tm", lib="/Users/amita/software/Rpackage")
+library("tm",lib.loc="/Users/amita/software/Rpackage")
+install.packages("NLP", lib="/Users/amita/software/Rpackage")
+library("tm",lib.loc="/Users/amita/software/Rpackage")
+library("NLP",lib.loc="/Users/amita/software/Rpackage")
+library("tm",lib.loc="/Users/amita/software/Rpackage")
+./Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/Rscripts/topic_model.r
+R CMD BATCH /Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/Rscripts/topic_model.r
+source(""/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/Rscripts/topic_model.r")
+quit
+q
+ls()
+q()
+source("/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/Rscripts/topic_model.r")
+install.packages("wordcloud", lib="/Users/amita/software/Rpackage")
+source("/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/Rscripts/topic_model.r")
+install.packages("RColorBrewer", lib="/Users/amita/software/Rpackage")
+source("/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/Rscripts/topic_model.r")
+install.packages("topicmodels", lib="/Users/amita/software/Rpackage")
+install.packages("/Users/amita/software/topicmodels_0.2-1.tar",repos=NULL,type="source")
+install.packages("/Users/amita/software/topicmodels_0.2-1.tar",lib="/Users/amita/software/Rpackage", repos=NULL,type="source")
+install.packages("modeltools", lib="/Users/amita/software/Rpackage")
+install.packages("/Users/amita/software/topicmodels_0.2-1.tar",lib="/Users/amita/software/Rpackage", repos=NULL,type="source")
+setwd("~/git/summary_repo/Summary/src/paraphrase/data/gay-rights-debates/"
+)
+setwd("~/git/summary_repo/Summary/src/paraphrase/data/gay-rights-debates/")
+install.packages("stringi", lib="/Users/amita/software/Rpackage")
+install.packages("lsa", lib="/Users/amita/software/Rpackage")
+? mapply
+?lapply2
+??lapply2

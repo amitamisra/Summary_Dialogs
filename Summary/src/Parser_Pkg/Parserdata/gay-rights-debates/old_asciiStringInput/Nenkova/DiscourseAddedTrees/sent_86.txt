@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S2) (NNS states)) (SBAR (WHNP (WDT that)) (S (NP (JJ gay) (NNS people)) (VP (VP (VBP pay) (PP (IN into) (NP (DT those) (JJ same) (NNS systems)))) (CC and#1#0) (VP (VBZ believes) (NP (PRP they))))))) (VP (MD should) (ADVP (RB also#0#Expansion)) (VP (VB benefit) (PP (IN from) (NP (PRP them))))) (. .)))

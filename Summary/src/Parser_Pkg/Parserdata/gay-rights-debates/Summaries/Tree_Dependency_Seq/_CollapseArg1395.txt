@@ -1,0 +1,4 @@
+root(ROOT-0, involved-2)
+nsubj(involved-2, those-1)
+nn(transfusions-5, blood-4)
+prep_in(involved-2, transfusions-5)

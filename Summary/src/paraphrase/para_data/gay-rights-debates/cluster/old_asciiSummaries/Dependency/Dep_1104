@@ -1,0 +1,15 @@
+S1s believe of marriage is that it should be based on love and not on sex.
+root(ROOT-0, believe-2)
+nsubj(believe-2, S1s-1)
+prep_of(believe-2, marriage-4)
+rcmod(marriage-4, is-5)
+mark(based-10, that-6)
+nsubjpass(based-10, it-7)
+aux(based-10, should-8)
+auxpass(based-10, be-9)
+ccomp(is-5, based-10)
+prep_on(based-10, love-12)
+neg(based-10, not-14)
+prep_on(based-10, sex-16)
+conj_and(love-12, sex-16)
+

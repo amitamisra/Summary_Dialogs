@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ wants) (NP (JJ logical) (NNS reasons)) (PP (IN for#0#0) (S (ADVP (RB now)) (VP (VBG allowing) (NP (NNS gays)) (S (VP (TO to) (VP (VB marry)))))))) (. .)))

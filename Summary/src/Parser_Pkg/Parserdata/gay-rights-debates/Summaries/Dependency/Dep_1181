@@ -1,0 +1,16 @@
+S2 wants to draw the line.
+root(ROOT-0, wants-2)
+nsubj(wants-2, S2-1)
+aux(draw-4, to-3)
+xcomp(wants-2, draw-4)
+det(line-6, the-5)
+dobj(draw-4, line-6)
+
+S2 wants to draw the line.
+root(ROOT-0, wants-2)
+nsubj(wants-2, S2-1)
+aux(draw-4, to-3)
+xcomp(wants-2, draw-4)
+det(line-6, the-5)
+dobj(draw-4, line-6)
+

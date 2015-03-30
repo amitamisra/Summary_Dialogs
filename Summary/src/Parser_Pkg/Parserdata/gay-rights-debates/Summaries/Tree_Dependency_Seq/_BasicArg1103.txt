@@ -1,0 +1,5 @@
+root(ROOT-0, affect-3)
+amod(laws-2, different-1)
+nsubj(affect-3, laws-2)
+amod(people-5, different-4)
+dobj(affect-3, people-5)

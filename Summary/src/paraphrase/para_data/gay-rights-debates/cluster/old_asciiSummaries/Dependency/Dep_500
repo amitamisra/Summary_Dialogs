@@ -1,0 +1,17 @@
+S2 asserts that marriage is recognizing a family unit based on a natural heterosexual contract out.
+root(ROOT-0, asserts-2)
+nsubj(asserts-2, S2-1)
+mark(recognizing-6, that-3)
+nsubj(recognizing-6, marriage-4)
+aux(recognizing-6, is-5)
+ccomp(asserts-2, recognizing-6)
+det(unit-9, a-7)
+nn(unit-9, family-8)
+dobj(recognizing-6, unit-9)
+prepc_based_on(recognizing-6, on-11)
+det(contract-15, a-12)
+amod(contract-15, natural-13)
+amod(contract-15, heterosexual-14)
+pobj(recognizing-6, contract-15)
+advmod(contract-15, out-16)
+

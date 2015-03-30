@@ -1,0 +1,42 @@
+ that S1 is not labeled as a bigot but supports those who are in a sense bigots or supporters .
+
+
+root(ROOT-0, labeled-5)
+mark(labeled-5, that-1)
+nsubjpass(labeled-5, S1-2)
+nsubj(supports-10, S1-2)
+auxpass(labeled-5, is-3)
+neg(labeled-5, not-4)
+det(bigot-8, a-7)
+prep_as(labeled-5, bigot-8)
+conj_but(labeled-5, supports-10)
+dobj(supports-10, those-11)
+nsubj(are-13, who-12)
+rcmod(those-11, are-13)
+det(bigots-17, a-15)
+nn(bigots-17, sense-16)
+prep_in(are-13, bigots-17)
+prep_in(are-13, supporters-19)
+conj_or(bigots-17, supporters-19)
+
+ that S1 is not labeled as a bigot but supports those who are in a sense bigots or supporters .
+
+
+root(ROOT-0, labeled-5)
+mark(labeled-5, that-1)
+nsubjpass(labeled-5, S1-2)
+nsubj(supports-10, S1-2)
+auxpass(labeled-5, is-3)
+neg(labeled-5, not-4)
+det(bigot-8, a-7)
+prep_as(labeled-5, bigot-8)
+conj_but(labeled-5, supports-10)
+dobj(supports-10, those-11)
+nsubj(are-13, who-12)
+rcmod(those-11, are-13)
+det(bigots-17, a-15)
+nn(bigots-17, sense-16)
+prep_in(are-13, bigots-17)
+prep_in(are-13, supporters-19)
+conj_or(bigots-17, supporters-19)
+

@@ -1,0 +1,1 @@
+(ROOT (S (PP (VBG According) (PP (TO to) (NP (NN S1)))) (, ,) (NP (NN incest) (CC and) (NN polygamy) (NN doesnt)) (VP (VBP relate) (ADVP (RB specifically)) (PP (TO to) (NP (JJ gay) (JJ legal) (NN marriage)))) (. .)))

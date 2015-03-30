@@ -1,0 +1,47 @@
+S2 retorts  that gays lose every time gay marriage is put to a vote in a ballot , 
+root(ROOT-0, put-11)
+nn(retorts-2, S2-1)
+nsubjpass(put-11, retorts-2)
+nsubj(gays-4, that-3)
+rcmod(retorts-2, gays-4)
+xcomp(gays-4, lose-5)
+det(marriage-9, every-6)
+nn(marriage-9, time-7)
+amod(marriage-9, gay-8)
+dobj(lose-5, marriage-9)
+auxpass(put-11, is-10)
+det(vote-14, a-13)
+prep_to(put-11, vote-14)
+det(ballot-17, a-16)
+prep_in(vote-14, ballot-17)
+
+ S2 has answered her question of how equal marriage hurts any heterosexual .
+
+
+root(ROOT-0, answered-3)
+nsubj(answered-3, S2-1)
+aux(answered-3, has-2)
+poss(question-5, her-4)
+dobj(answered-3, question-5)
+advmod(hurts-10, how-7)
+amod(marriage-9, equal-8)
+nsubj(hurts-10, marriage-9)
+prepc_of(question-5, hurts-10)
+det(heterosexual-12, any-11)
+dobj(hurts-10, heterosexual-12)
+
+ S2 has answered her question of how equal marriage hurts any heterosexual .
+
+
+root(ROOT-0, answered-3)
+nsubj(answered-3, S2-1)
+aux(answered-3, has-2)
+poss(question-5, her-4)
+dobj(answered-3, question-5)
+advmod(hurts-10, how-7)
+amod(marriage-9, equal-8)
+nsubj(hurts-10, marriage-9)
+prepc_of(question-5, hurts-10)
+det(heterosexual-12, any-11)
+dobj(hurts-10, heterosexual-12)
+

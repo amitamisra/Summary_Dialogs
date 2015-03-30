@@ -1,0 +1,11 @@
+S1 is against gay marriage as well as shared healthcare between gay couples.
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+amod(marriage-5, gay-4)
+prep_against(is-2, marriage-5)
+amod(healthcare-10, shared-9)
+prep_against(is-2, healthcare-10)
+conj_and(marriage-5, healthcare-10)
+amod(couples-13, gay-12)
+prep_between(healthcare-10, couples-13)
+

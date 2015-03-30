@@ -1,0 +1,24 @@
+He notes that there are logical reasons for marriage discrimination.
+root(ROOT-0, notes-2)
+nsubj(notes-2, He-1)
+mark(are-5, that-3)
+expl(are-5, there-4)
+ccomp(notes-2, are-5)
+amod(reasons-7, logical-6)
+nsubj(are-5, reasons-7)
+prep(reasons-7, for-8)
+nn(discrimination-10, marriage-9)
+pobj(for-8, discrimination-10)
+
+He notes that there are logical reasons for marriage discrimination.
+root(ROOT-0, notes-2)
+nsubj(notes-2, He-1)
+mark(are-5, that-3)
+expl(are-5, there-4)
+ccomp(notes-2, are-5)
+amod(reasons-7, logical-6)
+nsubj(are-5, reasons-7)
+prep(reasons-7, for-8)
+nn(discrimination-10, marriage-9)
+pobj(for-8, discrimination-10)
+

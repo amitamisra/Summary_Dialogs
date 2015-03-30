@@ -1,0 +1,13 @@
+It is impossible to know or to police someones real motives.
+root(ROOT-0, impossible-3)
+nsubj(impossible-3, It-1)
+cop(impossible-3, is-2)
+aux(know-5, to-4)
+dep(impossible-3, know-5)
+dep(impossible-3, to-7)
+conj_or(know-5, to-7)
+pobj(to-7, police-8)
+dep(police-8, someones-9)
+amod(motives-11, real-10)
+dobj(someones-9, motives-11)
+

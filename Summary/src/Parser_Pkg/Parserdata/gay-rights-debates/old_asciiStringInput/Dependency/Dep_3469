@@ -1,0 +1,20 @@
+   he is not rather S2s tone has changed . 
+root(ROOT-0, is-2)
+nsubj(is-2, he-1)
+neg(is-2, not-3)
+advmod(is-2, rather-4)
+amod(tone-6, S2s-5)
+nsubj(changed-8, tone-6)
+aux(changed-8, has-7)
+ccomp(is-2, changed-8)
+
+   he is not rather S2s tone has changed . 
+root(ROOT-0, is-2)
+nsubj(is-2, he-1)
+neg(is-2, not-3)
+advmod(is-2, rather-4)
+amod(tone-6, S2s-5)
+nsubj(changed-8, tone-6)
+aux(changed-8, has-7)
+ccomp(is-2, changed-8)
+

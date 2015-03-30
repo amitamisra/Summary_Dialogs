@@ -1,0 +1,26 @@
+   he contends that S2 hopes that the bigots will overturn equality 
+root(ROOT-0, contends-2)
+nsubj(contends-2, he-1)
+mark(hopes-5, that-3)
+nsubj(hopes-5, S2-4)
+ccomp(contends-2, hopes-5)
+mark(overturn-10, that-6)
+det(bigots-8, the-7)
+nsubj(overturn-10, bigots-8)
+aux(overturn-10, will-9)
+ccomp(hopes-5, overturn-10)
+dobj(overturn-10, equality-11)
+
+   he contends that S2 hopes that the bigots will overturn equality 
+root(ROOT-0, contends-2)
+nsubj(contends-2, he-1)
+mark(hopes-5, that-3)
+nsubj(hopes-5, S2-4)
+ccomp(contends-2, hopes-5)
+mark(overturn-10, that-6)
+det(bigots-8, the-7)
+nsubj(overturn-10, bigots-8)
+aux(overturn-10, will-9)
+ccomp(hopes-5, overturn-10)
+dobj(overturn-10, equality-11)
+

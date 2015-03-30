@@ -1,0 +1,15 @@
+He proposes that gay lobbyists have crossed the line from counter-attacking to simply attacking Christians.
+root(ROOT-0, proposes-2)
+nsubj(proposes-2, He-1)
+mark(crossed-7, that-3)
+amod(lobbyists-5, gay-4)
+nsubj(crossed-7, lobbyists-5)
+aux(crossed-7, have-6)
+ccomp(proposes-2, crossed-7)
+det(line-9, the-8)
+dobj(crossed-7, line-9)
+prepc_from(crossed-7, counter-attacking-11)
+advmod(attacking-14, simply-13)
+prepc_to(counter-attacking-11, attacking-14)
+dobj(attacking-14, Christians-15)
+

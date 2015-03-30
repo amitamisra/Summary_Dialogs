@@ -1,0 +1,1 @@
+(ROOT (S (PP (IN Without) (NP (DT that) (NN expectation))) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ pointless) (PP (IN in) (S (VP (VBG asking) (NP (DT a) (NN politician)) (NP (DT a) (JJ direct) (NN question))))))) (. .)))

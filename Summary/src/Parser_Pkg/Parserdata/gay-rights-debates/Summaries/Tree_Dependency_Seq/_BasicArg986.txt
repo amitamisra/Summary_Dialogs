@@ -1,0 +1,8 @@
+root(ROOT-0, believe-2)
+nsubj(believe-2, they-1)
+mark(reprehensible-8, that-3)
+cop(gay-5, being-4)
+csubj(reprehensible-8, gay-5)
+cop(reprehensible-8, is-6)
+advmod(reprehensible-8, morally-7)
+ccomp(believe-2, reprehensible-8)

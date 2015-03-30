@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S1)) (VP (VBZ thinks) (NP (PRP he)))) (CC and#0#Expansion) (S (NP (PRP$ his) (NN family)) (VP (VBZ represents) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (JJ normal))))))) (. .)))

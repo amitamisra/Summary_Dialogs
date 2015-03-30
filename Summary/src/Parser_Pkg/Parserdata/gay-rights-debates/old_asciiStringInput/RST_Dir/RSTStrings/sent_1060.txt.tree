@@ -1,0 +1,13 @@
+(Attribution[N][S]
+  (same-unit[N][N]
+    (Attribution[N][S]
+      (Attribution[N][S]
+        _!He then states that although he is younger than S1 ,!_
+        _!he was n't born yesterday ,!_)
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!to which S1 replies that he!_
+          _!( S2 )!_)
+        (Attribution[S][N] _!can believe!_ _!what he wants ,!_)))
+    _!no matter!_)
+  _!how wrong he is . <s>!_)

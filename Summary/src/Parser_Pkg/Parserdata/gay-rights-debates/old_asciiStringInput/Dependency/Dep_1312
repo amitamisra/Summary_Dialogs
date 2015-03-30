@@ -1,0 +1,48 @@
+The Greeks had homosexual liaisons , some from desire , some for a form of mentoring reasons .
+
+
+root(ROOT-0, had-3)
+det(Greeks-2, The-1)
+nsubj(had-3, Greeks-2)
+amod(liaisons-5, homosexual-4)
+dobj(had-3, liaisons-5)
+appos(liaisons-5, some-7)
+prep_from(some-7, desire-9)
+appos(liaisons-5, some-11)
+det(form-14, a-13)
+prep_for(had-3, form-14)
+nn(reasons-17, mentoring-16)
+prep_of(form-14, reasons-17)
+
+S1 compares this to quoting singer John Lennon against religion and attributing it to the entireemocratic Party.
+root(ROOT-0, compares-2)
+nsubj(compares-2, S1-1)
+dobj(compares-2, this-3)
+prepc_to(this-3, quoting-5)
+nn(Lennon-8, singer-6)
+nn(Lennon-8, John-7)
+dobj(quoting-5, Lennon-8)
+prep_against(Lennon-8, religion-10)
+prepc_to(this-3, attributing-12)
+conj_and(quoting-5, attributing-12)
+dobj(attributing-12, it-13)
+det(Party-17, the-15)
+amod(Party-17, entireemocratic-16)
+prep_to(attributing-12, Party-17)
+
+S1 compares this to quoting singer John Lennon against religion and attributing it to the entireemocratic Party.
+root(ROOT-0, compares-2)
+nsubj(compares-2, S1-1)
+dobj(compares-2, this-3)
+prepc_to(this-3, quoting-5)
+nn(Lennon-8, singer-6)
+nn(Lennon-8, John-7)
+dobj(quoting-5, Lennon-8)
+prep_against(Lennon-8, religion-10)
+prepc_to(this-3, attributing-12)
+conj_and(quoting-5, attributing-12)
+dobj(attributing-12, it-13)
+det(Party-17, the-15)
+amod(Party-17, entireemocratic-16)
+prep_to(attributing-12, Party-17)
+

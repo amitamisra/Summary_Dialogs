@@ -1,0 +1,4 @@
+root(ROOT-0, problem-4)
+nsubj(problem-4, it-1)
+cop(problem-4, is-2)
+det(problem-4, a-3)

@@ -1,0 +1,3 @@
+root(ROOT-0, heterosexual-3)
+nsubj(heterosexual-3, he-1)
+cop(heterosexual-3, is-2)

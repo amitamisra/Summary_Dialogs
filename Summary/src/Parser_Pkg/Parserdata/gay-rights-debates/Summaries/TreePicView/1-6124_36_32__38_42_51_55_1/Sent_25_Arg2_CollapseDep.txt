@@ -1,0 +1,4 @@
+root(ROOT-0, married-4)
+nsubjpass(married-4, they-1)
+aux(married-4, should-2)
+auxpass(married-4, get-3)

@@ -1,0 +1,16 @@
+   they are invested in defending their ideals .   
+root(ROOT-0, invested-3)
+nsubjpass(invested-3, they-1)
+auxpass(invested-3, are-2)
+prepc_in(invested-3, defending-5)
+poss(ideals-7, their-6)
+dobj(defending-5, ideals-7)
+
+   they are invested in defending their ideals .   
+root(ROOT-0, invested-3)
+nsubjpass(invested-3, they-1)
+auxpass(invested-3, are-2)
+prepc_in(invested-3, defending-5)
+poss(ideals-7, their-6)
+dobj(defending-5, ideals-7)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, cohabitate-3)
+num(people-2, two-1)
+nsubj(cohabitate-3, people-2)
+nsubj(have-7, people-2)
+prep(cohabitate-3, for-4)
+pcomp(for-4, awhile-5)
+conj_or(cohabitate-3, have-7)
+dobj(have-7, children-8)

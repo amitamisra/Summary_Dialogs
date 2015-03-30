@@ -1,0 +1,5 @@
+root(ROOT-0, intended-2)
+nsubj(intended-2, not-1)
+aux(produce-4, to-3)
+xcomp(intended-2, produce-4)
+dobj(produce-4, offspring-5)

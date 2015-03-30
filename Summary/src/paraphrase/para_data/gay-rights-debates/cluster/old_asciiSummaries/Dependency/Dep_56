@@ -1,0 +1,7 @@
+He wishes to debate S2.
+root(ROOT-0, wishes-2)
+nsubj(wishes-2, He-1)
+aux(debate-4, to-3)
+xcomp(wishes-2, debate-4)
+dobj(debate-4, S2-5)
+

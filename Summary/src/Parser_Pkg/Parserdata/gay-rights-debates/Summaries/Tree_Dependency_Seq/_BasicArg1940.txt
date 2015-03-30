@@ -1,0 +1,5 @@
+root(ROOT-0, use-4)
+nsubj(use-4, S1-2)
+amod(attacks-7, boring-5)
+amod(attacks-7, passive-aggressive-6)
+dobj(use-4, attacks-7)

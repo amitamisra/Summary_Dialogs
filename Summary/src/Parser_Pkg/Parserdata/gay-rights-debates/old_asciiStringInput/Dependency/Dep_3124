@@ -1,0 +1,28 @@
+S1 calls S2 naive for believing that lying does not happen in politics today.
+root(ROOT-0, calls-2)
+nsubj(calls-2, S1-1)
+nsubj(naive-4, S2-3)
+xcomp(calls-2, naive-4)
+prepc_for(naive-4, believing-6)
+mark(happen-11, that-7)
+nsubj(happen-11, lying-8)
+aux(happen-11, does-9)
+neg(happen-11, not-10)
+ccomp(believing-6, happen-11)
+prep_in(happen-11, politics-13)
+tmod(happen-11, today-14)
+
+S1 calls S2 naive for believing that lying does not happen in politics today.
+root(ROOT-0, calls-2)
+nsubj(calls-2, S1-1)
+nsubj(naive-4, S2-3)
+xcomp(calls-2, naive-4)
+prepc_for(naive-4, believing-6)
+mark(happen-11, that-7)
+nsubj(happen-11, lying-8)
+aux(happen-11, does-9)
+neg(happen-11, not-10)
+ccomp(believing-6, happen-11)
+prep_in(happen-11, politics-13)
+tmod(happen-11, today-14)
+

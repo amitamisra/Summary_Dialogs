@@ -1,0 +1,7 @@
+root(ROOT-0, using-1)
+dobj(using-1, morals-2)
+dobj(using-1, religion-4)
+conj_or(morals-2, religion-4)
+prep_as(using-1, reasons-6)
+prepc_for(reasons-6, doing-8)
+advmod(doing-8, so-9)

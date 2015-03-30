@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VP (VBZ has) (VP (VBN posted) (NP (NP (NN news)) (PP (IN of) (NP (NP (NNP theC) (NNP Council)) (VP (VBG voting) (S (VP (TO to) (VP (VB authorize) (NP (JJ gay) (NN marriage))))))))))) (CC and#0#0) (VP (VBZ is) (ADJP (JJ celebratory) (PP (IN about) (NP (PRP it)))))) (. .)))

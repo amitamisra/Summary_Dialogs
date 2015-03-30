@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ tries) (S (VP (TO to) (VP (VB assert) (SBAR (IN that) (S (NP (NNS republicans)) (VP (VBP do) (RB not) (VP (VB cite) (CC or) (VB reference) (NP (NNP Paul)) (SBAR (IN because) (S (NP (PRP he)) (VP (VBZ is) (RB not) (NP (DT a) (JJ reliable) (NN source))))))))))))) (. .)))

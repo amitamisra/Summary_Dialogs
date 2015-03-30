@@ -1,0 +1,28 @@
+ to view it otherwise would be an insult to all African Americans.
+root(ROOT-0, insult-8)
+aux(view-2, to-1)
+csubj(insult-8, view-2)
+dobj(view-2, it-3)
+advmod(view-2, otherwise-4)
+aux(insult-8, would-5)
+cop(insult-8, be-6)
+det(insult-8, an-7)
+prep(insult-8, to-9)
+det(Americans-12, all-10)
+amod(Americans-12, African-11)
+pobj(to-9, Americans-12)
+
+ to view it otherwise would be an insult to all African Americans.
+root(ROOT-0, insult-8)
+aux(view-2, to-1)
+csubj(insult-8, view-2)
+dobj(view-2, it-3)
+advmod(view-2, otherwise-4)
+aux(insult-8, would-5)
+cop(insult-8, be-6)
+det(insult-8, an-7)
+prep(insult-8, to-9)
+det(Americans-12, all-10)
+amod(Americans-12, African-11)
+pobj(to-9, Americans-12)
+

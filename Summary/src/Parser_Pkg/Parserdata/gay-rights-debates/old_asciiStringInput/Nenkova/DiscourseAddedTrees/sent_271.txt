@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ asks) (NP (NN S2)) (S (VP (TO to) (VP (VB clarify) (NP (PRP$ his) (NN statement)) (PP (IN about) (NP (JJ Jeffersonian) (NN liberalism))))))) (. .)))

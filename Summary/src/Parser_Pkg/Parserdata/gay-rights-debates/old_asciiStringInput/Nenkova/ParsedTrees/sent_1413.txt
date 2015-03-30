@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (-LRB- -LRB-) (NN S1) (-RRB- -RRB-)) (SBAR (S (VP (VBP bring) (PP (TO to))))) (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ s) (NP (NP (NN attention) (DT the)) (VP (VBG overturning) (PP (IN of) (NP (NP (DT the) (JJ 9th)) (PP (IN in) (NP (NNP Maines) (NNS results)))))))) (. .)))

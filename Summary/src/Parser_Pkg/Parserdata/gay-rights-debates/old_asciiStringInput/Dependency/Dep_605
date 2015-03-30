@@ -1,0 +1,48 @@
+ that the majority rules no matter what the minority thinks .
+
+
+root(ROOT-0, rules-4)
+mark(rules-4, that-1)
+det(rules-4, the-2)
+nn(rules-4, majority-3)
+neg(matter-6, no-5)
+advmod(what-7, matter-6)
+dobj(thinks-10, what-7)
+det(minority-9, the-8)
+nsubj(thinks-10, minority-9)
+rcmod(rules-4, thinks-10)
+
+S1 apologizes for jumping the gun and misreading the one billion dollar surplus link .
+
+
+root(ROOT-0, apologizes-2)
+nsubj(apologizes-2, S1-1)
+prepc_for(apologizes-2, jumping-4)
+det(gun-6, the-5)
+dobj(jumping-4, gun-6)
+prepc_for(apologizes-2, misreading-8)
+conj_and(jumping-4, misreading-8)
+det(link-14, the-9)
+number(billion-11, one-10)
+num(link-14, billion-11)
+nn(link-14, dollar-12)
+nn(link-14, surplus-13)
+dobj(misreading-8, link-14)
+
+S1 apologizes for jumping the gun and misreading the one billion dollar surplus link .
+
+
+root(ROOT-0, apologizes-2)
+nsubj(apologizes-2, S1-1)
+prepc_for(apologizes-2, jumping-4)
+det(gun-6, the-5)
+dobj(jumping-4, gun-6)
+prepc_for(apologizes-2, misreading-8)
+conj_and(jumping-4, misreading-8)
+det(link-14, the-9)
+number(billion-11, one-10)
+num(link-14, billion-11)
+nn(link-14, dollar-12)
+nn(link-14, surplus-13)
+dobj(misreading-8, link-14)
+

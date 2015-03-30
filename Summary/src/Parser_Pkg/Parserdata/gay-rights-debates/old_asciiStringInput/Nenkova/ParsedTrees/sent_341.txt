@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ provides) (SBAR (S (NP (JJ several)) (VP (VBZ cites) (NP (NP (JJ several) (NNS websites)) (SBAR (WHNP (WDT which)) (S (VP (VBP show) (NP (NP (RBS most)) (SBAR (S (NP (NP (NNS divorces)) (PP (IN of) (NP (NN hetero) (NNS couples)))) (VP (VBP are) (ADJP (JJ due) (PP (TO to) (NP (NN adultery)))))))))))))))) (. .)))

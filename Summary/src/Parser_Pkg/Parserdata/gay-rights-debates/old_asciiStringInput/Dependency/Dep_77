@@ -1,0 +1,56 @@
+  He  compares homosexuality to polygamy ,  that polygamy has been unofficially accepted for years , and argues that maintaining the current same-sex marriage bans should be considered discriminatory .  
+root(ROOT-0, compares-2)
+nsubj(compares-2, He-1)
+nsubj(argues-17, He-1)
+dobj(compares-2, homosexuality-3)
+prep_to(compares-2, polygamy-5)
+mark(accepted-12, that-7)
+nsubjpass(accepted-12, polygamy-8)
+aux(accepted-12, has-9)
+auxpass(accepted-12, been-10)
+advmod(accepted-12, unofficially-11)
+ccomp(compares-2, accepted-12)
+prep_for(accepted-12, years-14)
+conj_and(compares-2, argues-17)
+mark(considered-27, that-18)
+csubjpass(considered-27, maintaining-19)
+det(bans-24, the-20)
+amod(bans-24, current-21)
+amod(bans-24, same-sex-22)
+nn(bans-24, marriage-23)
+dobj(maintaining-19, bans-24)
+aux(considered-27, should-25)
+auxpass(considered-27, be-26)
+ccomp(argues-17, considered-27)
+xcomp(considered-27, discriminatory-28)
+
+He points to high support for gay marriages among the 18-29 year-olds in the US .
+
+
+root(ROOT-0, points-2)
+nsubj(points-2, He-1)
+amod(support-5, high-4)
+prep_to(points-2, support-5)
+amod(marriages-8, gay-7)
+prep_for(support-5, marriages-8)
+det(year-olds-12, the-10)
+num(year-olds-12, 18-29-11)
+prep_among(points-2, year-olds-12)
+det(US-15, the-14)
+prep_in(year-olds-12, US-15)
+
+He points to high support for gay marriages among the 18-29 year-olds in the US .
+
+
+root(ROOT-0, points-2)
+nsubj(points-2, He-1)
+amod(support-5, high-4)
+prep_to(points-2, support-5)
+amod(marriages-8, gay-7)
+prep_for(support-5, marriages-8)
+det(year-olds-12, the-10)
+num(year-olds-12, 18-29-11)
+prep_among(points-2, year-olds-12)
+det(US-15, the-14)
+prep_in(year-olds-12, US-15)
+

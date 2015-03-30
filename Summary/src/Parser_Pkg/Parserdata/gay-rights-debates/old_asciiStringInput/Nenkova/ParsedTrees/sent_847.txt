@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Jyoshu)) (VP (VBZ notes) (SBAR (IN that) (S (SBAR (WDT whatever) (FRAG (NP (DT the) (NN intent)))) (, ,) (NP (DT the) (NN result)) (VP (VBZ is) (NP (NP (DT the) (NN kind)) (PP (IN of) (NP (NN change))) (SBAR (S (NP (DT the) (JJ anti-gay) (NNS advocates)) (VP (VBP warn) (PP (IN against)))))))))) (. .)))

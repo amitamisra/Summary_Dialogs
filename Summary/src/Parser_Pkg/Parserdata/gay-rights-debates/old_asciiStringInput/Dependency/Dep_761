@@ -1,0 +1,42 @@
+S1 rebuts by stating  that it is 
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S1-1)
+prepc_by(rebuts-2, stating-4)
+mark(is-7, that-5)
+nsubj(is-7, it-6)
+ccomp(stating-4, is-7)
+
+He considers MLK to have far more credibility than either of the two people referenced .
+
+
+root(ROOT-0, considers-2)
+nsubj(considers-2, He-1)
+nsubj(have-5, MLK-3)
+aux(have-5, to-4)
+xcomp(considers-2, have-5)
+advmod(more-7, far-6)
+amod(credibility-8, more-7)
+dobj(have-5, credibility-8)
+prep_than(credibility-8, either-10)
+det(people-14, the-12)
+num(people-14, two-13)
+prep_of(either-10, people-14)
+vmod(people-14, referenced-15)
+
+He considers MLK to have far more credibility than either of the two people referenced .
+
+
+root(ROOT-0, considers-2)
+nsubj(considers-2, He-1)
+nsubj(have-5, MLK-3)
+aux(have-5, to-4)
+xcomp(considers-2, have-5)
+advmod(more-7, far-6)
+amod(credibility-8, more-7)
+dobj(have-5, credibility-8)
+prep_than(credibility-8, either-10)
+det(people-14, the-12)
+num(people-14, two-13)
+prep_of(either-10, people-14)
+vmod(people-14, referenced-15)
+

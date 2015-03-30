@@ -1,0 +1,8 @@
+root(ROOT-0, discriminatory-6)
+nsubj(discriminatory-6, opponents-1)
+prep(opponents-1, of-2)
+amod(rights-4, gay-3)
+pobj(of-2, rights-4)
+cop(discriminatory-6, are-5)
+cc(discriminatory-6, and-7)
+conj(discriminatory-6, bigoted-8)

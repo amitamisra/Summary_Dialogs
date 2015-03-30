@@ -1,0 +1,13 @@
+S2 believes that as political consumers we should expect honesty of the politicians.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+mark(expect-9, that-3)
+amod(consumers-6, political-5)
+prep_as(expect-9, consumers-6)
+nsubj(expect-9, we-7)
+aux(expect-9, should-8)
+ccomp(believes-2, expect-9)
+dobj(expect-9, honesty-10)
+det(politicians-13, the-12)
+prep_of(honesty-10, politicians-13)
+

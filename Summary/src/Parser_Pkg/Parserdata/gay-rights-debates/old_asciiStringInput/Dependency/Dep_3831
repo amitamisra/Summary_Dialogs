@@ -1,0 +1,22 @@
+   that equality will soon stand on the side of the majority . 
+root(ROOT-0, stand-5)
+mark(stand-5, that-1)
+nsubj(stand-5, equality-2)
+aux(stand-5, will-3)
+advmod(stand-5, soon-4)
+det(side-8, the-7)
+prep_on(stand-5, side-8)
+det(majority-11, the-10)
+prep_of(side-8, majority-11)
+
+   that equality will soon stand on the side of the majority . 
+root(ROOT-0, stand-5)
+mark(stand-5, that-1)
+nsubj(stand-5, equality-2)
+aux(stand-5, will-3)
+advmod(stand-5, soon-4)
+det(side-8, the-7)
+prep_on(stand-5, side-8)
+det(majority-11, the-10)
+prep_of(side-8, majority-11)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, single-6)
+amod(couples-3, same-1)
+nn(couples-3, sex-2)
+nsubj(single-6, couples-3)
+cop(single-6, are-4)
+neg(single-6, not-5)

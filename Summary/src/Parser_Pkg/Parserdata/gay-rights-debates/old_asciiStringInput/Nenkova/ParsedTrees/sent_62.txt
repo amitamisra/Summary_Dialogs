@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ contends) (SBAR (IN that) (S (NP (NN polygamy)) (VP (MD would) (RB n't) (VP (VB count) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (NP (NP (CD one) (NN man)) (CC or) (NP (NP (NNS women)) (VP (VBN married) (PP (TO to) (NP (NP (JJ multiple) (NNS members)) (PP (IN of) (NP (DT the) (JJ opposite) (NN sex)))))))))))))))) (. .)))

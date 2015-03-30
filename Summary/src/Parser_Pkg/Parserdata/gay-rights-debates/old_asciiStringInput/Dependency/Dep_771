@@ -1,0 +1,29 @@
+   the belief women were a lesser gender . 
+root(ROOT-0, gender-7)
+det(women-3, the-1)
+nn(women-3, belief-2)
+nsubj(gender-7, women-3)
+cop(gender-7, were-4)
+det(gender-7, a-5)
+amod(gender-7, lesser-6)
+
+   S1 questions whether they do  support gay marriage , 
+root(ROOT-0, questions-2)
+nn(questions-2, S1-1)
+mark(support-6, whether-3)
+nsubj(support-6, they-4)
+aux(support-6, do-5)
+dep(questions-2, support-6)
+amod(marriage-8, gay-7)
+dobj(support-6, marriage-8)
+
+   S1 questions whether they do  support gay marriage , 
+root(ROOT-0, questions-2)
+nn(questions-2, S1-1)
+mark(support-6, whether-3)
+nsubj(support-6, they-4)
+aux(support-6, do-5)
+dep(questions-2, support-6)
+amod(marriage-8, gay-7)
+dobj(support-6, marriage-8)
+

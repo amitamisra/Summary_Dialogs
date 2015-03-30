@@ -1,0 +1,16 @@
+S2 then states that many state constitutions guarantee rights that aren't in the federal constitution.
+root(ROOT-0, states-3)
+nsubj(states-3, S2-1)
+advmod(states-3, then-2)
+amod(constitutions-7, many-5)
+nn(constitutions-7, state-6)
+prep_that(states-3, constitutions-7)
+nn(rights-9, guarantee-8)
+dobj(states-3, rights-9)
+nsubj(are-11, that-10)
+rcmod(rights-9, are-11)
+neg(are-11, n't-12)
+det(constitution-16, the-14)
+amod(constitution-16, federal-15)
+prep_in(are-11, constitution-16)
+

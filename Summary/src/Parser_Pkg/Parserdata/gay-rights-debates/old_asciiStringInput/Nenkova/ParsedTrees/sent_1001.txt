@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ cites) (NP (NP (JJ several) (NNS cultures)) (SBAR (WHNP (WP who)) (S (NP (NNS practices)) (NP (JJ gay) (NNS unions))))) (PP (JJ such) (PP (IN as) (NP (NNPS Romans) (CC and) (NNPS Celts))))) (. .)))

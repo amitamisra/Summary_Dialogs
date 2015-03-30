@@ -1,0 +1,22 @@
+They give examples of their own married and single life.
+root(ROOT-0, give-2)
+nsubj(give-2, They-1)
+dobj(give-2, examples-3)
+poss(life-10, their-5)
+amod(life-10, own-6)
+amod(life-10, married-7)
+conj_and(married-7, single-9)
+amod(life-10, single-9)
+prep_of(examples-3, life-10)
+
+They give examples of their own married and single life.
+root(ROOT-0, give-2)
+nsubj(give-2, They-1)
+dobj(give-2, examples-3)
+poss(life-10, their-5)
+amod(life-10, own-6)
+amod(life-10, married-7)
+conj_and(married-7, single-9)
+amod(life-10, single-9)
+prep_of(examples-3, life-10)
+

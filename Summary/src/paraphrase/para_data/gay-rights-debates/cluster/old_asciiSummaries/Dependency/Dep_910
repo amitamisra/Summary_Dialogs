@@ -1,0 +1,16 @@
+He points out that nobody can marry someone of the same sex, not just homosexuals.
+root(ROOT-0, points-2)
+nsubj(points-2, He-1)
+prt(points-2, out-3)
+mark(marry-7, that-4)
+nsubj(marry-7, nobody-5)
+aux(marry-7, can-6)
+ccomp(points-2, marry-7)
+dobj(marry-7, someone-8)
+det(sex-12, the-10)
+amod(sex-12, same-11)
+prep_of(someone-8, sex-12)
+neg(sex-12, not-14)
+advmod(sex-12, just-15)
+dep(sex-12, homosexuals-16)
+

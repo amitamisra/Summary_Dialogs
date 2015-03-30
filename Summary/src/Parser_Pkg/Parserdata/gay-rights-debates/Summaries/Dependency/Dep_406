@@ -1,0 +1,23 @@
+Two people are discussing marriage benefits.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+nn(benefits-6, marriage-5)
+dobj(discussing-4, benefits-6)
+
+Two people are discussing marriage benefits.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+nn(benefits-6, marriage-5)
+dobj(discussing-4, benefits-6)
+
+he would have opposed over-regulation.
+root(ROOT-0, opposed-4)
+nsubj(opposed-4, he-1)
+aux(opposed-4, would-2)
+aux(opposed-4, have-3)
+dobj(opposed-4, over-regulation-5)
+

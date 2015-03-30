@@ -1,0 +1,43 @@
+ gay marriage poses a tremendous new tax on the economy.
+root(ROOT-0, poses-3)
+amod(marriage-2, gay-1)
+nsubj(poses-3, marriage-2)
+det(tax-7, a-4)
+amod(tax-7, tremendous-5)
+amod(tax-7, new-6)
+dobj(poses-3, tax-7)
+prep(tax-7, on-8)
+det(economy-10, the-9)
+pobj(on-8, economy-10)
+
+ gay marriage poses a tremendous new tax on the economy.
+root(ROOT-0, poses-3)
+amod(marriage-2, gay-1)
+nsubj(poses-3, marriage-2)
+det(tax-7, a-4)
+amod(tax-7, tremendous-5)
+amod(tax-7, new-6)
+dobj(poses-3, tax-7)
+prep(tax-7, on-8)
+det(economy-10, the-9)
+pobj(on-8, economy-10)
+
+ gay marriage poses a tremendous new tax on the economy.
+root(ROOT-0, poses-3)
+amod(marriage-2, gay-1)
+nsubj(poses-3, marriage-2)
+det(tax-7, a-4)
+amod(tax-7, tremendous-5)
+amod(tax-7, new-6)
+dobj(poses-3, tax-7)
+prep(tax-7, on-8)
+det(economy-10, the-9)
+pobj(on-8, economy-10)
+
+He goes on to say.
+root(ROOT-0, goes-2)
+nsubj(goes-2, He-1)
+prt(goes-2, on-3)
+aux(say-5, to-4)
+xcomp(goes-2, say-5)
+

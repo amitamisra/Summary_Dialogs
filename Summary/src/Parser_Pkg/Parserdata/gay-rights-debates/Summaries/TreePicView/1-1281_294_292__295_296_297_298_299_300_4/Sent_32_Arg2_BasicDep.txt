@@ -1,0 +1,3 @@
+root(ROOT-0, written-3)
+nsubjpass(written-3, it-1)
+auxpass(written-3, is-2)

@@ -1,0 +1,7 @@
+root(ROOT-0, valid-7)
+poss(point-3, S1-1)
+possessive(S1-1, 's-2)
+nsubj(valid-7, point-3)
+cop(valid-7, is-4)
+neg(valid-7, not-5)
+advmod(valid-7, very-6)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NNS courts)) (VP (MD should) (VP (VB take) (NP (NNS individuals) (POS ')) (PP (IN into) (NP (NP (NN consideration) (CC and) (NN rule)) (PP (IN on) (NP (NP (DT each)) (PP (RB instead) (IN of) (PP (IN as) (NP (DT a) (NN whole))))))))))))) (. .)))

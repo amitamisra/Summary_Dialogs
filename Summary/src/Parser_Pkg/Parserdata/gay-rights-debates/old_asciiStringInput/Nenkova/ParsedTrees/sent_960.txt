@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NNP US) (NN population)))) (VP (VBZ is) (VP (VBG paying) (NP (NP (DT the) (NN price)) (PP (IN for) (NP (NP (DT the) (NN promiscuity)) (PP (IN of) (NP (DT the) (JJ gay) (NN minority))))))))))) (. .)))

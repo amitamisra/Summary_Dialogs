@@ -1,0 +1,6 @@
+root(ROOT-0, cites-2)
+nsubj(cites-2, He-1)
+dobj(cites-2, slavery-3)
+prep(cites-2, as-4)
+det(example-6, an-5)
+pobj(as-4, example-6)

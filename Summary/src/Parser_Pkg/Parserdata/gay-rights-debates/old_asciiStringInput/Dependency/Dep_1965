@@ -1,0 +1,36 @@
+ S1 served in the military 
+root(ROOT-0, served-2)
+nsubj(served-2, S1-1)
+det(military-5, the-4)
+prep_in(served-2, military-5)
+
+-LRB- S2 -RRB- questions how -LRB- S1 -RRB- religious rights are taken away or harmed .
+
+
+root(ROOT-0, taken-12)
+nn(questions-4, S2-2)
+dep(taken-12, questions-4)
+advmod(taken-12, how-5)
+dep(taken-12, S1-7)
+amod(rights-10, religious-9)
+nsubjpass(taken-12, rights-10)
+nsubjpass(harmed-15, rights-10)
+auxpass(taken-12, are-11)
+prt(taken-12, away-13)
+conj_or(taken-12, harmed-15)
+
+-LRB- S2 -RRB- questions how -LRB- S1 -RRB- religious rights are taken away or harmed .
+
+
+root(ROOT-0, taken-12)
+nn(questions-4, S2-2)
+dep(taken-12, questions-4)
+advmod(taken-12, how-5)
+dep(taken-12, S1-7)
+amod(rights-10, religious-9)
+nsubjpass(taken-12, rights-10)
+nsubjpass(harmed-15, rights-10)
+auxpass(taken-12, are-11)
+prt(taken-12, away-13)
+conj_or(taken-12, harmed-15)
+

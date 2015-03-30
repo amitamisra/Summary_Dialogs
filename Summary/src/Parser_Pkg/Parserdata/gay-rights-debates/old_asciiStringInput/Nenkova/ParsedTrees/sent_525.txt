@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ argues) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (RB not) (NP (NP (DT the) (NN case)) (CC and) (NP (NP (CD one) (NN person)) (SBAR (WHNP (WP who)) (S (NP (NP (NNS sides)) (PP (IN with) (NP (DT a) (JJ specific) (NN party)))) (VP (VBZ does) (RB n't) (VP (VB represent) (NP (DT the) (NN party)))))))))))) (. .)))

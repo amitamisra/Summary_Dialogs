@@ -1,0 +1,1 @@
+(ROOT (S (NP (CD Two) (NNS people)) (VP (VBP are) (VP (VBG discussing) (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (NP (NNP AIS)) (PP (IN in) (NP (DT the) (NNP US)))))) (PP (IN as#0#0) (NP (NP (NN part)) (PP (IN of) (NP (NP (DT a) (NN discussion)) (PP (IN on) (NP (NP (JJ gay) (NN marriage)) (PP (IN in) (NP (DT the) (NNP USA))))))))))) (. .)))

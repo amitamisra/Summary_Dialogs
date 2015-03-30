@@ -1,0 +1,26 @@
+S1 believes gay relationships are a perversion of the normal thought of society.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+amod(relationships-4, gay-3)
+nsubj(perversion-7, relationships-4)
+cop(perversion-7, are-5)
+det(perversion-7, a-6)
+ccomp(believes-2, perversion-7)
+det(thought-11, the-9)
+amod(thought-11, normal-10)
+prep_of(perversion-7, thought-11)
+prep_of(thought-11, society-13)
+
+S1 believes gay relationships are a perversion of the normal thought of society.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+amod(relationships-4, gay-3)
+nsubj(perversion-7, relationships-4)
+cop(perversion-7, are-5)
+det(perversion-7, a-6)
+ccomp(believes-2, perversion-7)
+det(thought-11, the-9)
+amod(thought-11, normal-10)
+prep_of(perversion-7, thought-11)
+prep_of(thought-11, society-13)
+

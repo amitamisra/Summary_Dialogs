@@ -1,0 +1,7 @@
+root(ROOT-0, enforces-5)
+nn(questions-2, S1-1)
+dep(enforces-5, questions-2)
+dobj(enforces-5, what-3)
+nsubj(enforces-5, God-4)
+nn(rules-7, marriage-6)
+dobj(enforces-5, rules-7)

@@ -1,0 +1,7 @@
+root(ROOT-0, Those-1)
+prep(Those-1, against-2)
+amod(fallacies-7, gay-3)
+nn(fallacies-7, marriage-4)
+nn(fallacies-7, use-5)
+amod(fallacies-7, logical-6)
+pobj(against-2, fallacies-7)

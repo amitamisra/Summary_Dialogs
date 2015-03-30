@@ -1,0 +1,22 @@
+  S2 questions   S1 is saying the Biden  was lying 
+root(ROOT-0, saying-5)
+nn(S1-3, S2-1)
+nn(S1-3, questions-2)
+nsubj(saying-5, S1-3)
+aux(saying-5, is-4)
+det(Biden-7, the-6)
+nsubj(lying-9, Biden-7)
+aux(lying-9, was-8)
+ccomp(saying-5, lying-9)
+
+  S2 questions   S1 is saying the Biden  was lying 
+root(ROOT-0, saying-5)
+nn(S1-3, S2-1)
+nn(S1-3, questions-2)
+nsubj(saying-5, S1-3)
+aux(saying-5, is-4)
+det(Biden-7, the-6)
+nsubj(lying-9, Biden-7)
+aux(lying-9, was-8)
+ccomp(saying-5, lying-9)
+

@@ -1,0 +1,44 @@
+S2 supports his theory by citing the constitutional amendment to ban both gay marriage and same sex civil unions .
+
+
+root(ROOT-0, supports-2)
+nsubj(supports-2, S2-1)
+poss(theory-4, his-3)
+dobj(supports-2, theory-4)
+prepc_by(supports-2, citing-6)
+det(amendment-9, the-7)
+amod(amendment-9, constitutional-8)
+dobj(citing-6, amendment-9)
+aux(ban-11, to-10)
+vmod(citing-6, ban-11)
+preconj(marriage-14, both-12)
+amod(marriage-14, gay-13)
+dobj(ban-11, marriage-14)
+amod(unions-19, same-16)
+nn(unions-19, sex-17)
+amod(unions-19, civil-18)
+dobj(ban-11, unions-19)
+conj_and(marriage-14, unions-19)
+
+S1 and S2 are discussing the topic of gay marriage.
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+det(topic-7, the-6)
+dobj(discussing-5, topic-7)
+amod(marriage-10, gay-9)
+prep_of(topic-7, marriage-10)
+
+S1 and S2 are discussing the topic of gay marriage.
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+det(topic-7, the-6)
+dobj(discussing-5, topic-7)
+amod(marriage-10, gay-9)
+prep_of(topic-7, marriage-10)
+

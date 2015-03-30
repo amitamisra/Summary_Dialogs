@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and#0#0) (NN S2)) (VP (VBP start) (S (S (VP (VBG arguing) (PP (IN about) (NP (NP (NN marriage) (NNS benefits)) (PP (IN between) (NP (JJ single) (NNS people))))))) (CC and#1#Expansion) (S (VP (VBN married))))) (. .)))

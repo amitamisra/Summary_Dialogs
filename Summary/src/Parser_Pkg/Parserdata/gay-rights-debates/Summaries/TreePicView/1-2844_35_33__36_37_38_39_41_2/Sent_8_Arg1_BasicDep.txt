@@ -1,0 +1,8 @@
+root(ROOT-0, based-4)
+nsubjpass(based-4, liberalism-1)
+auxpass(based-4, is-2)
+neg(based-4, not-3)
+prep(based-4, on-5)
+det(theory-8, the-6)
+amod(theory-8, same-7)
+pobj(on-5, theory-8)

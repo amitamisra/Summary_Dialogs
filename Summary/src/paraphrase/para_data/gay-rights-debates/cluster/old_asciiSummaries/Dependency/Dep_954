@@ -1,0 +1,15 @@
+S2 believes that the public should demand honesty but not assume it.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+mark(demand-7, that-3)
+det(public-5, the-4)
+nsubj(demand-7, public-5)
+nsubj(assume-11, public-5)
+aux(demand-7, should-6)
+ccomp(believes-2, demand-7)
+dobj(demand-7, honesty-8)
+neg(assume-11, not-10)
+ccomp(believes-2, assume-11)
+conj_but(demand-7, assume-11)
+dobj(assume-11, it-12)
+

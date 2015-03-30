@@ -1,0 +1,22 @@
+He states it can be found by Google search.
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+nsubjpass(found-6, it-3)
+aux(found-6, can-4)
+auxpass(found-6, be-5)
+ccomp(states-2, found-6)
+prep(found-6, by-7)
+nn(search-9, Google-8)
+pobj(by-7, search-9)
+
+He states it can be found by Google search.
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+nsubjpass(found-6, it-3)
+aux(found-6, can-4)
+auxpass(found-6, be-5)
+ccomp(states-2, found-6)
+prep(found-6, by-7)
+nn(search-9, Google-8)
+pobj(by-7, search-9)
+

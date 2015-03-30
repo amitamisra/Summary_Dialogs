@@ -1,0 +1,27 @@
+He questioned S2 's labeling of gay people as heterophobes .
+
+
+root(ROOT-0, questioned-2)
+nsubj(questioned-2, He-1)
+poss(labeling-5, S2-3)
+dobj(questioned-2, labeling-5)
+amod(people-8, gay-7)
+prep_of(labeling-5, people-8)
+prep_as(questioned-2, heterophobes-10)
+
+S1 rebuts by stating  that it is 
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S1-1)
+prepc_by(rebuts-2, stating-4)
+mark(is-7, that-5)
+nsubj(is-7, it-6)
+ccomp(stating-4, is-7)
+
+S1 rebuts by stating  that it is 
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S1-1)
+prepc_by(rebuts-2, stating-4)
+mark(is-7, that-5)
+nsubj(is-7, it-6)
+ccomp(stating-4, is-7)
+

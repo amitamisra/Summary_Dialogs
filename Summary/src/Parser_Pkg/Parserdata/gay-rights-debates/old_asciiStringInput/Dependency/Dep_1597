@@ -1,0 +1,35 @@
+It will cost more votes than it will gain .
+
+
+root(ROOT-0, cost-3)
+nsubj(cost-3, It-1)
+aux(cost-3, will-2)
+amod(votes-5, more-4)
+dobj(cost-3, votes-5)
+mark(gain-9, than-6)
+nsubj(gain-9, it-7)
+aux(gain-9, will-8)
+advcl(cost-3, gain-9)
+
+ Homosexuality was not understood as a social identity back then 
+root(ROOT-0, understood-4)
+nsubjpass(understood-4, Homosexuality-1)
+auxpass(understood-4, was-2)
+neg(understood-4, not-3)
+det(identity-8, a-6)
+amod(identity-8, social-7)
+prep_as(understood-4, identity-8)
+advmod(then-10, back-9)
+advmod(understood-4, then-10)
+
+ Homosexuality was not understood as a social identity back then 
+root(ROOT-0, understood-4)
+nsubjpass(understood-4, Homosexuality-1)
+auxpass(understood-4, was-2)
+neg(understood-4, not-3)
+det(identity-8, a-6)
+amod(identity-8, social-7)
+prep_as(understood-4, identity-8)
+advmod(then-10, back-9)
+advmod(understood-4, then-10)
+

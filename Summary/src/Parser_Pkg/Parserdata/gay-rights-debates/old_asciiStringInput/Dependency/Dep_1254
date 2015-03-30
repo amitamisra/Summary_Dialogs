@@ -1,0 +1,30 @@
+   that no one argues with this fact 
+root(ROOT-0, argues-4)
+mark(argues-4, that-1)
+neg(one-3, no-2)
+nsubj(argues-4, one-3)
+det(fact-7, this-6)
+prep_with(argues-4, fact-7)
+
+Both subjects seem to be on the fence with the issue.
+root(ROOT-0, seem-3)
+det(subjects-2, Both-1)
+nsubj(seem-3, subjects-2)
+aux(be-5, to-4)
+xcomp(seem-3, be-5)
+det(fence-8, the-7)
+prep_on(be-5, fence-8)
+det(issue-11, the-10)
+prep_with(fence-8, issue-11)
+
+Both subjects seem to be on the fence with the issue.
+root(ROOT-0, seem-3)
+det(subjects-2, Both-1)
+nsubj(seem-3, subjects-2)
+aux(be-5, to-4)
+xcomp(seem-3, be-5)
+det(fence-8, the-7)
+prep_on(be-5, fence-8)
+det(issue-11, the-10)
+prep_with(fence-8, issue-11)
+

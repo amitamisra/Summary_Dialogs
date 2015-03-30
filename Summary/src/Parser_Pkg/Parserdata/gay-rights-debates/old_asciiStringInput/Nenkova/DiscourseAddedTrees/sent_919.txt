@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN He/she)) (SBAR (S (VP (VP (VBZ advises) (S (VP (VBG citing) (NP (NNS feelings))))) (CC or#1#0) (VP (VBZ wants)))))) (VP (VBZ is) (RB not) (S (VP (VP (VBG providing) (NP (NN proof))) (CC but#0#0) (VP (VBG deflecting) (NP (DT the) (NN topic)))))) (. .)))

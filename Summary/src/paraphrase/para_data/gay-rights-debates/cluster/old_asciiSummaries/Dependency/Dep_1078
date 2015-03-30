@@ -1,0 +1,17 @@
+S2 does not believe that what people do in their private lives is anyone elses business.
+root(ROOT-0, believe-4)
+nsubj(believe-4, S2-1)
+aux(believe-4, does-2)
+neg(believe-4, not-3)
+mark(business-16, that-5)
+dobj(do-8, what-6)
+nsubj(do-8, people-7)
+csubj(business-16, do-8)
+poss(lives-12, their-10)
+amod(lives-12, private-11)
+prep_in(do-8, lives-12)
+cop(business-16, is-13)
+nn(business-16, anyone-14)
+nn(business-16, elses-15)
+ccomp(believe-4, business-16)
+

@@ -1,0 +1,3 @@
+root(ROOT-0, is-2)
+nsubj(is-2, it-1)
+tmod(is-2, today-3)

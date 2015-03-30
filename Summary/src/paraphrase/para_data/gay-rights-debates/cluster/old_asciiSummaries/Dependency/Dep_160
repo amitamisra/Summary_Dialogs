@@ -1,0 +1,13 @@
+They go back to talking trash to each other and they end the conversation.
+root(ROOT-0, go-2)
+nsubj(go-2, They-1)
+advmod(go-2, back-3)
+prepc_to(back-3, talking-5)
+dobj(talking-5, trash-6)
+det(other-9, each-8)
+prep_to(talking-5, other-9)
+nsubj(end-12, they-11)
+conj_and(go-2, end-12)
+det(conversation-14, the-13)
+dobj(end-12, conversation-14)
+

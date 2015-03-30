@@ -1,0 +1,22 @@
+S2 is happy S1 is no loner attacking him.
+root(ROOT-0, happy-3)
+nsubj(happy-3, S2-1)
+cop(happy-3, is-2)
+nsubj(loner-7, S1-4)
+cop(loner-7, is-5)
+neg(loner-7, no-6)
+ccomp(happy-3, loner-7)
+vmod(loner-7, attacking-8)
+dobj(attacking-8, him-9)
+
+S2 is happy S1 is no loner attacking him.
+root(ROOT-0, happy-3)
+nsubj(happy-3, S2-1)
+cop(happy-3, is-2)
+nsubj(loner-7, S1-4)
+cop(loner-7, is-5)
+neg(loner-7, no-6)
+ccomp(happy-3, loner-7)
+vmod(loner-7, attacking-8)
+dobj(attacking-8, him-9)
+

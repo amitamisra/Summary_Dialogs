@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>This is about gay marriage. S1 seems to believe that someone is making religion into law by saying marriage should be between a heterosexual couple. S2 is arguing that S1's point is not very valid because S1 is not understanding that they are not using the persons perspective. S1 believes that that person is trying to hurt them, while S2 is saying that the person may not necessarily be that way and that the person may be arguing for what they believe to be greater for society, based on their own perspective. S1's religious view of marriage is based on two people's love for each other, while the other person believes its between a man and woman. S2 says S1's argument is empty and that S1 is not showing how the other person is being hurt by gay marriage. S2 thinks S1 is not understanding the overall perspectives and just focusing on their own needs. S1 states that the person's religion put into law affects peoples ability to marry if they are gay, but that S1's religion on marriage put into law would not affect marriage for anyone.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing gay marriage in the context of an unknown she that is pushing a law to ban gay marriage. S1 believes that her religious freedom is being persecuted from people against gay marriage.  S1 believes this will result in her family not having legal protection. S2 doesnt believe that S1s religious freedom is being persecuted because she is still bale to hold religious ceremonies. S2 believes the same argument can be made fro m her perspective. S1s believe of marriage is that it should be based on love and not on sex. S2 argues that the religious freedom argument could be used in any format to justify any action. S1 is angered that the religious freedom of another person will go into law and bar her from marriage so she can sustain her heterosexual privilege.  S2 disagrees and thinks she is doing what she thinks is before society. S1 and S2 seem to get annoyed with each other by the end of dialog.</line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>(S1) says that his religious freedom is being ignored by a politician attempting to make her religious beliefs law.  This law limits legal protection of gay couples and it is not use to protect marriage but heterosexual privilege. (S2)  questions how the politicians view is imposing on (S1) religious freedom. (S1) responds that he believes that marriage should be between two people who love each other and not her/politicians belief that marriage should be between man and woman. However, (S2) says that the argument surrounding religious freedom is an empty argument because anyone can argue for his or her beliefs using religion. (S1) says that gay marriage doesnt violate her/politicians rights of heterosexual privilege, entitlement since she is not protecting marriage but her beliefs. (S2) questions how (S1) religious rights are taken away or harmed. (S1) and (S2) discuss about whose religious belief is better for society. (S1) responds that the her/politicians interest is not part of his interests and or societys and does not hurts him in any way. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line></line>
+  <line></line>
+  <line> S1 says that someone, her, is trying to put their religious beliefs into law that goes against the religious beliefs of S1.  The law would bar the family of S1 from legal protections but would not affect her. S1 believes that she isnt protecting marriage but preserving her heterosexual privilege. Her religious belief is that marriage should be between a man and a woman but S1 believes that marriage should be between two people in a loving relationship regardless of sex. If she put her religious belief into law it would hurt S1 but if the religious views of S1 are put into law she would still be able to choose who she wanted and S1 would be able to choose whomever. She is trying to keep gay people out of marriage.</line>
+  <line></line>
+  <line> </line>
+  <line></line>
+  <line> </line>
+  <line></line>
+  <line> S2 understands the perspective of S1 but does not think it is a valid argument. S2 holds that either if either religious belief were put into law that it would infringe on the others beliefs. S2 claims that S1 has not shown how the religious beliefs would be taken away from such a law. It can be argued in other ways but the idea of not giving gays marriage benefits is imposing on religious freedom is an empty argument. S2 counters S1 by saying that it is impossible to know whether or not she is trying to turn religious belief into law. It is impossible to know or to police someones real motives.</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 is talking about a female who is ignoring S1s religious freedom and barring his family from legal protections. S2 questions to how she is impeding S1 from his religious freedom and argues that she isnt trying to take away his right from a religious ceremony. S1 says the womans religious belief is that marriage should be between a man and a woman, and S1s religious belief is that marriage can be between any two people that love each other regardless of their gender. If the womans religious belief gets incorporated in to the law, S1 will not be able to marry the person of his choice but she will still be able to marry regardless of the law. The woman is just trying to keep gay people out of marriage to preserve her heterosexual privilege. S2 argues that either one of them can be impeding on the others religious freedom. S1 does not give in and keeps arguing that she is trying to turn her religious belief into law and bar him from getting married. </line>
+ </text>
+ <scu uid="2" label="View of marriage is based on people's love for each other">
+  <contributor label="S1's religious view of marriage is based on two people's love for each other">
+   <part label="S1's religious view of marriage is based on two people's love for each other" start="540" end="616"/>
+  </contributor>
+  <contributor label="S1s believe of marriage is that it should be based on love">
+   <part label="S1s believe of marriage is that it should be based on love" start="1565" end="1623"/>
+  </contributor>
+  <contributor label="(S1) responds that he believes that marriage should be between two people who love each other">
+   <part label="(S1) responds that he believes that marriage should be between two people who love each other" start="2364" end="2457"/>
+  </contributor>
+  <contributor label="S1 believes that marriage should be between two people in a loving relationship regardless of sex">
+   <part label="S1 believes that marriage should be between two people in a loving relationship regardless of sex" start="3523" end="3620"/>
+  </contributor>
+  <contributor label="S1s religious belief is that marriage can be between any two people that love each other regardless of their gender">
+   <part label="S1s religious belief is that marriage can be between any two people that love each other regardless of their gender" start="4863" end="4978"/>
+  </contributor>
+ </scu>
+ <scu uid="1" label="This is about gay marriage">
+  <contributor label="This is about gay marriage">
+   <part label="This is about gay marriage" start="26" end="52"/>
+  </contributor>
+  <contributor label="S1 and S2 are discussing gay marriage">
+   <part label="S1 and S2 are discussing gay marriage" start="1099" end="1136"/>
+  </contributor>
+ </scu>
+ <scu uid="87" label="Politician is making religion into law">
+  <contributor label="S1 seems to believe that someone is making religion into law...saying marriage should be between a heterosexual couple...S1 states that the person's religion put into law affects peoples ability to marry if they are gay">
+   <part label="S1 seems to believe that someone is making religion into law" start="54" end="114"/>
+   <part label="saying marriage should be between a heterosexual couple" start="118" end="173"/>
+   <part label="S1 states that the person's religion put into law affects peoples ability to marry if they are gay" start="886" end="984"/>
+  </contributor>
+  <contributor label="an unknown she that is pushing a law to ban gay marriage...S1 believes that her religious freedom is being persecuted from people against gay marriage...S1 is angered that the religious freedom of another person will go into law">
+   <part label="an unknown she that is pushing a law to ban gay marriage" start="1155" end="1211"/>
+   <part label="S1 is angered that the religious freedom of another person will go into law" start="1737" end="1812"/>
+   <part label="S1 believes that her religious freedom is being persecuted from people against gay marriage" start="1213" end="1304"/>
+  </contributor>
+  <contributor label="(S1) says that his religious freedom is being ignored by a politician attempting to make her religious beliefs law...(S2)  questions how the politicians view is imposing on (S1) religious freedom">
+   <part label="(S1) says that his religious freedom is being ignored by a politician attempting to make her religious beliefs law" start="2053" end="2167"/>
+   <part label="(S2)  questions how the politicians view is imposing on (S1) religious freedom" start="2284" end="2362"/>
+  </contributor>
+  <contributor label="S1 says that someone, her, is trying to put their religious beliefs into law that goes against the religious beliefs of S1...If she put her religious belief into law it would hurt S1...S2 holds that either if either religious belief were put into law that it would infringe on the others beliefs...she is trying to turn religious belief into law">
+   <part label="S1 says that someone, her, is trying to put their religious beliefs into law that goes against the religious beliefs of S1" start="3147" end="3269"/>
+   <part label="If she put her religious belief into law it would hurt S1" start="3622" end="3679"/>
+   <part label="she is trying to turn religious belief into law" start="4371" end="4418"/>
+   <part label="S2 holds that either if either religious belief were put into law that it would infringe on the others beliefs" start="3958" end="4068"/>
+  </contributor>
+  <contributor label="S1 is talking about a female who is ignoring S1s religious freedom...S1 says the womans religious belief is that marriage should be between a man and a woman...If the womans religious belief gets incorporated in to the law, S1 will not be able to marry the person of his choice...she is trying to turn her religious belief into law">
+   <part label="S1 is talking about a female who is ignoring S1s religious freedom" start="4507" end="4573"/>
+   <part label="S1 says the womans religious belief is that marriage should be between a man and a woman" start="4769" end="4857"/>
+   <part label="If the womans religious belief gets incorporated in to the law, S1 will not be able to marry the person of his choice" start="4980" end="5097"/>
+   <part label="she is trying to turn her religious belief into law" start="5383" end="5434"/>
+  </contributor>
+ </scu>
+ <scu uid="89" label="Gay people are denied legal protection">
+  <contributor label="S1 believes this will result in her family not having legal protection">
+   <part label="S1 believes this will result in her family not having legal protection" start="1307" end="1377"/>
+  </contributor>
+  <contributor label="This law limits legal protection of gay couples">
+   <part label="This law limits legal protection of gay couples" start="2170" end="2217"/>
+  </contributor>
+  <contributor label="The law would bar the family of S1 from legal protections but would not affect her...the idea of not giving gays marriage benefits">
+   <part label="The law would bar the family of S1 from legal protections but would not affect her" start="3272" end="3354"/>
+   <part label="the idea of not giving gays marriage benefits" start="4200" end="4245"/>
+  </contributor>
+  <contributor label="barring his family from legal protections">
+   <part label="barring his family from legal protections" start="4578" end="4619"/>
+  </contributor>
+ </scu>
+ <scu uid="90" label="Marriage is between a man and a woman">
+  <contributor label="the other person believes its between a man and woman">
+   <part label="the other person believes its between a man and woman" start="624" end="677"/>
+  </contributor>
+  <contributor label="her/politicians belief that marriage should be between man and woman">
+   <part label="her/politicians belief that marriage should be between man and woman" start="2466" end="2534"/>
+  </contributor>
+  <contributor label="Her religious belief is that marriage should be between a man and a woman">
+   <part label="Her religious belief is that marriage should be between a man and a woman" start="3445" end="3518"/>
+  </contributor>
+  <contributor label="on sex">
+   <part label="on sex" start="1632" end="1638"/>
+  </contributor>
+ </scu>
+ <scu uid="91" label="This religion put into law will not affect anyone's marriage">
+  <contributor label="S1's religion on marriage put into law would not affect marriage for anyone">
+   <part label="S1's religion on marriage put into law would not affect marriage for anyone" start="995" end="1070"/>
+  </contributor>
+  <contributor label="the religious views of S1 are put into law she would still be able to choose who she wanted and S1 would be able to choose whomever">
+   <part label="the religious views of S1 are put into law she would still be able to choose who she wanted and S1 would be able to choose whomever" start="3687" end="3818"/>
+  </contributor>
+  <contributor label="she will still be able to marry regardless of the law">
+   <part label="she will still be able to marry regardless of the law" start="5102" end="5155"/>
+  </contributor>
+ </scu>
+ <scu uid="92" label="Protecting heterosexual privilege but not marriage">
+  <contributor label="she can sustain her heterosexual privilege">
+   <part label="she can sustain her heterosexual privilege" start="1842" end="1884"/>
+  </contributor>
+  <contributor label="it is not use to protect marriage but heterosexual privilege...(S1) says that gay marriage doesnt violate her/politicians rights of heterosexual privilege, entitlement since she is not protecting marriage but her beliefs">
+   <part label="it is not use to protect marriage but heterosexual privilege" start="2222" end="2282"/>
+   <part label="(S1) says that gay marriage doesnt violate her/politicians rights of heterosexual privilege, entitlement since she is not protecting marriage but her beliefs" start="2688" end="2845"/>
+  </contributor>
+  <contributor label="S1 believes that she isnt protecting marriage but preserving her heterosexual privilege">
+   <part label="S1 believes that she isnt protecting marriage but preserving her heterosexual privilege" start="3356" end="3443"/>
+  </contributor>
+  <contributor label="preserve her heterosexual privilege">
+   <part label="preserve her heterosexual privilege" start="5220" end="5255"/>
+  </contributor>
+ </scu>
+ <scu uid="93" label="Politician is preventing gay marriage">
+  <contributor label="She is trying to keep gay people out of marriage">
+   <part label="She is trying to keep gay people out of marriage" start="3820" end="3868"/>
+  </contributor>
+  <contributor label="The woman is just trying to keep gay people out of marriage...bar him from getting married">
+   <part label="The woman is just trying to keep gay people out of marriage" start="5157" end="5216"/>
+   <part label="bar him from getting married" start="5439" end="5467"/>
+  </contributor>
+  <contributor label="bar her from marriage">
+   <part label="bar her from marriage" start="1817" end="1838"/>
+  </contributor>
+  <contributor label="S1 believes that that person is trying to hurt them">
+   <part label="S1 believes that that person is trying to hurt them" start="304" end="355"/>
+  </contributor>
+ </scu>
+ <scu uid="94" label="The greater good for society">
+  <contributor label="while S2 is saying that the person may not necessarily be that way and that the person may be arguing for what they believe to be greater for society, based on their own perspective">
+   <part label="while S2 is saying that the person may not necessarily be that way and that the person may be arguing for what they believe to be greater for society, based on their own perspective" start="357" end="538"/>
+  </contributor>
+  <contributor label="(S1) and (S2) discuss about whose religious belief is better for society...(S1) responds that the her/politicians interest is not part of his interests and or societys and does not hurts him in any way">
+   <part label="(S1) and (S2) discuss about whose religious belief is better for society" start="2914" end="2986"/>
+   <part label="(S1) responds that the her/politicians interest is not part of his interests and or societys and does not hurts him in any way" start="2988" end="3114"/>
+  </contributor>
+  <contributor label="S2 disagrees and thinks she is doing what she thinks is before society">
+   <part label="S2 disagrees and thinks she is doing what she thinks is before society" start="1887" end="1957"/>
+  </contributor>
+ </scu>
+ <scu uid="95" label="Looking at the argument from different perspectives">
+  <contributor label="S1 is not understanding that they are not using the persons perspective...S2 thinks S1 is not understanding the overall perspectives">
+   <part label="S1 is not understanding that they are not using the persons perspective" start="231" end="302"/>
+   <part label="S2 thinks S1 is not understanding the overall perspectives" start="789" end="847"/>
+  </contributor>
+  <contributor label="S2 believes the same argument can be made fro m her perspective">
+   <part label="S2 believes the same argument can be made fro m her perspective" start="1500" end="1563"/>
+  </contributor>
+  <contributor label="S2 understands the perspective of S1">
+   <part label="S2 understands the perspective of S1" start="3878" end="3914"/>
+  </contributor>
+ </scu>
+ <scu uid="96" label="Impossible to know politician's motives">
+  <contributor label="S2 counters S1 by saying that it is impossible to know whether or not...It is impossible to know or to police someones real motives">
+   <part label="S2 counters S1 by saying that it is impossible to know whether or not" start="4301" end="4370"/>
+   <part label="It is impossible to know or to police someones real motives" start="4420" end="4479"/>
+  </contributor>
+ </scu>
+ <scu uid="97" label="Invalid argument">
+  <contributor label="S2 is arguing that S1's point is not very valid">
+   <part label="S2 is arguing that S1's point is not very valid" start="175" end="222"/>
+  </contributor>
+  <contributor label="does not think it is a valid argument">
+   <part label="does not think it is a valid argument" start="3919" end="3956"/>
+  </contributor>
+ </scu>
+ <scu uid="98" label="Religious freedom taken away">
+  <contributor label="(S2) questions how (S1) religious rights are taken away or harmed">
+   <part label="(S2) questions how (S1) religious rights are taken away or harmed" start="2847" end="2912"/>
+  </contributor>
+  <contributor label="S2 doesnt believe that S1s religious freedom is being persecuted because she is still bale to hold religious ceremonies">
+   <part label="S2 doesnt believe that S1s religious freedom is being persecuted because she is still bale to hold religious ceremonies" start="1379" end="1498"/>
+  </contributor>
+  <contributor label="S2 claims that S1 has not shown how the religious beliefs would be taken away from such a law">
+   <part label="S2 claims that S1 has not shown how the religious beliefs would be taken away from such a law" start="4070" end="4163"/>
+  </contributor>
+  <contributor label="S2 questions to how she is impeding S1 from his religious freedom and argues that she isnt trying to take away his right from a religious ceremony...S2 argues that either one of them can be impeding on the others religious freedom">
+   <part label="S2 questions to how she is impeding S1 from his religious freedom and argues that she isnt trying to take away his right from a religious ceremony" start="4621" end="4767"/>
+   <part label="S2 argues that either one of them can be impeding on the others religious freedom" start="5257" end="5338"/>
+  </contributor>
+ </scu>
+ <scu uid="99" label="Empty argument">
+  <contributor label="S2 says S1's argument is empty and that S1 is not showing how the other person is being hurt by gay marriage">
+   <part label="S2 says S1's argument is empty and that S1 is not showing how the other person is being hurt by gay marriage" start="679" end="787"/>
+  </contributor>
+  <contributor label="However, (S2) says that the argument surrounding religious freedom is an empty argument because anyone can argue for his or her beliefs using religion">
+   <part label="However, (S2) says that the argument surrounding religious freedom is an empty argument because anyone can argue for his or her beliefs using religion" start="2536" end="2686"/>
+  </contributor>
+  <contributor label="imposing on religious freedom is an empty argument">
+   <part label="imposing on religious freedom is an empty argument" start="4249" end="4299"/>
+  </contributor>
+ </scu>
+ <scu uid="100" label="Focusing on their own needs">
+  <contributor label="just focusing on their own needs">
+   <part label="just focusing on their own needs" start="852" end="884"/>
+  </contributor>
+ </scu>
+ <scu uid="101" label="Religious freedom can justify an action in any way">
+  <contributor label="S2 argues that the religious freedom argument could be used in any format to justify any action">
+   <part label="S2 argues that the religious freedom argument could be used in any format to justify any action" start="1640" end="1735"/>
+  </contributor>
+ </scu>
+ <scu uid="102" label="Other ways of arguing">
+  <contributor label="It can be argued in other ways">
+   <part label="It can be argued in other ways" start="4165" end="4195"/>
+  </contributor>
+ </scu>
+ <scu uid="103" label="Continuing the argument">
+  <contributor label="S1 does not give in and keeps arguing">
+   <part label="S1 does not give in and keeps arguing" start="5340" end="5377"/>
+  </contributor>
+ </scu>
+ <scu uid="104" label="Emotions take a toll">
+  <contributor label="S1 and S2 seem to get annoyed with each other by the end of dialog">
+   <part label="S1 and S2 seem to get annoyed with each other by the end of dialog" start="1959" end="2025"/>
+  </contributor>
+ </scu>
+</pyramid>

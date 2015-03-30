@@ -1,0 +1,4 @@
+root(ROOT-0, natural-4)
+amod(parent-2, single-1)
+nsubj(natural-4, parent-2)
+cop(natural-4, is-3)

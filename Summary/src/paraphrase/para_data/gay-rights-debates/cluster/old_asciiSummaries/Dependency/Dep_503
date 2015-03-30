@@ -1,0 +1,11 @@
+S1 is in favor of gay marriage while S2 is against.
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+prep_in(is-2, favor-4)
+amod(marriage-7, gay-6)
+prep_of(favor-4, marriage-7)
+mark(is-10, while-8)
+nsubj(is-10, S2-9)
+advcl(is-2, is-10)
+prep(is-10, against-11)
+

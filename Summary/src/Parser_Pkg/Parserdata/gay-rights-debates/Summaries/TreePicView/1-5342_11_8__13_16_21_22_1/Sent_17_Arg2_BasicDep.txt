@@ -1,0 +1,5 @@
+root(ROOT-0, talks-4)
+nsubj(talks-4, S2-2)
+prep(talks-4, about-5)
+nn(values-7, family-6)
+pobj(about-5, values-7)

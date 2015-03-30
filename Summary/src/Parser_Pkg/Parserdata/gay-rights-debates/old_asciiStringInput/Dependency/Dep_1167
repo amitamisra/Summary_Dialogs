@@ -1,0 +1,36 @@
+   any assertions made should be backed up with evidence . 
+root(ROOT-0, made-3)
+det(assertions-2, any-1)
+nsubj(made-3, assertions-2)
+aux(backed-6, should-4)
+auxpass(backed-6, be-5)
+ccomp(made-3, backed-6)
+prt(backed-6, up-7)
+prep_with(backed-6, evidence-9)
+
+    that   a law adversely effects even one person  , it is unjust  
+root(ROOT-0, unjust-12)
+mark(unjust-12, that-1)
+det(law-3, a-2)
+nsubj(unjust-12, law-3)
+advmod(effects-5, adversely-4)
+rcmod(law-3, effects-5)
+advmod(person-8, even-6)
+num(person-8, one-7)
+dep(effects-5, person-8)
+appos(person-8, it-10)
+cop(unjust-12, is-11)
+
+    that   a law adversely effects even one person  , it is unjust  
+root(ROOT-0, unjust-12)
+mark(unjust-12, that-1)
+det(law-3, a-2)
+nsubj(unjust-12, law-3)
+advmod(effects-5, adversely-4)
+rcmod(law-3, effects-5)
+advmod(person-8, even-6)
+num(person-8, one-7)
+dep(effects-5, person-8)
+appos(person-8, it-10)
+cop(unjust-12, is-11)
+

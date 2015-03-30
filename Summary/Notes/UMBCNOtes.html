@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0043)http://swoogle.umbc.edu/SimService/api.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Untitled Document</title>
+<script async="" src="./UMBCNOtes_files/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48807702-1', 'umbc.edu');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body>
+<p>We have a simple Web API that can be used to query the UMBC Semantic Similarity service. Given two words or phrases it returns a string representing a number between 0.0 and 1.0. Call it using a a URL like the following</p>
+
+<div style="margin-left:50px;">
+http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&amp;phrase1=XXX&amp;phrase2=YYY
+</div>
+
+<p>Where XXX and YYY are the urlencoded words or short noun or verb phrases you want to compare.  For example, to compare the words <i>car</i> and <i>bike</i> with the URL.</p>
+
+<div style="margin-left:50px;">
+  <a href="http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&phrase1=car&phrase2=bike">http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&amp;phrase1=car&amp;phrase2=bike</a>
+</div>
+
+<p>You can also specify part of speech tag to your terms by appending
+them with _NN (noun), _VB (verb), _JJ (adj) or _RB (adv), as in the following examples.</p>
+<div style="margin-left:50px;">
+  <p><a href="http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&phrase1=fire_VB&phrase2=dismiss_VB">http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&amp;phrase1=fire_VB&amp;phrase2=dismiss_VB</a><br>    
+     <a href="http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&phrase1=fire_NN&phrase2=dismiss_VB">http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&amp;phrase1=fire_NN&amp;phrase2=dismiss_VB</a></p>
+</div>
+
+<p>The API supports two additional optional parameters: <i>corpus</i> and <i>type</i>
+which allow you to choose which corpus (e.g., webbase or gigawords) and
+which type of semantic similarity to use (e.g., concept or relation),
+as in the following example.</p>
+
+<div style="margin-left:50px;">
+<a href="http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&phrase1=fire_VB&phrase2=dismiss_VB&corpus=gigawords&type=concept">http://swoogle.umbc.edu/SimService/GetSimilarity?operation=api&amp;phrase1=fire_VB&amp;phrase2=dismiss_VB&amp;corpus=gigawords&amp;type=concept</a>
+</div>
+
+<br>
+<br>
+<p>To compare <b>Semantic Textual Similarity</b> (STS) between two strings <i>"A small violin is being played by a girl"</i> and <i>"a child is performing on a tiny instrument"</i>, you can use the following URL (note that the service name is different from the api above)</p>
+
+<div style="margin-left:50px;">
+  <a href="http://swoogle.umbc.edu/StsService/GetStsSim?operation=api&phrase1=a%20small%20violin%20is%20being%20played%20by%20a%20girl&phrase2=a%20child%20is%20performing%20on%20a%20tiny%20instrument">http://swoogle.umbc.edu/<b>StsService</b>/<b>GetStsSim</b>?operation=api&amp;phrase1=a%20small%20violin%20is%20being%20played%20by%20a%20girl&amp;phrase2=a%20child%20is%20performing%20on%20a%20tiny%20instrument</a>
+</div>
+
+<br>
+<br>
+
+<p>You can call the service easily from a program.  Here's an example showing how to do it in Python.</p>
+
+<div style="margin-left:50px;font-size=smaller"><pre><code>
+from requests import get
+
+sss_url = "http://swoogle.umbc.edu/SimService/GetSimilarity"
+
+def sss(s1, s2, type='relation', corpus='webbase'):
+    try:
+        response = get(sss_url, params={'operation':'api','phrase1':s1,'phrase2':s2,'type':type,'corpus':corpus})
+        return float(response.text.strip())
+    except:
+        print 'Error in getting similarity for %s: %s' % ((s1,s2), response)
+        return 0.0
+</code></pre></div>
+
+<p>If you use this service in your research, we would appreciate citing it using the following <a href="http://ebiquity.umbc.edu/paper/html/id/621">paper</a>, which descibes the approach behind the service.</p>
+<div style="margin-left:50px">
+Lushan Han, Abhay L. Kashyap, Tim Finin, James Mayfield and Johnathan Weese, UMBC_EBIQUITY-CORE: Semantic Textual Similarity Systems, Proc. 2nd Joint Conf. on Lexical and Computational Semantics, Association for Computational Linguistics, June 2013.
+</div>
+
+
+
+</body></html>

@@ -1,0 +1,28 @@
+S2 brought out AIs in Africa because location is irrelevant in refuting S1's logic.
+root(ROOT-0, brought-2)
+nsubj(brought-2, S2-1)
+prt(brought-2, out-3)
+dobj(brought-2, AIs-4)
+prep_in(AIs-4, Africa-6)
+mark(irrelevant-10, because-7)
+nsubj(irrelevant-10, location-8)
+cop(irrelevant-10, is-9)
+advcl(brought-2, irrelevant-10)
+prepc_in(irrelevant-10, refuting-12)
+poss(logic-15, S1-13)
+dobj(refuting-12, logic-15)
+
+S2 brought out AIs in Africa because location is irrelevant in refuting S1's logic.
+root(ROOT-0, brought-2)
+nsubj(brought-2, S2-1)
+prt(brought-2, out-3)
+dobj(brought-2, AIs-4)
+prep_in(AIs-4, Africa-6)
+mark(irrelevant-10, because-7)
+nsubj(irrelevant-10, location-8)
+cop(irrelevant-10, is-9)
+advcl(brought-2, irrelevant-10)
+prepc_in(irrelevant-10, refuting-12)
+poss(logic-15, S1-13)
+dobj(refuting-12, logic-15)
+

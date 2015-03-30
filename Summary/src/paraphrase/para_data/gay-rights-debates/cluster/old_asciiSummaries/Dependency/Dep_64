@@ -1,0 +1,15 @@
+S1 said that he continues to "stand by" and adhere to his previous post.
+root(ROOT-0, said-2)
+nsubj(said-2, S1-1)
+mark(continues-5, that-3)
+nsubj(continues-5, he-4)
+ccomp(said-2, continues-5)
+aux(stand-8, to-6)
+xcomp(continues-5, stand-8)
+prep(stand-8, by-9)
+xcomp(continues-5, adhere-12)
+conj_and(stand-8, adhere-12)
+poss(post-16, his-14)
+amod(post-16, previous-15)
+prep_to(adhere-12, post-16)
+

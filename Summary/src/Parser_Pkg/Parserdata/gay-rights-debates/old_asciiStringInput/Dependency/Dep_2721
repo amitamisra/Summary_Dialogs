@@ -1,0 +1,46 @@
+ that his heteronormative family represents the norm and suggests that deviation from the norm in the form of homosexual families is perverse .
+
+
+root(ROOT-0, represents-5)
+mark(represents-5, that-1)
+poss(family-4, his-2)
+amod(family-4, heteronormative-3)
+nsubj(represents-5, family-4)
+nsubj(suggests-9, family-4)
+det(norm-7, the-6)
+dobj(represents-5, norm-7)
+conj_and(represents-5, suggests-9)
+mark(perverse-22, that-10)
+nsubj(perverse-22, deviation-11)
+det(norm-14, the-13)
+prep_from(deviation-11, norm-14)
+det(form-17, the-16)
+prep_in(norm-14, form-17)
+amod(families-20, homosexual-19)
+prep_of(form-17, families-20)
+cop(perverse-22, is-21)
+ccomp(suggests-9, perverse-22)
+
+ that his heteronormative family represents the norm and suggests that deviation from the norm in the form of homosexual families is perverse .
+
+
+root(ROOT-0, represents-5)
+mark(represents-5, that-1)
+poss(family-4, his-2)
+amod(family-4, heteronormative-3)
+nsubj(represents-5, family-4)
+nsubj(suggests-9, family-4)
+det(norm-7, the-6)
+dobj(represents-5, norm-7)
+conj_and(represents-5, suggests-9)
+mark(perverse-22, that-10)
+nsubj(perverse-22, deviation-11)
+det(norm-14, the-13)
+prep_from(deviation-11, norm-14)
+det(form-17, the-16)
+prep_in(norm-14, form-17)
+amod(families-20, homosexual-19)
+prep_of(form-17, families-20)
+cop(perverse-22, is-21)
+ccomp(suggests-9, perverse-22)
+

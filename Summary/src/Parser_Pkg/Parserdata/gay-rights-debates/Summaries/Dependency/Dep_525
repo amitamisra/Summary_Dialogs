@@ -1,0 +1,26 @@
+there is allot of backlash going on lately.
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+nsubj(is-2, allot-3)
+prep(allot-3, of-4)
+pobj(of-4, backlash-5)
+vmod(backlash-5, going-6)
+prep(going-6, on-7)
+pcomp(on-7, lately-8)
+
+there is allot of backlash going on lately.
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+nsubj(is-2, allot-3)
+prep(allot-3, of-4)
+pobj(of-4, backlash-5)
+vmod(backlash-5, going-6)
+prep(going-6, on-7)
+pcomp(on-7, lately-8)
+
+ young people get divorced.
+root(ROOT-0, divorced-4)
+amod(people-2, young-1)
+nsubjpass(divorced-4, people-2)
+auxpass(divorced-4, get-3)
+

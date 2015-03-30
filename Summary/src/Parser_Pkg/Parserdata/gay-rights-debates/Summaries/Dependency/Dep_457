@@ -1,0 +1,35 @@
+He goes on to say.
+root(ROOT-0, goes-2)
+nsubj(goes-2, He-1)
+prt(goes-2, on-3)
+aux(say-5, to-4)
+xcomp(goes-2, say-5)
+
+He goes on to say.
+root(ROOT-0, goes-2)
+nsubj(goes-2, He-1)
+prt(goes-2, on-3)
+aux(say-5, to-4)
+xcomp(goes-2, say-5)
+
+S1 feels remarks made by S2 point more to his being a bigot rather than simply opposing gay marriage.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+dobj(feels-2, remarks-3)
+vmod(remarks-3, made-4)
+prep(made-4, by-5)
+nn(point-7, S2-6)
+pobj(by-5, point-7)
+advmod(bigot-13, more-8)
+prep(more-8, to-9)
+pobj(to-9, his-10)
+cop(bigot-13, being-11)
+det(bigot-13, a-12)
+ccomp(made-4, bigot-13)
+cc(bigot-13, rather-14)
+mwe(rather-14, than-15)
+advmod(opposing-17, simply-16)
+conj(bigot-13, opposing-17)
+amod(marriage-19, gay-18)
+dobj(opposing-17, marriage-19)
+

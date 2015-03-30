@@ -1,0 +1,15 @@
+He also states his wish that S2 inform him of the benefits of same-sex marriage.
+root(ROOT-0, states-3)
+nsubj(states-3, He-1)
+advmod(states-3, also-2)
+poss(wish-5, his-4)
+dobj(states-3, wish-5)
+mark(inform-8, that-6)
+nsubj(inform-8, S2-7)
+ccomp(states-3, inform-8)
+dobj(inform-8, him-9)
+det(benefits-12, the-11)
+prep_of(inform-8, benefits-12)
+amod(marriage-15, same-sex-14)
+prep_of(benefits-12, marriage-15)
+

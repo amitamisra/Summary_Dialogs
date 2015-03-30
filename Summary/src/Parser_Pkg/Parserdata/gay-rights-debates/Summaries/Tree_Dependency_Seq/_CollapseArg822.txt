@@ -1,0 +1,5 @@
+root(ROOT-0, goes-2)
+nsubj(goes-2, S1-1)
+prt(goes-2, on-3)
+aux(say-5, to-4)
+xcomp(goes-2, say-5)

@@ -1,0 +1,52 @@
+marriage is not simply about having a family.
+root(ROOT-0, is-2)
+nsubj(is-2, marriage-1)
+neg(is-2, not-3)
+advmod(is-2, simply-4)
+prep(is-2, about-5)
+pcomp(about-5, having-6)
+det(family-8, a-7)
+dobj(having-6, family-8)
+
+marriage is not simply about having a family.
+root(ROOT-0, is-2)
+nsubj(is-2, marriage-1)
+neg(is-2, not-3)
+advmod(is-2, simply-4)
+prep(is-2, about-5)
+pcomp(about-5, having-6)
+det(family-8, a-7)
+dobj(having-6, family-8)
+
+marriage is not simply about having a family.
+root(ROOT-0, is-2)
+nsubj(is-2, marriage-1)
+neg(is-2, not-3)
+advmod(is-2, simply-4)
+prep(is-2, about-5)
+pcomp(about-5, having-6)
+det(family-8, a-7)
+dobj(having-6, family-8)
+
+marriage is not simply about having a family.
+root(ROOT-0, is-2)
+nsubj(is-2, marriage-1)
+neg(is-2, not-3)
+advmod(is-2, simply-4)
+prep(is-2, about-5)
+pcomp(about-5, having-6)
+det(family-8, a-7)
+dobj(having-6, family-8)
+
+ a traditional family is composed of a husband and wife.
+root(ROOT-0, composed-5)
+det(family-3, a-1)
+amod(family-3, traditional-2)
+nsubjpass(composed-5, family-3)
+auxpass(composed-5, is-4)
+prep(composed-5, of-6)
+det(husband-8, a-7)
+pobj(of-6, husband-8)
+cc(husband-8, and-9)
+conj(husband-8, wife-10)
+

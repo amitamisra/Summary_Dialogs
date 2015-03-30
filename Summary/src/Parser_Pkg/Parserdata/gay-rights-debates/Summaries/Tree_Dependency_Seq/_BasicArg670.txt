@@ -1,0 +1,7 @@
+root(ROOT-0, law-2)
+det(law-2, a-1)
+advmod(law-2, adversely-3)
+dep(law-2, effects-4)
+advmod(person-7, even-5)
+num(person-7, one-6)
+dep(effects-4, person-7)

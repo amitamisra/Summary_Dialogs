@@ -1,0 +1,25 @@
+   that a court would not rule on that issue individually 
+root(ROOT-0, rule-6)
+mark(rule-6, that-1)
+det(court-3, a-2)
+nsubj(rule-6, court-3)
+aux(rule-6, would-4)
+neg(rule-6, not-5)
+det(issue-9, that-8)
+prep_on(rule-6, issue-9)
+advmod(rule-6, individually-10)
+
+   morality is relative and subjective 
+root(ROOT-0, relative-3)
+nsubj(relative-3, morality-1)
+nsubj(subjective-5, morality-1)
+cop(relative-3, is-2)
+conj_and(relative-3, subjective-5)
+
+   morality is relative and subjective 
+root(ROOT-0, relative-3)
+nsubj(relative-3, morality-1)
+nsubj(subjective-5, morality-1)
+cop(relative-3, is-2)
+conj_and(relative-3, subjective-5)
+

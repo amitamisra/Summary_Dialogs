@@ -1,0 +1,47 @@
+S1 has posted news of theC Council voting to authorize gay marriage and is celebratory about it .
+
+
+root(ROOT-0, posted-3)
+nsubj(posted-3, S1-1)
+nsubj(celebratory-15, S1-1)
+aux(posted-3, has-2)
+dobj(posted-3, news-4)
+nn(Council-7, theC-6)
+prep_of(news-4, Council-7)
+vmod(Council-7, voting-8)
+aux(authorize-10, to-9)
+xcomp(voting-8, authorize-10)
+amod(marriage-12, gay-11)
+dobj(authorize-10, marriage-12)
+cop(celebratory-15, is-14)
+conj_and(posted-3, celebratory-15)
+prep_about(celebratory-15, it-17)
+
+S2 believes the same argument can be made fro m her perspective.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+det(argument-5, the-3)
+amod(argument-5, same-4)
+nsubjpass(made-8, argument-5)
+aux(made-8, can-6)
+auxpass(made-8, be-7)
+ccomp(believes-2, made-8)
+nn(m-10, fro-9)
+nsubj(perspective-12, m-10)
+poss(perspective-12, her-11)
+xcomp(made-8, perspective-12)
+
+S2 believes the same argument can be made fro m her perspective.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+det(argument-5, the-3)
+amod(argument-5, same-4)
+nsubjpass(made-8, argument-5)
+aux(made-8, can-6)
+auxpass(made-8, be-7)
+ccomp(believes-2, made-8)
+nn(m-10, fro-9)
+nsubj(perspective-12, m-10)
+poss(perspective-12, her-11)
+xcomp(made-8, perspective-12)
+

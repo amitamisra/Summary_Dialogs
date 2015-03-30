@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (PP (IN that) (NP (DT the) (NN majority) (NNS rules))) (SBAR (ADVP (DT no) (NN matter)) (WHNP (WP what)) (S (NP (DT the) (NN minority)) (VP (VBZ thinks))))) (. .)))

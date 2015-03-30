@@ -1,0 +1,7 @@
+root(ROOT-0, trump-5)
+nn(freedom-2, marriage-1)
+nsubj(trump-5, freedom-2)
+aux(trump-5, should-3)
+neg(trump-5, n't-4)
+amod(freedom-7, religious-6)
+dobj(trump-5, freedom-7)

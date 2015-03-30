@@ -1,0 +1,8 @@
+root(ROOT-0, is-2)
+nsubj(is-2, marriage-1)
+advmod(is-2, simply-3)
+num(man-6, one-5)
+prep_between(is-2, man-6)
+num(woman-9, one-8)
+prep_between(is-2, woman-9)
+conj_and(man-6, woman-9)

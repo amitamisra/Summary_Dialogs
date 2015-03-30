@@ -1,0 +1,24 @@
+ that marriage is one of the foundations of social stability .
+
+
+root(ROOT-0, one-4)
+mark(one-4, that-1)
+nsubj(one-4, marriage-2)
+cop(one-4, is-3)
+det(foundations-7, the-6)
+prep_of(one-4, foundations-7)
+amod(stability-10, social-9)
+prep_of(foundations-7, stability-10)
+
+ that marriage is one of the foundations of social stability .
+
+
+root(ROOT-0, one-4)
+mark(one-4, that-1)
+nsubj(one-4, marriage-2)
+cop(one-4, is-3)
+det(foundations-7, the-6)
+prep_of(one-4, foundations-7)
+amod(stability-10, social-9)
+prep_of(foundations-7, stability-10)
+

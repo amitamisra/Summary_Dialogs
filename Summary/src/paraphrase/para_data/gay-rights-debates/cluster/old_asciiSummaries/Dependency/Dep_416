@@ -1,0 +1,15 @@
+S2 feels S1's objection to gays and the family's they would make is prejudice.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S2-1)
+poss(objection-5, S1-3)
+nsubj(prejudice-16, objection-5)
+prep_to(objection-5, gays-7)
+det(family-10, the-9)
+prep_to(objection-5, family-10)
+conj_and(gays-7, family-10)
+nsubj(make-14, they-12)
+aux(make-14, would-13)
+rcmod(gays-7, make-14)
+cop(prejudice-16, is-15)
+ccomp(feels-2, prejudice-16)
+

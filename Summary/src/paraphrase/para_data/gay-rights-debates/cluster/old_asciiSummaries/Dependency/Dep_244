@@ -1,0 +1,17 @@
+S1 believes it is an insult to all of African American society to compare these two plights.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+nsubj(insult-6, it-3)
+cop(insult-6, is-4)
+det(insult-6, an-5)
+ccomp(believes-2, insult-6)
+prep_to(insult-6, all-8)
+amod(society-12, African-10)
+amod(society-12, American-11)
+prep_of(all-8, society-12)
+aux(compare-14, to-13)
+vmod(insult-6, compare-14)
+det(plights-17, these-15)
+num(plights-17, two-16)
+dobj(compare-14, plights-17)
+

@@ -1,0 +1,18 @@
+He further claims that the currentemocratic party is anti-religion, over-regulatory, and controlled by the gay lobby.
+root(ROOT-0, claims-3)
+nsubj(claims-3, He-1)
+advmod(claims-3, further-2)
+mark(over-regulatory-11, that-4)
+det(party-7, the-5)
+amod(party-7, currentemocratic-6)
+nsubjpass(over-regulatory-11, party-7)
+nsubjpass(controlled-14, party-7)
+auxpass(over-regulatory-11, is-8)
+amod(over-regulatory-11, anti-religion-9)
+ccomp(claims-3, over-regulatory-11)
+ccomp(claims-3, controlled-14)
+conj_and(over-regulatory-11, controlled-14)
+det(lobby-18, the-16)
+amod(lobby-18, gay-17)
+prep_by(controlled-14, lobby-18)
+

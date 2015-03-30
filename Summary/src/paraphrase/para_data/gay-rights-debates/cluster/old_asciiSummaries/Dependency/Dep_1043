@@ -1,0 +1,16 @@
+In a sense, they believe gay marriage will have a sort of domino effect for other issues.
+root(ROOT-0, believe-6)
+det(sense-3, a-2)
+prep_in(believe-6, sense-3)
+nsubj(believe-6, they-5)
+amod(marriage-8, gay-7)
+nsubj(have-10, marriage-8)
+aux(have-10, will-9)
+ccomp(believe-6, have-10)
+det(sort-12, a-11)
+dobj(have-10, sort-12)
+nn(effect-15, domino-14)
+prep_of(sort-12, effect-15)
+amod(issues-18, other-17)
+prep_for(effect-15, issues-18)
+

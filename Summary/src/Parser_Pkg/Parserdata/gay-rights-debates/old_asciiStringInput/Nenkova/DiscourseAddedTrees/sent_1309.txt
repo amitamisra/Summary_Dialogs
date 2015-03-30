@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ asks) (NP (NN S2)) (SBAR (IN if#0#Contingency) (S (NP (PRP he)) (VP (VBZ knows) (SBAR (IN that) (S (NP (DT the) (JJ gay) (NN marriage) (NN debate)) (VP (VBZ is) (RB not) (ADJP (JJ synonymous) (PP (IN with) (NP (NP (NN someone) (VBG condoning) (NN violence)) (PP (IN against) (NP (NNS gays))))))))))))) (. .)))

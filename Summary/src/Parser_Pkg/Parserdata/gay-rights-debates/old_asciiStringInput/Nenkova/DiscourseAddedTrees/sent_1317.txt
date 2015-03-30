@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S1)) (VP (VBZ says) (NP (NP (NN name)) (VP (VBG calling))))) (CC and#0#Expansion) (S (NP (NN violence)) (VP (VBD were) (NP (NP (DT the) (NNS things)) (SBAR (S (NP (NNP Jason)) (VP (VBD conflated) (PP (IN with) (S (VP (VBG opposing) (NP (JJ gay) (NN marriage))))))))))) (. .)))

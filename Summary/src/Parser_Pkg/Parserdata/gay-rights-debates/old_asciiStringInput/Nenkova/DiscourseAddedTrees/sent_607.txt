@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ argues) (PP (IN against) (NP (DT the) (NN idea))) (SBAR (IN that) (S (NP (NN ignorance)) (VP (VBZ is) (NP (NP (DT a) (JJ reasonable) (NN excuse)) (PP (IN for#0#0) (NP (NN prejudice)))))))) (. .)))

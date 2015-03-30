@@ -1,0 +1,3 @@
+root(ROOT-0, inflames-3)
+det(rhetoric-2, the-1)
+nsubj(inflames-3, rhetoric-2)

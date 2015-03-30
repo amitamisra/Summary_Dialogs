@@ -1,0 +1,36 @@
+ that legislation to overturn the Massachusetts decision would be an over intrusion by the government .
+
+
+root(ROOT-0, intrusion-12)
+mark(overturn-4, that-1)
+nsubj(overturn-4, legislation-2)
+aux(overturn-4, to-3)
+csubj(intrusion-12, overturn-4)
+det(decision-7, the-5)
+nn(decision-7, Massachusetts-6)
+dobj(overturn-4, decision-7)
+aux(intrusion-12, would-8)
+cop(intrusion-12, be-9)
+det(intrusion-12, an-10)
+advmod(intrusion-12, over-11)
+det(government-15, the-14)
+prep_by(intrusion-12, government-15)
+
+ that legislation to overturn the Massachusetts decision would be an over intrusion by the government .
+
+
+root(ROOT-0, intrusion-12)
+mark(overturn-4, that-1)
+nsubj(overturn-4, legislation-2)
+aux(overturn-4, to-3)
+csubj(intrusion-12, overturn-4)
+det(decision-7, the-5)
+nn(decision-7, Massachusetts-6)
+dobj(overturn-4, decision-7)
+aux(intrusion-12, would-8)
+cop(intrusion-12, be-9)
+det(intrusion-12, an-10)
+advmod(intrusion-12, over-11)
+det(government-15, the-14)
+prep_by(intrusion-12, government-15)
+

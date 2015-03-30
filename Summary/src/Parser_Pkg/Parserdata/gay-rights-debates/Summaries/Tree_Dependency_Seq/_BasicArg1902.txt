@@ -1,0 +1,3 @@
+root(ROOT-0, wrong-3)
+nsubj(wrong-3, Biden-1)
+cop(wrong-3, is-2)

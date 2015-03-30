@@ -1,0 +1,14 @@
+together people expect homosexuals to.
+root(ROOT-0, expect-3)
+advmod(expect-3, together-1)
+nsubj(expect-3, people-2)
+dobj(expect-3, homosexuals-4)
+prep(expect-3, to-5)
+
+together people expect homosexuals to.
+root(ROOT-0, expect-3)
+advmod(expect-3, together-1)
+nsubj(expect-3, people-2)
+dobj(expect-3, homosexuals-4)
+prep(expect-3, to-5)
+

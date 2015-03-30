@@ -1,0 +1,3 @@
+root(ROOT-0, be-3)
+nsubj(be-3, it-1)
+aux(be-3, might-2)

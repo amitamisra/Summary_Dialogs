@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS states)) (SBAR (WHNP (WDT that)) (S (VP (VBG questioning) (NP (DT a) (NN study)))))) (VP (VBZ is) (ADJP (JJ appropriate)) (, ,) (ADVP (RB especially)) (SBAR (IN if#0#Contingency) (S (NP (PRP it)) (VP (VBZ vilifies) (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS people)))))))) (. .)))

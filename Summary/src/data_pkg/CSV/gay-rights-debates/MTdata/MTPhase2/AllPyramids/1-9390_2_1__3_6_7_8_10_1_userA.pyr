@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 believes that gay activists compare public disapproval of homosexuality with racial discrimination. This person does not agree that this is a viable comparison because they believe that racial discrimination is the hatred or fear of another human being, while the other is just disapproval of another person's behavior. They believe that employers base their employment on competency and not sexuality.</line>
+  <line>S2 does not agree that being homosexual is a behavior, and that it is within the rights under current states' laws for employers to let their workers go because of one's sexuality. They believe this is discrimination and not just disapproval because the law supports the right for employers to release employees solely on the fact that they are homosexual and not due to competency.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 claims that it is inappropriate to compare opposing homosexuality with racial discrimination. He explains the difference that racial discrimination is the fear of a particular person and that opposing homosexuality is based on disapproval of a person's behavior. He proposes that if a homosexual were fired from their job, it would be due to their incompetence and not due to their homosexuality. S2 objects to S1's claim that homophobia is disapproval of behavior, questioning which behaviors warrant disapproval. He claims that being homosexual is in itself not a behavior. He also argues that homosexuals are frequently legally fired for their sexual preference with no regard for competence. Finally, he asks what a gay activist is and S1 responds by recommending S2 google the term.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two subjects are discussing discrimination against homosexuals in the workplace.  S1 feels there is no comparison between racial discrimination and disapproval of homosexual relationships.  S2 advises it is currently legal to fire someone simply for being gay rather than their ability to complete the job correctly and feels this is discrimination.  S1 feels this is incorrect as discrimination is defined as a hatred or fear of another person or group while disapproval of gay relationships is due to not agreeing with another's behavior.  S2 doesn't feel being gay can be described as a behavior.  S1 feels there is no issue with this practice.  S2 wonders what behavior can be disapproved of if the person does his/her job correctly.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing the difference between homosexuality and racial discrimination.  S1 contends that one is a hatred or fear of another human being, while the other is a disapproval of someone's behavior.  He states that if a homosexual was fired, it would be for incompetence rather than for being gay.  S2 retorts by stating that it is perfectly legal in most places in the U.S. to fire someone simply for being gay, not for incompetence.  He also states that he is currently sitting in his pajamas being gay.  He then questions what behavior that he is exhibiting that warrants disapproval.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 says it is wrong for gay activists to compare public disapproval of homosexuality with race discrimination. He takes a jab at gay activists love comparing public disapproval of homosexuality with racial discrimination. He has complaints about the public's overwhelming disapproval of another human being's behavior. He notes that the two are two different entities and can't truly be compared . Furthermore, he states if you were fired it would be for being incompetent rather than being gay. He thinks that the questions that the GUEST is asking are not relevant enough to answer them. In the end S1 states that gay activist will soon find out why the behavior and thoughts are what they are. The both argue that each one's wrong.</line>
+ </text>
+ <scu uid="13" label="No behavior should be disapproved.">
+  <contributor label="what behavior can be disapproved of if the person does his/her job correctly">
+   <part label="what behavior can be disapproved of if the person does his/her job correctly" start="2320" end="2396"/>
+  </contributor>
+  <contributor label="what behavior that he is exhibiting that warrants disapproval">
+   <part label="what behavior that he is exhibiting that warrants disapproval" start="2963" end="3024"/>
+  </contributor>
+  <contributor label="not just disapproval">
+   <part label="not just disapproval" start="653" end="673"/>
+  </contributor>
+  <contributor label="questioning which behaviors warrant disapproval">
+   <part label="questioning which behaviors warrant disapproval" start="1311" end="1358"/>
+  </contributor>
+  <contributor label="In the end S1 states that gay activist will soon find out why the behavior and thoughts are what they are">
+   <part label="In the end S1 states that gay activist will soon find out why the behavior and thoughts are what they are" start="3643" end="3748"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="Opposing homosexuality is based on disapproval of a person's behavior.">
+  <contributor label="the other is just disapproval of another person's behavior">
+   <part label="the other is just disapproval of another person's behavior" start="289" end="347"/>
+  </contributor>
+  <contributor label="opposing homosexuality is based on disapproval of a person's behavior">
+   <part label="opposing homosexuality is based on disapproval of a person's behavior" start="1037" end="1106"/>
+  </contributor>
+  <contributor label="disapproval of gay relationships is due to not agreeing with another's behavior">
+   <part label="disapproval of gay relationships is due to not agreeing with another's behavior" start="2120" end="2199"/>
+  </contributor>
+  <contributor label="the other is a disapproval of someone's behavior">
+   <part label="the other is a disapproval of someone's behavior" start="2587" end="2635"/>
+  </contributor>
+  <contributor label="the public's overwhelming disapproval of another human being's behavior">
+   <part label="the public's overwhelming disapproval of another human being's behavior" start="3299" end="3370"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="Employers fire people based on competency rather than being gay.">
+  <contributor label="They believe that employers base their employment on competency and not sexuality">
+   <part label="They believe that employers base their employment on competency and not sexuality" start="349" end="430"/>
+  </contributor>
+  <contributor label="if a homosexual were fired from their job, it would be due to their incompetence and not due to their homosexuality">
+   <part label="if a homosexual were fired from their job, it would be due to their incompetence and not due to their homosexuality" start="1125" end="1240"/>
+  </contributor>
+  <contributor label="if a homosexual was fired, it would be for incompetence rather than for being gay">
+   <part label="if a homosexual was fired, it would be for incompetence rather than for being gay" start="2653" end="2734"/>
+  </contributor>
+  <contributor label="if you were fired it would be for being incompetent rather than being gay">
+   <part label="if you were fired it would be for being incompetent rather than being gay" start="3474" end="3547"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="Employers frequently fire people based on their sexual preference rather than competency.">
+  <contributor label="it is within the rights under current states' laws for employers to let their workers go because of one's sexuality...the law supports the right for employers to release employees solely on the fact that they are homosexual and not due to competency">
+   <part label="it is within the rights under current states' laws for employers to let their workers go because of one's sexuality" start="496" end="611"/>
+   <part label="the law supports the right for employers to release employees solely on the fact that they are homosexual and not due to competency" start="682" end="813"/>
+  </contributor>
+  <contributor label="homosexuals are frequently legally fired for their sexual preference with no regard for competence">
+   <part label="homosexuals are frequently legally fired for their sexual preference with no regard for competence" start="1441" end="1539"/>
+  </contributor>
+  <contributor label="it is currently legal to fire someone simply for being gay rather than their ability to complete the job correctly">
+   <part label="it is currently legal to fire someone simply for being gay rather than their ability to complete the job correctly" start="1861" end="1975"/>
+  </contributor>
+  <contributor label="it is perfectly legal in most places in the U.S. to fire someone simply for being gay, not for incompetence">
+   <part label="it is perfectly legal in most places in the U.S. to fire someone simply for being gay, not for incompetence" start="2764" end="2871"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="It is inappropriate to compare opposing homosexuality with racial discrimination.">
+  <contributor label="This person does not agree that this is a viable comparison">
+   <part label="This person does not agree that this is a viable comparison" start="129" end="188"/>
+  </contributor>
+  <contributor label="it is inappropriate to compare opposing homosexuality with racial discrimination">
+   <part label="it is inappropriate to compare opposing homosexuality with racial discrimination" start="857" end="937"/>
+  </contributor>
+  <contributor label="there is no comparison between racial discrimination and disapproval of homosexual relationships">
+   <part label="there is no comparison between racial discrimination and disapproval of homosexual relationships" start="1751" end="1847"/>
+  </contributor>
+  <contributor label="it is wrong for gay activists to compare public disapproval of homosexuality with race discrimination...the two are two different entities and can't truly be compared">
+   <part label="it is wrong for gay activists to compare public disapproval of homosexuality with race discrimination" start="3061" end="3162"/>
+   <part label="the two are two different entities and can't truly be compared" start="3386" end="3448"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="Racial discrimination is the hatred or fear of a particular person.">
+  <contributor label="they believe that racial discrimination is the hatred or fear of another human being">
+   <part label="they believe that racial discrimination is the hatred or fear of another human being" start="197" end="281"/>
+  </contributor>
+  <contributor label="racial discrimination is the fear of a particular person">
+   <part label="racial discrimination is the fear of a particular person" start="971" end="1027"/>
+  </contributor>
+  <contributor label="discrimination is defined as a hatred or fear of another person or group">
+   <part label="discrimination is defined as a hatred or fear of another person or group" start="2041" end="2113"/>
+  </contributor>
+  <contributor label="one is a hatred or fear of another human being">
+   <part label="one is a hatred or fear of another human being" start="2533" end="2579"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="Being homosexual is not a behavior.">
+  <contributor label="S2 does not agree that being homosexual is a behavior">
+   <part label="S2 does not agree that being homosexual is a behavior" start="432" end="485"/>
+  </contributor>
+  <contributor label="S2 objects to S1's claim that homophobia is disapproval of behavior...He claims that being homosexual is in itself not a behavior">
+   <part label="S2 objects to S1's claim that homophobia is disapproval of behavior" start="1242" end="1309"/>
+   <part label="He claims that being homosexual is in itself not a behavior" start="1360" end="1419"/>
+  </contributor>
+  <contributor label="S2 doesn't feel being gay can be described as a behavior">
+   <part label="S2 doesn't feel being gay can be described as a behavior" start="2202" end="2258"/>
+  </contributor>
+ </scu>
+ <scu uid="1" label="Gay activists compare public disapproval of homosexuality with racial discrimination.">
+  <contributor label="gay activists compare public disapproval of homosexuality with racial discrimination">
+   <part label="gay activists compare public disapproval of homosexuality with racial discrimination" start="43" end="127"/>
+  </contributor>
+  <contributor label="gay activists love comparing public disapproval of homosexuality with racial discrimination">
+   <part label="gay activists love comparing public disapproval of homosexuality with racial discrimination" start="3182" end="3273"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="This is discrimination.">
+  <contributor label="They believe this is discrimination">
+   <part label="They believe this is discrimination" start="613" end="648"/>
+  </contributor>
+  <contributor label="feels this is discrimination">
+   <part label="feels this is discrimination" start="1980" end="2008"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="Two subjects are discussing discrimination against homosexuals in the workplace.">
+  <contributor label="Two subjects are discussing discrimination against homosexuals in the workplace">
+   <part label="Two subjects are discussing discrimination against homosexuals in the workplace" start="1660" end="1739"/>
+  </contributor>
+  <contributor label="Two people are discussing the difference between homosexuality and racial discrimination">
+   <part label="Two people are discussing the difference between homosexuality and racial discrimination" start="2425" end="2513"/>
+  </contributor>
+ </scu>
+ <scu uid="16" label="One person asks what a gay activist is.">
+  <contributor label="he asks what a gay activist is">
+   <part label="he asks what a gay activist is" start="1550" end="1580"/>
+  </contributor>
+ </scu>
+ <scu uid="18" label="One person is currently sitting in his pajamas being gay.">
+  <contributor label="He also states that he is currently sitting in his pajamas being gay">
+   <part label="He also states that he is currently sitting in his pajamas being gay" start="2874" end="2942"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="The both argue that each one's wrong.">
+  <contributor label="The both argue that each one's wrong">
+   <part label="The both argue that each one's wrong" start="3750" end="3786"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="The questions are not relevant enough to answer.">
+  <contributor label="He thinks that the questions that the GUEST is asking are not relevant enough to answer them">
+   <part label="He thinks that the questions that the GUEST is asking are not relevant enough to answer them" start="3549" end="3641"/>
+  </contributor>
+ </scu>
+ <scu uid="17" label="The responds recommend to google the terms.">
+  <contributor label="S1 responds by recommending S2 google the term">
+   <part label="S1 responds by recommending S2 google the term" start="1585" end="1631"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="There is not issue with the practice.">
+  <contributor label="S1 feels there is no issue with this practice">
+   <part label="S1 feels there is no issue with this practice" start="2261" end="2306"/>
+  </contributor>
+ </scu>
+</pyramid>

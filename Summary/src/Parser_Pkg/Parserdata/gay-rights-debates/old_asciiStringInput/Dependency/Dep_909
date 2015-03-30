@@ -1,0 +1,31 @@
+S2 ends by stating those would not be possible today because of the 13th amendment .
+
+
+root(ROOT-0, ends-2)
+nsubj(ends-2, S2-1)
+prepc_by(ends-2, stating-4)
+nsubj(possible-9, those-5)
+aux(possible-9, would-6)
+neg(possible-9, not-7)
+cop(possible-9, be-8)
+ccomp(stating-4, possible-9)
+tmod(possible-9, today-10)
+prepc_because_of(possible-9, of-12)
+det(amendment-15, the-13)
+amod(amendment-15, 13th-14)
+pobj(possible-9, amendment-15)
+
+  that young people get divorced 
+root(ROOT-0, divorced-5)
+mark(divorced-5, that-1)
+amod(people-3, young-2)
+nsubjpass(divorced-5, people-3)
+auxpass(divorced-5, get-4)
+
+  that young people get divorced 
+root(ROOT-0, divorced-5)
+mark(divorced-5, that-1)
+amod(people-3, young-2)
+nsubjpass(divorced-5, people-3)
+auxpass(divorced-5, get-4)
+

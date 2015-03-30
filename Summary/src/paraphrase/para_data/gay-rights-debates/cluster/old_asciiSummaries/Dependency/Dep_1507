@@ -1,0 +1,16 @@
+He believes that liberalism has been hijacked by extremist special interest groups such as the gay lobby.
+root(ROOT-0, believes-2)
+nsubj(believes-2, He-1)
+mark(hijacked-7, that-3)
+nsubjpass(hijacked-7, liberalism-4)
+aux(hijacked-7, has-5)
+auxpass(hijacked-7, been-6)
+ccomp(believes-2, hijacked-7)
+agent(hijacked-7, extremist-9)
+amod(groups-12, special-10)
+nn(groups-12, interest-11)
+dobj(hijacked-7, groups-12)
+det(lobby-17, the-15)
+amod(lobby-17, gay-16)
+prep_such_as(groups-12, lobby-17)
+

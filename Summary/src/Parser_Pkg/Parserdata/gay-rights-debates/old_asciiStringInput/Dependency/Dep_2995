@@ -1,0 +1,28 @@
+ that America already has serial polygamy due to the liberal divorce laws .
+
+
+root(ROOT-0, has-4)
+mark(has-4, that-1)
+nsubj(has-4, America-2)
+advmod(has-4, already-3)
+amod(polygamy-6, serial-5)
+dobj(has-4, polygamy-6)
+det(laws-12, the-9)
+amod(laws-12, liberal-10)
+nn(laws-12, divorce-11)
+prep_due_to(polygamy-6, laws-12)
+
+ that America already has serial polygamy due to the liberal divorce laws .
+
+
+root(ROOT-0, has-4)
+mark(has-4, that-1)
+nsubj(has-4, America-2)
+advmod(has-4, already-3)
+amod(polygamy-6, serial-5)
+dobj(has-4, polygamy-6)
+det(laws-12, the-9)
+amod(laws-12, liberal-10)
+nn(laws-12, divorce-11)
+prep_due_to(polygamy-6, laws-12)
+

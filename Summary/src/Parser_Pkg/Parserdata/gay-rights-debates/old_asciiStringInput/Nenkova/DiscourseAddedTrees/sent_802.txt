@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ believes) (SBAR (S (NP (NN service)) (VP (VBZ is) (NP (DT a) (NN requirement) (S (VP (TO to) (VP (VB express) (SBAR (S (NP (DT the) (NN freedom) (NNS people)) (VP (VBP have)))))))))))) (. .)))

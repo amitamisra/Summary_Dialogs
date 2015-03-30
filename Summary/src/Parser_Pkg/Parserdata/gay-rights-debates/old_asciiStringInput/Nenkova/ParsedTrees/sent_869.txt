@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (JJ such) (NN group))))))) (CC and) (S (NP (DT this)) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (PRT (RP up)) (S (VP (TO to) (VP (VB promote) (NP (NP (NN fear)) (PP (IN of) (NP (NNP Christianity))))))))))) (. .)))

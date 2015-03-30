@@ -1,0 +1,7 @@
+root(ROOT-0, do-7)
+prep(do-7, in-1)
+pobj(in-1, Spain-2)
+nsubj(do-7, they-4)
+aux(do-7, do-5)
+neg(do-7, n't-6)
+dobj(do-7, that-8)

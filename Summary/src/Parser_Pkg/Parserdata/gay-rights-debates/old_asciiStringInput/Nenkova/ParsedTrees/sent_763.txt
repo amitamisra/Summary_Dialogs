@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ is) (VP (VBG talking) (PP (IN about) (NP (NP (DT a) (NN female)) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VP (VBG ignoring) (NP (NP (NNS S1s)) (NP (JJ religious) (NN freedom)))) (CC and) (VP (VBG barring) (NP (PRP$ his) (NN family)) (PP (IN from) (NP (JJ legal) (NNS protections)))))))))))) (. .)))

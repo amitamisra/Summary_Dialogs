@@ -1,0 +1,9 @@
+(Elaboration[N][S]
+  _!S2 urges S1!_
+  (same-unit[N][N]
+    (Enablement[N][S]
+      _!to allow the democratic process!_
+      _!to decide the issue ,!_)
+    (Attribution[S][N]
+      _!believing!_
+      _!the anti-gay movement may also have legitimacy . <s>!_)))

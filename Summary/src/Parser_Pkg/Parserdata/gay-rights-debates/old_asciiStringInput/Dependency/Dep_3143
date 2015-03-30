@@ -1,0 +1,12 @@
+  politicians sometimes may lie 
+root(ROOT-0, lie-4)
+nsubj(lie-4, politicians-1)
+advmod(politicians-1, sometimes-2)
+aux(lie-4, may-3)
+
+  politicians sometimes may lie 
+root(ROOT-0, lie-4)
+nsubj(lie-4, politicians-1)
+advmod(politicians-1, sometimes-2)
+aux(lie-4, may-3)
+

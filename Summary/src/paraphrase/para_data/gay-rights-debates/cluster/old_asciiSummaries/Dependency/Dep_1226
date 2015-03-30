@@ -1,0 +1,11 @@
+S1s way of equal marriage would not S1 or her.
+root(ROOT-0, would-6)
+nn(way-2, S1s-1)
+nsubj(would-6, way-2)
+amod(marriage-5, equal-4)
+prep_of(way-2, marriage-5)
+prep(would-6, not-7)
+dep(not-7, S1-8)
+dep(not-7, her-10)
+conj_or(S1-8, her-10)
+

@@ -1,0 +1,15 @@
+He states that the US has been dealing with polygamy for years, with very few prosecutions.
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+mark(dealing-8, that-3)
+det(US-5, the-4)
+nsubj(dealing-8, US-5)
+aux(dealing-8, has-6)
+aux(dealing-8, been-7)
+ccomp(states-2, dealing-8)
+prep_with(dealing-8, polygamy-10)
+prep_for(polygamy-10, years-12)
+advmod(few-16, very-15)
+amod(prosecutions-17, few-16)
+prep_with(polygamy-10, prosecutions-17)
+

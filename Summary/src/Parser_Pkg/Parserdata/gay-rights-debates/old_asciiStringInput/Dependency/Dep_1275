@@ -1,0 +1,51 @@
+ that S1 believes that homosexuals are less important than heterosexuals based on his comment that other diseases are more important to cure than AIS .
+
+
+root(ROOT-0, believes-3)
+mark(believes-3, that-1)
+nsubj(believes-3, S1-2)
+mark(important-8, that-4)
+nsubj(important-8, homosexuals-5)
+cop(important-8, are-6)
+advmod(important-8, less-7)
+ccomp(believes-3, important-8)
+prep_than(important-8, heterosexuals-10)
+vmod(heterosexuals-10, based-11)
+poss(comment-14, his-13)
+prep_on(based-11, comment-14)
+mark(important-20, that-15)
+amod(diseases-17, other-16)
+nsubj(important-20, diseases-17)
+cop(important-20, are-18)
+advmod(important-20, more-19)
+ccomp(important-8, important-20)
+aux(cure-22, to-21)
+xcomp(important-20, cure-22)
+prep_than(cure-22, AIS-24)
+
+ gay rights are a real test of the constitutional system .
+
+
+root(ROOT-0, test-6)
+amod(rights-2, gay-1)
+nsubj(test-6, rights-2)
+cop(test-6, are-3)
+det(test-6, a-4)
+amod(test-6, real-5)
+det(system-10, the-8)
+amod(system-10, constitutional-9)
+prep_of(test-6, system-10)
+
+ gay rights are a real test of the constitutional system .
+
+
+root(ROOT-0, test-6)
+amod(rights-2, gay-1)
+nsubj(test-6, rights-2)
+cop(test-6, are-3)
+det(test-6, a-4)
+amod(test-6, real-5)
+det(system-10, the-8)
+amod(system-10, constitutional-9)
+prep_of(test-6, system-10)
+

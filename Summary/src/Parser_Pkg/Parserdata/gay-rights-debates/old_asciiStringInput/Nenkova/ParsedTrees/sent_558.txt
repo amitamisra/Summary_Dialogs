@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (ADVP (RB also)) (VP (VBZ feels) (SBAR (S (NP (NP (NNS forums)) (PP (JJ such) (IN as) (NP (DT this) (CD one)))) (VP (VBP spend) (NP (ADJP (RB too) (JJ much)) (NN time)) (VP (VBG attempting) (S (VP (TO to) (VP (VB make) (S (NP (NNS Christians)) (VP (VB look) (ADJP (JJ bad)))))))))))) (. .)))

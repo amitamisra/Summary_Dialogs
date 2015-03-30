@@ -1,0 +1,7 @@
+root(ROOT-0, had-1)
+det(objection-4, a-2)
+amod(objection-4, religious-3)
+dobj(had-1, objection-4)
+prep(objection-4, to-5)
+amod(marriages-7, heterosexual-6)
+pobj(to-5, marriages-7)

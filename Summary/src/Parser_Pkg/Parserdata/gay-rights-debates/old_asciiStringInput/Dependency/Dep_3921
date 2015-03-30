@@ -1,0 +1,22 @@
+ Anti-gay marriage supporters will support civil unions in lieu of gay marriage , 
+root(ROOT-0, support-5)
+amod(supporters-3, Anti-gay-1)
+nn(supporters-3, marriage-2)
+nsubj(support-5, supporters-3)
+aux(support-5, will-4)
+amod(unions-7, civil-6)
+dobj(support-5, unions-7)
+amod(marriage-12, gay-11)
+prep_in_lieu_of(support-5, marriage-12)
+
+ Anti-gay marriage supporters will support civil unions in lieu of gay marriage , 
+root(ROOT-0, support-5)
+amod(supporters-3, Anti-gay-1)
+nn(supporters-3, marriage-2)
+nsubj(support-5, supporters-3)
+aux(support-5, will-4)
+amod(unions-7, civil-6)
+dobj(support-5, unions-7)
+amod(marriage-12, gay-11)
+prep_in_lieu_of(support-5, marriage-12)
+

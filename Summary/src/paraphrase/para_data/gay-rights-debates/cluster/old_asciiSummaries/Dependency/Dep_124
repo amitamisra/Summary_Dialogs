@@ -1,0 +1,17 @@
+Two people are discussing gay rights and the redefinition of marriage as it pertains to gay couples.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(rights-6, gay-5)
+dobj(discussing-4, rights-6)
+det(redefinition-9, the-8)
+dobj(discussing-4, redefinition-9)
+conj_and(rights-6, redefinition-9)
+prep_of(redefinition-9, marriage-11)
+mark(pertains-14, as-12)
+nsubj(pertains-14, it-13)
+advcl(discussing-4, pertains-14)
+amod(couples-17, gay-16)
+prep_to(pertains-14, couples-17)
+

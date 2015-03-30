@@ -1,0 +1,16 @@
+ Not everyone believes S1s religious book , 
+root(ROOT-0, believes-3)
+neg(everyone-2, Not-1)
+nsubj(believes-3, everyone-2)
+nsubj(book-6, S1s-4)
+amod(book-6, religious-5)
+xcomp(believes-3, book-6)
+
+ Not everyone believes S1s religious book , 
+root(ROOT-0, believes-3)
+neg(everyone-2, Not-1)
+nsubj(believes-3, everyone-2)
+nsubj(book-6, S1s-4)
+amod(book-6, religious-5)
+xcomp(believes-3, book-6)
+

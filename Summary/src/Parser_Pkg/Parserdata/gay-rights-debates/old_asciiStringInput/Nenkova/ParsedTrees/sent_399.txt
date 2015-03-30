@@ -1,0 +1,1 @@
+(ROOT (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBZ does) (VP (VB change) (ADVP (RB then)))))) (NP (EX there)) (VP (MD would) (VP (VB be) (NP (NP (DT no) (NN limit)) (PP (TO to) (SBAR (WHNP (WP who)) (S (VP (MD could) (VP (VB marry))))))))) (. .)))

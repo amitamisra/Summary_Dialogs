@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (-LRB- -LRB-) (NN S1) (-RRB- -RRB-)) (ADVP (RB also))) (VP (VBZ says) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ hopes) (SBAR (IN that) (S (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-) (VP (VBD did) (RB not) (VP (VB think) (PP (IN of) (NP (JJ gay) (NN marriage))) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN right))))))))))))) (. .)))

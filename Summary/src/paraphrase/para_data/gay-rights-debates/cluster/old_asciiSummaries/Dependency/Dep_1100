@@ -1,0 +1,14 @@
+S1 believes that her religious freedom is being persecuted from people against gay marriage.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+mark(persecuted-9, that-3)
+poss(freedom-6, her-4)
+amod(freedom-6, religious-5)
+nsubjpass(persecuted-9, freedom-6)
+aux(persecuted-9, is-7)
+auxpass(persecuted-9, being-8)
+ccomp(believes-2, persecuted-9)
+prep_from(persecuted-9, people-11)
+amod(marriage-14, gay-13)
+prep_against(people-11, marriage-14)
+

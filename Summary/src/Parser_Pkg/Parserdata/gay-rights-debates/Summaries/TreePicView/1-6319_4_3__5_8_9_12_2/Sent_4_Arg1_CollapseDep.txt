@@ -1,0 +1,8 @@
+root(ROOT-0, case-4)
+nsubj(case-4, it-1)
+cop(case-4, were-2)
+det(case-4, the-3)
+poss(ceremony-9, his-6)
+amod(ceremony-9, heterosexual-7)
+amod(ceremony-9, civil-8)
+prep_with(case-4, ceremony-9)

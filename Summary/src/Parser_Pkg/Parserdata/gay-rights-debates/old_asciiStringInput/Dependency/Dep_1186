@@ -1,0 +1,42 @@
+Two people are discussing the spread of AIS in the US as part of a discussion on gay marriage in the USA .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(spread-6, the-5)
+dobj(discussing-4, spread-6)
+prep_of(spread-6, AIS-8)
+det(US-11, the-10)
+prep_in(AIS-8, US-11)
+prep_as(discussing-4, part-13)
+det(discussion-16, a-15)
+prep_of(part-13, discussion-16)
+amod(marriage-19, gay-18)
+prep_on(discussion-16, marriage-19)
+det(USA-22, the-21)
+prep_in(marriage-19, USA-22)
+
+Two subjects are discussing a law banning gay marriage.
+root(ROOT-0, discussing-4)
+num(subjects-2, Two-1)
+nsubj(discussing-4, subjects-2)
+aux(discussing-4, are-3)
+det(law-6, a-5)
+dobj(discussing-4, law-6)
+vmod(discussing-4, banning-7)
+amod(marriage-9, gay-8)
+dobj(banning-7, marriage-9)
+
+Two subjects are discussing a law banning gay marriage.
+root(ROOT-0, discussing-4)
+num(subjects-2, Two-1)
+nsubj(discussing-4, subjects-2)
+aux(discussing-4, are-3)
+det(law-6, a-5)
+dobj(discussing-4, law-6)
+vmod(discussing-4, banning-7)
+amod(marriage-9, gay-8)
+dobj(banning-7, marriage-9)
+

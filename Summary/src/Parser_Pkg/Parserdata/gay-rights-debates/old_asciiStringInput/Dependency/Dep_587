@@ -1,0 +1,57 @@
+ that the current system the most votes win , to which S2 contends that the laws should be decided based on looking at the individuals that are affected .
+
+
+root(ROOT-0, win-8)
+det(system-4, the-2)
+amod(system-4, current-3)
+prep_that(win-8, system-4)
+dep(system-4, the-5)
+advmod(the-5, most-6)
+nsubj(win-8, votes-7)
+dobj(contends-13, which-11)
+nsubj(contends-13, S2-12)
+prepc_to(win-8, contends-13)
+mark(decided-19, that-14)
+det(laws-16, the-15)
+nsubjpass(decided-19, laws-16)
+aux(decided-19, should-17)
+auxpass(decided-19, be-18)
+ccomp(contends-13, decided-19)
+prepc_based_on(decided-19, on-21)
+pcomp(decided-19, looking-22)
+det(individuals-25, the-24)
+prep_at(looking-22, individuals-25)
+nsubjpass(affected-28, that-26)
+auxpass(affected-28, are-27)
+rcmod(individuals-25, affected-28)
+
+Two people are discussing the benefit to society that same-sex marriage has .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(benefit-6, the-5)
+dobj(discussing-4, benefit-6)
+prep_to(discussing-4, society-8)
+nsubj(same-sex-10, that-9)
+rcmod(society-8, same-sex-10)
+nsubj(has-12, marriage-11)
+ccomp(same-sex-10, has-12)
+
+Two people are discussing the benefit to society that same-sex marriage has .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(benefit-6, the-5)
+dobj(discussing-4, benefit-6)
+prep_to(discussing-4, society-8)
+nsubj(same-sex-10, that-9)
+rcmod(society-8, same-sex-10)
+nsubj(has-12, marriage-11)
+ccomp(same-sex-10, has-12)
+

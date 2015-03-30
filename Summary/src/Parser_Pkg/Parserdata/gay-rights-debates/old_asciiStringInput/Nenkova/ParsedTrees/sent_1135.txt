@@ -1,0 +1,1 @@
+(ROOT (S (PP (IN In) (NP (NN addition))) (, ,) (NP (PRP he)) (VP (VBZ states) (SBAR (IN that) (S (NP (DT the) (JJ left) (NN wing)) (VP (VBP are) (RB n't) (PP (IN against) (NP (NP (NNS deficits)) (, ,) (SBAR (IN since) (S (NP (NNS numerousemocrats)) (VP (VBP want) (S (VP (TO to) (VP (VB spend) (NP (JJR more)) (PP (IN than) (NP (NNP Bush))))))))))))))) (. .)))

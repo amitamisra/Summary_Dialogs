@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ admits) (SBAR (IN that) (S (NP (JJ young) (NNS people)) (VP (VBP get) (ADJP (VBN divorced) (SBAR (IN because) (S (NP (PRP they)) (ADVP (RB eventually)) (VP (VBP realize) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD made) (NP (DT a) (NN mistake))))))))))))) (. .)))

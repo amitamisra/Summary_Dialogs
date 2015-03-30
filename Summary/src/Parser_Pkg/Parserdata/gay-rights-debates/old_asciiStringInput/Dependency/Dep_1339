@@ -1,0 +1,27 @@
+  that many people 's opinions are based on their view of marriage , not their dislike of homosexuals , 
+root(ROOT-0, based-7)
+mark(based-7, that-1)
+amod(people-3, many-2)
+poss(opinions-5, people-3)
+nsubjpass(based-7, opinions-5)
+auxpass(based-7, are-6)
+poss(view-10, their-9)
+prep_on(based-7, view-10)
+prep_of(view-10, marriage-12)
+neg(dislike-16, not-14)
+poss(dislike-16, their-15)
+appos(marriage-12, dislike-16)
+prep_of(dislike-16, homosexuals-18)
+
+  that -LRB- S2 -RRB- is generalizing 
+root(ROOT-0, generalizing-6)
+mark(generalizing-6, that-1)
+nsubj(generalizing-6, S2-3)
+aux(generalizing-6, is-5)
+
+  that -LRB- S2 -RRB- is generalizing 
+root(ROOT-0, generalizing-6)
+mark(generalizing-6, that-1)
+nsubj(generalizing-6, S2-3)
+aux(generalizing-6, is-5)
+

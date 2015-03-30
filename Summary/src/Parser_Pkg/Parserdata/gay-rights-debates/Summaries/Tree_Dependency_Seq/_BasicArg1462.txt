@@ -1,0 +1,7 @@
+root(ROOT-0, advocate-5)
+nsubj(advocate-5, he-2)
+aux(advocate-5, does-3)
+neg(advocate-5, not-4)
+xcomp(advocate-5, ignoring-6)
+dobj(ignoring-6, AIS-7)
+dep(AIS-7, research-8)

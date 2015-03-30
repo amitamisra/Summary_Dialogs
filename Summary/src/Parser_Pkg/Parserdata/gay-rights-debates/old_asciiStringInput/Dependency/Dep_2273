@@ -1,0 +1,24 @@
+  that marriage as an institution is between a heterosexual male and female 
+root(ROOT-0, is-6)
+mark(is-6, that-1)
+nsubj(is-6, marriage-2)
+det(institution-5, an-4)
+prep_as(marriage-2, institution-5)
+det(male-10, a-8)
+amod(male-10, heterosexual-9)
+prep_between(is-6, male-10)
+prep_between(is-6, female-12)
+conj_and(male-10, female-12)
+
+  that marriage as an institution is between a heterosexual male and female 
+root(ROOT-0, is-6)
+mark(is-6, that-1)
+nsubj(is-6, marriage-2)
+det(institution-5, an-4)
+prep_as(marriage-2, institution-5)
+det(male-10, a-8)
+amod(male-10, heterosexual-9)
+prep_between(is-6, male-10)
+prep_between(is-6, female-12)
+conj_and(male-10, female-12)
+

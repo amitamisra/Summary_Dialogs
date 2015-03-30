@@ -1,0 +1,5 @@
+root(ROOT-0, married-5)
+nsubjpass(married-5, gays-1)
+aux(married-5, ca-2)
+neg(married-5, n't-3)
+auxpass(married-5, get-4)

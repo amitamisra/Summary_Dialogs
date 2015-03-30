@@ -1,0 +1,1 @@
+(ROOT (S (NP (VBG Banning) (JJ gay) (NN marriage)) (VP (VBZ is) (VP (VBG forcing) (NP (NP (CD one) (NN set)) (PP (IN of) (SBAR (S (VP (VBZ believes) (PP (IN onto) (NP (NNS others)))))))))) (. .)))

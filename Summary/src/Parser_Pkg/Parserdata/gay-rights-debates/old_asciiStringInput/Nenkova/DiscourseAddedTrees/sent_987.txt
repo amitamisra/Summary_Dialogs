@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NP (JJ gay) (NN marriage)) (CC and#0#0) (NP (NN polygamy))) (VP (VBP are) (ADJP (JJ commonplace) (PP (IN in) (NP (JJ ancient) (NNP Greece) (, ,) (NNP Rome) (CC and#1#0) (NNP China)))))))) (. .)))

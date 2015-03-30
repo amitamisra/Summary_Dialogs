@@ -1,0 +1,53 @@
+the ceremony is done by a judge.
+root(ROOT-0, done-4)
+det(ceremony-2, the-1)
+nsubjpass(done-4, ceremony-2)
+auxpass(done-4, is-3)
+prep(done-4, by-5)
+det(judge-7, a-6)
+pobj(by-5, judge-7)
+
+the ceremony is done by a judge.
+root(ROOT-0, done-4)
+det(ceremony-2, the-1)
+nsubjpass(done-4, ceremony-2)
+auxpass(done-4, is-3)
+prep(done-4, by-5)
+det(judge-7, a-6)
+pobj(by-5, judge-7)
+
+the ceremony is done by a judge.
+root(ROOT-0, done-4)
+det(ceremony-2, the-1)
+nsubjpass(done-4, ceremony-2)
+auxpass(done-4, is-3)
+prep(done-4, by-5)
+det(judge-7, a-6)
+pobj(by-5, judge-7)
+
+the ceremony is done by a judge.
+root(ROOT-0, done-4)
+det(ceremony-2, the-1)
+nsubjpass(done-4, ceremony-2)
+auxpass(done-4, is-3)
+prep(done-4, by-5)
+det(judge-7, a-6)
+pobj(by-5, judge-7)
+
+ the number of earthquakes outside Israel has increased I the last one hundred years exponentially.
+root(ROOT-0, increased-8)
+det(number-2, the-1)
+nsubj(increased-8, number-2)
+prep(number-2, of-3)
+pobj(of-3, earthquakes-4)
+prep(earthquakes-4, outside-5)
+pobj(outside-5, Israel-6)
+aux(increased-8, has-7)
+iobj(increased-8, I-9)
+det(years-14, the-10)
+amod(years-14, last-11)
+num(years-14, one-12)
+num(years-14, hundred-13)
+dobj(increased-8, years-14)
+advmod(years-14, exponentially-15)
+

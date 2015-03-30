@@ -1,0 +1,10 @@
+  the world changed 
+root(ROOT-0, changed-3)
+det(world-2, the-1)
+nsubj(changed-3, world-2)
+
+  the world changed 
+root(ROOT-0, changed-3)
+det(world-2, the-1)
+nsubj(changed-3, world-2)
+

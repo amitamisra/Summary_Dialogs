@@ -1,0 +1,27 @@
+cohabitating for a certain period of time.
+root(ROOT-0, cohabitating-1)
+prep(cohabitating-1, for-2)
+det(period-5, a-3)
+amod(period-5, certain-4)
+pobj(for-2, period-5)
+prep(period-5, of-6)
+pobj(of-6, time-7)
+
+cohabitating for a certain period of time.
+root(ROOT-0, cohabitating-1)
+prep(cohabitating-1, for-2)
+det(period-5, a-3)
+amod(period-5, certain-4)
+pobj(for-2, period-5)
+prep(period-5, of-6)
+pobj(of-6, time-7)
+
+all African Americans are against gay marriage.
+root(ROOT-0, are-4)
+det(Americans-3, all-1)
+nn(Americans-3, African-2)
+nsubj(are-4, Americans-3)
+prep(are-4, against-5)
+amod(marriage-7, gay-6)
+pobj(against-5, marriage-7)
+

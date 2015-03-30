@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Kronos)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (JJ specific) (NNS laws)) (VP (MD could) (VP (VB accommodate) (NP (JJ specific) (NNS groups))))))) (. .)))

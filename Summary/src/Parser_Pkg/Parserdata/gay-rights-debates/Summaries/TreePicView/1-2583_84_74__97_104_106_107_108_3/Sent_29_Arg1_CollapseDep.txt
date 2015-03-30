@@ -1,0 +1,5 @@
+root(ROOT-0, wrong-3)
+nsubj(wrong-3, S1-1)
+cop(wrong-3, was-2)
+det(surplus-6, the-5)
+prep_about(wrong-3, surplus-6)

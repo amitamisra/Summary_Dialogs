@@ -1,0 +1,43 @@
+   they were n't openly gay 
+root(ROOT-0, gay-5)
+nsubj(gay-5, they-1)
+cop(gay-5, were-2)
+neg(gay-5, n't-3)
+advmod(gay-5, openly-4)
+
+Two people are discussing whether or not the civil rights activists are for gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+mark(are-12, whether-5)
+ccomp(discussing-4, not-7)
+conj_or(are-12, not-7)
+det(activists-11, the-8)
+amod(activists-11, civil-9)
+nn(activists-11, rights-10)
+nsubj(are-12, activists-11)
+ccomp(discussing-4, are-12)
+amod(marriage-15, gay-14)
+prep_for(are-12, marriage-15)
+
+Two people are discussing whether or not the civil rights activists are for gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+mark(are-12, whether-5)
+ccomp(discussing-4, not-7)
+conj_or(are-12, not-7)
+det(activists-11, the-8)
+amod(activists-11, civil-9)
+nn(activists-11, rights-10)
+nsubj(are-12, activists-11)
+ccomp(discussing-4, are-12)
+amod(marriage-15, gay-14)
+prep_for(are-12, marriage-15)
+

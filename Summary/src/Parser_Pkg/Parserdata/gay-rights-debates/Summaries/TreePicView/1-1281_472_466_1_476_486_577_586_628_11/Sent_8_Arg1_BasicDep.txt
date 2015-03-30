@@ -1,0 +1,6 @@
+root(ROOT-0, showed-2)
+nsubj(showed-2, which-1)
+det(results-5, the-3)
+amod(results-5, same-4)
+dobj(showed-2, results-5)
+advmod(showed-2, even-6)

@@ -1,0 +1,9 @@
+Most Americans, he thinks, are against gay marriage.
+root(ROOT-0, are-7)
+amod(Americans-2, Most-1)
+nsubj(are-7, Americans-2)
+nsubj(thinks-5, he-4)
+parataxis(are-7, thinks-5)
+amod(marriage-10, gay-9)
+prep_against(are-7, marriage-10)
+

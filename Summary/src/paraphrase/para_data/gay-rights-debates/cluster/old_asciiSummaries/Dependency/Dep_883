@@ -1,0 +1,18 @@
+How will states use the choice of law doctrine so that the FFC clause does not apply?
+root(ROOT-0, use-4)
+advmod(use-4, How-1)
+aux(use-4, will-2)
+nsubj(use-4, states-3)
+det(choice-6, the-5)
+dobj(use-4, choice-6)
+nn(doctrine-9, law-8)
+prep_of(choice-6, doctrine-9)
+mark(apply-17, so-10)
+mark(apply-17, that-11)
+det(clause-14, the-12)
+nn(clause-14, FFC-13)
+nsubj(apply-17, clause-14)
+aux(apply-17, does-15)
+neg(apply-17, not-16)
+advcl(use-4, apply-17)
+

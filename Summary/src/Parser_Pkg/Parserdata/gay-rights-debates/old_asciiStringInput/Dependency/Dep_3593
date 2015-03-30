@@ -1,0 +1,26 @@
+ the government getting out of marriage is not a bad idea .
+
+
+root(ROOT-0, idea-11)
+det(government-2, the-1)
+nsubj(idea-11, government-2)
+vmod(government-2, getting-3)
+prep_out_of(getting-3, marriage-6)
+cop(idea-11, is-7)
+neg(idea-11, not-8)
+det(idea-11, a-9)
+amod(idea-11, bad-10)
+
+ the government getting out of marriage is not a bad idea .
+
+
+root(ROOT-0, idea-11)
+det(government-2, the-1)
+nsubj(idea-11, government-2)
+vmod(government-2, getting-3)
+prep_out_of(getting-3, marriage-6)
+cop(idea-11, is-7)
+neg(idea-11, not-8)
+det(idea-11, a-9)
+amod(idea-11, bad-10)
+

@@ -1,0 +1,17 @@
+(S1) also mentions that there are photos in the web and offers to debate about the topic.
+root(ROOT-0, mentions-5)
+nsubj(mentions-5, S1-2)
+advmod(S1-2, also-4)
+mark(photos-9, that-6)
+expl(photos-9, there-7)
+cop(photos-9, are-8)
+ccomp(mentions-5, photos-9)
+det(web-12, the-11)
+prep_in(photos-9, web-12)
+ccomp(mentions-5, offers-14)
+conj_and(photos-9, offers-14)
+aux(debate-16, to-15)
+xcomp(offers-14, debate-16)
+det(topic-19, the-18)
+prep_about(debate-16, topic-19)
+

@@ -1,0 +1,4 @@
+root(ROOT-0, hould-2)
+nsubj(hould-2, she-1)
+xcomp(hould-2, get-3)
+dobj(get-3, benefits-4)

@@ -1,0 +1,42 @@
+it is performed by a judge.
+root(ROOT-0, performed-3)
+nsubjpass(performed-3, it-1)
+auxpass(performed-3, is-2)
+prep(performed-3, by-4)
+det(judge-6, a-5)
+pobj(by-4, judge-6)
+
+it is performed by a judge.
+root(ROOT-0, performed-3)
+nsubjpass(performed-3, it-1)
+auxpass(performed-3, is-2)
+prep(performed-3, by-4)
+det(judge-6, a-5)
+pobj(by-4, judge-6)
+
+it is performed by a judge.
+root(ROOT-0, performed-3)
+nsubjpass(performed-3, it-1)
+auxpass(performed-3, is-2)
+prep(performed-3, by-4)
+det(judge-6, a-5)
+pobj(by-4, judge-6)
+
+it is performed by a judge.
+root(ROOT-0, performed-3)
+nsubjpass(performed-3, it-1)
+auxpass(performed-3, is-2)
+prep(performed-3, by-4)
+det(judge-6, a-5)
+pobj(by-4, judge-6)
+
+ the majority of Americans are against gay marriage.
+root(ROOT-0, are-5)
+det(majority-2, the-1)
+nsubj(are-5, majority-2)
+prep(majority-2, of-3)
+pobj(of-3, Americans-4)
+prep(are-5, against-6)
+amod(marriage-8, gay-7)
+pobj(against-6, marriage-8)
+

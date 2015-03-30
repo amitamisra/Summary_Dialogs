@@ -1,0 +1,16 @@
+(S1) also says that its funny how violence is used to end an argument against religion.
+root(ROOT-0, says-5)
+nsubj(says-5, S1-2)
+advmod(says-5, also-4)
+poss(funny-8, its-7)
+prep_that(says-5, funny-8)
+advmod(used-12, how-9)
+nsubjpass(used-12, violence-10)
+auxpass(used-12, is-11)
+ccomp(says-5, used-12)
+aux(end-14, to-13)
+xcomp(used-12, end-14)
+det(argument-16, an-15)
+dobj(end-14, argument-16)
+prep_against(argument-16, religion-18)
+

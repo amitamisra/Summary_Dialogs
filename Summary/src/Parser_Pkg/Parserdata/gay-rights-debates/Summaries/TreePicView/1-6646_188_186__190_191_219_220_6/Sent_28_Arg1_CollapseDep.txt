@@ -1,0 +1,7 @@
+root(ROOT-0, were-2)
+nsubj(were-2, marriages-1)
+advmod(exclusively-4, almost-3)
+advmod(were-2, exclusively-4)
+prep_between(were-2, people-6)
+amod(genders-9, opposite-8)
+prep_of(people-6, genders-9)

@@ -1,0 +1,8 @@
+root(ROOT-0, understood-2)
+nsubj(understood-2, they-1)
+poss(occurrence-4, its-3)
+dobj(understood-2, occurrence-4)
+aux(behavioral-8, to-5)
+cop(behavioral-8, be-6)
+advmod(behavioral-8, entirely-7)
+vmod(occurrence-4, behavioral-8)

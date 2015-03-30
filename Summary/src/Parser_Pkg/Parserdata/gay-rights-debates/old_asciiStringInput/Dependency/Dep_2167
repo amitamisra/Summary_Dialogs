@@ -1,0 +1,12 @@
+   S2 does not agree 
+root(ROOT-0, agree-4)
+nsubj(agree-4, S2-1)
+aux(agree-4, does-2)
+neg(agree-4, not-3)
+
+   S2 does not agree 
+root(ROOT-0, agree-4)
+nsubj(agree-4, S2-1)
+aux(agree-4, does-2)
+neg(agree-4, not-3)
+

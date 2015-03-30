@@ -1,0 +1,28 @@
+   S2 is just trying to be honest and show the other perspective . 
+root(ROOT-0, trying-4)
+nsubj(trying-4, S2-1)
+nsubj(show-9, S2-1)
+aux(trying-4, is-2)
+advmod(trying-4, just-3)
+aux(honest-7, to-5)
+cop(honest-7, be-6)
+xcomp(trying-4, honest-7)
+conj_and(trying-4, show-9)
+det(perspective-12, the-10)
+amod(perspective-12, other-11)
+dobj(show-9, perspective-12)
+
+   S2 is just trying to be honest and show the other perspective . 
+root(ROOT-0, trying-4)
+nsubj(trying-4, S2-1)
+nsubj(show-9, S2-1)
+aux(trying-4, is-2)
+advmod(trying-4, just-3)
+aux(honest-7, to-5)
+cop(honest-7, be-6)
+xcomp(trying-4, honest-7)
+conj_and(trying-4, show-9)
+det(perspective-12, the-10)
+amod(perspective-12, other-11)
+dobj(show-9, perspective-12)
+

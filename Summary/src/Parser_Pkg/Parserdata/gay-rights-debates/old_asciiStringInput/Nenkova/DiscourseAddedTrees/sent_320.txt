@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VP (VBZ does) (RB n't) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ homophobic))))))) (, ,) (CC but#1#0) (ADVP (RB rather#0#0)) (, ,) (NP (DT a) (NN fact))) (. .)))

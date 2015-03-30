@@ -1,0 +1,7 @@
+root(ROOT-0, fight-6)
+nsubj(fight-6, S1-2)
+aux(fight-6, did-4)
+neg(fight-6, not-5)
+poss(freedom-9, his-8)
+prep_for(fight-6, freedom-9)
+prep_of(freedom-9, speech-11)

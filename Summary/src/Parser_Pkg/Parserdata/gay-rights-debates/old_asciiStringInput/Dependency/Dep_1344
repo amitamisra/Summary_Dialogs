@@ -1,0 +1,45 @@
+ that those who are against gay marriage are not anti-gay per se , but are against redefining marriage .
+
+
+root(ROOT-0, are-15)
+mark(anti-gay-10, that-1)
+nsubj(anti-gay-10, those-2)
+nsubj(are-4, who-3)
+rcmod(those-2, are-4)
+amod(marriage-7, gay-6)
+prep_against(are-4, marriage-7)
+cop(anti-gay-10, are-8)
+neg(anti-gay-10, not-9)
+advcl(are-15, anti-gay-10)
+nn(se-12, per-11)
+advmod(anti-gay-10, se-12)
+nsubj(are-15, but-14)
+prepc_against(are-15, redefining-17)
+dobj(redefining-17, marriage-18)
+
+S1 believes that there's a big difference between possibility and likelihood.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+mark('s-5, that-3)
+expl('s-5, there-4)
+ccomp(believes-2, 's-5)
+det(difference-8, a-6)
+amod(difference-8, big-7)
+nsubj('s-5, difference-8)
+prep_between(difference-8, possibility-10)
+prep_between(difference-8, likelihood-12)
+conj_and(possibility-10, likelihood-12)
+
+S1 believes that there's a big difference between possibility and likelihood.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+mark('s-5, that-3)
+expl('s-5, there-4)
+ccomp(believes-2, 's-5)
+det(difference-8, a-6)
+amod(difference-8, big-7)
+nsubj('s-5, difference-8)
+prep_between(difference-8, possibility-10)
+prep_between(difference-8, likelihood-12)
+conj_and(possibility-10, likelihood-12)
+

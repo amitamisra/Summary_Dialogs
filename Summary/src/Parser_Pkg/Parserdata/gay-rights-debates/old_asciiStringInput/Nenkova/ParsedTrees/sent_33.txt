@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ points) (PP (TO to) (NP (NP (JJ high) (NN support)) (PP (IN for) (NP (JJ gay) (NNS marriages))))) (PP (IN among) (NP (NP (DT the) (CD 18-29) (NNS year-olds)) (PP (IN in) (NP (DT the) (NNP US)))))) (. .)))

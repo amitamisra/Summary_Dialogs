@@ -1,0 +1,6 @@
+root(ROOT-0, allowed-3)
+nsubjpass(allowed-3, who-1)
+auxpass(allowed-3, is-2)
+aux(married-6, to-4)
+auxpass(married-6, get-5)
+xcomp(allowed-3, married-6)

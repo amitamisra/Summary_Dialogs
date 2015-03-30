@@ -1,0 +1,32 @@
+   he clearly calls him 
+root(ROOT-0, calls-3)
+nsubj(calls-3, he-1)
+advmod(calls-3, clearly-2)
+dobj(calls-3, him-4)
+
+ S1 accuses S2 of making an assertion including the Republicans creating another Holocaust , 
+root(ROOT-0, accuses-2)
+nsubj(accuses-2, S1-1)
+dobj(accuses-2, S2-3)
+prepc_of(S2-3, making-5)
+det(assertion-7, an-6)
+dobj(making-5, assertion-7)
+det(Republicans-10, the-9)
+prep_including(assertion-7, Republicans-10)
+vmod(Republicans-10, creating-11)
+det(Holocaust-13, another-12)
+dobj(creating-11, Holocaust-13)
+
+ S1 accuses S2 of making an assertion including the Republicans creating another Holocaust , 
+root(ROOT-0, accuses-2)
+nsubj(accuses-2, S1-1)
+dobj(accuses-2, S2-3)
+prepc_of(S2-3, making-5)
+det(assertion-7, an-6)
+dobj(making-5, assertion-7)
+det(Republicans-10, the-9)
+prep_including(assertion-7, Republicans-10)
+vmod(Republicans-10, creating-11)
+det(Holocaust-13, another-12)
+dobj(creating-11, Holocaust-13)
+

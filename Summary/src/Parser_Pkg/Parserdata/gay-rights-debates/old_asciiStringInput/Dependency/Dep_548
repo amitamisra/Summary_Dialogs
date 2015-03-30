@@ -1,0 +1,38 @@
+In a sense ,  gay marriage will have a sort of domino effect for other issues .
+
+
+root(ROOT-0, have-8)
+det(sense-3, a-2)
+prep_in(have-8, sense-3)
+amod(marriage-6, gay-5)
+nsubj(have-8, marriage-6)
+aux(have-8, will-7)
+det(sort-10, a-9)
+dobj(have-8, sort-10)
+nn(effect-13, domino-12)
+prep_of(sort-10, effect-13)
+amod(issues-16, other-15)
+prep_for(effect-13, issues-16)
+
+They do not see a reason for discrimination against homosexual marriage.
+root(ROOT-0, see-4)
+nsubj(see-4, They-1)
+aux(see-4, do-2)
+neg(see-4, not-3)
+det(reason-6, a-5)
+dobj(see-4, reason-6)
+prep_for(reason-6, discrimination-8)
+amod(marriage-11, homosexual-10)
+prep_against(see-4, marriage-11)
+
+They do not see a reason for discrimination against homosexual marriage.
+root(ROOT-0, see-4)
+nsubj(see-4, They-1)
+aux(see-4, do-2)
+neg(see-4, not-3)
+det(reason-6, a-5)
+dobj(see-4, reason-6)
+prep_for(reason-6, discrimination-8)
+amod(marriage-11, homosexual-10)
+prep_against(see-4, marriage-11)
+

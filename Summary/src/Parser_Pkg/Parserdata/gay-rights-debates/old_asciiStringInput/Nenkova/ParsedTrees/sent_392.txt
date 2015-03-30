@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG debating) (SBAR (IN whether) (S (S (VP (VBG making) (S (NP (JJ gay) (NN marriage)) (ADJP (JJ legal))))) (VP (MD will) (VP (VB open) (NP (NNS opportunities)) (PP (IN for) (NP (NP (JJ other) (`` ``) (NNS taboos) ('' '')) (PP (IN in) (NP (PRP$ our) (NN society))))))))))) (. .)))

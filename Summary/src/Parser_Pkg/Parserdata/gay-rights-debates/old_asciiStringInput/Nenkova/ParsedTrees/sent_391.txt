@@ -1,0 +1,1 @@
+(ROOT (S (S (VP (TO To) (VP (VB support) (NP (DT this) (NN point))))) (, ,) (NP (PRP he)) (VP (VBZ cites) (NP (DT the) (JJ various) (NN state)) (NP-TMP (NP (JJ constitutional) (NNS amendments)) (SBAR (WHNP (WDT that)) (S (VP (VBP ban) (NP (NP (JJ same-sex) (NN marriage)) (CC and) (NP (JJ civil) (NNS unions)))))))) (. .)))

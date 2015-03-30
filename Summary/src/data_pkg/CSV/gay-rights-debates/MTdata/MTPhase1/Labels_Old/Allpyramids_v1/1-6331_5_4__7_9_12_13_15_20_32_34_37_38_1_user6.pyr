@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1: Opposers to gay marriage often jump to conclusions about who can get married -why not cousins, group marriages, children, dogs? Polygamous marriage raises legal concerns that are not currently covered in traditional marriage laws, for example. The goal of gay marriage supporters is to be able to get married - not to broaden marriage. Broadened marriage is a side effect of legal gay marriage.</line>
+  <line></line>
+  <line>S2: Gay marriage supporters want marriage laws changed to accommodate gay marriage. Broadened marriage could change the current traditional marriage laws. Polygamy, for example, would require more marriage laws changed than gay marriage would, as more people are involved. But if enough people wanted legal polygamous marriage, the laws would be passed. Marriage would be broadened if gay marriage is made legal, whether that is the goal of gay marriage or not.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>Two people are discussing gay marriage and its possible consequences.  S1 contends that our current marriage benefit laws are set up for two adults running a household, so recognising group marriages is a huge task. He points out that even though its for one man and wife, that is not a necessity and would be a much easier task than allowing group marriages.  He argues that the purpose of what gays are trying to do is to get married, and a side effect is that people will see it as the scope of marriage being broadened.  But, broadening marriage to include polygamy and other types of marriages is a side effect that doesn't need to be accepted.  S2 contends that cultural and legal precedent is very real, and that intent is irrelevant.  This is because by seeking gay marriage, the boundaries of what defines marriage is widening to include more than opposite-sex couples and because that, gays are broadening marriage, which inevitably leads to broadening in the other areas.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 believes changing the law to outline group marriages would be a tedious task.  S1 believes transforming to open ended would open the door for other issues such as children being allowed to marry.  S1 believes those who practice other types of unions are using same sex marriage to open the door for other types of unions to be accepted and recognized as well. S1 believes this is the reason most people do not want to broach the subject of polygamist unions advising the goes is not to broaden marriage.</line>
+  <line></line>
+  <line>S2 feels laws will need to be changed to tailor to same sex marriages and the same courtesy should be extended to polygamous marriage.  S2 argues that society can deal with the issue of polygamy without opening the flood gates to include groups such as children, family members, and animals. S2 argues if the institution of marriage is to be changed to include same sex couples, there is no choice but to also face the subject of other types of unions as well.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 (Kronos) and S2 (Jyoshu) are discussing the fact that there are other groups besides the gay community who may want marriage equality rights, such as polygamy advocates or 17 year olds.  Jyoshu sees the changes in law that would be required as an attack on social and legal precedent that can get out of control or be difficult to implement.  Kronos complains that this is a frequent tactic of anti-gay marriage advocates who unfairly claim  that gays want to &quot;make marriage an open ended institution.&quot;  Jyoshu notes that whatever the intent, the result is the kind of change the anti-gay advocates warn against.  Kronos asserts that specific laws could accommodate specific groups.  He also argues that the motivation of gays who wish to marry is sincere and the same as the motivation behind opposite sex marriages, and therefore the broadening of marriage is a side effect and not the goal.  Jyoshu says she understands but complains that gay marriage would open the door to further broadening of marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 argues that group marriages would not make sense under current marriage laws, as they only account for two individuals in a legal marriage. They state that opponents of homosexual marriage tend to argue that a change to marriage law would make it too open ended. This person does not believe that to be true, and argues that homosexuals are not trying to broaden the scope of marriage, but only change the law to be inclusive of themselves. They believe that bringing up hypothetical arguments to the contrary is a distraction.</line>
+  <line>S2 argues that an effect of homosexuals being allowed to legally marry would lead to even more changes to marriage laws that would include more than simply homosexual relationships. This person believes that allowing homosexual marriage is a case that broadens marriage and if allowed, can open basis for future arguments to broaden the law further. They firmly believe that marriage as an institution is between a heterosexual male and female and that changing that in any way gives legal grounds to continue changing it.</line>
+ </text>
+ <scu uid="45" label="Two people are discussing gay marriage and its possible consequences">
+  <contributor label="Two people are discussing gay marriage and its possible consequences">
+   <part label="Two people are discussing gay marriage and its possible consequences" start="915" end="983"/>
+  </contributor>
+ </scu>
+ <scu uid="46" label="opponents of homosexual marriage tend to argue that a change to marriage law would make it too open ended">
+  <contributor label="opponents of homosexual marriage tend to argue that a change to marriage law would make it too open ended...changing that in any way gives legal grounds to continue changing it">
+   <part label="opponents of homosexual marriage tend to argue that a change to marriage law would make it too open ended" start="4120" end="4225"/>
+   <part label="changing that in any way gives legal grounds to continue changing it" start="4945" end="5013"/>
+  </contributor>
+  <contributor label="Opposers to gay marriage often jump to conclusions about who can get married -why not cousins, group marriages, children, dogs?">
+   <part label="Opposers to gay marriage often jump to conclusions about who can get married -why not cousins, group marriages, children, dogs?" start="30" end="157"/>
+  </contributor>
+  <contributor label="S1 believes transforming to open ended would open the door for other issues such as children being allowed to marry">
+   <part label="S1 believes transforming to open ended would open the door for other issues such as children being allowed to marry" start="2007" end="2122"/>
+  </contributor>
+  <contributor label="S1 (Kronos) and S2 (Jyoshu) are discussing the fact that there are other groups besides the gay community who may want marriage equality rights, such as polygamy advocates or 17 year olds">
+   <part label="S1 (Kronos) and S2 (Jyoshu) are discussing the fact that there are other groups besides the gay community who may want marriage equality rights, such as polygamy advocates or 17 year olds" start="2921" end="3108"/>
+  </contributor>
+  <contributor label="gays are broadening marriage, which inevitably leads to broadening in the other areas">
+   <part label="gays are broadening marriage, which inevitably leads to broadening in the other areas" start="1811" end="1896"/>
+  </contributor>
+ </scu>
+ <scu uid="47" label="current marriage benefit laws are set up for two adults running a household">
+  <contributor label="current marriage benefit laws are set up for two adults running a household">
+   <part label="current marriage benefit laws are set up for two adults running a household" start="1007" end="1082"/>
+  </contributor>
+  <contributor label="Polygamous marriage raises legal concerns that are not currently covered in traditional marriage laws">
+   <part label="Polygamous marriage raises legal concerns that are not currently covered in traditional marriage laws" start="158" end="259"/>
+  </contributor>
+  <contributor label="they only account for two individuals in a legal marriage">
+   <part label="they only account for two individuals in a legal marriage" start="4045" end="4102"/>
+  </contributor>
+ </scu>
+ <scu uid="49" label="broadening marriage to include polygamy and other types of marriages is a side effect that doesn't need to be accepted">
+  <contributor label="broadening marriage to include polygamy and other types of marriages is a side effect that doesn't need to be accepted">
+   <part label="broadening marriage to include polygamy and other types of marriages is a side effect that doesn't need to be accepted" start="1445" end="1563"/>
+  </contributor>
+  <contributor label="society can deal with the issue of polygamy without opening the flood gates to include groups such as children, family members, and animals">
+   <part label="society can deal with the issue of polygamy without opening the flood gates to include groups such as children, family members, and animals" start="2584" end="2723"/>
+  </contributor>
+ </scu>
+ <scu uid="50" label="Broadened marriage is a side effect of legal gay marriage">
+  <contributor label="Broadened marriage is a side effect of legal gay marriage...Marriage would be broadened if gay marriage is made legal, whether that is the goal of gay marriage or not">
+   <part label="Broadened marriage is a side effect of legal gay marriage" start="366" end="423"/>
+   <part label="Marriage would be broadened if gay marriage is made legal, whether that is the goal of gay marriage or not" start="780" end="886"/>
+  </contributor>
+  <contributor label="side effect is that people will see it as the scope of marriage being broadened...by seeking gay marriage, the boundaries of what defines marriage is widening to include more than opposite-sex couples">
+   <part label="by seeking gay marriage, the boundaries of what defines marriage is widening to include more than opposite-sex couples" start="1674" end="1792"/>
+   <part label="side effect is that people will see it as the scope of marriage being broadened" start="1358" end="1437"/>
+  </contributor>
+  <contributor label="the broadening of marriage is a side effect and not the goal">
+   <part label="the broadening of marriage is a side effect and not the goal" start="3756" end="3816"/>
+  </contributor>
+  <contributor label="the goes is not to broaden marriage">
+   <part label="the goes is not to broaden marriage" start="2395" end="2430"/>
+  </contributor>
+  <contributor label="if allowed, can open basis for future arguments to broaden the law further">
+   <part label="if allowed, can open basis for future arguments to broaden the law further" start="4766" end="4840"/>
+  </contributor>
+ </scu>
+ <scu uid="51" label="Gay marriage supporters want marriage laws changed to accommodate gay marriage">
+  <contributor label="The goal of gay marriage supporters is to be able to get married - not to broaden marriage...Gay marriage supporters want marriage laws changed to accommodate gay marriage">
+   <part label="Gay marriage supporters want marriage laws changed to accommodate gay marriage" start="430" end="508"/>
+   <part label="The goal of gay marriage supporters is to be able to get married - not to broaden marriage" start="274" end="364"/>
+  </contributor>
+  <contributor label="He argues that the purpose of what gays are trying to do is to get married">
+   <part label="He argues that the purpose of what gays are trying to do is to get married" start="1276" end="1350"/>
+  </contributor>
+  <contributor label="argues that homosexuals are not trying to broaden the scope of marriage, but only change the law to be inclusive of themselves">
+   <part label="argues that homosexuals are not trying to broaden the scope of marriage, but only change the law to be inclusive of themselves" start="4277" end="4403"/>
+  </contributor>
+  <contributor label="He also argues that the motivation of gays who wish to marry is sincere...the motivation behind opposite sex marriages">
+   <part label="He also argues that the motivation of gays who wish to marry is sincere" start="3608" end="3679"/>
+   <part label="the motivation behind opposite sex marriages" start="3696" end="3740"/>
+  </contributor>
+  <contributor label="S2 feels laws will need to be changed to tailor to same sex marriages">
+   <part label="S2 feels laws will need to be changed to tailor to same sex marriages" start="2433" end="2502"/>
+  </contributor>
+ </scu>
+ <scu uid="52" label="Broadened marriage could change the current traditional marriage laws">
+  <contributor label="Broadened marriage could change the current traditional marriage laws">
+   <part label="Broadened marriage could change the current traditional marriage laws" start="510" end="579"/>
+  </contributor>
+  <contributor label="complains that gay marriage would open the door to further broadening of marriage">
+   <part label="complains that gay marriage would open the door to further broadening of marriage" start="3851" end="3932"/>
+  </contributor>
+  <contributor label="This person believes that allowing homosexual marriage is a case that broadens marriage">
+   <part label="This person believes that allowing homosexual marriage is a case that broadens marriage" start="4674" end="4761"/>
+  </contributor>
+ </scu>
+ <scu uid="53" label="Jyoshu notes that whatever the intent, the result is the kind of change the anti-gay advocates warn against">
+  <contributor label="Jyoshu notes that whatever the intent, the result is the kind of change the anti-gay advocates warn against">
+   <part label="Jyoshu notes that whatever the intent, the result is the kind of change the anti-gay advocates warn against" start="3428" end="3535"/>
+  </contributor>
+  <contributor label="S2 contends that cultural and legal precedent is very real, and that intent is irrelevant">
+   <part label="S2 contends that cultural and legal precedent is very real, and that intent is irrelevant" start="1566" end="1655"/>
+  </contributor>
+ </scu>
+ <scu uid="54" label="recognising group marriages is a huge task">
+  <contributor label="recognising group marriages is a huge task...even though its for one man and wife, that is not a necessity and would be a much easier task than allowing group marriages">
+   <part label="recognising group marriages is a huge task" start="1087" end="1129"/>
+   <part label="even though its for one man and wife, that is not a necessity and would be a much easier task than allowing group marriages" start="1150" end="1273"/>
+  </contributor>
+  <contributor label="Polygamy, for example, would require more marriage laws changed than gay marriage would, as more people are involved">
+   <part label="Polygamy, for example, would require more marriage laws changed than gay marriage would, as more people are involved" start="581" end="697"/>
+  </contributor>
+  <contributor label="S1 believes changing the law to outline group marriages would be a tedious task">
+   <part label="S1 believes changing the law to outline group marriages would be a tedious task" start="1925" end="2004"/>
+  </contributor>
+  <contributor label="S1 argues that group marriages would not make sense under current marriage laws">
+   <part label="S1 argues that group marriages would not make sense under current marriage laws" start="3961" end="4040"/>
+  </contributor>
+ </scu>
+ <scu uid="56" label="a frequent tactic of anti-gay marriage advocates who unfairly claim  that gays want to &quot;make marriage an open ended institution.&quot;">
+  <contributor label="Kronos complains that this is a frequent tactic of anti-gay marriage advocates who unfairly claim  that gays want to &quot;make marriage an open ended institution.&quot;">
+   <part label="Kronos complains that this is a frequent tactic of anti-gay marriage advocates who unfairly claim  that gays want to &quot;make marriage an open ended institution.&quot;" start="3267" end="3426"/>
+  </contributor>
+  <contributor label="This person does not believe that to be true...They believe that bringing up hypothetical arguments to the contrary is a distraction">
+   <part label="This person does not believe that to be true" start="4227" end="4271"/>
+   <part label="They believe that bringing up hypothetical arguments to the contrary is a distraction" start="4405" end="4490"/>
+  </contributor>
+ </scu>
+ <scu uid="59" label="They firmly believe that marriage as an institution is between a heterosexual male and female">
+  <contributor label="They firmly believe that marriage as an institution is between a heterosexual male and female">
+   <part label="They firmly believe that marriage as an institution is between a heterosexual male and female" start="4842" end="4935"/>
+  </contributor>
+  <contributor label="sees the changes in law that would be required as an attack on social and legal precedent">
+   <part label="sees the changes in law that would be required as an attack on social and legal precedent" start="3118" end="3207"/>
+  </contributor>
+ </scu>
+ <scu uid="60" label="if enough people wanted legal polygamous marriage, the laws would be passed">
+  <contributor label="if enough people wanted legal polygamous marriage, the laws would be passed">
+   <part label="if enough people wanted legal polygamous marriage, the laws would be passed" start="703" end="778"/>
+  </contributor>
+  <contributor label="S1 believes this is the reason most people do not want to broach the subject of polygamist unions">
+   <part label="S1 believes this is the reason most people do not want to broach the subject of polygamist unions" start="2288" end="2385"/>
+  </contributor>
+ </scu>
+ <scu uid="61" label="Kronos asserts that specific laws could accommodate specific groups">
+  <contributor label="Kronos asserts that specific laws could accommodate specific groups">
+   <part label="Kronos asserts that specific laws could accommodate specific groups" start="3538" end="3605"/>
+  </contributor>
+ </scu>
+ <scu uid="63" label="those who practice other types of unions are using same sex marriage to open the door for other types of unions to be accepted and recognized as well">
+  <contributor label="those who practice other types of unions are using same sex marriage to open the door for other types of unions to be accepted and recognized as well...the same courtesy should be extended to polygamous marriage...if the institution of marriage is to be changed to include same sex couples, there is no choice but to also face the subject of other types of unions as well">
+   <part label="those who practice other types of unions are using same sex marriage to open the door for other types of unions to be accepted and recognized as well" start="2137" end="2286"/>
+   <part label="if the institution of marriage is to be changed to include same sex couples, there is no choice but to also face the subject of other types of unions as well" start="2735" end="2892"/>
+   <part label="the same courtesy should be extended to polygamous marriage" start="2507" end="2566"/>
+  </contributor>
+  <contributor label="an effect of homosexuals being allowed to legally marry would lead to even more changes to marriage laws that would include more than simply homosexual relationships">
+   <part label="an effect of homosexuals being allowed to legally marry would lead to even more changes to marriage laws that would include more than simply homosexual relationships" start="4507" end="4672"/>
+  </contributor>
+ </scu>
+ <scu uid="64" label="Jyoshu sees the changes in law that can get out of control or be difficult to implement">
+  <contributor label="Jyoshu sees the changes in law...that can get out of control or be difficult to implement">
+   <part label="Jyoshu sees the changes in law" start="3111" end="3141"/>
+   <part label="that can get out of control or be difficult to implement" start="3208" end="3264"/>
+  </contributor>
+ </scu>
+</pyramid>

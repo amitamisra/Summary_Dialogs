@@ -1,0 +1,23 @@
+ that he continues to `` stand by '' and adhere to his previous post .
+
+
+root(ROOT-0, continues-3)
+mark(continues-3, that-1)
+nsubj(continues-3, he-2)
+aux(stand-6, to-4)
+xcomp(continues-3, stand-6)
+prep(stand-6, by-7)
+xcomp(continues-3, adhere-10)
+conj_and(stand-6, adhere-10)
+poss(post-14, his-12)
+amod(post-14, previous-13)
+prep_to(adhere-10, post-14)
+
+   they will 
+root(ROOT-0, will-2)
+nsubj(will-2, they-1)
+
+   they will 
+root(ROOT-0, will-2)
+nsubj(will-2, they-1)
+

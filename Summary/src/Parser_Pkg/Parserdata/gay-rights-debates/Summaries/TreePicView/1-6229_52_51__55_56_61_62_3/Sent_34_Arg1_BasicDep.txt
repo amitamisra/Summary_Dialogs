@@ -1,0 +1,8 @@
+root(ROOT-0, viewpoint-8)
+poss(argument-3, S1-1)
+possessive(S1-1, 's-2)
+nsubj(viewpoint-8, argument-3)
+cop(viewpoint-8, is-4)
+neg(viewpoint-8, not-5)
+det(viewpoint-8, a-6)
+amod(viewpoint-8, legitimate-7)

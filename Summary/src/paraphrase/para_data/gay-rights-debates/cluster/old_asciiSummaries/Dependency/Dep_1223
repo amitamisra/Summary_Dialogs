@@ -1,0 +1,9 @@
+For example, enslaving people was accepted in previous societies.
+root(ROOT-0, accepted-7)
+prep_for(accepted-7, example-2)
+amod(people-5, enslaving-4)
+nsubjpass(accepted-7, people-5)
+auxpass(accepted-7, was-6)
+amod(societies-10, previous-9)
+prep_in(accepted-7, societies-10)
+

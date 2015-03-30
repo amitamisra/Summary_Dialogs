@@ -1,0 +1,26 @@
+He states S2 may believe as wishes even if it is wrong.
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+nsubj(believe-5, S2-3)
+aux(believe-5, may-4)
+ccomp(states-2, believe-5)
+prep_as(believe-5, wishes-7)
+advmod(wrong-12, even-8)
+mark(wrong-12, if-9)
+nsubj(wrong-12, it-10)
+cop(wrong-12, is-11)
+advcl(believe-5, wrong-12)
+
+He states S2 may believe as wishes even if it is wrong.
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+nsubj(believe-5, S2-3)
+aux(believe-5, may-4)
+ccomp(states-2, believe-5)
+prep_as(believe-5, wishes-7)
+advmod(wrong-12, even-8)
+mark(wrong-12, if-9)
+nsubj(wrong-12, it-10)
+cop(wrong-12, is-11)
+advcl(believe-5, wrong-12)
+

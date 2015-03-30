@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN Marriage)) (VP (VBZ is) (ADJP (RBR more) (JJ convenient))) (. .)))

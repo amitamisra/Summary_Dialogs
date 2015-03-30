@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ cites) (SBAR (IN that) (S (NP (NP (CD eight)) (PP (IN of) (NP (CD nine) (NN supreme) (NNS courts)))) (VP (VBP have) (VP (VBN contended) (NP (JJ same) (NN sex) (NN marriage)) (S (VP (TO to) (VP (VB be) (ADJP (JJ unconstitutional)))))))))) (. .)))

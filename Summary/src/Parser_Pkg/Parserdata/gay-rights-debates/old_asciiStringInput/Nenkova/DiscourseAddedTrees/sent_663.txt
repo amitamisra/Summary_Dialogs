@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS retorts)) (SBAR (IN that) (S (NP (EX there)) (VP (MD should) (VP (VB be) (NP (NP (DT a) (JJR better) (NN system)) (, ,) (SBAR (WHNP (WDT that)) (S (ADVP (RB even)) (VP (VBZ allows) (NP (JJ single) (NNS people)) (PP (IN with) (NP (JJS best) (NNS friends)))))))))))) (VP (NN access) (PP (TO to) (NP (DT the) (JJ same) (NNS benefits)))) (. .)))

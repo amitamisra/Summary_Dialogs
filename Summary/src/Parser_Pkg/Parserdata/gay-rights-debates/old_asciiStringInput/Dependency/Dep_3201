@@ -1,0 +1,28 @@
+ a candidates view should be accepted that it is really their view 
+root(ROOT-0, view-3)
+det(candidates-2, a-1)
+nsubj(view-3, candidates-2)
+aux(accepted-6, should-4)
+auxpass(accepted-6, be-5)
+ccomp(view-3, accepted-6)
+mark(view-12, that-7)
+nsubj(view-12, it-8)
+cop(view-12, is-9)
+advmod(view-12, really-10)
+poss(view-12, their-11)
+ccomp(accepted-6, view-12)
+
+ a candidates view should be accepted that it is really their view 
+root(ROOT-0, view-3)
+det(candidates-2, a-1)
+nsubj(view-3, candidates-2)
+aux(accepted-6, should-4)
+auxpass(accepted-6, be-5)
+ccomp(view-3, accepted-6)
+mark(view-12, that-7)
+nsubj(view-12, it-8)
+cop(view-12, is-9)
+advmod(view-12, really-10)
+poss(view-12, their-11)
+ccomp(accepted-6, view-12)
+

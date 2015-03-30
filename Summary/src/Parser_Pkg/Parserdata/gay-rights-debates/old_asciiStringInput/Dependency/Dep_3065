@@ -1,0 +1,32 @@
+ that advocates of homosexual marriage are heterophobes trying to force homosexual marriage onto America .
+
+
+root(ROOT-0, heterophobes-7)
+mark(heterophobes-7, that-1)
+nsubj(heterophobes-7, advocates-2)
+amod(marriage-5, homosexual-4)
+prep_of(advocates-2, marriage-5)
+cop(heterophobes-7, are-6)
+vmod(heterophobes-7, trying-8)
+aux(force-10, to-9)
+xcomp(trying-8, force-10)
+amod(marriage-12, homosexual-11)
+dobj(force-10, marriage-12)
+prep_onto(force-10, America-14)
+
+ that advocates of homosexual marriage are heterophobes trying to force homosexual marriage onto America .
+
+
+root(ROOT-0, heterophobes-7)
+mark(heterophobes-7, that-1)
+nsubj(heterophobes-7, advocates-2)
+amod(marriage-5, homosexual-4)
+prep_of(advocates-2, marriage-5)
+cop(heterophobes-7, are-6)
+vmod(heterophobes-7, trying-8)
+aux(force-10, to-9)
+xcomp(trying-8, force-10)
+amod(marriage-12, homosexual-11)
+dobj(force-10, marriage-12)
+prep_onto(force-10, America-14)
+

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ feels) (S (ADJP (RB much) (RBR more) (SBAR (S (NP (NN clarification)) (VP (VBZ is) (VP (VBN needed) (PP (IN as#1#0) (PP (TO to) (SBAR (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN study)) (VP (VBD was) (VP (VBN conducted))))) (CC and#0#Expansion) (SBAR (WHNP (WP who)) (S (VP (VBD conducted) (NP (PRP it))))))))))))))) (. .)))

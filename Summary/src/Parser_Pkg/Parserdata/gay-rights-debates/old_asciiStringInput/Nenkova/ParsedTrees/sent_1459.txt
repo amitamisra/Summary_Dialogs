@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NP (NNS People) (POS 's)) (NN support)) (PP (IN of) (NP (JJ gay) (NN marriage)))) (VP (VP (VBZ has) (VP (VBN been) (VP (VBG growing) (ADVP (RB steadily)) (PP (IN in) (NP (DT the) (JJ past) (CD ten) (NNS years)))))) (, ,) (CC and) (VP (MD will) (ADVP (RB soon)) (VP (VB be) (NP (DT the) (NN majority) (NN opinion))))) (. .)))

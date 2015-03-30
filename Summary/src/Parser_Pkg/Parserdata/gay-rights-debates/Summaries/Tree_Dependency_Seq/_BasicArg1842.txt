@@ -1,0 +1,7 @@
+root(ROOT-0, argue-2)
+nsubj(argue-2, They-1)
+prep(argue-2, about-3)
+pobj(about-3, politicians-4)
+vmod(politicians-4, lying-5)
+prep(lying-5, through-6)
+pcomp(through-6, discussing-7)

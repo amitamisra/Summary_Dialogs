@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (EX there)) (VP (MD will) (VP (VB be) (NP (NP (NNS privileges)) (SBAR (WHNP (WDT that)) (S (VP (VBP come) (SBAR (RB only) (IN in) (S (NP (NN government)) (VP (VBD recognized) (NP (NNS unions)))))))))))))) (. .)))

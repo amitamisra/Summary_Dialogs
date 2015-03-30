@@ -1,0 +1,41 @@
+   it would have negative effects on businesses , social security , and the healthcare systems 
+root(ROOT-0, have-3)
+nsubj(have-3, it-1)
+aux(have-3, would-2)
+amod(effects-5, negative-4)
+dobj(have-3, effects-5)
+prep_on(effects-5, businesses-7)
+amod(security-10, social-9)
+prep_on(effects-5, security-10)
+conj_and(businesses-7, security-10)
+det(systems-15, the-13)
+nn(systems-15, healthcare-14)
+prep_on(effects-5, systems-15)
+conj_and(businesses-7, systems-15)
+
+Banning gay marriage is forcing one set of believes onto others .
+
+
+root(ROOT-0, forcing-5)
+amod(marriage-3, Banning-1)
+amod(marriage-3, gay-2)
+nsubj(forcing-5, marriage-3)
+aux(forcing-5, is-4)
+num(set-7, one-6)
+dobj(forcing-5, set-7)
+prepc_of(set-7, believes-9)
+prep_onto(believes-9, others-11)
+
+Banning gay marriage is forcing one set of believes onto others .
+
+
+root(ROOT-0, forcing-5)
+amod(marriage-3, Banning-1)
+amod(marriage-3, gay-2)
+nsubj(forcing-5, marriage-3)
+aux(forcing-5, is-4)
+num(set-7, one-6)
+dobj(forcing-5, set-7)
+prepc_of(set-7, believes-9)
+prep_onto(believes-9, others-11)
+

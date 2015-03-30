@@ -1,0 +1,18 @@
+we continue to do this with civility.
+root(ROOT-0, continue-2)
+nsubj(continue-2, we-1)
+aux(do-4, to-3)
+xcomp(continue-2, do-4)
+dobj(do-4, this-5)
+prep(this-5, with-6)
+pobj(with-6, civility-7)
+
+we continue to do this with civility.
+root(ROOT-0, continue-2)
+nsubj(continue-2, we-1)
+aux(do-4, to-3)
+xcomp(continue-2, do-4)
+dobj(do-4, this-5)
+prep(this-5, with-6)
+pobj(with-6, civility-7)
+

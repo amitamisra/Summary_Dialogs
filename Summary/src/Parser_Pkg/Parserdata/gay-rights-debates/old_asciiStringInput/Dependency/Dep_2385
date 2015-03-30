@@ -1,0 +1,48 @@
+ that those who defend homosexual activity deflect the question of an AIS epidemic in the United States by bringing up statistics for it in Africa .
+
+
+root(ROOT-0, deflect-7)
+mark(deflect-7, that-1)
+nsubj(deflect-7, those-2)
+nsubj(defend-4, who-3)
+rcmod(those-2, defend-4)
+amod(activity-6, homosexual-5)
+dobj(defend-4, activity-6)
+det(question-9, the-8)
+dobj(deflect-7, question-9)
+det(AIS-12, an-11)
+prep_of(question-9, AIS-12)
+amod(AIS-12, epidemic-13)
+det(States-17, the-15)
+nn(States-17, United-16)
+prep_in(epidemic-13, States-17)
+prepc_by(deflect-7, bringing-19)
+prt(bringing-19, up-20)
+dobj(bringing-19, statistics-21)
+prep_for(statistics-21, it-23)
+prep_in(bringing-19, Africa-25)
+
+ that those who defend homosexual activity deflect the question of an AIS epidemic in the United States by bringing up statistics for it in Africa .
+
+
+root(ROOT-0, deflect-7)
+mark(deflect-7, that-1)
+nsubj(deflect-7, those-2)
+nsubj(defend-4, who-3)
+rcmod(those-2, defend-4)
+amod(activity-6, homosexual-5)
+dobj(defend-4, activity-6)
+det(question-9, the-8)
+dobj(deflect-7, question-9)
+det(AIS-12, an-11)
+prep_of(question-9, AIS-12)
+amod(AIS-12, epidemic-13)
+det(States-17, the-15)
+nn(States-17, United-16)
+prep_in(epidemic-13, States-17)
+prepc_by(deflect-7, bringing-19)
+prt(bringing-19, up-20)
+dobj(bringing-19, statistics-21)
+prep_for(statistics-21, it-23)
+prep_in(bringing-19, Africa-25)
+

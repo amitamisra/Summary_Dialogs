@@ -1,0 +1,7 @@
+root(ROOT-0, look-3)
+nsubj(look-3, others-1)
+aux(look-3, could-2)
+det(thing-7, the-5)
+amod(thing-7, whole-6)
+prep_at(look-3, thing-7)
+prep_for(thing-7, themselves-9)

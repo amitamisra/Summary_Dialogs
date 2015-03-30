@@ -1,0 +1,55 @@
+  that it is a problem 
+root(ROOT-0, problem-5)
+mark(problem-5, that-1)
+nsubj(problem-5, it-2)
+cop(problem-5, is-3)
+det(problem-5, a-4)
+
+ that there have been 20 large earthquakes just in this part of the century that were easy to detect even without a seismograph .
+
+
+root(ROOT-0, earthquakes-7)
+mark(earthquakes-7, that-1)
+expl(earthquakes-7, there-2)
+aux(earthquakes-7, have-3)
+cop(earthquakes-7, been-4)
+num(earthquakes-7, 20-5)
+amod(earthquakes-7, large-6)
+advmod(earthquakes-7, just-8)
+det(part-11, this-10)
+prep_in(earthquakes-7, part-11)
+det(century-14, the-13)
+prep_of(part-11, century-14)
+nsubj(easy-17, that-15)
+cop(easy-17, were-16)
+rcmod(century-14, easy-17)
+aux(detect-19, to-18)
+xcomp(easy-17, detect-19)
+advmod(detect-19, even-20)
+det(seismograph-23, a-22)
+prep_without(detect-19, seismograph-23)
+
+ that there have been 20 large earthquakes just in this part of the century that were easy to detect even without a seismograph .
+
+
+root(ROOT-0, earthquakes-7)
+mark(earthquakes-7, that-1)
+expl(earthquakes-7, there-2)
+aux(earthquakes-7, have-3)
+cop(earthquakes-7, been-4)
+num(earthquakes-7, 20-5)
+amod(earthquakes-7, large-6)
+advmod(earthquakes-7, just-8)
+det(part-11, this-10)
+prep_in(earthquakes-7, part-11)
+det(century-14, the-13)
+prep_of(part-11, century-14)
+nsubj(easy-17, that-15)
+cop(easy-17, were-16)
+rcmod(century-14, easy-17)
+aux(detect-19, to-18)
+xcomp(easy-17, detect-19)
+advmod(detect-19, even-20)
+det(seismograph-23, a-22)
+prep_without(detect-19, seismograph-23)
+

@@ -1,0 +1,9 @@
+It isnt too much to demand honesty.
+root(ROOT-0, isnt-2)
+nsubj(isnt-2, It-1)
+advmod(much-4, too-3)
+acomp(isnt-2, much-4)
+aux(demand-6, to-5)
+xcomp(much-4, demand-6)
+dobj(demand-6, honesty-7)
+

@@ -1,0 +1,32 @@
+ S2 is making a generalization on the entire partys based off one person 
+
+
+root(ROOT-0, making-3)
+nsubj(making-3, S2-1)
+aux(making-3, is-2)
+det(generalization-5, a-4)
+dobj(making-3, generalization-5)
+det(partys-9, the-7)
+amod(partys-9, entire-8)
+prep_on(generalization-5, partys-9)
+prep(making-3, based-10)
+pcomp(based-10, off-11)
+num(person-13, one-12)
+pobj(off-11, person-13)
+
+   S1 believes they have many similarities 
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+nsubj(have-4, they-3)
+ccomp(believes-2, have-4)
+amod(similarities-6, many-5)
+dobj(have-4, similarities-6)
+
+   S1 believes they have many similarities 
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+nsubj(have-4, they-3)
+ccomp(believes-2, have-4)
+amod(similarities-6, many-5)
+dobj(have-4, similarities-6)
+

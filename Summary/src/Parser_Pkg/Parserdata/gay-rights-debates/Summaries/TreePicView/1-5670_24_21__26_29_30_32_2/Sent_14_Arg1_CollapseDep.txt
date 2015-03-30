@@ -1,0 +1,6 @@
+root(ROOT-0, accuses-2)
+nsubj(accuses-2, S1-1)
+dobj(accuses-2, S2-3)
+cop(reactionist-7, being-5)
+det(reactionist-7, a-6)
+prepc_of(S2-3, reactionist-7)

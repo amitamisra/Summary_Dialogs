@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB then)) (VP (VBZ states) (SBAR (IN that) (S (NP (NNP Africa)) (VP (VBZ is) (VP (VBN included) (PP (IN in) (NP (NN order))) (S (VP (TO to) (VP (VB refute) (NP (DT the) (VBG opposing) (NN logic)))))))))) (. .)))

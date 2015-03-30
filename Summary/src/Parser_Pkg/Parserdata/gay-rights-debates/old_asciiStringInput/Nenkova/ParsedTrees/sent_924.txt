@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ quotes) (NP (NN S1)) (PP (IN as) (NP (NP (NN evidence)) (PP (IN of) (NP (PRP$ his) (NN hypocrisy))))) (PP (IN in) (S (VP (VBG requesting) (NP (NN evidence)) (SBAR (WHADVP (WRB when)) (S (NP (PRP he)) (VP (VBZ offers) (NP (NN none))))))))) (. .)))

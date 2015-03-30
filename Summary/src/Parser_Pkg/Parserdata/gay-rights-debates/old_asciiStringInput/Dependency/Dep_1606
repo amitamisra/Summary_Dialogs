@@ -1,0 +1,27 @@
+   S2 thinks that we should rely on them 
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S2-1)
+mark(rely-6, that-3)
+nsubj(rely-6, we-4)
+aux(rely-6, should-5)
+ccomp(thinks-2, rely-6)
+prep_on(rely-6, them-8)
+
+The immorality of homosexuality in 1909 is based on ignorance.
+root(ROOT-0, based-8)
+det(immorality-2, The-1)
+nsubjpass(based-8, immorality-2)
+prep_of(immorality-2, homosexuality-4)
+prep_in(homosexuality-4, 1909-6)
+auxpass(based-8, is-7)
+prep_on(based-8, ignorance-10)
+
+The immorality of homosexuality in 1909 is based on ignorance.
+root(ROOT-0, based-8)
+det(immorality-2, The-1)
+nsubjpass(based-8, immorality-2)
+prep_of(immorality-2, homosexuality-4)
+prep_in(homosexuality-4, 1909-6)
+auxpass(based-8, is-7)
+prep_on(based-8, ignorance-10)
+

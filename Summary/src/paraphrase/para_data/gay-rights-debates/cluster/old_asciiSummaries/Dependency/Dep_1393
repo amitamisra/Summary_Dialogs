@@ -1,0 +1,15 @@
+(S1) says that he know that there is inconsistency but he does not care.
+root(ROOT-0, says-4)
+nsubj(says-4, S1-2)
+mark(know-7, that-5)
+nsubj(know-7, he-6)
+ccomp(says-4, know-7)
+mark(is-10, that-8)
+expl(is-10, there-9)
+ccomp(know-7, is-10)
+nsubj(is-10, inconsistency-11)
+nsubj(care-16, he-13)
+aux(care-16, does-14)
+neg(care-16, not-15)
+conj_but(says-4, care-16)
+

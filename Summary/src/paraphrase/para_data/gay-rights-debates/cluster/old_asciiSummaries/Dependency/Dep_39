@@ -1,0 +1,12 @@
+S2 believes that marriage is one of the foundations of social stability.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+mark(one-6, that-3)
+nsubj(one-6, marriage-4)
+cop(one-6, is-5)
+ccomp(believes-2, one-6)
+det(foundations-9, the-8)
+prep_of(one-6, foundations-9)
+amod(stability-12, social-11)
+prep_of(foundations-9, stability-12)
+

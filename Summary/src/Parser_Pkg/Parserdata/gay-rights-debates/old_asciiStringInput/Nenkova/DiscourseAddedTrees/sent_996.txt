@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN Marriage)) (VP (VBZ is) (PP (IN between) (NP (NP (NNS people)) (PP (IN of) (NP (NP (JJ opposite) (NNS genders)) (PP (IN in) (NP (DT those) (NNS societies))))))))) (, ,) (CC and#1#Expansion) (S (ADVP (RB thus#0#Contingency)) (NP (PRP it)) (VP (VBZ is) (RB not) (NP (DT a) (JJ new) (NN concept)))) (. .)))

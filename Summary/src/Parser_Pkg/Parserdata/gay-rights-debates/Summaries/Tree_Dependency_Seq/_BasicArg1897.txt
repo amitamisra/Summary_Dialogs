@@ -1,0 +1,4 @@
+root(ROOT-0, else-2)
+dep(else-2, what-1)
+aux(say-4, to-3)
+xcomp(else-2, say-4)

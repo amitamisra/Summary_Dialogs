@@ -1,0 +1,5 @@
+root(ROOT-0, guaranteed-3)
+nsubjpass(guaranteed-3, right-1)
+auxpass(guaranteed-3, is-2)
+det(constitution-6, the-5)
+prep_in(guaranteed-3, constitution-6)

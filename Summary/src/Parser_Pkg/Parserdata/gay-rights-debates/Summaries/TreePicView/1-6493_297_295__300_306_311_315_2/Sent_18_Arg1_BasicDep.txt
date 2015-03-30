@@ -1,0 +1,5 @@
+root(ROOT-0, Worshipers-5)
+nsubj(Worshipers-5, emocrats-1)
+cop(Worshipers-5, are-2)
+advmod(Worshipers-5, really-3)
+nn(Worshipers-5, Satan-4)

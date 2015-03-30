@@ -1,0 +1,1 @@
+(ROOT (S (NP (CD Two) (NNS people)) (VP (VBP are) (VP (VBG discussing) (SBAR (IN whether) (CC or) (RB not) (S (NP (DT the) (JJ civil) (NNS rights) (NNS activists)) (VP (VBP are) (PP (IN for) (NP (JJ gay) (NN marriage)))))))) (. .)))

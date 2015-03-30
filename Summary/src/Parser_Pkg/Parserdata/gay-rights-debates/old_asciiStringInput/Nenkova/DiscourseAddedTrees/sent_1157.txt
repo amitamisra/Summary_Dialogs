@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBD quoted) (NP (NP (DT a) (NNP CNN) (NN poll)) (SBAR (WHNP (WDT which)) (S (VP (VBD found) (SBAR (IN that) (S (NP (JJ many) (NNS people)) (VP (VBP do) (RB not) (VP (VB want) (NP (NP (JJ gay) (NN marriage)) (, ,) (NP (NN includingm)))))))))))) (. .)))

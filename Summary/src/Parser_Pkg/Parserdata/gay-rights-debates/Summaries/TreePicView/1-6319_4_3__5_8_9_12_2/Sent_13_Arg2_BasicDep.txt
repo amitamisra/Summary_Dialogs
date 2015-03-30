@@ -1,0 +1,6 @@
+root(ROOT-0, comes-2)
+nsubj(comes-2, it-1)
+prep(comes-2, to-3)
+amod(couples-6, same-4)
+nn(couples-6, sex-5)
+pobj(to-3, couples-6)

@@ -1,0 +1,15 @@
+S2 attacks S1 by calling their argument silly because it violates the First amendment rights.
+root(ROOT-0, violates-11)
+nn(S1-3, S2-1)
+nn(S1-3, attacks-2)
+nsubj(violates-11, S1-3)
+prepc_by(S1-3, calling-5)
+poss(argument-7, their-6)
+dobj(calling-5, argument-7)
+advmod(calling-5, silly-8)
+prep_because(silly-8, it-10)
+det(rights-15, the-12)
+amod(rights-15, First-13)
+nn(rights-15, amendment-14)
+dobj(violates-11, rights-15)
+

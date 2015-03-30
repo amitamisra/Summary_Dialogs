@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (NP (VBG supporting) (NNS arguments)) (PP (IN with) (NP (NN logic)))) (VP (VBZ eliminates) (NP (DT the) (NN ability) (S (VP (TO to) (VP (VB label) (NP (CD one)) (PP (IN as) (NP (DT a) (NN bigot))))))))))) (. .)))

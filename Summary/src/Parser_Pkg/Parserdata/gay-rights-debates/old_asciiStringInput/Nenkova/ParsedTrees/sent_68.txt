@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2) (NNS questions)) (VP (S (NP (NP (DT the) (NN validity)) (PP (IN of) (S (VP (VBG using) (S (NP (DT the) (NN term)) (ADJP (JJ natural) (S (VP (TO to) (VP (VB define) (NP (NN marriage))))))))))))) (. .)))

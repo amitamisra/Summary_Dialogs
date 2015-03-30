@@ -1,0 +1,24 @@
+ that gay marriage does not hurt anyone , straight or gay , 
+root(ROOT-0, hurt-6)
+mark(hurt-6, that-1)
+amod(marriage-3, gay-2)
+nsubj(hurt-6, marriage-3)
+aux(hurt-6, does-4)
+neg(hurt-6, not-5)
+dobj(hurt-6, anyone-7)
+amod(anyone-7, straight-9)
+amod(anyone-7, gay-11)
+conj_or(straight-9, gay-11)
+
+ that gay marriage does not hurt anyone , straight or gay , 
+root(ROOT-0, hurt-6)
+mark(hurt-6, that-1)
+amod(marriage-3, gay-2)
+nsubj(hurt-6, marriage-3)
+aux(hurt-6, does-4)
+neg(hurt-6, not-5)
+dobj(hurt-6, anyone-7)
+amod(anyone-7, straight-9)
+amod(anyone-7, gay-11)
+conj_or(straight-9, gay-11)
+

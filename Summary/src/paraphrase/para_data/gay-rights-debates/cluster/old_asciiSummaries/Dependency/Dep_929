@@ -1,0 +1,18 @@
+He said that there never will be a federal law allowing gay marriage in the United States.
+root(ROOT-0, said-2)
+nsubj(said-2, He-1)
+mark(law-10, that-3)
+expl(law-10, there-4)
+neg(law-10, never-5)
+aux(law-10, will-6)
+cop(law-10, be-7)
+det(law-10, a-8)
+amod(law-10, federal-9)
+ccomp(said-2, law-10)
+vmod(law-10, allowing-11)
+amod(marriage-13, gay-12)
+dobj(allowing-11, marriage-13)
+det(States-17, the-15)
+nn(States-17, United-16)
+prep_in(allowing-11, States-17)
+

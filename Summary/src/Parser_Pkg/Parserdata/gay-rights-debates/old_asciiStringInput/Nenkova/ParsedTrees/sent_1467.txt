@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ refutes) (NP (DT the) (NN suggestion)) (PP (IN by) (S (VP (VBG noting) (SBAR (IN that) (S (NP (CD 5) (NNS States)) (VP (VBD had) (ADVP (RB already)) (VP (VBN approved) (NP (JJ gay) (NN marriage)))))))))) (. .)))

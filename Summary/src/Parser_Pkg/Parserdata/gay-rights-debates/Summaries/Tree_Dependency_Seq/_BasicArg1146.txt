@@ -1,0 +1,4 @@
+root(ROOT-0, holds-2)
+nsubj(holds-2, S2-1)
+advmod(holds-2, that-3)
+advmod(holds-2, either-4)

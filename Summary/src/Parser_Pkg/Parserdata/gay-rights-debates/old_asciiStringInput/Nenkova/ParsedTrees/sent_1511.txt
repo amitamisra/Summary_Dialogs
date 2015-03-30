@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ points) (PRT (RP out)) (SBAR (IN that) (S (NP (JJ free) (NN speech)) (VP (VBZ is) (ADVP (RB inherently)) (VP (VBN protected) (PP (IN through) (NP (DT the) (NN constitution)))))))) (. .)))

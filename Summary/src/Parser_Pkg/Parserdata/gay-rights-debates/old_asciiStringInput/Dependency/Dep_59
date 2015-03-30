@@ -1,0 +1,36 @@
+It is the nature of the relationship .
+
+
+root(ROOT-0, nature-4)
+nsubj(nature-4, It-1)
+cop(nature-4, is-2)
+det(nature-4, the-3)
+det(relationship-7, the-6)
+prep_of(nature-4, relationship-7)
+
+ S2 contends that European countries have many laws different than the US , 
+root(ROOT-0, contends-2)
+nsubj(contends-2, S2-1)
+mark(have-6, that-3)
+amod(countries-5, European-4)
+nsubj(have-6, countries-5)
+ccomp(contends-2, have-6)
+amod(laws-8, many-7)
+nsubj(different-9, laws-8)
+xcomp(have-6, different-9)
+det(US-12, the-11)
+prep_than(different-9, US-12)
+
+ S2 contends that European countries have many laws different than the US , 
+root(ROOT-0, contends-2)
+nsubj(contends-2, S2-1)
+mark(have-6, that-3)
+amod(countries-5, European-4)
+nsubj(have-6, countries-5)
+ccomp(contends-2, have-6)
+amod(laws-8, many-7)
+nsubj(different-9, laws-8)
+xcomp(have-6, different-9)
+det(US-12, the-11)
+prep_than(different-9, US-12)
+

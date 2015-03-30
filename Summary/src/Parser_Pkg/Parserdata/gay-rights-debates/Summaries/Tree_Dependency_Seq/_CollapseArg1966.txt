@@ -1,0 +1,7 @@
+root(ROOT-0, denigrates-3)
+nsubj(denigrates-3, Archie-1)
+advmod(denigrates-3, regularly-2)
+dobj(denigrates-3, gays-4)
+det(variety-7, a-6)
+prep_with(denigrates-3, variety-7)
+prep_of(variety-7, slurs-9)

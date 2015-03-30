@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NN government)) (VP (MD should) (VP (VB have) (NP (NP (DT a) (NN say)) (PP (IN in) (NP (NN marriage)))) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ is) (ADJP (RBR more) (JJ practical) (PP (IN in) (NP (NNS todays) (NN world)))))))))))) (. .)))

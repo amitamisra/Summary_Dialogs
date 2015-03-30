@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ cites) (NP (NP (DT the) (NN legalization)) (PP (IN of) (NP (NP (JJ same-sex) (NNS marriages)) (PP (IN in) (NP (NP (JJ various) (JJ other) (NNS countries)) (PP (IN in) (NP (NNP Europe) (CC and#0#0) (NNP North) (NNP America))))))))) (. .)))

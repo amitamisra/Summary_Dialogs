@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ cites) (NP (NN slavery)) (PP (IN as#0#0) (NP (DT an) (NN example)))) (. .)))

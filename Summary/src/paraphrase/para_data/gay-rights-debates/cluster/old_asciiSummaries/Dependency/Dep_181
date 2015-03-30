@@ -1,0 +1,15 @@
+S1 believes that dead " potential " lives don't have " real " or " actual " dead bodies .
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+prep_that(believes-2, dead-4)
+nsubj(have-11, potential-6)
+dep(potential-6, lives-8)
+aux(have-11, do-9)
+neg(have-11, n't-10)
+rcmod(dead-4, have-11)
+prep(have-11, real-13)
+advmod(believes-2, or-15)
+prep(believes-2, actual-17)
+amod(bodies-20, dead-19)
+dep(believes-2, bodies-20)
+

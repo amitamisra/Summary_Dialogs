@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing a seemingly pending law that would permit marriage officials to decline to conduct gay marriages if they are opposed to them on religious principals.  S1 finds it acceptable, while S2 complains about it.  S1 proposes that it is easy for S2 to be unsympathetic because S2 dislikes religion.  S1 acknowledges that he considers such religious objections to be evil.  He suggests that because the individual licensed to perform a marriage is paid or licensed by the State, the individual should reflect the will and choices of the State and therefore perform gay marriages despite his or her personal religious objection to them.  S2 suspects that the law may result in an effective denial of gay marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 believes that religious freedom allows for people to not do something, such as serve a gay customer, that they find objective to their religion. He gives an example that Jewish people should not be forced to work on the Sabbath or eat pork. Likewise, he thinks Christians should not be required to serve gay people in a way that violates their religious beliefs. S2 believes it should be a requirement that you serve all customers and gives the example that he couldn't refuse to serve a boy scout or Christian that he doesn't agree with. He goes on to say that taxpayers and employers are the ones providing the paycheck, not God. He believes service is a requirement to express the freedom people have.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>The issues here appears to stem from an employee citing some religious view to his/her boss indicating why they cannot perform a job duty.</line>
+  <line></line>
+  <line>Speaker one doesn't think people should pick and choose what they want equal rights on, in this case between religion and other rights issues, that it should be all or nothing. Speaker one therefore believes that speaker two is unfairly discriminating against an employee based off their religious views.</line>
+  <line></line>
+  <line>Speaker two believes that society dictates that you have to be biased at times. Speaker two continues that if speaker one's logic holds true, then he/she should be able to turn away customers based off his/her own personal religious views. </line>
+  <line></line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing equality and natural rights.  S1 states that discrimination on people for being religious and keeping people from religion infringes on natural rights, and if you are for equality for gays then you need equality for all.  S2 states that this allows people to do whatever they want and use their religious beliefs as an excuse.  To contradict, S1 states that only serious religious views are taken into account.  S2 then proposes a scenario where the only person available to perform the gay marriage ceremony is exempted based on religious beliefs, their rights won't be upholded.  S1 rebuts by stating that the proposed provision would allow someone else, and this is due to religious freedom.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two people are discussing gay marriage.  The discussion revolves around whether or not a clergy person should have the right to refuse to marry a gay couple based on religious beliefs.  S1 believes this is alright to do while S2 does not agree.  S2 provides an example of his/her managing a restaurant asking if it would be acceptable for him to refuse to serve a boy scout based on the fact they conflict with his/her religious beliefs.  He/she also believes clergy members should not be permitted to refuse a union due to the fact the tax payers pay the salary of such people.  S1 feels forcing this issue is the equivalent to forcing a Jewish person to eat pork sandwiches. </line>
+ </text>
+ <scu uid="47" label="Two people are discussing equality and natural rights.">
+  <contributor label="Two people are discussing equality and natural rights">
+   <part label="Two people are discussing equality and natural rights" start="2231" end="2284"/>
+  </contributor>
+  <contributor label="Two people are discussing gay marriage">
+   <part label="Two people are discussing gay marriage" start="2979" end="3017"/>
+  </contributor>
+ </scu>
+ <scu uid="48" label="Religious freedom allows people to do whatever they want.">
+  <contributor label="employee citing some religious view to his/her boss indicating why they cannot perform a job duty">
+   <part label="employee citing some religious view to his/her boss indicating why they cannot perform a job duty" start="1556" end="1653"/>
+  </contributor>
+  <contributor label="S1 believes that religious freedom allows for people to not do something, such as serve a gay customer">
+   <part label="S1 believes that religious freedom allows for people to not do something, such as serve a gay customer" start="781" end="883"/>
+  </contributor>
+  <contributor label="S2 states that this allows people to do whatever they want and use their religious beliefs as an excuse">
+   <part label="S2 states that this allows people to do whatever they want and use their religious beliefs as an excuse" start="2479" end="2582"/>
+  </contributor>
+  <contributor label="The discussion revolves around whether or not a clergy person should have the right to refuse to marry a gay couple based on religious beliefs">
+   <part label="The discussion revolves around whether or not a clergy person should have the right to refuse to marry a gay couple based on religious beliefs" start="3020" end="3162"/>
+  </contributor>
+ </scu>
+ <scu uid="49" label="S1 doesn't believe people should pick and choose what they want equal rights on.">
+  <contributor label="they find objective to their religion">
+   <part label="they find objective to their religion" start="890" end="927"/>
+  </contributor>
+  <contributor label="S1 acknowledges that he considers such religious objections to be evil">
+   <part label="S1 acknowledges that he considers such religious objections to be evil" start="342" end="412"/>
+  </contributor>
+  <contributor label="Speaker one doesn't think people should pick and choose what they want equal rights on">
+   <part label="Speaker one doesn't think people should pick and choose what they want equal rights on" start="1656" end="1742"/>
+  </contributor>
+  <contributor label="S1 states that discrimination on people for being religious and keeping people from religion infringes on natural rights">
+   <part label="S1 states that discrimination on people for being religious and keeping people from religion infringes on natural rights" start="2287" end="2407"/>
+  </contributor>
+ </scu>
+ <scu uid="50" label="Pending law that would permit marriage officials to decline to conduct gay marriages.">
+  <contributor label="S1 and S2 are discussing a seemingly pending law that would permit marriage officials to decline to conduct gay marriages...S2 suspects that the law may result in an effective denial of gay marriage">
+   <part label="S1 and S2 are discussing a seemingly pending law that would permit marriage officials to decline to conduct gay marriages" start="26" end="147"/>
+   <part label="S2 suspects that the law may result in an effective denial of gay marriage" start="678" end="752"/>
+  </contributor>
+  <contributor label="only person available to perform the gay marriage ceremony is exempted based on religious beliefs, their rights won't be upholded">
+   <part label="only person available to perform the gay marriage ceremony is exempted based on religious beliefs, their rights won't be upholded" start="2707" end="2836"/>
+  </contributor>
+ </scu>
+ <scu uid="51" label="Acceptable for him to refuse to serve a boy scout based on the fact they conflict with his/her religious beliefs.">
+  <contributor label="acceptable for him to refuse to serve a boy scout based on the fact they conflict with his/her religious beliefs">
+   <part label="acceptable for him to refuse to serve a boy scout based on the fact they conflict with his/her religious beliefs" start="3303" end="3415"/>
+  </contributor>
+  <contributor label="therefore perform gay marriages despite his or her personal religious objection to them">
+   <part label="therefore perform gay marriages despite his or her personal religious objection to them" start="588" end="675"/>
+  </contributor>
+  <contributor label="example that he couldn't refuse to serve a boy scout or Christian that he doesn't agree with">
+   <part label="example that he couldn't refuse to serve a boy scout or Christian that he doesn't agree with" start="1229" end="1321"/>
+  </contributor>
+ </scu>
+ <scu uid="52" label="Jewish people should not be forced to work on the Sabbath or eat pork.">
+  <contributor label="S1 feels forcing this issue is the equivalent to forcing a Jewish person to eat pork sandwiches">
+   <part label="S1 feels forcing this issue is the equivalent to forcing a Jewish person to eat pork sandwiches" start="3559" end="3654"/>
+  </contributor>
+  <contributor label="He gives an example that Jewish people should not be forced to work on the Sabbath or eat pork">
+   <part label="He gives an example that Jewish people should not be forced to work on the Sabbath or eat pork" start="929" end="1023"/>
+  </contributor>
+ </scu>
+ <scu uid="53" label="Christians should not be required to serve gay people in a way that violates their religious beliefs.">
+  <contributor label="he/she should be able to turn away customers based off his/her own personal religious views">
+   <part label="he/she should be able to turn away customers based off his/her own personal religious views" start="2109" end="2200"/>
+  </contributor>
+  <contributor label="he thinks Christians should not be required to serve gay people in a way that violates their religious beliefs">
+   <part label="he thinks Christians should not be required to serve gay people in a way that violates their religious beliefs" start="1035" end="1145"/>
+  </contributor>
+ </scu>
+ <scu uid="56" label="Service is a requirement to express the freedom people have.">
+  <contributor label="S2 believes it should be a requirement that you serve all customers...He believes service is a requirement to express the freedom people have">
+   <part label="S2 believes it should be a requirement that you serve all customers" start="1147" end="1214"/>
+   <part label="He believes service is a requirement to express the freedom people have" start="1416" end="1487"/>
+  </contributor>
+  <contributor label="if you are for equality for gays then you need equality for all">
+   <part label="if you are for equality for gays then you need equality for all" start="2413" end="2476"/>
+  </contributor>
+  <contributor label="case between religion and other rights issues, that it should be all or nothing">
+   <part label="case between religion and other rights issues, that it should be all or nothing" start="1752" end="1831"/>
+  </contributor>
+ </scu>
+ <scu uid="59" label="S1 believes that S1 is unfairly discriminating against an employee based off their religious views.">
+  <contributor label="Speaker one therefore believes that speaker two is unfairly discriminating against an employee based off their religious views">
+   <part label="Speaker one therefore believes that speaker two is unfairly discriminating against an employee based off their religious views" start="1833" end="1959"/>
+  </contributor>
+  <contributor label="S1 finds it acceptable, while S2 complains about it.  S1 proposes that it is easy for S2 to be unsympathetic because S2 dislikes religion">
+   <part label="S1 finds it acceptable, while S2 complains about it.  S1 proposes that it is easy for S2 to be unsympathetic because S2 dislikes religion" start="202" end="339"/>
+  </contributor>
+ </scu>
+ <scu uid="63" label="S2 gives examplers of their own managing a restaurant.">
+  <contributor label="S2 then proposes a scenario">
+   <part label="S2 then proposes a scenario" start="2669" end="2696"/>
+  </contributor>
+  <contributor label="S2 provides an example of his/her managing a restaurant">
+   <part label="S2 provides an example of his/her managing a restaurant" start="3225" end="3280"/>
+  </contributor>
+ </scu>
+ <scu uid="66" label="are opposed to them on religious principals">
+  <contributor label="are opposed to them on religious principals">
+   <part label="are opposed to them on religious principals" start="156" end="199"/>
+  </contributor>
+ </scu>
+ <scu uid="68" label="issues here appears to stem">
+  <contributor label="issues here appears to stem">
+   <part label="issues here appears to stem" start="1520" end="1547"/>
+  </contributor>
+ </scu>
+ <scu uid="69" label="He/she also believes clergy members should not be permitted to refuse a union due to the fact the tax payers pay the salary of such people">
+  <contributor label="He/she also believes clergy members should not be permitted to refuse a union due to the fact the tax payers pay the salary of such people">
+   <part label="He/she also believes clergy members should not be permitted to refuse a union due to the fact the tax payers pay the salary of such people" start="3418" end="3556"/>
+  </contributor>
+ </scu>
+ <scu uid="70" label="He suggests that because the individual licensed to perform a marriage is paid or licensed by the State, the individual should reflect the will and choices of the State">
+  <contributor label="He suggests that because the individual licensed to perform a marriage is paid or licensed by the State, the individual should reflect the will and choices of the State">
+   <part label="He suggests that because the individual licensed to perform a marriage is paid or licensed by the State, the individual should reflect the will and choices of the State" start="415" end="583"/>
+  </contributor>
+ </scu>
+ <scu uid="71" label="Speaker two believes that society dictates that you have to be biased at times">
+  <contributor label="Speaker two believes that society dictates that you have to be biased at times">
+   <part label="Speaker two believes that society dictates that you have to be biased at times" start="1962" end="2040"/>
+  </contributor>
+ </scu>
+ <scu uid="72" label="Speaker two continues that if speaker one's logic holds true">
+  <contributor label="Speaker two continues that if speaker one's logic holds true">
+   <part label="Speaker two continues that if speaker one's logic holds true" start="2042" end="2102"/>
+  </contributor>
+ </scu>
+ <scu uid="73" label="To contradict, S1 states that only serious religious views are taken into account">
+  <contributor label="To contradict, S1 states that only serious religious views are taken into account">
+   <part label="To contradict, S1 states that only serious religious views are taken into account" start="2585" end="2666"/>
+  </contributor>
+ </scu>
+ <scu uid="74" label="S1 rebuts by stating that the proposed provision would allow someone else, and this is due to religious freedom">
+  <contributor label="S1 rebuts by stating that the proposed provision would allow someone else, and this is due to religious freedom">
+   <part label="S1 rebuts by stating that the proposed provision would allow someone else, and this is due to religious freedom" start="2839" end="2950"/>
+  </contributor>
+ </scu>
+ <scu uid="75" label="He goes on to say that taxpayers and employers are the ones providing the paycheck, not God">
+  <contributor label="He goes on to say that taxpayers and employers are the ones providing the paycheck, not God">
+   <part label="He goes on to say that taxpayers and employers are the ones providing the paycheck, not God" start="1323" end="1414"/>
+  </contributor>
+ </scu>
+ <scu uid="76" label="S1 believes this is alright to do while S2 does not agree">
+  <contributor label="S1 believes this is alright to do while S2 does not agree">
+   <part label="S1 believes this is alright to do while S2 does not agree" start="3165" end="3222"/>
+  </contributor>
+ </scu>
+</pyramid>

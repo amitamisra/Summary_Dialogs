@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP It)) (VP (MD will) (VP (VB cost) (NP (JJR more) (NNS votes)) (SBAR (IN than) (S (NP (PRP it)) (VP (MD will) (VP (VB gain))))))) (. .)))

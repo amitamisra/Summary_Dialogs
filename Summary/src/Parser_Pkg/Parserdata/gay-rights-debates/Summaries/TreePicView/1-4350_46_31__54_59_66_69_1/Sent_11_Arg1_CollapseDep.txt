@@ -1,0 +1,8 @@
+root(ROOT-0, considered-3)
+nsubjpass(considered-3, what-1)
+auxpass(considered-3, is-2)
+xcomp(considered-3, common-4)
+acomp(considered-3, such-6)
+det(family-10, a-8)
+amod(family-10, nuclear-9)
+prep_as(such-6, family-10)

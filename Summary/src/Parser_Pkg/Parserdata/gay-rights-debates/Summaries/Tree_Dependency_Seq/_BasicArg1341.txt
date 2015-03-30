@@ -1,0 +1,7 @@
+root(ROOT-0, group-7)
+nsubj(group-7, theimionists-1)
+cop(group-7, are-2)
+neg(group-7, not-3)
+det(group-7, a-4)
+amod(group-7, real-5)
+amod(group-7, religious-6)

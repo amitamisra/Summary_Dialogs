@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ corrects) (NP (NP (NP (NN S2) (POS 's)) (NN grammar)) (SBAR (WHADVP (WRB when#0#Temporal)) (S (NP (PRP he)) (NP (NNS types) (JJ common) (NN law)))))) (. .)))

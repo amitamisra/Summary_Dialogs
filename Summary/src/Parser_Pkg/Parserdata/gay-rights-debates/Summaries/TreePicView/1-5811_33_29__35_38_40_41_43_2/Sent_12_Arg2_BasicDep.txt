@@ -1,0 +1,5 @@
+root(ROOT-0, extend-3)
+det(sentiment-2, this-1)
+nsubj(extend-3, sentiment-2)
+prep(extend-3, to-4)
+pobj(to-4, homosexuals-5)

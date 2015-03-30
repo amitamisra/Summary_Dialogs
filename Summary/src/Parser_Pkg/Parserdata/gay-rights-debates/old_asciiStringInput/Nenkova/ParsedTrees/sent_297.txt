@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP She)) (VP (VBZ suggests) (SBAR (IN that) (S (S (VP (TO to) (VP (VB view) (NP (PRP it)) (ADVP (RB otherwise))))) (VP (MD would) (VP (VB be) (NP (NP (DT an) (NN insult)) (PP (TO to) (NP (DT all) (JJ African) (NNPS Americans))))))))) (. .)))

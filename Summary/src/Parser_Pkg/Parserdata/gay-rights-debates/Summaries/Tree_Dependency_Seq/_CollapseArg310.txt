@@ -1,0 +1,3 @@
+root(ROOT-0, referenced-3)
+nsubjpass(referenced-3, Welfare-1)
+auxpass(referenced-3, is-2)

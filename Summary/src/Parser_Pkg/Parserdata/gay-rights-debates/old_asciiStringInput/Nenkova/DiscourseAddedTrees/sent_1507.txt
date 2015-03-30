@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (NN everyone)) (VP (VP (VBZ has) (NP (NP (DT the) (NN freedom)) (PP (IN of) (NP (NN speech))))) (CC and#0#0) (VP (VBZ is)) (PP (IN against) (S (VP (VBG speaking) (PRT (RP out)) (PP (IN towards) (NP (NP (JJ other) (NNS kinds)) (PP (IN of) (NP (NNS people)))))))))))) (. .)))

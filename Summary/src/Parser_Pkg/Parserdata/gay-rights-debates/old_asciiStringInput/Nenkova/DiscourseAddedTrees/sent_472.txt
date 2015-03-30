@@ -1,0 +1,1 @@
+(ROOT (S (SBAR (IN If#1#Contingency) (S (NP (NN someone)) (VP (VBZ wants)))) (NP (DT a) (NN law)) (VP (VBD changed) (SBAR (S (NP (NN S1)) (VP (VBZ thinks) (SBAR (S (NP (PRP they)) (VP (MD should) (VP (VP (VB get) (NP (DT the) (NN majority)) (PP (TO to) (NP (NN side))) (PP (IN with) (NP (PRP them)))) (CC and#0#0) (VP (VB change) (NP (PRP it))))))))))) (. .)))

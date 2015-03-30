@@ -1,0 +1,63 @@
+workerid	score
+AQVP5IH2S6WCB	20
+A14WWG6NKBDWGP	20
+A128YBWSIZLBWA	20	
+A2FXDTO0WXXL8X	20
+A1YWSCZ3GENEQB	20
+A2QZ277816OSEW	20
+A11D1QXK72A111	20
+AUAN582MLI96N	20
+A3HGDV4DD6G1CL	20
+A23M5FJOOKNG58	20
+A1S8DYWNS59XWB	20
+A1YWSCZ3GENEQB	20
+A2QZ277816OSEW	20
+AUAN582MLI96N	20
+A3PZV9M96H4O46	20
+AC4KLIIES5C3Y	20
+A2JWVE2I8JGFPN	20	
+A21SF3IKIZB0VN	20
+A2EDWDYCGX53D7	20
+A31NTXMORC544U	20
+A21SF3IKIZB0VN	20	
+A2LE5XPQUAQYOO	20	
+A1B0BKY85KVONA	20
+AWXXS0OB94U4A	20	
+A3L04CN6ZZ0FYR	20
+A2WFPG3N02ZEMT	20
+A3E8VLN0NNOYO9	20
+A184KSHXEPLG9A	20	
+A2OMIVDARWG1G9	20
+A2RDF2Y3SOUO18	20
+A38LIPX6GHLI9X	20
+A3982POZ37Y12Y	20
+ASBSFVA7H9OMU	20
+APWU8U28G6U5B	20	
+A33QNGWZ2Q0E6U	20
+A16M3Z8PFAN9KW	20
+A3MHPUISLP7CTS	20
+A1N8BW04V76ZSY	20 
+A2X0IIWOWX906Y	20	
+
+Hi Kevin,
+I have summaries related to only one topic Gay Rights as I am currently just focussing on one topic.
+As of  now I have 65  dialogs, each summarized by 5 different people.
+Initially I had this task done by undergrads hence one batch of 15 dialogs has summaries in text files and other batched were run on mechanical turk
+I'd send share them in google drive with 2 separate folders 
+There are 
+I'd explain there structure
+Batch1, Batch2,Batch3
+each contain text files. Each text file has summary of a dialog by 5 different people.
+The dialogs for these files are present in the file
+MT2_more750.csv.
+
+MT2 and MT3 folders also contain text files with dialogues summarized by 5 different persons.
+Dialogs for these files are in file  MT2/MT2_midrange.csv  and 
+MT3/MT3_midrange.csv.
+Filename  in folders MT2 and MT3 represents dialog keys, as there is a 1-1 mapping with file name and dialog keys  in csv files.
+
+If you have any doubts or need any additional clarification, feel free to email me.
+
+
+Thanks,
+Amita

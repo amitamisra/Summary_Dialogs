@@ -1,0 +1,4 @@
+root(ROOT-0, needed-4)
+nsubjpass(needed-4, it-1)
+auxpass(needed-4, is-2)
+neg(needed-4, not-3)

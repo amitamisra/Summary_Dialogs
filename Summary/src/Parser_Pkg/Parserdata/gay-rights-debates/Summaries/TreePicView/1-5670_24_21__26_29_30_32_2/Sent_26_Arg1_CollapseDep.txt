@@ -1,0 +1,8 @@
+root(ROOT-0, hypothetical-5)
+nsubj(hypothetical-5, objections-1)
+aux(hypothetical-5, should-2)
+neg(hypothetical-5, not-3)
+cop(hypothetical-5, be-4)
+amod(ones-10, actual-8)
+amod(ones-10, proven-9)
+conj_but(hypothetical-5, ones-10)

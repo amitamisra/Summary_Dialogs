@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBD said) (SBAR (IN that) (S (NP (NN S1)) (VP (VP (ADVP (RB probably)) (VBD liked) (NP (NN segregation))) (CC and) (VP (VBD was) (ADJP (RBS most) (JJ likely) (PP (IN against) (NP (NP (NNS women)) (VP (VBG voting) (ADVP (RB too))))))))))) (. .)))

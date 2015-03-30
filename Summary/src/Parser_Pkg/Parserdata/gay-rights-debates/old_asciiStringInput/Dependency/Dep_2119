@@ -1,0 +1,14 @@
+   S2 claims Canada sides with him 
+root(ROOT-0, claims-2)
+nsubj(claims-2, S2-1)
+nn(sides-4, Canada-3)
+dobj(claims-2, sides-4)
+prep_with(claims-2, him-6)
+
+   S2 claims Canada sides with him 
+root(ROOT-0, claims-2)
+nsubj(claims-2, S2-1)
+nn(sides-4, Canada-3)
+dobj(claims-2, sides-4)
+prep_with(claims-2, him-6)
+

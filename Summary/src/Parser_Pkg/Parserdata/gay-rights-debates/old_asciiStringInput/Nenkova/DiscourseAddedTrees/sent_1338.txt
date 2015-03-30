@@ -1,0 +1,1 @@
+(ROOT (NP (NP (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-)) (NNS Questions)) (SBAR (WHADVP (WRB why)) (S (VP (VBZ is) (NP (PRP it)))))) (PP (IN in) (NP (NNS societies) (NN interest))) (PP (IN in) (S (VP (VBG preventing) (NP (DT the) (NN government) (S (VP (TO to) (VP (VB be) (VP (VBN involved) (PP (IN in) (NP (NN marriage))))))))))) (. .)))

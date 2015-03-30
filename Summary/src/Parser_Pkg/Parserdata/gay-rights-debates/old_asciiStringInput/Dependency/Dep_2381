@@ -1,0 +1,24 @@
+   that the location of the AIS epidemic is irrelevant to the discussion 
+root(ROOT-0, irrelevant-9)
+mark(irrelevant-9, that-1)
+det(location-3, the-2)
+nsubj(irrelevant-9, location-3)
+det(AIS-6, the-5)
+prep_of(location-3, AIS-6)
+advmod(irrelevant-9, epidemic-7)
+cop(irrelevant-9, is-8)
+det(discussion-12, the-11)
+prep_to(irrelevant-9, discussion-12)
+
+   that the location of the AIS epidemic is irrelevant to the discussion 
+root(ROOT-0, irrelevant-9)
+mark(irrelevant-9, that-1)
+det(location-3, the-2)
+nsubj(irrelevant-9, location-3)
+det(AIS-6, the-5)
+prep_of(location-3, AIS-6)
+advmod(irrelevant-9, epidemic-7)
+cop(irrelevant-9, is-8)
+det(discussion-12, the-11)
+prep_to(irrelevant-9, discussion-12)
+

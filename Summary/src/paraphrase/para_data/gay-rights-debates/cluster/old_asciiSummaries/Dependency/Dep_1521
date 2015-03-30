@@ -1,0 +1,14 @@
+He says he agrees with taking care of the elderly, fairness, and freedom.
+root(ROOT-0, says-2)
+nsubj(says-2, He-1)
+nsubj(agrees-4, he-3)
+ccomp(says-2, agrees-4)
+prepc_with(agrees-4, taking-6)
+dobj(taking-6, care-7)
+det(elderly-10, the-9)
+prep_of(care-7, elderly-10)
+prep_of(care-7, fairness-12)
+conj_and(elderly-10, fairness-12)
+prep_of(care-7, freedom-15)
+conj_and(elderly-10, freedom-15)
+

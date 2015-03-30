@@ -1,0 +1,11 @@
+Welfare is referenced when making a point about political muscle.
+root(ROOT-0, referenced-3)
+nsubjpass(referenced-3, Welfare-1)
+auxpass(referenced-3, is-2)
+advmod(making-5, when-4)
+advcl(referenced-3, making-5)
+det(point-7, a-6)
+dobj(making-5, point-7)
+amod(muscle-10, political-9)
+prep_about(making-5, muscle-10)
+

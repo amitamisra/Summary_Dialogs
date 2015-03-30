@@ -1,0 +1,14 @@
+  society is oppressing people , 
+root(ROOT-0, oppressing-3)
+nsubj(oppressing-3, society-1)
+aux(oppressing-3, is-2)
+dobj(oppressing-3, people-4)
+
+ S1 advises 
+root(ROOT-0, advises-2)
+nsubj(advises-2, S1-1)
+
+ S1 advises 
+root(ROOT-0, advises-2)
+nsubj(advises-2, S1-1)
+

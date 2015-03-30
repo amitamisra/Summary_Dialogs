@@ -1,0 +1,6 @@
+root(ROOT-0, understands-2)
+nsubj(understands-2, S2-1)
+det(concept-4, the-3)
+dobj(understands-2, concept-4)
+prep(concept-4, of-5)
+pobj(of-5, inconsistency-6)

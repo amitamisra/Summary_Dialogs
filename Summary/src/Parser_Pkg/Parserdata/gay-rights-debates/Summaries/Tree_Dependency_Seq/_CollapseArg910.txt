@@ -1,0 +1,7 @@
+root(ROOT-0, was-2)
+expl(was-2, there-1)
+det(identity-5, a-3)
+amod(identity-5, social-4)
+nsubj(was-2, identity-5)
+prep_among(identity-5, homosexuals-7)
+prep_in(homosexuals-7, 1909-9)

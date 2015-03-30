@@ -1,0 +1,38 @@
+ that heterosexual marriages still end in divorce around 50 % of the time .
+
+
+root(ROOT-0, end-5)
+mark(end-5, that-1)
+amod(marriages-3, heterosexual-2)
+nsubj(end-5, marriages-3)
+advmod(end-5, still-4)
+prep_in(end-5, divorce-7)
+num(%-10, 50-9)
+prep_around(end-5, %-10)
+det(time-13, the-12)
+prep_of(%-10, time-13)
+
+   straight people that are n't married ca n't get it 
+root(ROOT-0, get-9)
+amod(people-2, straight-1)
+nsubj(get-9, people-2)
+nsubjpass(married-6, that-3)
+auxpass(married-6, are-4)
+neg(married-6, n't-5)
+rcmod(people-2, married-6)
+aux(get-9, ca-7)
+neg(get-9, n't-8)
+dobj(get-9, it-10)
+
+   straight people that are n't married ca n't get it 
+root(ROOT-0, get-9)
+amod(people-2, straight-1)
+nsubj(get-9, people-2)
+nsubjpass(married-6, that-3)
+auxpass(married-6, are-4)
+neg(married-6, n't-5)
+rcmod(people-2, married-6)
+aux(get-9, ca-7)
+neg(get-9, n't-8)
+dobj(get-9, it-10)
+

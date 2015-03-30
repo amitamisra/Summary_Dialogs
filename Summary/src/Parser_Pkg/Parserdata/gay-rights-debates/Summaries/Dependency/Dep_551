@@ -1,0 +1,22 @@
+legally they are not.
+root(ROOT-0, are-3)
+advmod(are-3, legally-1)
+nsubj(are-3, they-2)
+neg(are-3, not-4)
+
+legally they are not.
+root(ROOT-0, are-3)
+advmod(are-3, legally-1)
+nsubj(are-3, they-2)
+neg(are-3, not-4)
+
+the issue at hand is not being discussed.
+root(ROOT-0, discussed-8)
+det(issue-2, the-1)
+nsubjpass(discussed-8, issue-2)
+prep(issue-2, at-3)
+pobj(at-3, hand-4)
+aux(discussed-8, is-5)
+neg(discussed-8, not-6)
+auxpass(discussed-8, being-7)
+

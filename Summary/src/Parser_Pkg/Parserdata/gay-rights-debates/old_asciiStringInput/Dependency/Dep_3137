@@ -1,0 +1,26 @@
+ that politicians lie about their opinion to not loose votes .
+
+
+root(ROOT-0, lie-3)
+mark(lie-3, that-1)
+nsubj(lie-3, politicians-2)
+poss(opinion-6, their-5)
+prep_about(lie-3, opinion-6)
+aux(loose-9, to-7)
+neg(loose-9, not-8)
+vmod(opinion-6, loose-9)
+dobj(loose-9, votes-10)
+
+ that politicians lie about their opinion to not loose votes .
+
+
+root(ROOT-0, lie-3)
+mark(lie-3, that-1)
+nsubj(lie-3, politicians-2)
+poss(opinion-6, their-5)
+prep_about(lie-3, opinion-6)
+aux(loose-9, to-7)
+neg(loose-9, not-8)
+vmod(opinion-6, loose-9)
+dobj(loose-9, votes-10)
+

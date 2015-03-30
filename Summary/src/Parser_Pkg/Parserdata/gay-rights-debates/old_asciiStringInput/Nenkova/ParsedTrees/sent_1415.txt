@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT This)) (VP (VBZ means) (SBAR (IN that) (S (NP (DT the) (NNS results)) (VP (VBP reflect) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNS voters)) (VP (VBP feel) (PP (IN about) (NP (JJ gay) (NN marriage)))))))))) (. .)))

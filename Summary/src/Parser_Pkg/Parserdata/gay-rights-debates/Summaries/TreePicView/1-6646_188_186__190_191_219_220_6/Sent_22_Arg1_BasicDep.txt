@@ -1,0 +1,7 @@
+root(ROOT-0, frowned-3)
+nsubjpass(frowned-3, It-1)
+auxpass(frowned-3, was-2)
+prep(frowned-3, upon-4)
+pcomp(upon-4, in-5)
+amod(times-7, Roman-6)
+pobj(in-5, times-7)

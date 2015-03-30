@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP It)) (VP (MD would) (VP (VP (VB create) (NP (DT a) (JJ new) (JJ dependent) (NN class))) (CC and#0#0) (VP (VB be) (NP (NP (DT a) (JJ large) (JJ new) (NN tax)) (PP (IN on) (NP (NP (NNS businesses)) (, ,) (NP (NNP Social) (NNP Security)) (, ,) (CC and#1#0) (NP (NN healthcare)))))))) (. .)))

@@ -1,0 +1,18 @@
+In addition, he states that the left wing aren't against deficits, since numerousemocrats want to spend more than Bush.
+root(ROOT-0, states-5)
+prep_in(states-5, addition-2)
+nsubj(states-5, he-4)
+mark(are-10, that-6)
+det(wing-9, the-7)
+amod(wing-9, left-8)
+nsubj(are-10, wing-9)
+ccomp(states-5, are-10)
+neg(are-10, n't-11)
+prep_against(are-10, deficits-13)
+nsubj(want-17, numerousemocrats-16)
+prepc_since(deficits-13, want-17)
+aux(spend-19, to-18)
+xcomp(want-17, spend-19)
+dobj(spend-19, more-20)
+prep_than(spend-19, Bush-22)
+

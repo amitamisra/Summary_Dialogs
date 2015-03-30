@@ -1,0 +1,5 @@
+root(ROOT-0, marry-4)
+prep_in(marry-4, which-2)
+nsubj(marry-4, warriors-3)
+amod(warriors-6, other-5)
+dobj(marry-4, warriors-6)

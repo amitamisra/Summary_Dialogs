@@ -1,0 +1,14 @@
+S1 questions to how equal marriages hurts the woman or any other heterosexual.
+root(ROOT-0, questions-2)
+nn(questions-2, S1-1)
+advmod(hurts-7, how-4)
+amod(marriages-6, equal-5)
+nsubj(hurts-7, marriages-6)
+prepc_to(questions-2, hurts-7)
+det(woman-9, the-8)
+dobj(hurts-7, woman-9)
+det(heterosexual-13, any-11)
+amod(heterosexual-13, other-12)
+dobj(hurts-7, heterosexual-13)
+conj_or(woman-9, heterosexual-13)
+

@@ -1,0 +1,2 @@
+root(ROOT-0, seems-2)
+nsubj(seems-2, it-1)

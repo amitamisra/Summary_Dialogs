@@ -1,0 +1,22 @@
+In some cases they were even frowned upon .
+
+
+root(ROOT-0, frowned-7)
+det(cases-3, some-2)
+prep_in(frowned-7, cases-3)
+nsubjpass(frowned-7, they-4)
+auxpass(frowned-7, were-5)
+advmod(frowned-7, even-6)
+prep(frowned-7, upon-8)
+
+In some cases they were even frowned upon .
+
+
+root(ROOT-0, frowned-7)
+det(cases-3, some-2)
+prep_in(frowned-7, cases-3)
+nsubjpass(frowned-7, they-4)
+auxpass(frowned-7, were-5)
+advmod(frowned-7, even-6)
+prep(frowned-7, upon-8)
+

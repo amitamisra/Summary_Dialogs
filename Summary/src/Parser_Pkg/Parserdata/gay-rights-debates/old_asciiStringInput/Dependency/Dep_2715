@@ -1,0 +1,14 @@
+   that it boils down to marriage 
+root(ROOT-0, boils-3)
+mark(boils-3, that-1)
+nsubj(boils-3, it-2)
+prt(boils-3, down-4)
+prep_to(boils-3, marriage-6)
+
+   that it boils down to marriage 
+root(ROOT-0, boils-3)
+mark(boils-3, that-1)
+nsubj(boils-3, it-2)
+prt(boils-3, down-4)
+prep_to(boils-3, marriage-6)
+

@@ -1,0 +1,13 @@
+S1 believes S2s position is stupid and that S2 is in denial.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+nn(position-4, S2s-3)
+nsubj(stupid-6, position-4)
+cop(stupid-6, is-5)
+ccomp(believes-2, stupid-6)
+mark(is-10, that-8)
+nsubj(is-10, S2-9)
+ccomp(believes-2, is-10)
+conj_and(stupid-6, is-10)
+prep_in(is-10, denial-12)
+

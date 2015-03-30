@@ -1,0 +1,36 @@
+  that republicans do not cite or reference Paul 
+root(ROOT-0, cite-5)
+mark(cite-5, that-1)
+nsubj(cite-5, republicans-2)
+nsubj(reference-7, republicans-2)
+aux(cite-5, do-3)
+neg(cite-5, not-4)
+conj_or(cite-5, reference-7)
+dobj(cite-5, Paul-8)
+
+ S2 advises he supports equal opportunities for all people despite their sexual preferences 
+root(ROOT-0, advises-2)
+nsubj(advises-2, S2-1)
+nsubj(supports-4, he-3)
+ccomp(advises-2, supports-4)
+amod(opportunities-6, equal-5)
+dobj(supports-4, opportunities-6)
+det(people-9, all-8)
+prep_for(opportunities-6, people-9)
+poss(preferences-13, their-11)
+amod(preferences-13, sexual-12)
+prep_despite(supports-4, preferences-13)
+
+ S2 advises he supports equal opportunities for all people despite their sexual preferences 
+root(ROOT-0, advises-2)
+nsubj(advises-2, S2-1)
+nsubj(supports-4, he-3)
+ccomp(advises-2, supports-4)
+amod(opportunities-6, equal-5)
+dobj(supports-4, opportunities-6)
+det(people-9, all-8)
+prep_for(opportunities-6, people-9)
+poss(preferences-13, their-11)
+amod(preferences-13, sexual-12)
+prep_despite(supports-4, preferences-13)
+

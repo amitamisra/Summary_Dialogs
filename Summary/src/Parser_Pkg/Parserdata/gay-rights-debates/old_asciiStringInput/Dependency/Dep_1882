@@ -1,0 +1,45 @@
+S1 anticipates the responses of S2 and questions S2s ability to learn from the debate .
+
+
+root(ROOT-0, anticipates-2)
+nsubj(anticipates-2, S1-1)
+det(responses-4, the-3)
+nsubj(ability-10, responses-4)
+nn(S2s-9, S2-6)
+conj_and(S2-6, questions-8)
+nn(S2s-9, questions-8)
+prep_of(responses-4, S2s-9)
+xcomp(anticipates-2, ability-10)
+aux(learn-12, to-11)
+vmod(ability-10, learn-12)
+det(debate-15, the-14)
+prep_from(learn-12, debate-15)
+
+S1 questions to how equal marriages hurts the woman or any other heterosexual.
+root(ROOT-0, questions-2)
+nn(questions-2, S1-1)
+advmod(hurts-7, how-4)
+amod(marriages-6, equal-5)
+nsubj(hurts-7, marriages-6)
+prepc_to(questions-2, hurts-7)
+det(woman-9, the-8)
+dobj(hurts-7, woman-9)
+det(heterosexual-13, any-11)
+amod(heterosexual-13, other-12)
+dobj(hurts-7, heterosexual-13)
+conj_or(woman-9, heterosexual-13)
+
+S1 questions to how equal marriages hurts the woman or any other heterosexual.
+root(ROOT-0, questions-2)
+nn(questions-2, S1-1)
+advmod(hurts-7, how-4)
+amod(marriages-6, equal-5)
+nsubj(hurts-7, marriages-6)
+prepc_to(questions-2, hurts-7)
+det(woman-9, the-8)
+dobj(hurts-7, woman-9)
+det(heterosexual-13, any-11)
+amod(heterosexual-13, other-12)
+dobj(hurts-7, heterosexual-13)
+conj_or(woman-9, heterosexual-13)
+

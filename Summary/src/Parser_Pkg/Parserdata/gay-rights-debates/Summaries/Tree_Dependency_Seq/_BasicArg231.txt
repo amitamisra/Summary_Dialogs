@@ -1,0 +1,6 @@
+root(ROOT-0, leave-6)
+amod(people-2, gay-1)
+nsubj(leave-6, people-2)
+vmod(people-2, upset-3)
+prep(upset-3, by-4)
+pobj(by-4, VA-5)

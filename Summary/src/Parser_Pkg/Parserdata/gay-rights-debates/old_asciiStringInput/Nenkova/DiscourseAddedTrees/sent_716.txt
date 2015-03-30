@@ -1,0 +1,1 @@
+(ROOT (S (SBAR (IN If#1#Contingency) (S (NP (JJ equal) (NN marriage)) (VP (VBZ is) (VP (VBN incorporated) (PP (IN into) (NP (DT the) (NN law))) (ADVP (RB then#1#Contingency)))))) (NP (NN nobody)) (VP (VBZ gets) (ADJP (NN hurt))) (. .)))

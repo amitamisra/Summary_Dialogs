@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (NN S1)) (VP (VBZ does) (RB n't) (VP (VB understand) (SBAR (IN because#0#Contingency) (S (NP (PRP he)) (VP (VBZ is) (ADJP (JJ heterosexual))))))))))) (CC and#1#Expansion) (RB not) (S (NP (DT the) (CD one)) (VP (VBG being) (VP (VBN oppressed)))) (. .)))

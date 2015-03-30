@@ -1,0 +1,44 @@
+ that any legislation put into motion has been pushed around the voters , and never accounted for on an actual ballot .
+
+
+root(ROOT-0, pushed-9)
+mark(put-4, that-1)
+det(legislation-3, any-2)
+nsubj(put-4, legislation-3)
+csubjpass(pushed-9, put-4)
+csubjpass(accounted-16, put-4)
+prep_into(put-4, motion-6)
+aux(pushed-9, has-7)
+auxpass(pushed-9, been-8)
+det(voters-12, the-11)
+prep_around(pushed-9, voters-12)
+neg(accounted-16, never-15)
+conj_and(pushed-9, accounted-16)
+prep(accounted-16, for-17)
+pcomp(for-17, on-18)
+det(ballot-21, an-19)
+amod(ballot-21, actual-20)
+pobj(on-18, ballot-21)
+
+ that any legislation put into motion has been pushed around the voters , and never accounted for on an actual ballot .
+
+
+root(ROOT-0, pushed-9)
+mark(put-4, that-1)
+det(legislation-3, any-2)
+nsubj(put-4, legislation-3)
+csubjpass(pushed-9, put-4)
+csubjpass(accounted-16, put-4)
+prep_into(put-4, motion-6)
+aux(pushed-9, has-7)
+auxpass(pushed-9, been-8)
+det(voters-12, the-11)
+prep_around(pushed-9, voters-12)
+neg(accounted-16, never-15)
+conj_and(pushed-9, accounted-16)
+prep(accounted-16, for-17)
+pcomp(for-17, on-18)
+det(ballot-21, an-19)
+amod(ballot-21, actual-20)
+pobj(on-18, ballot-21)
+

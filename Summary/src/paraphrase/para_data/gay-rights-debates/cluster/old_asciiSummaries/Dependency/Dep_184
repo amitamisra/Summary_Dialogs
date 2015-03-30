@@ -1,0 +1,13 @@
+S1 questions is Maines voting results will overturn the 9th amendment.
+root(ROOT-0, Maines-4)
+nn(questions-2, S1-1)
+nsubj(Maines-4, questions-2)
+cop(Maines-4, is-3)
+nn(results-6, voting-5)
+nsubj(overturn-8, results-6)
+aux(overturn-8, will-7)
+rcmod(Maines-4, overturn-8)
+det(amendment-11, the-9)
+amod(amendment-11, 9th-10)
+dobj(overturn-8, amendment-11)
+

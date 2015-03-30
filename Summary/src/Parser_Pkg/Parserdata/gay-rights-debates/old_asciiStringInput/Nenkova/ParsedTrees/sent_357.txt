@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP They)) (VP (VBP do) (RB n't) (VP (VB believe) (SBAR (IN that) (S (NP (JJ homosexual) (NNS relationships)) (VP (MD should) (VP (VB compare) (PP (TO to) (NP (JJ heterosexual) (NNS marriages))) (SBAR (IN because) (S (NP (RB only) (NNS heterosexuals)) (VP (VBP are) (ADVP (RB legally)) (VP (VBN allowed) (S (VP (TO to) (VP (VB marry)))))))))))))) (. .)))

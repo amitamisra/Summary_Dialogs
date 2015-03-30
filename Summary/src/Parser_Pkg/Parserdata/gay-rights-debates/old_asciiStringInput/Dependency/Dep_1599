@@ -1,0 +1,36 @@
+   he said  he doesnt support gay marriage    he could keep from losing votes  .  
+root(ROOT-0, said-2)
+nsubj(said-2, he-1)
+dobj(said-2, he-3)
+amod(marriage-7, doesnt-4)
+nn(marriage-7, support-5)
+amod(marriage-7, gay-6)
+tmod(said-2, marriage-7)
+nsubj(keep-10, he-8)
+aux(keep-10, could-9)
+rcmod(marriage-7, keep-10)
+prepc_from(keep-10, losing-12)
+dobj(losing-12, votes-13)
+
+ ,   there was no `` gay lifestyle '' to be prejudiced against 
+root(ROOT-0, was-3)
+expl(was-3, there-2)
+neg(lifestyle-7, no-4)
+amod(lifestyle-7, gay-6)
+nsubj(was-3, lifestyle-7)
+aux(prejudiced-11, to-9)
+auxpass(prejudiced-11, be-10)
+vmod(lifestyle-7, prejudiced-11)
+prep(prejudiced-11, against-12)
+
+ ,   there was no `` gay lifestyle '' to be prejudiced against 
+root(ROOT-0, was-3)
+expl(was-3, there-2)
+neg(lifestyle-7, no-4)
+amod(lifestyle-7, gay-6)
+nsubj(was-3, lifestyle-7)
+aux(prejudiced-11, to-9)
+auxpass(prejudiced-11, be-10)
+vmod(lifestyle-7, prejudiced-11)
+prep(prejudiced-11, against-12)
+

@@ -1,0 +1,4 @@
+For file clusters used 
+Cos_Cluster_70_AVG_Noun_Verb_Ad.txt
+Pairwise clusters are in
+Pairs_Cos_Cluster_70_AVG_Noun_Verb_Ad.csv

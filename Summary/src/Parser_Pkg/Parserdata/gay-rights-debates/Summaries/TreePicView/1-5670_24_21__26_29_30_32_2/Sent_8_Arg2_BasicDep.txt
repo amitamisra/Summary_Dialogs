@@ -1,0 +1,7 @@
+root(ROOT-0, uncomfortable-4)
+nsubj(uncomfortable-4, S1-1)
+cop(uncomfortable-4, is-2)
+advmod(uncomfortable-4, just-3)
+prep(uncomfortable-4, with-5)
+det(results-7, the-6)
+pobj(with-5, results-7)

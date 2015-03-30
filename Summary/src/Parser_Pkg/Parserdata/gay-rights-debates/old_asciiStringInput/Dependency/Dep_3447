@@ -1,0 +1,22 @@
+  it 's obvious  where it starts    somebody gets burned  . 
+root(ROOT-0, obvious-3)
+nsubj(obvious-3, it-1)
+cop(obvious-3, 's-2)
+advmod(starts-6, where-4)
+nsubj(starts-6, it-5)
+advcl(obvious-3, starts-6)
+nsubjpass(burned-9, somebody-7)
+auxpass(burned-9, gets-8)
+ccomp(starts-6, burned-9)
+
+  it 's obvious  where it starts    somebody gets burned  . 
+root(ROOT-0, obvious-3)
+nsubj(obvious-3, it-1)
+cop(obvious-3, 's-2)
+advmod(starts-6, where-4)
+nsubj(starts-6, it-5)
+advcl(obvious-3, starts-6)
+nsubjpass(burned-9, somebody-7)
+auxpass(burned-9, gets-8)
+ccomp(starts-6, burned-9)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, left-4)
+nsubjpass(left-4, it-1)
+aux(left-4, should-2)
+auxpass(left-4, be-3)
+amod(institutions-7, religious-6)
+prep_to(left-4, institutions-7)

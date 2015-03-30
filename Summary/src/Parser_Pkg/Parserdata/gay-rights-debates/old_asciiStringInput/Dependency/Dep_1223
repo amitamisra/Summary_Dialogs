@@ -1,0 +1,43 @@
+ the disease was made into a huge health concern as the result of the homosexual community .
+
+
+root(ROOT-0, made-4)
+det(disease-2, the-1)
+nsubjpass(made-4, disease-2)
+auxpass(made-4, was-3)
+det(concern-9, a-6)
+amod(concern-9, huge-7)
+nn(concern-9, health-8)
+prep_into(made-4, concern-9)
+det(result-12, the-11)
+prep_as(made-4, result-12)
+det(community-16, the-14)
+amod(community-16, homosexual-15)
+prep_of(result-12, community-16)
+
+S1 and S2 are discussing the issue of marriage equality .
+
+
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+det(issue-7, the-6)
+dobj(discussing-5, issue-7)
+nn(equality-10, marriage-9)
+prep_of(issue-7, equality-10)
+
+S1 and S2 are discussing the issue of marriage equality .
+
+
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+det(issue-7, the-6)
+dobj(discussing-5, issue-7)
+nn(equality-10, marriage-9)
+prep_of(issue-7, equality-10)
+

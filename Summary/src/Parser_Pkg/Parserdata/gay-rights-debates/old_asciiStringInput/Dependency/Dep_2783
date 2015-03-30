@@ -1,0 +1,28 @@
+ that his family represents the norm , not a deviation from it .
+
+
+root(ROOT-0, not-8)
+mark(represents-4, that-1)
+poss(family-3, his-2)
+nsubj(represents-4, family-3)
+dep(not-8, represents-4)
+det(norm-6, the-5)
+dobj(represents-4, norm-6)
+det(deviation-10, a-9)
+dep(not-8, deviation-10)
+prep_from(not-8, it-12)
+
+ that his family represents the norm , not a deviation from it .
+
+
+root(ROOT-0, not-8)
+mark(represents-4, that-1)
+poss(family-3, his-2)
+nsubj(represents-4, family-3)
+dep(not-8, represents-4)
+det(norm-6, the-5)
+dobj(represents-4, norm-6)
+det(deviation-10, a-9)
+dep(not-8, deviation-10)
+prep_from(not-8, it-12)
+

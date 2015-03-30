@@ -1,0 +1,42 @@
+Two people are discussing whether or not the civil rights activists are for gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+mark(are-12, whether-5)
+ccomp(discussing-4, not-7)
+conj_or(are-12, not-7)
+det(activists-11, the-8)
+amod(activists-11, civil-9)
+nn(activists-11, rights-10)
+nsubj(are-12, activists-11)
+ccomp(discussing-4, are-12)
+amod(marriage-15, gay-14)
+prep_for(are-12, marriage-15)
+
+   he does n't have to hear gay people complain anymore  
+root(ROOT-0, have-4)
+nsubj(have-4, he-1)
+aux(have-4, does-2)
+neg(have-4, n't-3)
+aux(hear-6, to-5)
+xcomp(have-4, hear-6)
+amod(people-8, gay-7)
+nsubj(complain-9, people-8)
+ccomp(hear-6, complain-9)
+advmod(complain-9, anymore-10)
+
+   he does n't have to hear gay people complain anymore  
+root(ROOT-0, have-4)
+nsubj(have-4, he-1)
+aux(have-4, does-2)
+neg(have-4, n't-3)
+aux(hear-6, to-5)
+xcomp(have-4, hear-6)
+amod(people-8, gay-7)
+nsubj(complain-9, people-8)
+ccomp(hear-6, complain-9)
+advmod(complain-9, anymore-10)
+

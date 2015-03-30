@@ -1,0 +1,7 @@
+root(ROOT-0, show-7)
+det(statistics-2, the-1)
+nsubj(show-7, statistics-2)
+prep(statistics-2, regarding-3)
+pobj(regarding-3, AIs-4)
+prep(AIs-4, in-5)
+pobj(in-5, Africa-6)

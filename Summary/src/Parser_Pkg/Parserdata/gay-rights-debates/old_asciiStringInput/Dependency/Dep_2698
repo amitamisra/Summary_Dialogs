@@ -1,0 +1,26 @@
+Hence the term bigot is appropriate to those who oppose gay marriage.
+root(ROOT-0, appropriate-6)
+advmod(appropriate-6, Hence-1)
+det(bigot-4, the-2)
+nn(bigot-4, term-3)
+nsubj(appropriate-6, bigot-4)
+cop(appropriate-6, is-5)
+prep_to(appropriate-6, those-8)
+nsubj(oppose-10, who-9)
+rcmod(those-8, oppose-10)
+amod(marriage-12, gay-11)
+dobj(oppose-10, marriage-12)
+
+Hence the term bigot is appropriate to those who oppose gay marriage.
+root(ROOT-0, appropriate-6)
+advmod(appropriate-6, Hence-1)
+det(bigot-4, the-2)
+nn(bigot-4, term-3)
+nsubj(appropriate-6, bigot-4)
+cop(appropriate-6, is-5)
+prep_to(appropriate-6, those-8)
+nsubj(oppose-10, who-9)
+rcmod(those-8, oppose-10)
+amod(marriage-12, gay-11)
+dobj(oppose-10, marriage-12)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+neg(piece-5, no-3)
+amod(piece-5, such-4)
+nsubj(is-2, piece-5)
+det(constitution-9, the-7)
+nn(constitution-9, Massachusetts-8)
+prep_to(piece-5, constitution-9)

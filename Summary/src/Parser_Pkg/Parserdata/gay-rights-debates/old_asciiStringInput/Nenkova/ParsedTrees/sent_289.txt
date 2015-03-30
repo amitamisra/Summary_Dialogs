@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP She)) (ADVP (RB then)) (VP (VP (VBZ shares) (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NP (NNS links)) (PP (IN for) (NP (NN S1)))))) (S (VP (TO to) (VP (VB see))))) (CC and) (VP (ADVP (RB then)) (VBZ replies) (SBAR (IN that) (S (NP (DT no) (NN one)) (VP (MD will) (ADVP (RB ever)) (VP (VB know) (PP (IN for) (ADJP (JJ sure))))))))) (. .)))

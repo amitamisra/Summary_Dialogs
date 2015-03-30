@@ -1,0 +1,36 @@
+ that the currentemocratic party is anti-religion , over-regulatory , and controlled by the gay lobby .
+
+
+root(ROOT-0, over-regulatory-8)
+mark(over-regulatory-8, that-1)
+det(party-4, the-2)
+amod(party-4, currentemocratic-3)
+nsubjpass(over-regulatory-8, party-4)
+nsubjpass(controlled-11, party-4)
+auxpass(over-regulatory-8, is-5)
+amod(over-regulatory-8, anti-religion-6)
+conj_and(over-regulatory-8, controlled-11)
+det(lobby-15, the-13)
+amod(lobby-15, gay-14)
+prep_by(controlled-11, lobby-15)
+
+Two people are discussing marriage benefits .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+nn(benefits-6, marriage-5)
+dobj(discussing-4, benefits-6)
+
+Two people are discussing marriage benefits .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+nn(benefits-6, marriage-5)
+dobj(discussing-4, benefits-6)
+

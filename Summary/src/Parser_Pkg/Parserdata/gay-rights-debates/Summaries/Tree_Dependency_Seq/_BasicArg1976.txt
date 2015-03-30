@@ -1,0 +1,5 @@
+root(ROOT-0, asks-2)
+nsubj(asks-2, S2-1)
+dobj(asks-2, S1-3)
+aux(quote-5, to-4)
+xcomp(asks-2, quote-5)

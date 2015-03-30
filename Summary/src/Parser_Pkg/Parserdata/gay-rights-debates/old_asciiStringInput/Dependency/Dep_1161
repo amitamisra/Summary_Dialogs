@@ -1,0 +1,39 @@
+ one can learn about this group by looking at Jerry Falwell or Pat Robertson .
+
+
+root(ROOT-0, learn-3)
+nsubj(learn-3, one-1)
+aux(learn-3, can-2)
+det(group-6, this-5)
+prep_about(learn-3, group-6)
+prepc_by(learn-3, looking-8)
+nn(Falwell-11, Jerry-10)
+prep_at(looking-8, Falwell-11)
+nn(Robertson-14, Pat-13)
+prep_at(looking-8, Robertson-14)
+conj_or(Falwell-11, Robertson-14)
+
+ that  a law effects an individuals ' life in an unjust way 
+root(ROOT-0, effects-4)
+dep(effects-4, that-1)
+det(effects-4, a-2)
+nn(effects-4, law-3)
+det(individuals-6, an-5)
+poss(life-8, individuals-6)
+dep(effects-4, life-8)
+det(way-12, an-10)
+amod(way-12, unjust-11)
+prep_in(life-8, way-12)
+
+ that  a law effects an individuals ' life in an unjust way 
+root(ROOT-0, effects-4)
+dep(effects-4, that-1)
+det(effects-4, a-2)
+nn(effects-4, law-3)
+det(individuals-6, an-5)
+poss(life-8, individuals-6)
+dep(effects-4, life-8)
+det(way-12, an-10)
+amod(way-12, unjust-11)
+prep_in(life-8, way-12)
+

@@ -1,0 +1,3 @@
+root(ROOT-0, proposes-2)
+nsubj(proposes-2, He-1)
+dobj(proposes-2, concerns-3)

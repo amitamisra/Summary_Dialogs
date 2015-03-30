@@ -1,0 +1,13 @@
+A person can claim a moral or religious stance without having one.
+root(ROOT-0, claim-4)
+det(person-2, A-1)
+nsubj(claim-4, person-2)
+aux(claim-4, can-3)
+det(stance-9, a-5)
+amod(stance-9, moral-6)
+conj_or(moral-6, religious-8)
+amod(stance-9, religious-8)
+dobj(claim-4, stance-9)
+prepc_without(claim-4, having-11)
+dobj(having-11, one-12)
+

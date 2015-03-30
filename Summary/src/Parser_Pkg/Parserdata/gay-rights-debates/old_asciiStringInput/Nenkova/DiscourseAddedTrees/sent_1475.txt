@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ does) (RB not) (VP (VB believe) (SBAR (IN that) (S (NP (NN marriage) (NN equality)) (VP (VBZ is) (NP (NN something)) (SBAR (IN that) (S (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (DT the) (NNS voters)))) (VP (VBP wish) (S (VP (TO to) (VP (VB see) (VP (VBN enacted))))))))))))) (. .)))

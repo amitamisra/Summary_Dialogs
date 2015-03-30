@@ -1,0 +1,24 @@
+He believes anything opposed to one wing must be the other.
+root(ROOT-0, believes-2)
+nsubj(believes-2, He-1)
+nsubj(other-11, anything-3)
+vmod(anything-3, opposed-4)
+num(wing-7, one-6)
+prep_to(opposed-4, wing-7)
+aux(other-11, must-8)
+cop(other-11, be-9)
+det(other-11, the-10)
+ccomp(believes-2, other-11)
+
+He believes anything opposed to one wing must be the other.
+root(ROOT-0, believes-2)
+nsubj(believes-2, He-1)
+nsubj(other-11, anything-3)
+vmod(anything-3, opposed-4)
+num(wing-7, one-6)
+prep_to(opposed-4, wing-7)
+aux(other-11, must-8)
+cop(other-11, be-9)
+det(other-11, the-10)
+ccomp(believes-2, other-11)
+

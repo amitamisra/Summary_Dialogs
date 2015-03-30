@@ -1,0 +1,34 @@
+   that more than half of all heterosexual marriages end in divorce and suggests that it would likely be no difference for same-sex marriages 
+root(ROOT-0, end-9)
+mark(end-9, that-1)
+quantmod(half-4, more-2)
+quantmod(half-4, than-3)
+nsubj(end-9, half-4)
+nsubj(suggests-13, half-4)
+det(marriages-8, all-6)
+amod(marriages-8, heterosexual-7)
+prep_of(half-4, marriages-8)
+prep_in(end-9, divorce-11)
+conj_and(end-9, suggests-13)
+mark(difference-20, that-14)
+nsubj(difference-20, it-15)
+aux(difference-20, would-16)
+advmod(difference-20, likely-17)
+cop(difference-20, be-18)
+neg(difference-20, no-19)
+ccomp(suggests-13, difference-20)
+amod(marriages-23, same-sex-22)
+prep_for(difference-20, marriages-23)
+
+   legally they are not 
+root(ROOT-0, legally-1)
+nsubj(are-3, they-2)
+ccomp(legally-1, are-3)
+neg(are-3, not-4)
+
+   legally they are not 
+root(ROOT-0, legally-1)
+nsubj(are-3, they-2)
+ccomp(legally-1, are-3)
+neg(are-3, not-4)
+

@@ -1,0 +1,3 @@
+root(ROOT-0, supply-1)
+det(surplus-3, a-2)
+dobj(supply-1, surplus-3)

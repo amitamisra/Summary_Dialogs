@@ -1,0 +1,40 @@
+Most Americans, he thinks, are against gay marriage.
+root(ROOT-0, are-7)
+amod(Americans-2, Most-1)
+nsubj(are-7, Americans-2)
+nsubj(thinks-5, he-4)
+parataxis(are-7, thinks-5)
+prep(are-7, against-8)
+amod(marriage-10, gay-9)
+pobj(against-8, marriage-10)
+
+Most Americans, he thinks, are against gay marriage.
+root(ROOT-0, are-7)
+amod(Americans-2, Most-1)
+nsubj(are-7, Americans-2)
+nsubj(thinks-5, he-4)
+parataxis(are-7, thinks-5)
+prep(are-7, against-8)
+amod(marriage-10, gay-9)
+pobj(against-8, marriage-10)
+
+Most Americans, he thinks, are against gay marriage.
+root(ROOT-0, are-7)
+amod(Americans-2, Most-1)
+nsubj(are-7, Americans-2)
+nsubj(thinks-5, he-4)
+parataxis(are-7, thinks-5)
+prep(are-7, against-8)
+amod(marriage-10, gay-9)
+pobj(against-8, marriage-10)
+
+ the cases presented by S1 are not equivalent.
+root(ROOT-0, equivalent-8)
+det(cases-2, the-1)
+nsubj(equivalent-8, cases-2)
+vmod(cases-2, presented-3)
+prep(presented-3, by-4)
+pobj(by-4, S1-5)
+cop(equivalent-8, are-6)
+neg(equivalent-8, not-7)
+

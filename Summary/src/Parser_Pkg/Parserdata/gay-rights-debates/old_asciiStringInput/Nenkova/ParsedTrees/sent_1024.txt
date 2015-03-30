@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NP (NNS opponents)) (PP (IN of) (NP (JJ gay) (NNS rights)))) (VP (VBP are) (ADJP (JJ discriminatory) (CC and) (JJ bigoted)))))) (. .)))

@@ -1,0 +1,25 @@
+   immoral 
+root(ROOT-0, immoral-1)
+
+ S1 is against gay rights apparently because of the biblical story of Sodom , 
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+amod(rights-5, gay-4)
+prep_against(is-2, rights-5)
+advmod(is-2, apparently-6)
+det(story-11, the-9)
+amod(story-11, biblical-10)
+prep_because_of(is-2, story-11)
+prep_of(story-11, Sodom-13)
+
+ S1 is against gay rights apparently because of the biblical story of Sodom , 
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+amod(rights-5, gay-4)
+prep_against(is-2, rights-5)
+advmod(is-2, apparently-6)
+det(story-11, the-9)
+amod(story-11, biblical-10)
+prep_because_of(is-2, story-11)
+prep_of(story-11, Sodom-13)
+

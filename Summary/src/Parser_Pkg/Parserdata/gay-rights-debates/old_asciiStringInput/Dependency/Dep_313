@@ -1,0 +1,44 @@
+    they vocally defend the United States Constitution as written  ,   they  desire to be more flexible with public determined acceptance of behavior .  
+root(ROOT-0, desire-12)
+nsubj(defend-3, they-1)
+advmod(defend-3, vocally-2)
+ccomp(desire-12, defend-3)
+det(Constitution-7, the-4)
+nn(Constitution-7, United-5)
+nn(Constitution-7, States-6)
+dobj(defend-3, Constitution-7)
+prep_as(defend-3, written-9)
+nsubj(desire-12, they-11)
+aux(flexible-16, to-13)
+cop(flexible-16, be-14)
+advmod(flexible-16, more-15)
+xcomp(desire-12, flexible-16)
+prep_with(flexible-16, public-18)
+vmod(public-18, determined-19)
+dobj(determined-19, acceptance-20)
+prep_of(acceptance-20, behavior-22)
+
+Two people are discussing the increase in frequency of earthquakes .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(increase-6, the-5)
+dobj(discussing-4, increase-6)
+prep_in(increase-6, frequency-8)
+prep_of(frequency-8, earthquakes-10)
+
+Two people are discussing the increase in frequency of earthquakes .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(increase-6, the-5)
+dobj(discussing-4, increase-6)
+prep_in(increase-6, frequency-8)
+prep_of(frequency-8, earthquakes-10)
+

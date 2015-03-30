@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NN S1)) (VP (VBZ has) (RB not) (VP (VBN shown) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ religious) (NNS beliefs)) (VP (MD would) (VP (VB be) (VP (VBN taken) (ADVP (RB away)) (PP (IN from) (NP (PDT such) (DT a) (NN law))))))))))))) (. .)))

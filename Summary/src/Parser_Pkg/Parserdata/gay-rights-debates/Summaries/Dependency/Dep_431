@@ -1,0 +1,21 @@
+ legally they can.
+root(ROOT-0, can-3)
+advmod(can-3, legally-1)
+nsubj(can-3, they-2)
+
+ legally they can.
+root(ROOT-0, can-3)
+advmod(can-3, legally-1)
+nsubj(can-3, they-2)
+
+ S2 ca n't come up with a reference link.
+root(ROOT-0, come-4)
+nsubj(come-4, S2-1)
+aux(come-4, ca-2)
+neg(come-4, n't-3)
+prt(come-4, up-5)
+prep(come-4, with-6)
+det(link-9, a-7)
+nn(link-9, reference-8)
+pobj(with-6, link-9)
+

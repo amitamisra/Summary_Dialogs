@@ -1,0 +1,22 @@
+ S1 's lack of evidence proves there is none .
+
+
+root(ROOT-0, proves-6)
+poss(lack-3, S1-1)
+nsubj(proves-6, lack-3)
+prep_of(lack-3, evidence-5)
+expl(is-8, there-7)
+ccomp(proves-6, is-8)
+nsubj(is-8, none-9)
+
+ S1 's lack of evidence proves there is none .
+
+
+root(ROOT-0, proves-6)
+poss(lack-3, S1-1)
+nsubj(proves-6, lack-3)
+prep_of(lack-3, evidence-5)
+expl(is-8, there-7)
+ccomp(proves-6, is-8)
+nsubj(is-8, none-9)
+

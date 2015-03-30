@@ -1,0 +1,37 @@
+ the straight guy can marry or have a common law relationship.
+root(ROOT-0, marry-5)
+det(guy-3, the-1)
+amod(guy-3, straight-2)
+nsubj(marry-5, guy-3)
+aux(marry-5, can-4)
+cc(marry-5, or-6)
+conj(marry-5, have-7)
+det(relationship-11, a-8)
+amod(relationship-11, common-9)
+nn(relationship-11, law-10)
+dobj(have-7, relationship-11)
+
+ the straight guy can marry or have a common law relationship.
+root(ROOT-0, marry-5)
+det(guy-3, the-1)
+amod(guy-3, straight-2)
+nsubj(marry-5, guy-3)
+aux(marry-5, can-4)
+cc(marry-5, or-6)
+conj(marry-5, have-7)
+det(relationship-11, a-8)
+amod(relationship-11, common-9)
+nn(relationship-11, law-10)
+dobj(have-7, relationship-11)
+
+He states decentralization was a big theme for Jefferson.
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+nsubj(theme-7, decentralization-3)
+cop(theme-7, was-4)
+det(theme-7, a-5)
+amod(theme-7, big-6)
+ccomp(states-2, theme-7)
+prep(theme-7, for-8)
+pobj(for-8, Jefferson-9)
+

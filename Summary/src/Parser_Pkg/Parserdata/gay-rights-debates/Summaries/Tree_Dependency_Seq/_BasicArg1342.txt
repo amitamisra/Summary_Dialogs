@@ -1,0 +1,6 @@
+root(ROOT-0, on-1)
+pcomp(on-1, lying-2)
+aux(achieve-4, to-3)
+xcomp(lying-2, achieve-4)
+poss(goals-6, their-5)
+dobj(achieve-4, goals-6)

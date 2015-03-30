@@ -1,0 +1,46 @@
+   that S1 is not showing how the other person is being hurt by gay marriage 
+root(ROOT-0, showing-5)
+mark(showing-5, that-1)
+nsubj(showing-5, S1-2)
+aux(showing-5, is-3)
+neg(showing-5, not-4)
+advmod(hurt-12, how-6)
+det(person-9, the-7)
+amod(person-9, other-8)
+nsubjpass(hurt-12, person-9)
+aux(hurt-12, is-10)
+auxpass(hurt-12, being-11)
+ccomp(showing-5, hurt-12)
+amod(marriage-15, gay-14)
+agent(hurt-12, marriage-15)
+
+S1 specifically points out the comparison of gay marriage to incest or polygamy .
+
+
+root(ROOT-0, points-3)
+nsubj(points-3, S1-1)
+advmod(points-3, specifically-2)
+prt(points-3, out-4)
+det(comparison-6, the-5)
+dobj(points-3, comparison-6)
+amod(marriage-9, gay-8)
+prep_of(comparison-6, marriage-9)
+prep_to(marriage-9, incest-11)
+prep_to(marriage-9, polygamy-13)
+conj_or(incest-11, polygamy-13)
+
+S1 specifically points out the comparison of gay marriage to incest or polygamy .
+
+
+root(ROOT-0, points-3)
+nsubj(points-3, S1-1)
+advmod(points-3, specifically-2)
+prt(points-3, out-4)
+det(comparison-6, the-5)
+dobj(points-3, comparison-6)
+amod(marriage-9, gay-8)
+prep_of(comparison-6, marriage-9)
+prep_to(marriage-9, incest-11)
+prep_to(marriage-9, polygamy-13)
+conj_or(incest-11, polygamy-13)
+

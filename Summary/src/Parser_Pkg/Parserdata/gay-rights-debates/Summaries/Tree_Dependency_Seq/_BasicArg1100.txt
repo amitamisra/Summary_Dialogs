@@ -1,0 +1,4 @@
+root(ROOT-0, changes-2)
+nsubj(changes-2, it-1)
+prep(changes-2, over-3)
+pobj(over-3, time-4)

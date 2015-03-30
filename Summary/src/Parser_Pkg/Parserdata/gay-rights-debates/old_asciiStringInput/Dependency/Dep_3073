@@ -1,0 +1,20 @@
+He questions  what S1 's problem with gay marriage is 
+root(ROOT-0, questions-2)
+nsubj(questions-2, He-1)
+dobj(is-10, what-3)
+poss(problem-6, S1-4)
+nsubj(is-10, problem-6)
+amod(marriage-9, gay-8)
+prep_with(problem-6, marriage-9)
+ccomp(questions-2, is-10)
+
+He questions  what S1 's problem with gay marriage is 
+root(ROOT-0, questions-2)
+nsubj(questions-2, He-1)
+dobj(is-10, what-3)
+poss(problem-6, S1-4)
+nsubj(is-10, problem-6)
+amod(marriage-9, gay-8)
+prep_with(problem-6, marriage-9)
+ccomp(questions-2, is-10)
+

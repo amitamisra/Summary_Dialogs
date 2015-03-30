@@ -1,0 +1,5 @@
+root(ROOT-0, support-3)
+poss(statistics-2, His-1)
+nsubj(support-3, statistics-2)
+det(fact-5, the-4)
+dobj(support-3, fact-5)

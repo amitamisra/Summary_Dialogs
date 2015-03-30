@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (NN doesnt)) (VP (VBP know) (SBAR (SBAR (WHNP (WP what)) (S (ADVP (RB else)) (VP (TO to) (VP (VB say))))) (CC and) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ different)) (SBAR (IN if) (S (NP (NN S2) (NN didnt)) (VP (VBP think) (SBAR (S (NP (JJ gay) (NN marriage)) (VP (MD would) (VP (VB be) (NP (DT a) (NN right))))))))))))))) (. .)))

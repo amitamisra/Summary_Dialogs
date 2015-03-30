@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (S (NP (NP (NNPS Bidens)) (NP (NN opinion))) (VP (VBZ is) (ADJP (JJ consistent)))) (CC and#0#Expansion) (S (NP (NNP Biden)) (VP (VBZ is) (RB not) (VP (VBG lying) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ believes))))))))))) (. .)))

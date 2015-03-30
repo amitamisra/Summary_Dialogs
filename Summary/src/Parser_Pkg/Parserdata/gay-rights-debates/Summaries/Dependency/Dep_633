@@ -1,0 +1,20 @@
+people were willing to sacrifice freedom for security.
+root(ROOT-0, willing-3)
+nsubj(willing-3, people-1)
+cop(willing-3, were-2)
+aux(sacrifice-5, to-4)
+xcomp(willing-3, sacrifice-5)
+dobj(sacrifice-5, freedom-6)
+prep(sacrifice-5, for-7)
+pobj(for-7, security-8)
+
+people were willing to sacrifice freedom for security.
+root(ROOT-0, willing-3)
+nsubj(willing-3, people-1)
+cop(willing-3, were-2)
+aux(sacrifice-5, to-4)
+xcomp(willing-3, sacrifice-5)
+dobj(sacrifice-5, freedom-6)
+prep(sacrifice-5, for-7)
+pobj(for-7, security-8)
+

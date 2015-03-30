@@ -1,0 +1,38 @@
+   people are supporting this change for the wrong reasons  
+root(ROOT-0, supporting-3)
+nsubj(supporting-3, people-1)
+aux(supporting-3, are-2)
+det(change-5, this-4)
+dobj(supporting-3, change-5)
+det(reasons-9, the-7)
+amod(reasons-9, wrong-8)
+prep_for(change-5, reasons-9)
+
+    that they should be able to marry a person of either gender 
+root(ROOT-0, able-5)
+mark(able-5, that-1)
+nsubj(able-5, they-2)
+aux(able-5, should-3)
+cop(able-5, be-4)
+aux(marry-7, to-6)
+xcomp(able-5, marry-7)
+det(person-9, a-8)
+dobj(marry-7, person-9)
+prep(person-9, of-10)
+prep(person-9, either-11)
+pobj(either-11, gender-12)
+
+    that they should be able to marry a person of either gender 
+root(ROOT-0, able-5)
+mark(able-5, that-1)
+nsubj(able-5, they-2)
+aux(able-5, should-3)
+cop(able-5, be-4)
+aux(marry-7, to-6)
+xcomp(able-5, marry-7)
+det(person-9, a-8)
+dobj(marry-7, person-9)
+prep(person-9, of-10)
+prep(person-9, either-11)
+pobj(either-11, gender-12)
+

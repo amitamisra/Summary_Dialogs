@@ -1,0 +1,5 @@
+root(ROOT-0, done-5)
+nsubjpass(done-5, it-1)
+aux(done-5, should-2)
+neg(done-5, n't-3)
+auxpass(done-5, be-4)

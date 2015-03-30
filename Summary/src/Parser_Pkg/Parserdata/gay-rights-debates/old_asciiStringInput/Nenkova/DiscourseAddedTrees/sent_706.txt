@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT The) (NN majority)) (VP (MD should) (RB not) (VP (VB have) (NP (DT the) (NN right) (S (VP (TO to) (VP (VP (VB enslave) (NP (PRP$ their) (JJ fellow) (NNS citizens))) (CC and#0#0) (VP (VB send) (NP (PRP them)) (PP (TO to) (NP (NN concentration) (NNS camps)))))))))) (. .)))

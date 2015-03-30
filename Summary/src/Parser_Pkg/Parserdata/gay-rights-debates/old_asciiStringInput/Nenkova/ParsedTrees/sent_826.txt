@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (DT an) (NN example)) (SBAR (WHNP (WDT that) (JJ Jewish) (NNS people)) (S (VP (MD should) (RB not) (VP (VB be) (VP (VBN forced) (S (VP (TO to) (VP (VP (VB work) (PP (IN on) (NP (DT the) (NNP Sabbath)))) (CC or) (VP (VB eat) (NP (NN pork))))))))))))) (. .)))

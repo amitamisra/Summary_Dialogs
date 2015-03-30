@@ -1,0 +1,21 @@
+   replies that no one will ever know for sure .   
+root(ROOT-0, know-7)
+nsubj(know-7, replies-1)
+neg(one-4, no-3)
+prep_that(replies-1, one-4)
+aux(know-7, will-5)
+advmod(know-7, ever-6)
+prep_for(know-7, sure-9)
+
+ that healthcare applies to spouses 
+root(ROOT-0, applies-3)
+mark(applies-3, that-1)
+nsubj(applies-3, healthcare-2)
+prep_to(applies-3, spouses-5)
+
+ that healthcare applies to spouses 
+root(ROOT-0, applies-3)
+mark(applies-3, that-1)
+nsubj(applies-3, healthcare-2)
+prep_to(applies-3, spouses-5)
+

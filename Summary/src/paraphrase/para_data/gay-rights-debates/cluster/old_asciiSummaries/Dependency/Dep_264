@@ -1,0 +1,15 @@
+They believe the divorce rate of Christians has no bearing on the gay marriage amendment.
+root(ROOT-0, believe-2)
+nsubj(believe-2, They-1)
+det(rate-5, the-3)
+nn(rate-5, divorce-4)
+nsubj(has-8, rate-5)
+prep_of(rate-5, Christians-7)
+ccomp(believe-2, has-8)
+neg(bearing-10, no-9)
+dobj(has-8, bearing-10)
+det(amendment-15, the-12)
+amod(amendment-15, gay-13)
+nn(amendment-15, marriage-14)
+prep_on(bearing-10, amendment-15)
+

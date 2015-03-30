@@ -1,0 +1,6 @@
+root(ROOT-0, abandoning-4)
+nsubj(abandoning-4, they-1)
+aux(abandoning-4, are-2)
+advmod(abandoning-4, actually-3)
+poss(morals-6, their-5)
+dobj(abandoning-4, morals-6)

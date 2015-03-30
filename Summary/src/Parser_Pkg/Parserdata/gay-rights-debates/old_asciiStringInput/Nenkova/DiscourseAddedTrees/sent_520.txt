@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ 's) (NP (NP (DT a) (JJ big) (NN difference)) (PP (IN between) (NP (NN possibility) (CC and#0#0) (NN likelihood)))))))) (. .)))

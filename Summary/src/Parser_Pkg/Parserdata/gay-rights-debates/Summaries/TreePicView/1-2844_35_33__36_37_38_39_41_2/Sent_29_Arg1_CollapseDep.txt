@@ -1,0 +1,8 @@
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+nsubj(is-2, fairness-3)
+amod(advocacy-8, honest-7)
+nsubj(is-2, advocacy-8)
+conj_and(fairness-3, advocacy-8)
+det(people-12, the-11)
+prep_for(advocacy-8, people-12)

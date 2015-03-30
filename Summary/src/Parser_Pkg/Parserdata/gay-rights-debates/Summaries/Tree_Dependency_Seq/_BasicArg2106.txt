@@ -1,0 +1,5 @@
+root(ROOT-0, continues-2)
+nsubj(continues-2, S1-1)
+aux(antagonize-4, to-3)
+xcomp(continues-2, antagonize-4)
+dobj(antagonize-4, S2-5)

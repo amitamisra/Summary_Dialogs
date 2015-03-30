@@ -1,0 +1,1 @@
+(ROOT (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT no) (NN point)) (SBAR (S (VP (VBZ is) (VP (VBG questioning) (NP (NNS candidates))))))) (, ,) (SBAR (IN if) (S (NP (PRP it)) (VP (VBZ is) (VP (VBN known) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBG going) (S (VP (TO to) (VP (VB lie))))))))))))) (. .)))

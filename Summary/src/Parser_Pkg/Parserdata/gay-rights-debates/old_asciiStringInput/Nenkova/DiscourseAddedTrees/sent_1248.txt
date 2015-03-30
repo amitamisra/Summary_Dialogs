@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (NN doesnt)) (VP (VBP believe) (SBAR (IN that) (S (NP (NN S2)) (VP (VBZ understands) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN inconsistency)))))))) (. .)))

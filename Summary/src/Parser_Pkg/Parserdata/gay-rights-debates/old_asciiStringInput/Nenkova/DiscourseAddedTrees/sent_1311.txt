@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ says) (SBAR (ADVP (IN that) (PP (IN on) (NP (NNPS Archies) (NN post)))) (WHNP (WDT that)) (S (NP (NNP Archie)) (ADVP (RB regularly)) (VP (VBZ denigrates) (NP (NNS gays)) (PP (IN with) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NNS slurs))))))))) (. .)))

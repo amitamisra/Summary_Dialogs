@@ -1,0 +1,12 @@
+ S1 served in the military 
+root(ROOT-0, served-2)
+nsubj(served-2, S1-1)
+det(military-5, the-4)
+prep_in(served-2, military-5)
+
+ S1 served in the military 
+root(ROOT-0, served-2)
+nsubj(served-2, S1-1)
+det(military-5, the-4)
+prep_in(served-2, military-5)
+

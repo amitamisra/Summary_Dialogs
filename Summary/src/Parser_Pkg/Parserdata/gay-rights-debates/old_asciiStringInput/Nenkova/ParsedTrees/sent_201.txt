@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT The) (JJ equal) (NNS rights)) (VP (VBP are) (RB n't) (NP (NP (RB there)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (NP (JJ same) (NN sex) (NN marriage)))))))) (. .)))

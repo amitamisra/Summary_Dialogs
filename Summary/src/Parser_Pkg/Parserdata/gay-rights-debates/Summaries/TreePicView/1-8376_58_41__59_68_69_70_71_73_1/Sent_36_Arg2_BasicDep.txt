@@ -1,0 +1,7 @@
+root(ROOT-0, want-3)
+amod(people-2, gay-1)
+nsubj(want-3, people-2)
+aux(get-5, to-4)
+xcomp(want-3, get-5)
+prep(get-5, in-6)
+pobj(in-6, it-7)

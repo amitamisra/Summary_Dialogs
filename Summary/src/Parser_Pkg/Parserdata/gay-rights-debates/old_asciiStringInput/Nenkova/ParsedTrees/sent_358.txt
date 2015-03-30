@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NP (NNS statistics)) (PP (IN on) (NP (NN divorce) (NNS rates)))) (VP (VBP are) (VP (VBN skewed) (PP (IN by) (NP (NP (DT the) (JJ high) (NN proportion)) (PP (IN of) (NP (JJ young) (NNS people))) (SBAR (WHNP (WP who)) (S (VP (VBP end) (PRT (RP up)) (S (VP (VBG getting) (NP (NNS divorces)))))))))))))) (. .)))

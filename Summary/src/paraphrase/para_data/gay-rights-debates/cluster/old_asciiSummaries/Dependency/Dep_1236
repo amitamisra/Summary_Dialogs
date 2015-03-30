@@ -1,0 +1,13 @@
+If she is free to do this, then so is S1.
+root(ROOT-0, S1-12)
+mark(free-4, If-1)
+nsubj(free-4, she-2)
+cop(free-4, is-3)
+advcl(S1-12, free-4)
+aux(do-6, to-5)
+xcomp(free-4, do-6)
+dobj(do-6, this-7)
+nsubj(S1-12, then-9)
+advmod(S1-12, so-10)
+cop(S1-12, is-11)
+

@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (JJ Anti-gay) (NN marriage) (NNS supporters)) (VP (MD will) (VP (VB support) (NP (JJ civil) (NNS unions)) (PP (IN in) (NP (NP (NN lieu)) (PP (IN of) (NP (JJ gay) (NN marriage)))))))) (, ,) (CC and#0#Expansion) (S (NP (NNS homosexuals)) (VP (MD should) (VP (VB be) (VP (VBN satisfied) (PP (IN with) (NP (DT that))))))) (. .)))

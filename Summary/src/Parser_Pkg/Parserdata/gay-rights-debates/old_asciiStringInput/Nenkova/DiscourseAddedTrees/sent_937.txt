@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S2) (NNS states)) (PP (IN that) (NP (DT no) (NN one)))) (VP (VBZ knows) (SBAR (WHADVP (WRB how)) (S (NP (NNP AIS)) (VP (VBD got) (PP (TO to) (NP (DT the) (NNP US))))))) (. .)))

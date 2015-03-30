@@ -1,0 +1,18 @@
+They believe that if one broaches the topic of AIS one must also look at it as a whole.
+root(ROOT-0, believe-2)
+nsubj(believe-2, They-1)
+mark(look-14, that-3)
+mark(broaches-6, if-4)
+nsubj(broaches-6, one-5)
+csubj(look-14, broaches-6)
+det(topic-8, the-7)
+dobj(broaches-6, topic-8)
+prep_of(topic-8, AIS-10)
+num(AIS-10, one-11)
+aux(look-14, must-12)
+advmod(look-14, also-13)
+ccomp(believe-2, look-14)
+prep_at(look-14, it-16)
+det(whole-19, a-18)
+prep_as(look-14, whole-19)
+

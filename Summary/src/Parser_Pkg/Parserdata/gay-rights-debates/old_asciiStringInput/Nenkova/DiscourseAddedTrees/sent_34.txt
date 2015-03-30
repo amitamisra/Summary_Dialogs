@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (DT these) (NN show)) (SBAR (WHNP (IN that)) (S (VP (VBG legalizing) (NP (JJ gay) (NN marriage)))))) (VP (MD may) (VP (VB happen) (PP (IN in) (NP (DT the) (NN future)))))))) (. .)))

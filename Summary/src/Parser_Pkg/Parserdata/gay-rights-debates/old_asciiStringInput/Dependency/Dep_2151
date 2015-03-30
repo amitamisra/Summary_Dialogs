@@ -1,0 +1,42 @@
+ that this allows people to do whatever they want and use their religious beliefs as an excuse .
+
+
+root(ROOT-0, allows-3)
+mark(allows-3, that-1)
+nsubj(allows-3, this-2)
+nsubj(do-6, people-4)
+aux(do-6, to-5)
+xcomp(allows-3, do-6)
+dobj(want-9, whatever-7)
+nsubj(want-9, they-8)
+nsubj(use-11, they-8)
+ccomp(do-6, want-9)
+ccomp(do-6, use-11)
+conj_and(want-9, use-11)
+poss(beliefs-14, their-12)
+amod(beliefs-14, religious-13)
+dobj(want-9, beliefs-14)
+det(excuse-17, an-16)
+prep_as(want-9, excuse-17)
+
+ that this allows people to do whatever they want and use their religious beliefs as an excuse .
+
+
+root(ROOT-0, allows-3)
+mark(allows-3, that-1)
+nsubj(allows-3, this-2)
+nsubj(do-6, people-4)
+aux(do-6, to-5)
+xcomp(allows-3, do-6)
+dobj(want-9, whatever-7)
+nsubj(want-9, they-8)
+nsubj(use-11, they-8)
+ccomp(do-6, want-9)
+ccomp(do-6, use-11)
+conj_and(want-9, use-11)
+poss(beliefs-14, their-12)
+amod(beliefs-14, religious-13)
+dobj(want-9, beliefs-14)
+det(excuse-17, an-16)
+prep_as(want-9, excuse-17)
+

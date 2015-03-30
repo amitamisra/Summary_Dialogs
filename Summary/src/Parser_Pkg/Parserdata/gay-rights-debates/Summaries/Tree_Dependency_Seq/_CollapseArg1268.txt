@@ -1,0 +1,3 @@
+root(ROOT-0, irrelevant-3)
+nsubj(irrelevant-3, intent-1)
+cop(irrelevant-3, is-2)

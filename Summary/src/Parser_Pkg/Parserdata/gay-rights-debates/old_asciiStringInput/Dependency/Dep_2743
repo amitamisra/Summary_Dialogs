@@ -1,0 +1,26 @@
+ gay relationships are a perversion of the normal thought of society .
+
+
+root(ROOT-0, perversion-5)
+amod(relationships-2, gay-1)
+nsubj(perversion-5, relationships-2)
+cop(perversion-5, are-3)
+det(perversion-5, a-4)
+det(thought-9, the-7)
+amod(thought-9, normal-8)
+prep_of(perversion-5, thought-9)
+prep_of(thought-9, society-11)
+
+ gay relationships are a perversion of the normal thought of society .
+
+
+root(ROOT-0, perversion-5)
+amod(relationships-2, gay-1)
+nsubj(perversion-5, relationships-2)
+cop(perversion-5, are-3)
+det(perversion-5, a-4)
+det(thought-9, the-7)
+amod(thought-9, normal-8)
+prep_of(perversion-5, thought-9)
+prep_of(thought-9, society-11)
+

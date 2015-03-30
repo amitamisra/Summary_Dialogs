@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ is) (PP (IN of) (NP (DT the) (NN opinion))) (SBAR (IN that) (S (NP (NP (DT a) (JJ certain) (NN level)) (PP (IN of) (NP (NN dishonesty)))) (VP (VBZ is) (UCP (ADJP (JJ understandable)) (CC and#0#0) (VP (VBN expected) (PP (IN in) (NP (NNS politics))))))))) (. .)))

@@ -1,0 +1,14 @@
+ marriage is a legal institution.
+root(ROOT-0, institution-5)
+nsubj(institution-5, marriage-1)
+cop(institution-5, is-2)
+det(institution-5, a-3)
+amod(institution-5, legal-4)
+
+ marriage is a legal institution.
+root(ROOT-0, institution-5)
+nsubj(institution-5, marriage-1)
+cop(institution-5, is-2)
+det(institution-5, a-3)
+amod(institution-5, legal-4)
+

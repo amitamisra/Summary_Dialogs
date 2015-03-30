@@ -1,0 +1,50 @@
+ that homosexual liaisons were common in other times and cultures but never recognized as actual marriages and were frowned upon .
+
+
+root(ROOT-0, common-5)
+mark(common-5, that-1)
+amod(liaisons-3, homosexual-2)
+nsubj(common-5, liaisons-3)
+nsubj(recognized-13, liaisons-3)
+cop(common-5, were-4)
+amod(times-8, other-7)
+prep_in(common-5, times-8)
+prep_in(common-5, cultures-10)
+conj_and(times-8, cultures-10)
+neg(recognized-13, never-12)
+conj_but(common-5, recognized-13)
+amod(marriages-16, actual-15)
+prep_as(recognized-13, marriages-16)
+auxpass(frowned-19, were-18)
+conj_but(common-5, frowned-19)
+conj_and(recognized-13, frowned-19)
+prep(frowned-19, upon-20)
+
+S2 questions how gay marriage would violate someone 's constitutional rights .
+
+
+root(ROOT-0, violate-7)
+nn(questions-2, S2-1)
+dep(violate-7, questions-2)
+advmod(violate-7, how-3)
+amod(marriage-5, gay-4)
+nsubj(violate-7, marriage-5)
+aux(violate-7, would-6)
+poss(rights-11, someone-8)
+amod(rights-11, constitutional-10)
+dobj(violate-7, rights-11)
+
+S2 questions how gay marriage would violate someone 's constitutional rights .
+
+
+root(ROOT-0, violate-7)
+nn(questions-2, S2-1)
+dep(violate-7, questions-2)
+advmod(violate-7, how-3)
+amod(marriage-5, gay-4)
+nsubj(violate-7, marriage-5)
+aux(violate-7, would-6)
+poss(rights-11, someone-8)
+amod(rights-11, constitutional-10)
+dobj(violate-7, rights-11)
+

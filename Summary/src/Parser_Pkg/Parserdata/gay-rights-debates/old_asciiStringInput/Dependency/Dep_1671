@@ -1,0 +1,63 @@
+They bring up Biden and abortion in ways that dont exactly fit the discussion , but just to show the inconsistency in each others opinions .
+
+
+root(ROOT-0, bring-2)
+nsubj(bring-2, They-1)
+prt(bring-2, up-3)
+dobj(bring-2, Biden-4)
+dobj(bring-2, abortion-6)
+conj_and(Biden-4, abortion-6)
+prep_in(bring-2, ways-8)
+nsubj(dont-10, that-9)
+rcmod(ways-8, dont-10)
+advmod(dont-10, exactly-11)
+dep(dont-10, fit-12)
+det(discussion-14, the-13)
+dobj(fit-12, discussion-14)
+aux(show-19, to-18)
+prep_in(bring-2, show-19)
+conj_but(ways-8, show-19)
+det(inconsistency-21, the-20)
+dobj(show-19, inconsistency-21)
+det(opinions-25, each-23)
+nn(opinions-25, others-24)
+prep_in(inconsistency-21, opinions-25)
+
+S1 and S2 are discussing anti-gay bias and the nature of prejudice versus valid religious beliefs .
+
+
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+amod(bias-7, anti-gay-6)
+dobj(discussing-5, bias-7)
+det(nature-10, the-9)
+dobj(discussing-5, nature-10)
+conj_and(bias-7, nature-10)
+prep_of(nature-10, prejudice-12)
+prep(prejudice-12, versus-13)
+amod(beliefs-16, valid-14)
+amod(beliefs-16, religious-15)
+pobj(versus-13, beliefs-16)
+
+S1 and S2 are discussing anti-gay bias and the nature of prejudice versus valid religious beliefs .
+
+
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+amod(bias-7, anti-gay-6)
+dobj(discussing-5, bias-7)
+det(nature-10, the-9)
+dobj(discussing-5, nature-10)
+conj_and(bias-7, nature-10)
+prep_of(nature-10, prejudice-12)
+prep(prejudice-12, versus-13)
+amod(beliefs-16, valid-14)
+amod(beliefs-16, religious-15)
+pobj(versus-13, beliefs-16)
+

@@ -1,0 +1,44 @@
+ that homosexuals are entitled to their rights , but do not need to redefine marriage in order to get them .
+
+
+root(ROOT-0, entitled-4)
+mark(entitled-4, that-1)
+nsubjpass(entitled-4, homosexuals-2)
+nsubj(need-12, homosexuals-2)
+auxpass(entitled-4, are-3)
+poss(rights-7, their-6)
+prep_to(entitled-4, rights-7)
+aux(need-12, do-10)
+neg(need-12, not-11)
+conj_but(entitled-4, need-12)
+aux(redefine-14, to-13)
+xcomp(need-12, redefine-14)
+dobj(redefine-14, marriage-15)
+mark(get-19, in-16)
+dep(get-19, order-17)
+aux(get-19, to-18)
+advcl(redefine-14, get-19)
+dobj(get-19, them-20)
+
+ that homosexuals are entitled to their rights , but do not need to redefine marriage in order to get them .
+
+
+root(ROOT-0, entitled-4)
+mark(entitled-4, that-1)
+nsubjpass(entitled-4, homosexuals-2)
+nsubj(need-12, homosexuals-2)
+auxpass(entitled-4, are-3)
+poss(rights-7, their-6)
+prep_to(entitled-4, rights-7)
+aux(need-12, do-10)
+neg(need-12, not-11)
+conj_but(entitled-4, need-12)
+aux(redefine-14, to-13)
+xcomp(need-12, redefine-14)
+dobj(redefine-14, marriage-15)
+mark(get-19, in-16)
+dep(get-19, order-17)
+aux(get-19, to-18)
+advcl(redefine-14, get-19)
+dobj(get-19, them-20)
+

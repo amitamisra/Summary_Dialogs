@@ -1,0 +1,1 @@
+(ROOT (S (NP (CD Two) (NNS subjects)) (VP (VBP are) (VP (VBG discussing) (NP (NP (NP (NN liberalism)) (CC and#0#0) (NP (PRP$ its) (NNS similarities))) (CC or#1#0) (NP (NP (NN lack) (RB thereof)) (PP (TO to) (NP (DT the) (JJ Jeffersonian) (NN belief) (NN system))))))) (. .)))

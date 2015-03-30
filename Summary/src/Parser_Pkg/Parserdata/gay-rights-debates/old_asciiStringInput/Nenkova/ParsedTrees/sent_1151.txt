@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB then)) (VP (VBD said) (SBAR (IN that) (S (NP (NNS manyemocrats)) (VP (VBD were) (NP (NP (JJR bigger) (NNS spenders)) (PP (IN than) (NP (DT the) (NNPS Republicans)))))))) (. .)))

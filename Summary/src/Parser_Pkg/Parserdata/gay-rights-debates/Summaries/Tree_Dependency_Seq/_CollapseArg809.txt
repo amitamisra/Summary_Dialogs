@@ -1,0 +1,5 @@
+root(ROOT-0, seems-4)
+advmod(seems-4, at-1)
+pobj(at-1, least-2)
+nsubj(seems-4, it-3)
+advmod(seems-4, so-5)

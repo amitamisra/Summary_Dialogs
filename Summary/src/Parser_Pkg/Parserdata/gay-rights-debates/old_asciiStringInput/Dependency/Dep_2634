@@ -1,0 +1,24 @@
+He insists that marriages were almost exclusively between people of opposite genders.
+root(ROOT-0, insists-2)
+nsubj(insists-2, He-1)
+mark(were-5, that-3)
+nsubj(were-5, marriages-4)
+ccomp(insists-2, were-5)
+advmod(exclusively-7, almost-6)
+advmod(were-5, exclusively-7)
+prep_between(were-5, people-9)
+amod(genders-12, opposite-11)
+prep_of(people-9, genders-12)
+
+He insists that marriages were almost exclusively between people of opposite genders.
+root(ROOT-0, insists-2)
+nsubj(insists-2, He-1)
+mark(were-5, that-3)
+nsubj(were-5, marriages-4)
+ccomp(insists-2, were-5)
+advmod(exclusively-7, almost-6)
+advmod(were-5, exclusively-7)
+prep_between(were-5, people-9)
+amod(genders-12, opposite-11)
+prep_of(people-9, genders-12)
+

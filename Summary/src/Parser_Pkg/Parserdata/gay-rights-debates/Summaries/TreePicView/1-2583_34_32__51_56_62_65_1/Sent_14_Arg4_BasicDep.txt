@@ -1,0 +1,2 @@
+root(ROOT-0, contends-2)
+nsubj(contends-2, S2-1)

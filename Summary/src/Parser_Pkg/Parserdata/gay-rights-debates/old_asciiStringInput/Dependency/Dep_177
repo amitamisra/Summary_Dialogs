@@ -1,0 +1,56 @@
+ ,   in order to get the benefits of any health care provided by a spouses job the requirement is marriage 
+root(ROOT-0, get-5)
+advmod(get-5, in-2)
+pobj(in-2, order-3)
+aux(get-5, to-4)
+det(benefits-7, the-6)
+dobj(get-5, benefits-7)
+det(care-11, any-9)
+nn(care-11, health-10)
+prep_of(benefits-7, care-11)
+prep(get-5, provided-12)
+pcomp(provided-12, by-13)
+det(job-16, a-14)
+nn(job-16, spouses-15)
+pobj(by-13, job-16)
+det(requirement-18, the-17)
+nsubj(marriage-20, requirement-18)
+cop(marriage-20, is-19)
+rcmod(job-16, marriage-20)
+
+ that a federal amendment to the US Constitution is unlike over the next few years .
+
+
+root(ROOT-0, is-9)
+mark(is-9, that-1)
+det(amendment-4, a-2)
+amod(amendment-4, federal-3)
+nsubj(is-9, amendment-4)
+det(Constitution-8, the-6)
+nn(Constitution-8, US-7)
+prep_to(amendment-4, Constitution-8)
+prep(is-9, unlike-10)
+pcomp(unlike-10, over-11)
+det(years-15, the-12)
+amod(years-15, next-13)
+amod(years-15, few-14)
+pobj(over-11, years-15)
+
+ that a federal amendment to the US Constitution is unlike over the next few years .
+
+
+root(ROOT-0, is-9)
+mark(is-9, that-1)
+det(amendment-4, a-2)
+amod(amendment-4, federal-3)
+nsubj(is-9, amendment-4)
+det(Constitution-8, the-6)
+nn(Constitution-8, US-7)
+prep_to(amendment-4, Constitution-8)
+prep(is-9, unlike-10)
+pcomp(unlike-10, over-11)
+det(years-15, the-12)
+amod(years-15, next-13)
+amod(years-15, few-14)
+pobj(over-11, years-15)
+

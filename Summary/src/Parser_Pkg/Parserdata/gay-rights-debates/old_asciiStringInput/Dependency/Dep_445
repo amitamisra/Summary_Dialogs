@@ -1,0 +1,65 @@
+Two people are discussing the divorce rate in the US .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(rate-7, the-5)
+nn(rate-7, divorce-6)
+dobj(discussing-4, rate-7)
+det(US-10, the-9)
+prep_in(rate-7, US-10)
+
+ that gays do have the right to marry members of the opposite sex , but not the same sex , which is the same has heterosexuals .
+
+
+root(ROOT-0, has-25)
+mark(have-4, that-1)
+nsubj(have-4, gays-2)
+aux(have-4, do-3)
+csubj(has-25, have-4)
+det(right-6, the-5)
+dobj(have-4, right-6)
+aux(marry-8, to-7)
+vmod(right-6, marry-8)
+dobj(marry-8, members-9)
+det(sex-13, the-11)
+amod(sex-13, opposite-12)
+prep_of(members-9, sex-13)
+det(sex-19, the-17)
+amod(sex-19, same-18)
+dobj(marry-8, sex-19)
+conj_negcc(members-9, sex-19)
+nsubj(same-24, which-21)
+cop(same-24, is-22)
+det(same-24, the-23)
+rcmod(sex-19, same-24)
+dobj(has-25, heterosexuals-26)
+
+ that gays do have the right to marry members of the opposite sex , but not the same sex , which is the same has heterosexuals .
+
+
+root(ROOT-0, has-25)
+mark(have-4, that-1)
+nsubj(have-4, gays-2)
+aux(have-4, do-3)
+csubj(has-25, have-4)
+det(right-6, the-5)
+dobj(have-4, right-6)
+aux(marry-8, to-7)
+vmod(right-6, marry-8)
+dobj(marry-8, members-9)
+det(sex-13, the-11)
+amod(sex-13, opposite-12)
+prep_of(members-9, sex-13)
+det(sex-19, the-17)
+amod(sex-19, same-18)
+dobj(marry-8, sex-19)
+conj_negcc(members-9, sex-19)
+nsubj(same-24, which-21)
+cop(same-24, is-22)
+det(same-24, the-23)
+rcmod(sex-19, same-24)
+dobj(has-25, heterosexuals-26)
+

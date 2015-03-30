@@ -1,0 +1,3 @@
+root(ROOT-0, is-3)
+nsubj(is-3, it-2)
+dep(is-3, unjust-4)

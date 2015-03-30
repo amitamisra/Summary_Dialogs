@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (JJ polygamous) (NN marriage)) (VP (VP (VBZ is) (RB not) (VP (VBN recognized) (PP (IN by) (NP (NP (NNS governments)) (PP (IN in) (NP (JJ Western) (NNS societies))))))) (CC and#0#0) (VP (VBZ is) (ADJP (JJ unlikely) (S (VP (TO to) (VP (VB be) (VP (VBN recognized) (PP (IN in) (NP (NN future))))))))))))) (. .)))

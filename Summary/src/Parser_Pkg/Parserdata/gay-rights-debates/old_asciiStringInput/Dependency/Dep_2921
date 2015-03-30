@@ -1,0 +1,10 @@
+    he only disagrees 
+root(ROOT-0, disagrees-3)
+nsubj(disagrees-3, he-1)
+advmod(disagrees-3, only-2)
+
+    he only disagrees 
+root(ROOT-0, disagrees-3)
+nsubj(disagrees-3, he-1)
+advmod(disagrees-3, only-2)
+

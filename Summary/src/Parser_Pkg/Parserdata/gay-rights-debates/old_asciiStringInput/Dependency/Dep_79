@@ -1,0 +1,43 @@
+He explains that natural means between a man and a woman .
+
+
+root(ROOT-0, explains-2)
+nsubj(explains-2, He-1)
+amod(means-5, natural-4)
+prep_that(explains-2, means-5)
+det(man-8, a-7)
+prep_between(means-5, man-8)
+det(woman-11, a-10)
+prep_between(means-5, woman-11)
+conj_and(man-8, woman-11)
+
+ that these show that legalizing gay marriage may happen in the future .
+
+
+root(ROOT-0, happen-9)
+mark(happen-9, that-1)
+det(show-3, these-2)
+nsubj(happen-9, show-3)
+nsubj(legalizing-5, that-4)
+rcmod(show-3, legalizing-5)
+amod(marriage-7, gay-6)
+dobj(legalizing-5, marriage-7)
+aux(happen-9, may-8)
+det(future-12, the-11)
+prep_in(happen-9, future-12)
+
+ that these show that legalizing gay marriage may happen in the future .
+
+
+root(ROOT-0, happen-9)
+mark(happen-9, that-1)
+det(show-3, these-2)
+nsubj(happen-9, show-3)
+nsubj(legalizing-5, that-4)
+rcmod(show-3, legalizing-5)
+amod(marriage-7, gay-6)
+dobj(legalizing-5, marriage-7)
+aux(happen-9, may-8)
+det(future-12, the-11)
+prep_in(happen-9, future-12)
+

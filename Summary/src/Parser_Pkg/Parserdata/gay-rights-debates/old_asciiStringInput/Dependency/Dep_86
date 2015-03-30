@@ -1,0 +1,38 @@
+ that the majority will support less ambiguous laws that ban gay marriage .
+
+
+root(ROOT-0, support-5)
+mark(support-5, that-1)
+det(majority-3, the-2)
+nsubj(support-5, majority-3)
+aux(support-5, will-4)
+amod(laws-8, less-6)
+amod(laws-8, ambiguous-7)
+dobj(support-5, laws-8)
+nsubj(ban-10, that-9)
+rcmod(laws-8, ban-10)
+amod(marriage-12, gay-11)
+dobj(ban-10, marriage-12)
+
+Banning gay marriage is forcing one set of believes onto others.
+root(ROOT-0, forcing-5)
+amod(marriage-3, Banning-1)
+amod(marriage-3, gay-2)
+nsubj(forcing-5, marriage-3)
+aux(forcing-5, is-4)
+num(set-7, one-6)
+dobj(forcing-5, set-7)
+prepc_of(set-7, believes-9)
+prep_onto(believes-9, others-11)
+
+Banning gay marriage is forcing one set of believes onto others.
+root(ROOT-0, forcing-5)
+amod(marriage-3, Banning-1)
+amod(marriage-3, gay-2)
+nsubj(forcing-5, marriage-3)
+aux(forcing-5, is-4)
+num(set-7, one-6)
+dobj(forcing-5, set-7)
+prepc_of(set-7, believes-9)
+prep_onto(believes-9, others-11)
+

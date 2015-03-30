@@ -1,0 +1,22 @@
+S2 questions S1 to  why there should be consequences on earth 
+root(ROOT-0, S1-3)
+nn(S1-3, S2-1)
+nn(S1-3, questions-2)
+advmod(consequences-9, why-5)
+expl(consequences-9, there-6)
+aux(consequences-9, should-7)
+cop(consequences-9, be-8)
+prepc_to(S1-3, consequences-9)
+prep_on(consequences-9, earth-11)
+
+S2 questions S1 to  why there should be consequences on earth 
+root(ROOT-0, S1-3)
+nn(S1-3, S2-1)
+nn(S1-3, questions-2)
+advmod(consequences-9, why-5)
+expl(consequences-9, there-6)
+aux(consequences-9, should-7)
+cop(consequences-9, be-8)
+prepc_to(S1-3, consequences-9)
+prep_on(consequences-9, earth-11)
+

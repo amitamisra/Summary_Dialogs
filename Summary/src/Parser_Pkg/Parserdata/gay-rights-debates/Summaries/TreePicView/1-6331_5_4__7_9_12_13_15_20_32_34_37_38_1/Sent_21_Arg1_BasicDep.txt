@@ -1,0 +1,6 @@
+root(ROOT-0, accommodate-4)
+amod(laws-2, specific-1)
+nsubj(accommodate-4, laws-2)
+aux(accommodate-4, could-3)
+amod(groups-6, specific-5)
+dobj(accommodate-4, groups-6)

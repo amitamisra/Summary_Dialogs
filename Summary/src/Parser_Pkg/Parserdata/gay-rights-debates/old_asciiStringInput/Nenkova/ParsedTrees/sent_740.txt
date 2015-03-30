@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ seems) (S (VP (TO to) (VP (VB believe) (SBAR (IN that) (S (NP (NN someone)) (VP (VBZ is) (VP (VBG making) (NP (NN religion)) (PP (IN into) (NP (NN law)))))))))) (PP (IN by) (S (VP (VBG saying) (SBAR (S (NP (NN marriage)) (VP (MD should) (VP (VB be) (PP (IN between) (NP (DT a) (JJ heterosexual) (NN couple))))))))))) (. .)))

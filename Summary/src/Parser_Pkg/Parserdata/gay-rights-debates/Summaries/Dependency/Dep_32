@@ -1,0 +1,43 @@
+S1 states that all sex is behavior.
+root(ROOT-0, behavior-7)
+nn(states-2, S1-1)
+nsubj(behavior-7, states-2)
+prep(states-2, that-3)
+det(sex-5, all-4)
+pobj(that-3, sex-5)
+cop(behavior-7, is-6)
+
+S1 states that all sex is behavior.
+root(ROOT-0, behavior-7)
+nn(states-2, S1-1)
+nsubj(behavior-7, states-2)
+prep(states-2, that-3)
+det(sex-5, all-4)
+pobj(that-3, sex-5)
+cop(behavior-7, is-6)
+
+S1 states that all sex is behavior.
+root(ROOT-0, behavior-7)
+nn(states-2, S1-1)
+nsubj(behavior-7, states-2)
+prep(states-2, that-3)
+det(sex-5, all-4)
+pobj(that-3, sex-5)
+cop(behavior-7, is-6)
+
+S1 states that all sex is behavior.
+root(ROOT-0, behavior-7)
+nn(states-2, S1-1)
+nsubj(behavior-7, states-2)
+prep(states-2, that-3)
+det(sex-5, all-4)
+pobj(that-3, sex-5)
+cop(behavior-7, is-6)
+
+ single families is not natural.
+root(ROOT-0, natural-5)
+amod(families-2, single-1)
+nsubj(natural-5, families-2)
+cop(natural-5, is-3)
+neg(natural-5, not-4)
+

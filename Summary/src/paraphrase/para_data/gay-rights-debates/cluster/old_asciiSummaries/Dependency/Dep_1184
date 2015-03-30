@@ -1,0 +1,11 @@
+S2 wants logical reasons for now allowing gays to marry.
+root(ROOT-0, wants-2)
+nsubj(wants-2, S2-1)
+amod(reasons-4, logical-3)
+dobj(wants-2, reasons-4)
+advmod(allowing-7, now-6)
+prepc_for(wants-2, allowing-7)
+dobj(allowing-7, gays-8)
+aux(marry-10, to-9)
+xcomp(allowing-7, marry-10)
+

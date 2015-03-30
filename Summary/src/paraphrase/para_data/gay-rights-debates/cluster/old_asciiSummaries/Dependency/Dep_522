@@ -1,0 +1,11 @@
+He also states that single families is not natural.
+root(ROOT-0, states-3)
+nsubj(states-3, He-1)
+advmod(states-3, also-2)
+mark(natural-9, that-4)
+amod(families-6, single-5)
+nsubj(natural-9, families-6)
+cop(natural-9, is-7)
+neg(natural-9, not-8)
+ccomp(states-3, natural-9)
+

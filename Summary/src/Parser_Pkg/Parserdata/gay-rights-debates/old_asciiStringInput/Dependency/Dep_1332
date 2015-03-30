@@ -1,0 +1,43 @@
+ whenever gays are involved a group of people always opposes .
+
+
+root(ROOT-0, opposes-10)
+advmod(involved-4, whenever-1)
+nsubjpass(involved-4, gays-2)
+auxpass(involved-4, are-3)
+advcl(opposes-10, involved-4)
+det(group-6, a-5)
+dobj(involved-4, group-6)
+prep_of(group-6, people-8)
+advmod(opposes-10, always-9)
+
+(S1) then asks (S2) to stay on point and not divert the conversation.
+root(ROOT-0, asks-5)
+nsubj(asks-5, S1-2)
+advmod(S1-2, then-4)
+nsubj(stay-10, S2-7)
+nsubj(divert-15, S2-7)
+aux(stay-10, to-9)
+xcomp(asks-5, stay-10)
+prep_on(stay-10, point-12)
+neg(divert-15, not-14)
+xcomp(asks-5, divert-15)
+conj_and(stay-10, divert-15)
+det(conversation-17, the-16)
+dobj(divert-15, conversation-17)
+
+(S1) then asks (S2) to stay on point and not divert the conversation.
+root(ROOT-0, asks-5)
+nsubj(asks-5, S1-2)
+advmod(S1-2, then-4)
+nsubj(stay-10, S2-7)
+nsubj(divert-15, S2-7)
+aux(stay-10, to-9)
+xcomp(asks-5, stay-10)
+prep_on(stay-10, point-12)
+neg(divert-15, not-14)
+xcomp(asks-5, divert-15)
+conj_and(stay-10, divert-15)
+det(conversation-17, the-16)
+dobj(divert-15, conversation-17)
+

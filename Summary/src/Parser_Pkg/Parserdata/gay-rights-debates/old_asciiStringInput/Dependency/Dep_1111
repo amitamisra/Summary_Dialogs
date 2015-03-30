@@ -1,0 +1,33 @@
+ transforming to open ended would open the door for other issues such as children being allowed to marry .
+
+
+root(ROOT-0, open-6)
+csubj(open-6, transforming-1)
+aux(open-3, to-2)
+xcomp(transforming-1, open-3)
+dep(open-3, ended-4)
+aux(open-6, would-5)
+det(door-8, the-7)
+dobj(open-6, door-8)
+amod(issues-11, other-10)
+prep_for(open-6, issues-11)
+prep_such_as(issues-11, children-14)
+auxpass(allowed-16, being-15)
+vmod(children-14, allowed-16)
+aux(marry-18, to-17)
+xcomp(allowed-16, marry-18)
+
+ S2 believes a married couple 
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+det(couple-5, a-3)
+amod(couple-5, married-4)
+dobj(believes-2, couple-5)
+
+ S2 believes a married couple 
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+det(couple-5, a-3)
+amod(couple-5, married-4)
+dobj(believes-2, couple-5)
+

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN He/she)) (VP (VBZ contends) (SBAR (IN that) (S (NP (JJ matrimonial) (NNS unions)) (VP (VBD were) (PP (IN between) (NP (JJ opposite) (NNS genders))) (, ,) (ADVP (RB even) (PP (IN throughout) (NP (NN history)))))))) (. .)))

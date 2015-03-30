@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (PRP They)) (VP (VBP want) (NP (DT the) (NNS rights)))) (CC and#0#Expansion) (S (S (VP (TO to) (VP (VB keep) (NP (DT the) (NN government)) (PRT (RP out))))) (VP (MD would) (VP (VB be) (S (VP (TO to) (VP (VB give) (PRT (RP up)) (NP (DT those) (NNS rights)))))))) (. .)))

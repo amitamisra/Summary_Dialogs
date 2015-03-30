@@ -1,0 +1,56 @@
+ the womans religious belief is that marriage should be between a man and a woman , 
+root(ROOT-0, is-5)
+det(womans-2, the-1)
+nn(belief-4, womans-2)
+amod(belief-4, religious-3)
+nsubj(is-5, belief-4)
+mark(be-9, that-6)
+nsubj(be-9, marriage-7)
+aux(be-9, should-8)
+ccomp(is-5, be-9)
+det(man-12, a-11)
+prep_between(be-9, man-12)
+det(woman-15, a-14)
+prep_between(be-9, woman-15)
+conj_and(man-12, woman-15)
+
+ that most Christians do oppose same-sex marriage , civil unions , gay adoption , and anti-discrimination laws .
+
+
+root(ROOT-0, oppose-5)
+mark(oppose-5, that-1)
+amod(Christians-3, most-2)
+nsubj(oppose-5, Christians-3)
+aux(oppose-5, do-4)
+amod(marriage-7, same-sex-6)
+dobj(oppose-5, marriage-7)
+amod(unions-10, civil-9)
+dobj(oppose-5, unions-10)
+conj_and(marriage-7, unions-10)
+amod(adoption-13, gay-12)
+dobj(oppose-5, adoption-13)
+conj_and(marriage-7, adoption-13)
+amod(laws-17, anti-discrimination-16)
+dobj(oppose-5, laws-17)
+conj_and(marriage-7, laws-17)
+
+ that most Christians do oppose same-sex marriage , civil unions , gay adoption , and anti-discrimination laws .
+
+
+root(ROOT-0, oppose-5)
+mark(oppose-5, that-1)
+amod(Christians-3, most-2)
+nsubj(oppose-5, Christians-3)
+aux(oppose-5, do-4)
+amod(marriage-7, same-sex-6)
+dobj(oppose-5, marriage-7)
+amod(unions-10, civil-9)
+dobj(oppose-5, unions-10)
+conj_and(marriage-7, unions-10)
+amod(adoption-13, gay-12)
+dobj(oppose-5, adoption-13)
+conj_and(marriage-7, adoption-13)
+amod(laws-17, anti-discrimination-16)
+dobj(oppose-5, laws-17)
+conj_and(marriage-7, laws-17)
+

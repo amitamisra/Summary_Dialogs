@@ -1,0 +1,28 @@
+  Its too naive to expect to a politician to give their view on matters 
+root(ROOT-0, naive-3)
+dep(naive-3, Its-1)
+advmod(naive-3, too-2)
+aux(expect-5, to-4)
+xcomp(naive-3, expect-5)
+det(politician-8, a-7)
+prep_to(naive-3, politician-8)
+aux(give-10, to-9)
+vmod(politician-8, give-10)
+poss(view-12, their-11)
+dobj(give-10, view-12)
+prep_on(give-10, matters-14)
+
+  Its too naive to expect to a politician to give their view on matters 
+root(ROOT-0, naive-3)
+dep(naive-3, Its-1)
+advmod(naive-3, too-2)
+aux(expect-5, to-4)
+xcomp(naive-3, expect-5)
+det(politician-8, a-7)
+prep_to(naive-3, politician-8)
+aux(give-10, to-9)
+vmod(politician-8, give-10)
+poss(view-12, their-11)
+dobj(give-10, view-12)
+prep_on(give-10, matters-14)
+

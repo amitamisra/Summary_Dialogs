@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN Everyone) (RB else#0#0)) (VP (MD should) (VP (VB condemn) (NP (PRP it)))) (. .)))

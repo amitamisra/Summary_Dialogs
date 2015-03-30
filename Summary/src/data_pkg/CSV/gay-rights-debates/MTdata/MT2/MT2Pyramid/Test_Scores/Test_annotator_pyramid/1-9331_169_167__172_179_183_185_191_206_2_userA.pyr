@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>This debate is about the 9th and how the federal constitution applies to marriage. S1 and S2 begin by talking about trolling and potentially starting a new debate on abortion, which doesn't really have a lot of purpose in this conversation. S2 says that in saying people who want to get rid of gay marriage may have wanted to prevent inter-racial and inter religious marriage. S2 states that Maine's vote on gay marriage was an opinion on gay marriage, rather than the 9th being how the Federal Constitution applies to gay marriage. S2 also says that Bowers Justice Stevens doesn't have the evidence to withstand his analysis. They also bring up Lawrence v. Texas and S2 states that even when majority wants a law it isn't enough for the constitution challenge of the law. S2 goes back to saying how S1's arguments are flawed and that its too repetitive for this conversation, because S1 hasn't disproved anything. They go back to talking trash to each other and they end the conversation.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 and S2 are in unfriendly argument about gay marriage. The argument originally starts in a tangent of Abortion.  S2 thinks that S1 is trolling the thread and briefly comment on abortion playing the devil advocate to shows the misuse of logic is S1's thinking for issues in gay marriage. S1 continues to antagonize S2. S2 continues to discuss the necessity of drawing boundaries in reason and the importance staying on track. S2 says they should use familiar comparison of attacks on inter-racial marriage where if you are against interracial marriage, you are for slavery,  to show his support of gay marriage, just to show S1that type of discourse is not logically accurate. S1 brings the &quot;9th&quot; from Maine and &quot;Prop 8&quot; from California as example of states that have showed that their majority was against gay marriage, but yet people in those states are still trying to get them overturned. S2 compliments S1 for clever banter. S2 ends the discussion by accusing S1 of repeating his points, which pertain to two separate issues. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>(S1) begins talking about the death of a child either by natural or in the hands of a doctor. (S1) also mentions that there are photos in the web and offers to debate about the topic. (S2) questions if (S1) is beginning to debate about abortion. (S2) also indicates playing devils advocate to also talk about gay rights in relation to abortion. (S2) compares abortion to the extermination of Jews in the Holocaust. (S1) bring to (S2)'s attention the overturning of the 9th in Maine's results. (S2) then states that the 9th is about hoe the FEDERAL CONSTITUTION applies to gay marriage. This means that the results reflect how the voters feel about gay marriage. (S2) talks about State's majority has traditionally seen an issue as immoral it is not enough to prohibit the practice and that intimate relationships are no one else's concern and it is a liberty by due process. (S1) talks about the desire of the voters and so brings up the decision made in California. To that (S2) says that he cannot trust the intellectual honesty discourse of (S1) because of his flawed arguments. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 believes that dead &quot; potential &quot; lives don't have &quot; real &quot; or &quot; actual &quot; dead bodies . When a pre-birth child dies ( either naturally or by the hands of a ' doctor ' paid to kill it ) , ... it has a ' real ' body . S1 states willingness to debate the matter further with S2. S1 questions is Maine's voting results will overturn the 9th amendment. California's ban ( being reviewed by the 9th ) is likewise about &quot; the voters &quot; and their desired definition . S1 anticipates the responses of S2 and questions S2's ability to learn from the debate.</line>
+  <line> </line>
+  <line> </line>
+  <line> S2 dislikes that S1 brought up abortion rights in the forum and thinks that S1 would lose abortion arguments by the arguments you have raised here . S2 believes that S1  flubbed up stating what you wanted to say trying to argue that the abortionists could have no qualms exterminating Jews in another Holocaust . It could  could just as easily argue that those people who wanted to prevent gay marriage could just as easily want to prevent inter-religious or inter-racial marriage. They could supposedly just as easily have wanted slavery back , if they're willing to deny people rights because of their differences. Maine's results were about how voters feel about gay marriage not about the federal constitution.  Bowers rationale does not withstand careful analysis . In his dissenting opinion in Bowers Justice Stevens concluded that ( 1 ) the fact a State s governing majority has traditionally viewed a particular practice as immoral is not a sufficient reason for upholding a law prohibiting the practice , and ( 2 ) individual decisions concerning the intimacies of physical relationships , even when not intended to produce offspring , are a form of liberty protected by due process . LAWRENCE V. TEXAS The fact that a majority want a law is not enough to satisfy a constitutional challenge of that law .</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 says when a pre-birth child dies it has a &quot;real&quot; body. S2 thinks that S1 is trying to get people to talk to him about abortion. He tells S1 to couple a &quot;general welfare&quot; claim with the research that shows abortion has caused lower crime. S2 believes that boundaries do exist and he could easily argue that those people who wanted to prevent gay marriage could just as easily want to prevent inter-religious or inter-racial marriage. S1 poses a question if Maine's results have any bearing on the scotus look at overturning the 9th.  S2 says Maine's results were about how voters feel about gay marriage and the &quot;9th&quot; is about how federal constitution applies to gay marriage. S2 argues that they are two entirely different issues and the S1 pointing to issue A does not refute issue B. S2 believes it doesn't matter how much &quot;desire&quot; the voters have, their law still has to be constitutional and meet the requirements of the 14th amendment. He ends the discussion with S1 until S1 can embrace an honestly open discussion on the topic.</line>
+ </text>
+ <scu uid="2" label="The argument originally starts in a tangent of Abortion.">
+  <contributor label="The argument originally starts in a tangent of Abortion">
+   <part label="The argument originally starts in a tangent of Abortion" start="1100" end="1155"/>
+  </contributor>
+  <contributor label="potentially starting a new debate on abortion">
+   <part label="potentially starting a new debate on abortion" start="155" end="200"/>
+  </contributor>
+  <contributor label="S2 thinks that S1 is trying to get people to talk to him about abortion">
+   <part label="S2 thinks that S1 is trying to get people to talk to him about abortion" start="5165" end="5236"/>
+  </contributor>
+  <contributor label="(S2) questions if (S1) is beginning to debate about abortion">
+   <part label="(S2) questions if (S1) is beginning to debate about abortion" start="2287" end="2347"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="One person antagonizes the other person in the thread.">
+  <contributor label="S2 thinks that S1 is trolling the thread...S1 continues to antagonize S2">
+   <part label="S2 thinks that S1 is trolling the thread" start="1158" end="1198"/>
+   <part label="S1 continues to antagonize S2" start="1332" end="1361"/>
+  </contributor>
+  <contributor label="S1 and S2 begin by talking about trolling">
+   <part label="S1 and S2 begin by talking about trolling" start="109" end="150"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="Maine's results reflected how the voters feel about gay marriage.">
+  <contributor label="Maine's results were about how voters feel about gay marriage not about the federal constitution">
+   <part label="Maine's results were about how voters feel about gay marriage not about the federal constitution" start="4384" end="4480"/>
+  </contributor>
+  <contributor label="S2 says Maine's results were about how voters feel about gay marriage">
+   <part label="S2 says Maine's results were about how voters feel about gay marriage" start="5643" end="5712"/>
+  </contributor>
+  <contributor label="S2 states that Maine's vote on gay marriage was an opinion on gay marriage">
+   <part label="S2 states that Maine's vote on gay marriage was an opinion on gay marriage" start="403" end="477"/>
+  </contributor>
+  <contributor label="This means that the results reflect how the voters feel about gay marriage">
+   <part label="This means that the results reflect how the voters feel about gay marriage" start="2689" end="2763"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="People who want to prevent gay marriage could prevent inter-religious or inter-racial marriage.">
+  <contributor label="S2 says that in saying people who want to get rid of gay marriage may have wanted to prevent inter-racial and inter religious marriage">
+   <part label="S2 says that in saying people who want to get rid of gay marriage may have wanted to prevent inter-racial and inter religious marriage" start="267" end="401"/>
+  </contributor>
+  <contributor label="It could  could just as easily argue that those people who wanted to prevent gay marriage could just as easily want to prevent inter-religious or inter-racial marriage">
+   <part label="It could  could just as easily argue that those people who wanted to prevent gay marriage could just as easily want to prevent inter-religious or inter-racial marriage" start="4080" end="4247"/>
+  </contributor>
+  <contributor label="he could easily argue that those people who wanted to prevent gay marriage could just as easily want to prevent inter-religious or inter-racial marriage">
+   <part label="he could easily argue that those people who wanted to prevent gay marriage could just as easily want to prevent inter-religious or inter-racial marriage" start="5389" end="5541"/>
+  </contributor>
+  <contributor label="S2 says they should use familiar comparison of attacks on inter-racial marriage">
+   <part label="S2 says they should use familiar comparison of attacks on inter-racial marriage" start="1470" end="1549"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="The 9th is about how the Federal Constitution applies to gay marriage.">
+  <contributor label="the 9th being how the Federal Constitution applies to gay marriage">
+   <part label="the 9th being how the Federal Constitution applies to gay marriage" start="491" end="557"/>
+  </contributor>
+  <contributor label="(S2) then states that the 9th is about hoe the FEDERAL CONSTITUTION applies to gay marriage">
+   <part label="(S2) then states that the 9th is about hoe the FEDERAL CONSTITUTION applies to gay marriage" start="2596" end="2687"/>
+  </contributor>
+  <contributor label="how the federal constitution applies to marriage...the &quot;9th&quot; is about how federal constitution applies to gay marriage">
+   <part label="the &quot;9th&quot; is about how federal constitution applies to gay marriage" start="5717" end="5784"/>
+   <part label="how the federal constitution applies to marriage" start="59" end="107"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="One person compares abortion to the extermination of Jews in the Holocaust.">
+  <contributor label="(S2) compares abortion to the extermination of Jews in the Holocaust">
+   <part label="(S2) compares abortion to the extermination of Jews in the Holocaust" start="2448" end="2516"/>
+  </contributor>
+  <contributor label="S2 believes that S1  flubbed up stating what you wanted to say trying to argue that the abortionists could have no qualms exterminating Jews in another Holocaust">
+   <part label="S2 believes that S1  flubbed up stating what you wanted to say trying to argue that the abortionists could have no qualms exterminating Jews in another Holocaust" start="3916" end="4077"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="One person cannot trust the intellectual honesty discourse of the other person.">
+  <contributor label="until S1 can embrace an honestly open discussion on the topic">
+   <part label="until S1 can embrace an honestly open discussion on the topic" start="6082" end="6143"/>
+  </contributor>
+  <contributor label="(S2) says that he cannot trust the intellectual honesty discourse of (S1)">
+   <part label="(S2) says that he cannot trust the intellectual honesty discourse of (S1)" start="3078" end="3151"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="When a pre-birth child dies, it has a &quot;real&quot; body.">
+  <contributor label="S1 says when a pre-birth child dies it has a &quot;real&quot; body">
+   <part label="S1 says when a pre-birth child dies it has a &quot;real&quot; body" start="5107" end="5163"/>
+  </contributor>
+  <contributor label="When a pre-birth child dies ( either naturally or by the hands of a ' doctor ' paid to kill it ) , ... it has a ' real ' body">
+   <part label="When a pre-birth child dies ( either naturally or by the hands of a ' doctor ' paid to kill it ) , ... it has a ' real ' body" start="3303" end="3428"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="Boundaries do exist.">
+  <contributor label="S2 believes that boundaries do exist">
+   <part label="S2 believes that boundaries do exist" start="5348" end="5384"/>
+  </contributor>
+  <contributor label="S2 continues to discuss the necessity of drawing boundaries in reason">
+   <part label="S2 continues to discuss the necessity of drawing boundaries in reason" start="1363" end="1432"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="These arguments are two entirely different issues.">
+  <contributor label="S2 argues that they are two entirely different issues">
+   <part label="S2 argues that they are two entirely different issues" start="5786" end="5839"/>
+  </contributor>
+  <contributor label="which pertain to two separate issues...the S1 pointing to issue A does not refute issue B">
+   <part label="which pertain to two separate issues" start="2037" end="2073"/>
+   <part label="the S1 pointing to issue A does not refute issue B" start="5844" end="5894"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="They also bring up Lawrence v. Texas">
+  <contributor label="They also bring up Lawrence v. Texas">
+   <part label="They also bring up Lawrence v. Texas" start="653" end="689"/>
+  </contributor>
+  <contributor label="LAWRENCE V. TEXAS">
+   <part label="LAWRENCE V. TEXAS" start="4961" end="4978"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="The fact that a majority wants a law is not enough to satisfy a consititutional challenge of that law.">
+  <contributor label="S2 states that even when majority wants a law it isn't enough for the constitution challenge of the law">
+   <part label="S2 states that even when majority wants a law it isn't enough for the constitution challenge of the law" start="694" end="797"/>
+  </contributor>
+  <contributor label="The fact that a majority want a law is not enough to satisfy a constitutional challenge of that law">
+   <part label="The fact that a majority want a law is not enough to satisfy a constitutional challenge of that law" start="4979" end="5078"/>
+  </contributor>
+  <contributor label="S2 believes it doesn't matter how much &quot;desire&quot; the voters have, their law still has to be constitutional and meet the requirements of the 14th amendment">
+   <part label="S2 believes it doesn't matter how much &quot;desire&quot; the voters have, their law still has to be constitutional and meet the requirements of the 14th amendment" start="5896" end="6049"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="This debate is about the 9th">
+  <contributor label="This debate is about the 9th">
+   <part label="This debate is about the 9th" start="26" end="54"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="Bowers Justice Stevens doesn't have the evidence to withstand his analysis.">
+  <contributor label="S2 also says that Bowers Justice Stevens doesn't have the evidence to withstand his analysis">
+   <part label="S2 also says that Bowers Justice Stevens doesn't have the evidence to withstand his analysis" start="559" end="651"/>
+  </contributor>
+  <contributor label="Bowers rationale does not withstand careful analysis">
+   <part label="Bowers rationale does not withstand careful analysis" start="4483" end="4535"/>
+  </contributor>
+ </scu>
+ <scu uid="16" label="The people go back to talking trash to each other.">
+  <contributor label="They go back to talking trash to each other">
+   <part label="They go back to talking trash to each other" start="941" end="984"/>
+  </contributor>
+ </scu>
+ <scu uid="17" label="The people end the conversation.">
+  <contributor label="they end the conversation">
+   <part label="they end the conversation" start="989" end="1014"/>
+  </contributor>
+  <contributor label="He ends the discussion with S1">
+   <part label="He ends the discussion with S1" start="6051" end="6081"/>
+  </contributor>
+  <contributor label="S2 ends the discussion by accusing S1 of repeating his points">
+   <part label="S2 ends the discussion by accusing S1 of repeating his points" start="1974" end="2035"/>
+  </contributor>
+ </scu>
+ <scu uid="18" label="One person talks about the death of a child either by natural or in the hands of a doctor.">
+  <contributor label="(S1) begins talking about the death of a child either by natural or in the hands of a doctor">
+   <part label="(S1) begins talking about the death of a child either by natural or in the hands of a doctor" start="2103" end="2195"/>
+  </contributor>
+ </scu>
+ <scu uid="20" label="Two people are in unfriendly argument about gay marriage.">
+  <contributor label="S1 and S2 are in unfriendly argument about gay marriage">
+   <part label="S1 and S2 are in unfriendly argument about gay marriage" start="1043" end="1098"/>
+  </contributor>
+ </scu>
+ <scu uid="21" label="One person indicates playing devils advocate to talk about gay rights in realtion to abortion.">
+  <contributor label="abortion playing the devil advocate to shows the misuse of logic is S1's thinking for issues in gay marriage">
+   <part label="abortion playing the devil advocate to shows the misuse of logic is S1's thinking for issues in gay marriage" start="1222" end="1330"/>
+  </contributor>
+  <contributor label="(S2) also indicates playing devils advocate to also talk about gay rights in relation to abortion">
+   <part label="(S2) also indicates playing devils advocate to also talk about gay rights in relation to abortion" start="2349" end="2446"/>
+  </contributor>
+ </scu>
+ <scu uid="23" label="One person questions is Maine's voting results will overturn the 9th amendment.">
+  <contributor label="S1 questions is Maine's voting results will overturn the 9th amendment">
+   <part label="S1 questions is Maine's voting results will overturn the 9th amendment" start="3491" end="3561"/>
+  </contributor>
+  <contributor label="S1 poses a question if Maine's results have any bearing on the scotus look at overturning the 9th">
+   <part label="S1 poses a question if Maine's results have any bearing on the scotus look at overturning the 9th" start="5543" end="5640"/>
+  </contributor>
+ </scu>
+ <scu uid="24" label="If people are willing to deny others' rights because of their differences, they could easily want slavery back.">
+  <contributor label="They could supposedly just as easily have wanted slavery back , if they're willing to deny people rights because of their differences">
+   <part label="They could supposedly just as easily have wanted slavery back , if they're willing to deny people rights because of their differences" start="4249" end="4382"/>
+  </contributor>
+  <contributor label="if you are against interracial marriage, you are for slavery">
+   <part label="if you are against interracial marriage, you are for slavery" start="1556" end="1616"/>
+  </contributor>
+ </scu>
+ <scu uid="25" label="An issuse as immoral it is not enough to prohibit the practice.">
+  <contributor label="the fact a State s governing majority has traditionally viewed a particular practice as immoral is not a sufficient reason for upholding a law prohibiting the practice">
+   <part label="the fact a State s governing majority has traditionally viewed a particular practice as immoral is not a sufficient reason for upholding a law prohibiting the practice" start="4611" end="4778"/>
+  </contributor>
+  <contributor label="(S2) talks about State's majority has traditionally seen an issue as immoral it is not enough to prohibit the practice">
+   <part label="(S2) talks about State's majority has traditionally seen an issue as immoral it is not enough to prohibit the practice" start="2765" end="2883"/>
+  </contributor>
+ </scu>
+ <scu uid="27" label="Research shows abortion has casued lower crime.">
+  <contributor label="He tells S1 to couple a &quot;general welfare&quot; claim with the research that shows abortion has caused lower crime">
+   <part label="He tells S1 to couple a &quot;general welfare&quot; claim with the research that shows abortion has caused lower crime" start="5238" end="5346"/>
+  </contributor>
+ </scu>
+ <scu uid="28" label="People are trying to overturn the 9th.">
+  <contributor label="people in those states are still trying to get them overturned">
+   <part label="people in those states are still trying to get them overturned" start="1873" end="1935"/>
+  </contributor>
+  <contributor label="(S1) bring to (S2)'s attention the overturning of the 9th in Maine's results">
+   <part label="(S1) bring to (S2)'s attention the overturning of the 9th in Maine's results" start="2518" end="2594"/>
+  </contributor>
+ </scu>
+ <scu uid="29" label="One person compliments the other person for clever banter.">
+  <contributor label="S2 compliments S1 for clever banter">
+   <part label="S2 compliments S1 for clever banter" start="1937" end="1972"/>
+  </contributor>
+ </scu>
+ <scu uid="30" label="Two people state willingness to debate the matter further.">
+  <contributor label="S1 states willingness to debate the matter further with S2">
+   <part label="S1 states willingness to debate the matter further with S2" start="3431" end="3489"/>
+  </contributor>
+  <contributor label="offers to debate about the topic">
+   <part label="offers to debate about the topic" start="2253" end="2285"/>
+  </contributor>
+ </scu>
+ <scu uid="31" label="Intimate relationship is a liberty by due process.">
+  <contributor label="intimate relationships are no one else's concern...it is a liberty by due process">
+   <part label="it is a liberty by due process" start="2946" end="2976"/>
+   <part label="intimate relationships are no one else's concern" start="2893" end="2941"/>
+  </contributor>
+  <contributor label="individual decisions concerning the intimacies of physical relationships...are a form of liberty protected by due process">
+   <part label="are a form of liberty protected by due process" start="4912" end="4958"/>
+   <part label="individual decisions concerning the intimacies of physical relationships" start="4791" end="4863"/>
+  </contributor>
+ </scu>
+ <scu uid="33" label="One person dislikes the other person brought up abortion rights in the forum.">
+  <contributor label="S2 dislikes that S1 brought up abortion rights in the forum">
+   <part label="S2 dislikes that S1 brought up abortion rights in the forum" start="3767" end="3826"/>
+  </contributor>
+ </scu>
+ <scu uid="35" label="California's ban is about &quot;the voters&quot; and their desired definition.">
+  <contributor label="California's ban ( being reviewed by the 9th ) is likewise about &quot; the voters &quot; and their desired definition">
+   <part label="California's ban ( being reviewed by the 9th ) is likewise about &quot; the voters &quot; and their desired definition" start="3563" end="3671"/>
+  </contributor>
+  <contributor label="(S1) talks about the desire of the voters and so brings up the decision made in California">
+   <part label="(S1) talks about the desire of the voters and so brings up the decision made in California" start="2978" end="3068"/>
+  </contributor>
+ </scu>
+ <scu uid="37" label="The examples of &quot;9th&quot; from Maine and &quot;Prop 8&quot; from California have showed their majority was against gay marriage.">
+  <contributor label="S1 brings the &quot;9th&quot; from Maine and &quot;Prop 8&quot; from California as example of states that have showed that their majority was against gay marriage">
+   <part label="S1 brings the &quot;9th&quot; from Maine and &quot;Prop 8&quot; from California as example of states that have showed that their majority was against gay marriage" start="1721" end="1863"/>
+  </contributor>
+ </scu>
+ <scu uid="38" label="One person says the other person's arguments are flawed.">
+  <contributor label="S2 goes back to saying how S1's arguments are flawed">
+   <part label="S2 goes back to saying how S1's arguments are flawed" start="799" end="851"/>
+  </contributor>
+  <contributor label="his flawed arguments">
+   <part label="his flawed arguments" start="3163" end="3183"/>
+  </contributor>
+  <contributor label="show S1that type of discourse is not logically accurate">
+   <part label="show S1that type of discourse is not logically accurate" start="1664" end="1719"/>
+  </contributor>
+ </scu>
+ <scu uid="40" label="One person hasn't disproved anything.">
+  <contributor label="S1 hasn't disproved anything">
+   <part label="S1 hasn't disproved anything" start="911" end="939"/>
+  </contributor>
+ </scu>
+ <scu uid="43" label="Dead &quot; potential &quot; lives don't have &quot; real &quot; or &quot; actual &quot; dead bodies.">
+  <contributor label="S1 believes that dead &quot; potential &quot; lives don't have &quot; real &quot; or &quot; actual &quot; dead bodies">
+   <part label="S1 believes that dead &quot; potential &quot; lives don't have &quot; real &quot; or &quot; actual &quot; dead bodies" start="3213" end="3300"/>
+  </contributor>
+ </scu>
+ <scu uid="44" label="One person mentions that there are photos in the web.">
+  <contributor label="(S1) also mentions that there are photos in the web">
+   <part label="(S1) also mentions that there are photos in the web" start="2197" end="2248"/>
+  </contributor>
+ </scu>
+ <scu uid="45" label="The debate on abortion doesn't have purpose in the conversation.">
+  <contributor label="doesn't really have a lot of purpose in this conversation...its too repetitive for this conversation">
+   <part label="doesn't really have a lot of purpose in this conversation" start="208" end="265"/>
+   <part label="its too repetitive for this conversation" start="861" end="901"/>
+  </contributor>
+ </scu>
+ <scu uid="46" label="Staying on track is important.">
+  <contributor label="the importance staying on track">
+   <part label="the importance staying on track" start="1437" end="1468"/>
+  </contributor>
+ </scu>
+ <scu uid="47" label="One person would lose the abortion arguments.">
+  <contributor label="S1 would lose abortion arguments by the arguments you have raised here">
+   <part label="S1 would lose abortion arguments by the arguments you have raised here" start="3843" end="3913"/>
+  </contributor>
+ </scu>
+ <scu uid="48" label="One person shows his support of gay marriage.">
+  <contributor label="show his support of gay marriage">
+   <part label="show his support of gay marriage" start="1622" end="1654"/>
+  </contributor>
+ </scu>
+ <scu uid="49" label="Some individuals don't intend to produce offspring.">
+  <contributor label="even when not intended to produce offspring">
+   <part label="even when not intended to produce offspring" start="4866" end="4909"/>
+  </contributor>
+ </scu>
+ <scu uid="50" label="One person anticipates the responses of the other person.">
+  <contributor label="S1 anticipates the responses of S2...questions S2's ability to learn from the debate">
+   <part label="S1 anticipates the responses of S2" start="3674" end="3708"/>
+   <part label="questions S2's ability to learn from the debate" start="3713" end="3760"/>
+  </contributor>
+ </scu>
+ <scu uid="51" label="One person's opinion in Bowers Justice Stevens concluded two facts.">
+  <contributor label="In his dissenting opinion in Bowers Justice Stevens concluded that">
+   <part label="In his dissenting opinion in Bowers Justice Stevens concluded that" start="4538" end="4604"/>
+  </contributor>
+ </scu>
+</pyramid>

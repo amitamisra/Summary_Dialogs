@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Sodom) (CC and) (NNP Gomorrah) (NNS liberals)) (VP (VBP are) (NP (NP (DT a) (NN scourge)) (PP (TO to) (NP (JJ decent) (NNS people)))) (ADVP (RB everywhere))) (. .)))

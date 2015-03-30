@@ -1,0 +1,14 @@
+He states that 1909 society had to little understanding of homosexuality to be prejudiced.
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+mark(had-6, that-3)
+num(society-5, 1909-4)
+nsubj(had-6, society-5)
+ccomp(states-2, had-6)
+amod(understanding-9, little-8)
+prep_to(had-6, understanding-9)
+prep_of(understanding-9, homosexuality-11)
+aux(prejudiced-14, to-12)
+auxpass(prejudiced-14, be-13)
+xcomp(had-6, prejudiced-14)
+

@@ -1,0 +1,17 @@
+He ends the discussion with S1 until S1 can embrace an honestly open discussion on the topic.
+root(ROOT-0, ends-2)
+nsubj(ends-2, He-1)
+det(discussion-4, the-3)
+dobj(ends-2, discussion-4)
+prep_with(ends-2, S1-6)
+mark(embrace-10, until-7)
+nsubj(embrace-10, S1-8)
+aux(embrace-10, can-9)
+advcl(ends-2, embrace-10)
+det(discussion-14, an-11)
+advmod(open-13, honestly-12)
+amod(discussion-14, open-13)
+dobj(embrace-10, discussion-14)
+det(topic-17, the-16)
+prep_on(discussion-14, topic-17)
+

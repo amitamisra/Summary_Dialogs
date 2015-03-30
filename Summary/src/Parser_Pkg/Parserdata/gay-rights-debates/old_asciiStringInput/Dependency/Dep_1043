@@ -1,0 +1,32 @@
+  that it is unfortunate 
+root(ROOT-0, unfortunate-4)
+mark(unfortunate-4, that-1)
+nsubj(unfortunate-4, it-2)
+cop(unfortunate-4, is-3)
+
+  that in opening this opportunity for gay marriage , the definition of marriage will change 
+root(ROOT-0, change-15)
+mark(change-15, that-1)
+prepc_in(change-15, opening-3)
+det(opportunity-5, this-4)
+dobj(opening-3, opportunity-5)
+amod(marriage-8, gay-7)
+prep_for(opportunity-5, marriage-8)
+det(definition-11, the-10)
+nsubj(change-15, definition-11)
+prep_of(definition-11, marriage-13)
+aux(change-15, will-14)
+
+  that in opening this opportunity for gay marriage , the definition of marriage will change 
+root(ROOT-0, change-15)
+mark(change-15, that-1)
+prepc_in(change-15, opening-3)
+det(opportunity-5, this-4)
+dobj(opening-3, opportunity-5)
+amod(marriage-8, gay-7)
+prep_for(opportunity-5, marriage-8)
+det(definition-11, the-10)
+nsubj(change-15, definition-11)
+prep_of(definition-11, marriage-13)
+aux(change-15, will-14)
+

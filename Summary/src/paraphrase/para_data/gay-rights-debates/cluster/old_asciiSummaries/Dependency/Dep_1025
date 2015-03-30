@@ -1,0 +1,14 @@
+S1 contends that the amount of earthquakes in the last century is increasing exponentially.
+root(ROOT-0, contends-2)
+nsubj(contends-2, S1-1)
+mark(increasing-13, that-3)
+det(amount-5, the-4)
+nsubj(increasing-13, amount-5)
+prep_of(amount-5, earthquakes-7)
+det(century-11, the-9)
+amod(century-11, last-10)
+prep_in(earthquakes-7, century-11)
+aux(increasing-13, is-12)
+ccomp(contends-2, increasing-13)
+advmod(increasing-13, exponentially-14)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, S1-2)
+nn(desires-5, government-4)
+dep(S1-2, desires-5)
+aux(involved-8, to-6)
+auxpass(involved-8, be-7)
+vmod(S1-2, involved-8)
+prep(involved-8, in-9)
+pobj(in-9, lives-10)

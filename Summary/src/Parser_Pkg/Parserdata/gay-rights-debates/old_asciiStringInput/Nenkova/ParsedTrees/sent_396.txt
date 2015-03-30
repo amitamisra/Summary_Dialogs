@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ says) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (DT a) (NN scare) (NN tactic) (S (VP (TO to) (VP (VB turn) (NP (NNS people)) (ADVP (RB away)))))))))) (. .)))

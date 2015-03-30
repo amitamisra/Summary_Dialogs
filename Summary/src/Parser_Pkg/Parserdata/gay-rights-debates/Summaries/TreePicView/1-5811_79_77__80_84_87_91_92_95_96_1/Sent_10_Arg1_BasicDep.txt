@@ -1,0 +1,4 @@
+root(ROOT-0, is-4)
+det(reason-3, the-1)
+amod(reason-3, simple-2)
+nsubj(is-4, reason-3)

@@ -1,0 +1,7 @@
+root(ROOT-0, same-4)
+nsubj(same-4, disagreement-1)
+cop(same-4, is-2)
+det(same-4, the-3)
+prep(same-4, as-5)
+cop(bigoted-7, being-6)
+pcomp(as-5, bigoted-7)

@@ -1,0 +1,35 @@
+   that S2 can see a person for gay rights and against gay marriage 
+root(ROOT-0, see-4)
+mark(see-4, that-1)
+nsubj(see-4, S2-2)
+aux(see-4, can-3)
+det(person-6, a-5)
+dobj(see-4, person-6)
+amod(rights-9, gay-8)
+prep_for(person-6, rights-9)
+conj_and(see-4, against-11)
+amod(marriage-13, gay-12)
+pobj(against-11, marriage-13)
+
+S2 refuses to give the summary of their religious argument.
+root(ROOT-0, refuses-2)
+nsubj(refuses-2, S2-1)
+aux(give-4, to-3)
+xcomp(refuses-2, give-4)
+det(summary-6, the-5)
+dobj(give-4, summary-6)
+poss(argument-10, their-8)
+amod(argument-10, religious-9)
+prep_of(summary-6, argument-10)
+
+S2 refuses to give the summary of their religious argument.
+root(ROOT-0, refuses-2)
+nsubj(refuses-2, S2-1)
+aux(give-4, to-3)
+xcomp(refuses-2, give-4)
+det(summary-6, the-5)
+dobj(give-4, summary-6)
+poss(argument-10, their-8)
+amod(argument-10, religious-9)
+prep_of(summary-6, argument-10)
+

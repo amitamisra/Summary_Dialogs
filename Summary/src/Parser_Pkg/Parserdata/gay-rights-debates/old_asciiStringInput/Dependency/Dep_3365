@@ -1,0 +1,12 @@
+   S2 is for gay marriage 
+root(ROOT-0, is-2)
+nsubj(is-2, S2-1)
+amod(marriage-5, gay-4)
+prep_for(is-2, marriage-5)
+
+   S2 is for gay marriage 
+root(ROOT-0, is-2)
+nsubj(is-2, S2-1)
+amod(marriage-5, gay-4)
+prep_for(is-2, marriage-5)
+

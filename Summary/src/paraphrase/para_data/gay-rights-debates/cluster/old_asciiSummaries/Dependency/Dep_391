@@ -1,0 +1,14 @@
+They believe that bringing up hypothetical arguments to the contrary is a distraction.
+root(ROOT-0, believe-2)
+nsubj(believe-2, They-1)
+mark(distraction-13, that-3)
+csubj(distraction-13, bringing-4)
+prt(bringing-4, up-5)
+amod(arguments-7, hypothetical-6)
+dobj(bringing-4, arguments-7)
+det(contrary-10, the-9)
+prep_to(bringing-4, contrary-10)
+cop(distraction-13, is-11)
+det(distraction-13, a-12)
+ccomp(believe-2, distraction-13)
+

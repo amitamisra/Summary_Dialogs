@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ contends) (SBAR (S (NP (NN he/she)) (VP (VP (VBZ does) (RB not) (VP (VB hate) (NP (NNS gays)))) (CC but) (VP (VBZ does) (RB n't) (VP (VB feel) (SBAR (S (NP (NN marriage)) (VP (MD should) (VP (VB be) (VP (VBN redefined) (S (VP (TO to) (VP (VB allow) (SBAR (IN for) (S (NP (PRP them)) (VP (TO to) (VP (VB wed.))))))))))))))))))) (. .)))

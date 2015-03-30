@@ -1,0 +1,42 @@
+ that the gay marriage debate is not synonymous with someone condoning violence against gays .
+
+
+root(ROOT-0, synonymous-8)
+mark(synonymous-8, that-1)
+det(debate-5, the-2)
+amod(debate-5, gay-3)
+nn(debate-5, marriage-4)
+nsubj(synonymous-8, debate-5)
+cop(synonymous-8, is-6)
+neg(synonymous-8, not-7)
+nn(violence-12, someone-10)
+amod(violence-12, condoning-11)
+prep_with(synonymous-8, violence-12)
+prep_against(violence-12, gays-14)
+
+A person can claim a moral or religious stance without having one.
+root(ROOT-0, claim-4)
+det(person-2, A-1)
+nsubj(claim-4, person-2)
+aux(claim-4, can-3)
+det(stance-9, a-5)
+amod(stance-9, moral-6)
+conj_or(moral-6, religious-8)
+amod(stance-9, religious-8)
+dobj(claim-4, stance-9)
+prepc_without(claim-4, having-11)
+dobj(having-11, one-12)
+
+A person can claim a moral or religious stance without having one.
+root(ROOT-0, claim-4)
+det(person-2, A-1)
+nsubj(claim-4, person-2)
+aux(claim-4, can-3)
+det(stance-9, a-5)
+amod(stance-9, moral-6)
+conj_or(moral-6, religious-8)
+amod(stance-9, religious-8)
+dobj(claim-4, stance-9)
+prepc_without(claim-4, having-11)
+dobj(having-11, one-12)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, making-3)
+nsubj(making-3, S2-1)
+aux(making-3, is-2)
+det(argument-5, an-4)
+dobj(making-3, argument-5)
+prep(argument-5, for-6)
+poss(belief-8, their-7)
+pobj(for-6, belief-8)

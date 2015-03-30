@@ -1,0 +1,44 @@
+He cites Jefferson 's beliefs  that war can be necessary in order to maintain liberty 
+root(ROOT-0, cites-2)
+nsubj(cites-2, He-1)
+poss(beliefs-5, Jefferson-3)
+dobj(cites-2, beliefs-5)
+mark(necessary-10, that-6)
+nsubj(necessary-10, war-7)
+aux(necessary-10, can-8)
+cop(necessary-10, be-9)
+ccomp(cites-2, necessary-10)
+mark(maintain-14, in-11)
+dep(maintain-14, order-12)
+aux(maintain-14, to-13)
+advcl(necessary-10, maintain-14)
+dobj(maintain-14, liberty-15)
+
+S1 holds hope that gay marriage will be banned everywhere .
+
+
+root(ROOT-0, holds-2)
+nsubj(holds-2, S1-1)
+dobj(holds-2, hope-3)
+mark(banned-9, that-4)
+amod(marriage-6, gay-5)
+nsubjpass(banned-9, marriage-6)
+aux(banned-9, will-7)
+auxpass(banned-9, be-8)
+ccomp(holds-2, banned-9)
+advmod(banned-9, everywhere-10)
+
+S1 holds hope that gay marriage will be banned everywhere .
+
+
+root(ROOT-0, holds-2)
+nsubj(holds-2, S1-1)
+dobj(holds-2, hope-3)
+mark(banned-9, that-4)
+amod(marriage-6, gay-5)
+nsubjpass(banned-9, marriage-6)
+aux(banned-9, will-7)
+auxpass(banned-9, be-8)
+ccomp(holds-2, banned-9)
+advmod(banned-9, everywhere-10)
+

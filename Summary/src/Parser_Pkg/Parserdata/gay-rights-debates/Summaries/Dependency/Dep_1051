@@ -1,0 +1,20 @@
+they eventually realize that they made a mistake.
+root(ROOT-0, realize-3)
+nsubj(realize-3, they-1)
+advmod(realize-3, eventually-2)
+mark(made-6, that-4)
+nsubj(made-6, they-5)
+ccomp(realize-3, made-6)
+det(mistake-8, a-7)
+dobj(made-6, mistake-8)
+
+they eventually realize that they made a mistake.
+root(ROOT-0, realize-3)
+nsubj(realize-3, they-1)
+advmod(realize-3, eventually-2)
+mark(made-6, that-4)
+nsubj(made-6, they-5)
+ccomp(realize-3, made-6)
+det(mistake-8, a-7)
+dobj(made-6, mistake-8)
+

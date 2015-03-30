@@ -1,0 +1,1 @@
+(ROOT (S (PP (IN In#0#Expansion) (NP (NN fact#0#Expansion))) (, ,) (ADVP (RBR more) (RB importantly)) (, ,) (NP (PRP they)) (VP (VBP 're) (ADVP (RB always)) (ADJP (JJ wrong) (SBAR (WHNP (ADVP (DT no) (NN matter)) (WP what)) (FRAG (NP (DT the) (NN issue)))))) (. .)))

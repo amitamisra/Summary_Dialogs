@@ -1,0 +1,58 @@
+ that those who defend homosexual activity deflect the question of an AIS epidemic in the United States by bringing up statistics for it in Africa .
+
+
+root(ROOT-0, deflect-7)
+mark(deflect-7, that-1)
+nsubj(deflect-7, those-2)
+nsubj(defend-4, who-3)
+rcmod(those-2, defend-4)
+amod(activity-6, homosexual-5)
+dobj(defend-4, activity-6)
+det(question-9, the-8)
+dobj(deflect-7, question-9)
+det(AIS-12, an-11)
+prep_of(question-9, AIS-12)
+amod(AIS-12, epidemic-13)
+det(States-17, the-15)
+nn(States-17, United-16)
+prep_in(epidemic-13, States-17)
+prepc_by(deflect-7, bringing-19)
+prt(bringing-19, up-20)
+dobj(bringing-19, statistics-21)
+prep_for(statistics-21, it-23)
+prep_in(bringing-19, Africa-25)
+
+ the courts should take individuals ' into consideration and rule on each instead of as a whole .
+
+
+root(ROOT-0, take-4)
+det(courts-2, the-1)
+nsubj(take-4, courts-2)
+aux(take-4, should-3)
+dobj(take-4, individuals-5)
+prep_into(take-4, consideration-8)
+prep_into(take-4, rule-10)
+conj_and(consideration-8, rule-10)
+prep_on(consideration-8, each-12)
+advmod(each-12, instead-13)
+prepc_as_of(each-12, as-15)
+det(whole-17, a-16)
+pobj(each-12, whole-17)
+
+ the courts should take individuals ' into consideration and rule on each instead of as a whole .
+
+
+root(ROOT-0, take-4)
+det(courts-2, the-1)
+nsubj(take-4, courts-2)
+aux(take-4, should-3)
+dobj(take-4, individuals-5)
+prep_into(take-4, consideration-8)
+prep_into(take-4, rule-10)
+conj_and(consideration-8, rule-10)
+prep_on(consideration-8, each-12)
+advmod(each-12, instead-13)
+prepc_as_of(each-12, as-15)
+det(whole-17, a-16)
+pobj(each-12, whole-17)
+

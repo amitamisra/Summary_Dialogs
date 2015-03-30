@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ wants) (S (VP (TO to) (VP (VB draw) (NP (DT the) (NN line)) (SBAR (IN as#1#Temporal) (S (VP (VBZ is) (SBAR (IN so#0#Contingency) (S (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (NN marriage)))) (VP (VBZ does) (RB not) (VP (VB change)))))))))))) (. .)))

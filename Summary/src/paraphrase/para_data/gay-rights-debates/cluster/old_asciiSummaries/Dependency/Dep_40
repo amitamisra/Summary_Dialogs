@@ -1,0 +1,15 @@
+S1 and S2 are both not surprised if the government gets involved in marriage.
+root(ROOT-0, surprised-7)
+nsubjpass(surprised-7, S1-1)
+conj_and(S1-1, S2-3)
+nsubjpass(surprised-7, S2-3)
+auxpass(surprised-7, are-4)
+advmod(surprised-7, both-5)
+neg(surprised-7, not-6)
+mark(involved-12, if-8)
+det(government-10, the-9)
+nsubjpass(involved-12, government-10)
+auxpass(involved-12, gets-11)
+ccomp(surprised-7, involved-12)
+prep_in(involved-12, marriage-14)
+

@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 identifies the important spiritual situation that homosexuals are in. He suggests that it is inappropriate to make jokes about homosexual lifestyles, that no one approves of the deviant behaviors practiced by homosexuals, and that it would not be funny if homosexuality was discovered in your own community. S2 claims that sexual behaviors because we do not identify non-homosexuals by the sexual behaviors they engage in, we should not do so for homosexual individuals. He argues that a person's private behaviors are no one else's business, and that a sexual behaviors do not define who someone is as a person. He defends homosexual behaviors by referencing the deviant behaviors performed by heterosexuals, suggesting that deviant sexual acts are not the sole province of homosexuals.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing gay marriage and relationships.  S1 is opposed to the issue while S2 is for it.  S1 believes those who practice gay relationships are spiritually lacking and feels S2's sarcasm toward the issue at hand is proof of this.  S2 feels S1 is too literal and obsessed with the issue of gay sex rather than gay marriage.  S2 advises what happens in the bedroom is private and not the issue.  S1 makes some rude remarks in regard to gay sex involving gerbils.  S2 feels many heterosexuals also have a history of doing vulgar things as well and it is unfair to categorize only gay individuals in this manner.  S1 does not agree with this.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 believes that it is a dangerous spiritual situation that S2 is in, and to take homosexuality lightly or amusing in any way is proof that one doesn't care about it. They don't believe that anyone should be laughing or joking at what they think is a perverted and unnatural practice that homosexuals engage in.</line>
+  <line>S2 doesn't believe that sexual activity is what makes up the homosexual community, and that people don't, and shouldn't, care about what one does in the bedroom. They believe such activities should remain private and that it is no one else's business. They don't believe that what is done behind closed doors defines a person. They don't agree that homosexuals should be classified as deviant, as heterosexual activities can be likewise.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing homosexuality.  S1 contends that S2 and Jake fails to comprehend the serious spiritual situation they are in, and they think that anything about their lifestyle is funny but its not.  He states that their practices are sick and perverted and also unnatural.  S2 states that it was sarcasm, and he finds it funny that S1 was making jokes about inserting Gerbils into someone's rectum.  He also claims that sex is all that S1 thinks about since that is the only argument he comes up with.  He then contends that people do not define their neighbor or the people around them by what they do sexually, and that Americans could care less about others' sex life.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 makes a comment about gerbils. He believes homosexuals have created sick and perverted sexual practices, such as those involving gerbils, and they are in a dangerous spiritual situation because of it. He denies joking. S2 laughs sarcastically and questions if sex is all some people think about. He thinks no one cares what people do in their bedrooms because it is private and not a reflection of who they are as a person. He states that people do not define their neighbor or mailman based on what they do in their bedroom and that if that were the case there could be many negative comments made about S1. Also, S2 says that heterosexuals have been known to have messed up sexual practices as well.</line>
+ </text>
+ <scu uid="37" label="a person's sexual behaviors is private and no one else's business">
+  <contributor label="a person's private behaviors are no one else's business">
+   <part label="a person's private behaviors are no one else's business" start="515" end="570"/>
+  </contributor>
+  <contributor label="what happens in the bedroom is private and not the issue">
+   <part label="what happens in the bedroom is private and not the issue" start="1194" end="1250"/>
+  </contributor>
+  <contributor label="people don't, and shouldn't, care about what one does in the bedroom...activities should remain private and that it is no one else's business">
+   <part label="activities should remain private and that it is no one else's business" start="2017" end="2087"/>
+   <part label="people don't, and shouldn't, care about what one does in the bedroom" start="1929" end="1997"/>
+  </contributor>
+  <contributor label="no one cares what people do in their bedrooms because it is private">
+   <part label="no one cares what people do in their bedrooms because it is private" start="3321" end="3388"/>
+  </contributor>
+ </scu>
+ <scu uid="35" label="deviant behaviors performed by heterosexuals">
+  <contributor label="deviant behaviors performed by heterosexuals">
+   <part label="deviant behaviors performed by heterosexuals" start="693" end="737"/>
+  </contributor>
+  <contributor label="many heterosexuals also have a history of doing vulgar things">
+   <part label="many heterosexuals also have a history of doing vulgar things" start="1330" end="1391"/>
+  </contributor>
+  <contributor label="heterosexual activities can be likewise">
+   <part label="heterosexual activities can be likewise" start="2234" end="2273"/>
+  </contributor>
+  <contributor label="heterosexuals have been known to have messed up sexual practices as well">
+   <part label="heterosexuals have been known to have messed up sexual practices as well" start="3643" end="3715"/>
+  </contributor>
+ </scu>
+ <scu uid="38" label="sexual behaviors do not define who people are">
+  <contributor label="not a reflection of who they are as a person...people do not define their neighbor or mailman based on what they do in their bedroom">
+   <part label="not a reflection of who they are as a person" start="3393" end="3437"/>
+   <part label="people do not define their neighbor or mailman based on what they do in their bedroom" start="3454" end="3539"/>
+  </contributor>
+  <contributor label="people do not define their neighbor or the people around them by what they do sexually">
+   <part label="people do not define their neighbor or the people around them by what they do sexually" start="2838" end="2924"/>
+  </contributor>
+  <contributor label="They don't believe that what is done behind closed doors defines a person">
+   <part label="They don't believe that what is done behind closed doors defines a person" start="2089" end="2162"/>
+  </contributor>
+  <contributor label="sexual behaviors do not define who someone is as a person">
+   <part label="sexual behaviors do not define who someone is as a person" start="583" end="640"/>
+  </contributor>
+ </scu>
+ <scu uid="33" label="people who practice same-sex marriage are in a dangerous spiritual situation">
+  <contributor label="those who practice gay relationships are spiritually lacking">
+   <part label="those who practice gay relationships are spiritually lacking" start="962" end="1022"/>
+  </contributor>
+  <contributor label="it is a dangerous spiritual situation">
+   <part label="it is a dangerous spiritual situation" start="1542" end="1579"/>
+  </contributor>
+  <contributor label="the serious spiritual situation">
+   <part label="the serious spiritual situation" start="2393" end="2424"/>
+  </contributor>
+  <contributor label="they are in a dangerous spiritual situation">
+   <part label="they are in a dangerous spiritual situation" start="3157" end="3200"/>
+  </contributor>
+  <contributor label="S1 identifies the important spiritual situation that homosexuals are in">
+   <part label="S1 identifies the important spiritual situation that homosexuals are in" start="26" end="97"/>
+  </contributor>
+ </scu>
+ <scu uid="34" label="This person does not care about homosexuality by joking about it and it is inappropriate">
+  <contributor label="to take homosexuality lightly or amusing in any way is proof that one doesn't care about it">
+   <part label="to take homosexuality lightly or amusing in any way is proof that one doesn't care about it" start="1599" end="1690"/>
+  </contributor>
+  <contributor label="S2's sarcasm toward the issue at hand is proof of this">
+   <part label="S2's sarcasm toward the issue at hand is proof of this" start="1033" end="1087"/>
+  </contributor>
+  <contributor label="it is inappropriate to make jokes about homosexual lifestyles">
+   <part label="it is inappropriate to make jokes about homosexual lifestyles" start="116" end="177"/>
+  </contributor>
+  <contributor label="they think that anything about their lifestyle is funny">
+   <part label="they think that anything about their lifestyle is funny" start="2442" end="2497"/>
+  </contributor>
+ </scu>
+ <scu uid="36" label="Homosexuals are not the only ones who take part in deviant sexual acts">
+  <contributor label="one approves of the deviant behaviors practiced by homosexuals...deviant sexual acts are not the sole province of homosexuals">
+   <part label="deviant sexual acts are not the sole province of homosexuals" start="755" end="815"/>
+   <part label="one approves of the deviant behaviors practiced by homosexuals" start="187" end="249"/>
+  </contributor>
+  <contributor label="it is unfair to categorize only gay individuals in this manner">
+   <part label="it is unfair to categorize only gay individuals in this manner" start="1404" end="1466"/>
+  </contributor>
+  <contributor label="They don't agree that homosexuals should be classified as deviant">
+   <part label="They don't agree that homosexuals should be classified as deviant" start="2164" end="2229"/>
+  </contributor>
+ </scu>
+ <scu uid="20" label="This person believes homosexuals have created sick and perverted sexual practices">
+  <contributor label="He states that their practices are sick and perverted and also unnatural">
+   <part label="He states that their practices are sick and perverted and also unnatural" start="2512" end="2584"/>
+  </contributor>
+  <contributor label="He believes homosexuals have created sick and perverted sexual practices, such as those involving gerbils">
+   <part label="He believes homosexuals have created sick and perverted sexual practices, such as those involving gerbils" start="3046" end="3151"/>
+  </contributor>
+  <contributor label="a perverted and unnatural practice that homosexuals engage in">
+   <part label="a perverted and unnatural practice that homosexuals engage in" start="1774" end="1835"/>
+  </contributor>
+ </scu>
+ <scu uid="26" label="This person claims he is obsessed about sex because it is their only argument">
+  <contributor label="He also claims that sex is all that S1 thinks about since that is the only argument he comes up with">
+   <part label="He also claims that sex is all that S1 thinks about since that is the only argument he comes up with" start="2713" end="2813"/>
+  </contributor>
+  <contributor label="S2 laughs sarcastically and questions if sex is all some people think about">
+   <part label="S2 laughs sarcastically and questions if sex is all some people think about" start="3234" end="3309"/>
+  </contributor>
+  <contributor label="S2 feels S1 is too literal and obsessed with the issue of gay sex rather than gay marriage">
+   <part label="S2 feels S1 is too literal and obsessed with the issue of gay sex rather than gay marriage" start="1090" end="1180"/>
+  </contributor>
+ </scu>
+ <scu uid="25" label="He makes rude remarks in regard to gay sex involving gerbils">
+  <contributor label="making jokes about inserting Gerbils into someone's rectum">
+   <part label="making jokes about inserting Gerbils into someone's rectum" start="2652" end="2710"/>
+  </contributor>
+  <contributor label="rude remarks in regard to gay sex involving gerbils">
+   <part label="rude remarks in regard to gay sex involving gerbils" start="1267" end="1318"/>
+  </contributor>
+  <contributor label="a comment about gerbils">
+   <part label="a comment about gerbils" start="3021" end="3044"/>
+  </contributor>
+ </scu>
+ <scu uid="27" label="He states it was sarcasm">
+  <contributor label="S2 states that it was sarcasm">
+   <part label="S2 states that it was sarcasm" start="2587" end="2616"/>
+  </contributor>
+  <contributor label="He denies joking">
+   <part label="He denies joking" start="3216" end="3232"/>
+  </contributor>
+ </scu>
+ <scu uid="19" label="Two people are discussing homosexuality">
+  <contributor label="S1 and S2 are discussing gay marriage and relationships">
+   <part label="S1 and S2 are discussing gay marriage and relationships" start="844" end="899"/>
+  </contributor>
+  <contributor label="Two people are discussing homosexuality">
+   <part label="Two people are discussing homosexuality" start="2302" end="2341"/>
+  </contributor>
+ </scu>
+ <scu uid="40" label="We should not believe that sexual activity is what makes up the homosexual community">
+  <contributor label="we should not do so for homosexual individuals">
+   <part label="we should not do so for homosexual individuals" start="452" end="498"/>
+  </contributor>
+  <contributor label="S2 doesn't believe that sexual activity is what makes up the homosexual community">
+   <part label="S2 doesn't believe that sexual activity is what makes up the homosexual community" start="1837" end="1918"/>
+  </contributor>
+ </scu>
+ <scu uid="32" label="He does not agree">
+  <contributor label="S1 does not agree with this">
+   <part label="S1 does not agree with this" start="1469" end="1496"/>
+  </contributor>
+ </scu>
+ <scu uid="30" label="One person is for gay marriage and the other is opposed to it">
+  <contributor label="S1 is opposed to the issue while S2 is for it">
+   <part label="S1 is opposed to the issue while S2 is for it" start="902" end="947"/>
+  </contributor>
+ </scu>
+ <scu uid="29" label="there could be many negative comments made about S1">
+  <contributor label="there could be many negative comments made about S1">
+   <part label="there could be many negative comments made about S1" start="3571" end="3622"/>
+  </contributor>
+ </scu>
+ <scu uid="41" label="we do not identify non-homosexuals by the sexual behaviors they engage in">
+  <contributor label="we do not identify non-homosexuals by the sexual behaviors they engage in">
+   <part label="we do not identify non-homosexuals by the sexual behaviors they engage in" start="377" end="450"/>
+  </contributor>
+ </scu>
+ <scu uid="42" label="it would not be funny if homosexuality was discovered in your own community">
+  <contributor label="it would not be funny if homosexuality was discovered in your own community">
+   <part label="it would not be funny if homosexuality was discovered in your own community" start="260" end="335"/>
+  </contributor>
+ </scu>
+</pyramid>

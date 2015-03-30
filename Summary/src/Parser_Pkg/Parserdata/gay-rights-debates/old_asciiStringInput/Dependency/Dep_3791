@@ -1,0 +1,30 @@
+ that S1 is trying to get people to talk to him about abortion .
+
+
+root(ROOT-0, trying-4)
+mark(trying-4, that-1)
+nsubj(trying-4, S1-2)
+aux(trying-4, is-3)
+aux(get-6, to-5)
+xcomp(trying-4, get-6)
+nsubj(talk-9, people-7)
+aux(talk-9, to-8)
+xcomp(get-6, talk-9)
+prep_to(talk-9, him-11)
+prep_about(talk-9, abortion-13)
+
+ that S1 is trying to get people to talk to him about abortion .
+
+
+root(ROOT-0, trying-4)
+mark(trying-4, that-1)
+nsubj(trying-4, S1-2)
+aux(trying-4, is-3)
+aux(get-6, to-5)
+xcomp(trying-4, get-6)
+nsubj(talk-9, people-7)
+aux(talk-9, to-8)
+xcomp(get-6, talk-9)
+prep_to(talk-9, him-11)
+prep_about(talk-9, abortion-13)
+

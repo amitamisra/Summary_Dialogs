@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 suggests that a Christian sect known as the Domionists are focused only on gaining power, citing Jerry Falwell and Pat Robertson as his sources. S2 claims that he was unable to find any evidence of Domionists practices online except from left wing groups. He suggests that the Dimionists are not a real religious group, but rather are a group invented by left wing groups to make people fear Christianity, and further argues that left leaning individuals rely on lying to achieve their goals because they are unfamiliar with the truth. He also presents an absurd story about people on the political left being Satan worshipers in order to demonstrate how posting information without evidence to back it up does not make it automatically true.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 implies that the Dominionist as a group is not interested in people's well-being but want to control people's lives. S1 believes that the Dominionists exists. He cites Jerry Falwell and Pat Robertson as sources that refer to the Dominionists. He tells S2 to do his homework in verifying the existence of the Dominionists.</line>
+  <line>S2 asserts that the Dominionists is a fictional group created by radical left-leaning groups to demonize Christianity. S2 said that he looked up Dominionist websites on Google but can only find articles about them on websites that promote liberal views. He challenges S1 to either produce the link to the source of a Dominionist article that S1 posted or delete the post as a lie.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing Domionists.  S2 believes there is no such group and this has been made up to promote fear of Christianity.  S2 believes this because he is unable to locate a viable website or any other information supporting the group's being real.  S1 feels the group is real and that they are more concerned with the acquisition of power rather than people's interests. S2 feels these fears are being instilled by &quot;radical left&quot; wingers.  S2 also advises that earlier, S1 had posted an article related to the group; however, failed to cite the link so others could look at the whole thing for themselves.  S2 believes posting something on the internet does not make it be true.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 believes there is a group called Domionists that care only about power  and not about people. He thinks one can learn about this group by looking at Jerry Falwell or Pat Robertson. S2 was unable to locate any information on the group other than articles by liberals. He believes radical leftists created the group as a way of promoting fear of Christians. He asks for objective evidence and thinks S1's lack of evidence proves there is none. Also, he thinks it is corrupt to post an article but withhold the source link. S2 says he could post an article stating that Democrats are really Satan Worshipers but that would not make it true, and any assertions made should be backed up with evidence.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two people are discussing whether a radical Christian group called the Dominionists exist.  S1 states that Jerry Falwell or Pat Robertson can confirm their existence, and questions whether they care about people or just about power.  S2 asserts that the only evidence are from radical left leaning groups, which he believes are making them up to generate fear.  He states that S1 cannot produce one objective or source by the Dominionists themselves that states their intention.  He challenges S1 to stop making assertions without evidence, and he states the left wing must lie and cheat to win because the truth is foreign to them, and that he can post that they are Satan Worshipers but that doesn't mean it's true.</line>
+ </text>
+ <scu uid="143" label="S1 and S2 are discussing Domionists">
+  <contributor label="S1 and S2 are discussing Domionists">
+   <part label="S1 and S2 are discussing Domionists" start="1532" end="1567"/>
+  </contributor>
+  <contributor label="Two people are discussing whether a radical Christian group called the Dominionists exist">
+   <part label="Two people are discussing whether a radical Christian group called the Dominionists exist" start="2975" end="3064"/>
+  </contributor>
+  <contributor label="S1 implies that the Dominionist as a group">
+   <part label="S1 implies that the Dominionist as a group" start="799" end="841"/>
+  </contributor>
+  <contributor label="S1 suggests that a Christian sect known as the Domionists">
+   <part label="S1 suggests that a Christian sect known as the Domionists" start="26" end="83"/>
+  </contributor>
+ </scu>
+ <scu uid="144" label="S1 citing Jerry Falwell and Pat Robertson as his sources">
+  <contributor label="S1...citing Jerry Falwell and Pat Robertson as his sources">
+   <part label="S1" start="26" end="28"/>
+   <part label="citing Jerry Falwell and Pat Robertson as his sources" start="119" end="172"/>
+  </contributor>
+  <contributor label="He cites Jerry Falwell and Pat Robertson as sources that refer to the Dominionists">
+   <part label="He cites Jerry Falwell and Pat Robertson as sources that refer to the Dominionists" start="961" end="1043"/>
+  </contributor>
+  <contributor label="He thinks one can learn about this group by looking at Jerry Falwell or Pat Robertson">
+   <part label="He thinks one can learn about this group by looking at Jerry Falwell or Pat Robertson" start="2345" end="2430"/>
+  </contributor>
+  <contributor label="S1 states that Jerry Falwell or Pat Robertson can confirm their existence">
+   <part label="S1 states that Jerry Falwell or Pat Robertson can confirm their existence" start="3067" end="3140"/>
+  </contributor>
+ </scu>
+ <scu uid="145" label="S2 believes there is no such group as Domnionists">
+  <contributor label="S2 believes there is no such group">
+   <part label="S2 believes there is no such group" start="1570" end="1604"/>
+  </contributor>
+  <contributor label="S2 asserts that the Dominionists is a fictional group created by radical left-leaning groups to demonize Christianity">
+   <part label="S2 asserts that the Dominionists is a fictional group created by radical left-leaning groups to demonize Christianity" start="1124" end="1241"/>
+  </contributor>
+  <contributor label="S2 asserts that the only evidence are from radical left leaning groups">
+   <part label="S2 asserts that the only evidence are from radical left leaning groups" start="3209" end="3279"/>
+  </contributor>
+  <contributor label="He suggests that the Dimionists are not a real religious group">
+   <part label="He suggests that the Dimionists are not a real religious group" start="285" end="347"/>
+  </contributor>
+  <contributor label="He believes radical leftists created the group">
+   <part label="He believes radical leftists created the group" start="2518" end="2564"/>
+  </contributor>
+ </scu>
+ <scu uid="146" label="S2 was unable to locate any information on the group other than articles by liberals">
+  <contributor label="S2 believes this because he is unable to locate a viable website or any other information supporting the group's being real">
+   <part label="S2 believes this because he is unable to locate a viable website or any other information supporting the group's being real" start="1665" end="1788"/>
+  </contributor>
+  <contributor label="S2 said that he looked up Dominionist websites on Google but can only find articles about them on websites that promote liberal views">
+   <part label="S2 said that he looked up Dominionist websites on Google but can only find articles about them on websites that promote liberal views" start="1243" end="1376"/>
+  </contributor>
+  <contributor label="S2 claims that he was unable to find any evidence of Domionists practices online except from left wing groups">
+   <part label="S2 claims that he was unable to find any evidence of Domionists practices online except from left wing groups" start="174" end="283"/>
+  </contributor>
+  <contributor label="S2 was unable to locate any information on the group other than articles by liberals">
+   <part label="S2 was unable to locate any information on the group other than articles by liberals" start="2432" end="2516"/>
+  </contributor>
+ </scu>
+ <scu uid="147" label="a group invented by left wing groups to make people fear Christianity">
+  <contributor label="a group invented by left wing groups to make people fear Christianity">
+   <part label="a group invented by left wing groups to make people fear Christianity" start="364" end="433"/>
+  </contributor>
+  <contributor label="this has been made up to promote fear of Christianity...S2 feels these fears are being instilled by &quot;radical left&quot; wingers">
+   <part label="this has been made up to promote fear of Christianity" start="1609" end="1662"/>
+   <part label="S2 feels these fears are being instilled by &quot;radical left&quot; wingers" start="1913" end="1979"/>
+  </contributor>
+  <contributor label="a way of promoting fear of Christians">
+   <part label="a way of promoting fear of Christians" start="2568" end="2605"/>
+  </contributor>
+  <contributor label="he believes are making them up to generate fear">
+   <part label="he believes are making them up to generate fear" start="3287" end="3334"/>
+  </contributor>
+ </scu>
+ <scu uid="148" label="S1 believes that the Dominionists exists">
+  <contributor label="S1 believes that the Dominionists exists...tells S2 to do his homework in verifying the existence of the Dominionists">
+   <part label="S1 believes that the Dominionists exists" start="919" end="959"/>
+   <part label="tells S2 to do his homework in verifying the existence of the Dominionists" start="1048" end="1122"/>
+  </contributor>
+  <contributor label="S1 feels the group is real">
+   <part label="S1 feels the group is real" start="1791" end="1817"/>
+  </contributor>
+  <contributor label="S1 believes there is a group called Domionists">
+   <part label="S1 believes there is a group called Domionists" start="2248" end="2294"/>
+  </contributor>
+ </scu>
+ <scu uid="150" label="Domionists are focused only on gaining power">
+  <contributor label="Domionists are focused only on gaining power">
+   <part label="Domionists are focused only on gaining power" start="73" end="117"/>
+  </contributor>
+  <contributor label="not interested in people's well-being but want to control people's lives">
+   <part label="not interested in people's well-being but want to control people's lives" start="845" end="917"/>
+  </contributor>
+  <contributor label="they are more concerned with the acquisition of power rather than people's interests">
+   <part label="they are more concerned with the acquisition of power rather than people's interests" start="1827" end="1911"/>
+  </contributor>
+  <contributor label="questions whether they care about people or just about power">
+   <part label="questions whether they care about people or just about power" start="3146" end="3206"/>
+  </contributor>
+  <contributor label="care only about power  and not about people">
+   <part label="care only about power  and not about people" start="2300" end="2343"/>
+  </contributor>
+ </scu>
+ <scu uid="151" label="left leaning individuals rely on lying to achieve their goals because they are unfamiliar with the truth">
+  <contributor label="left leaning individuals rely on lying to achieve their goals because they are unfamiliar with the truth">
+   <part label="left leaning individuals rely on lying to achieve their goals because they are unfamiliar with the truth" start="459" end="563"/>
+  </contributor>
+  <contributor label="he states the left wing must lie and cheat to win because the truth is foreign to them">
+   <part label="he states the left wing must lie and cheat to win because the truth is foreign to them" start="3520" end="3606"/>
+  </contributor>
+ </scu>
+ <scu uid="152" label="He states that S1 cannot produce one objective or source by the Dominionists themselves that states their intention">
+  <contributor label="He states that S1 cannot produce one objective or source by the Dominionists themselves that states their intention">
+   <part label="He states that S1 cannot produce one objective or source by the Dominionists themselves that states their intention" start="3337" end="3452"/>
+  </contributor>
+  <contributor label="He asks for objective evidence...thinks S1's lack of evidence proves there is none">
+   <part label="He asks for objective evidence" start="2607" end="2637"/>
+   <part label="thinks S1's lack of evidence proves there is none" start="2642" end="2691"/>
+  </contributor>
+  <contributor label="S2 also advises that earlier, S1 had posted an article related to the group; however, failed to cite the link so others could look at the whole thing for themselves">
+   <part label="S2 also advises that earlier, S1 had posted an article related to the group; however, failed to cite the link so others could look at the whole thing for themselves" start="1982" end="2146"/>
+  </contributor>
+  <contributor label="He challenges S1 to either produce the link to the source of a Dominionist article that S1 posted or delete the post as a lie">
+   <part label="He challenges S1 to either produce the link to the source of a Dominionist article that S1 posted or delete the post as a lie" start="1378" end="1503"/>
+  </contributor>
+ </scu>
+ <scu uid="153" label="S2 says he could post an article stating that Democrats are really Satan Worshipers but that would not make it true">
+  <contributor label="S2 says he could post an article stating that Democrats are really Satan Worshipers but that would not make it true">
+   <part label="S2 says he could post an article stating that Democrats are really Satan Worshipers but that would not make it true" start="2772" end="2887"/>
+  </contributor>
+  <contributor label="he can post that they are Satan Worshipers but that doesn't mean it's true">
+   <part label="he can post that they are Satan Worshipers but that doesn't mean it's true" start="3617" end="3691"/>
+  </contributor>
+  <contributor label="He also presents an absurd story about people on the political left being Satan worshipers in order to demonstrate how posting information without evidence to back it up does not make it automatically true">
+   <part label="He also presents an absurd story about people on the political left being Satan worshipers in order to demonstrate how posting information without evidence to back it up does not make it automatically true" start="565" end="770"/>
+  </contributor>
+  <contributor label="S2 believes posting something on the internet does not make it be true">
+   <part label="S2 believes posting something on the internet does not make it be true" start="2149" end="2219"/>
+  </contributor>
+ </scu>
+ <scu uid="154" label="he thinks it is corrupt to post an article but withhold the source link">
+  <contributor label="he thinks it is corrupt to post an article but withhold the source link">
+   <part label="he thinks it is corrupt to post an article but withhold the source link" start="2699" end="2770"/>
+  </contributor>
+ </scu>
+ <scu uid="155" label="He challenges S1 to stop making assertions without evidence">
+  <contributor label="He challenges S1 to stop making assertions without evidence">
+   <part label="He challenges S1 to stop making assertions without evidence" start="3455" end="3514"/>
+  </contributor>
+  <contributor label="any assertions made should be backed up with evidence">
+   <part label="any assertions made should be backed up with evidence" start="2893" end="2946"/>
+  </contributor>
+ </scu>
+</pyramid>

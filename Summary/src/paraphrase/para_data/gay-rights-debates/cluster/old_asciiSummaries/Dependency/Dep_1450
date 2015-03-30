@@ -1,0 +1,16 @@
+S2 also mentions someone named Archie who posts include a variety of slurs towards gay people.
+root(ROOT-0, mentions-3)
+nsubj(mentions-3, S2-1)
+advmod(mentions-3, also-2)
+dobj(mentions-3, someone-4)
+vmod(someone-4, named-5)
+dobj(named-5, Archie-6)
+dobj(include-9, who-7)
+nsubj(include-9, posts-8)
+rcmod(Archie-6, include-9)
+det(variety-11, a-10)
+dobj(include-9, variety-11)
+prep_of(variety-11, slurs-13)
+amod(people-16, gay-15)
+prep_towards(slurs-13, people-16)
+

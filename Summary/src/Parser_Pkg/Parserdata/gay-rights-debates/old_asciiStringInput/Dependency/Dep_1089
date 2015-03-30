@@ -1,0 +1,33 @@
+ that he considers such religious objections to be evil .
+
+
+root(ROOT-0, considers-3)
+mark(considers-3, that-1)
+nsubj(considers-3, he-2)
+amod(objections-6, such-4)
+amod(objections-6, religious-5)
+dobj(considers-3, objections-6)
+aux(evil-9, to-7)
+cop(evil-9, be-8)
+vmod(considers-3, evil-9)
+
+Those against gay marriage use logical fallacies .
+
+
+root(ROOT-0, Those-1)
+amod(fallacies-7, gay-3)
+nn(fallacies-7, marriage-4)
+nn(fallacies-7, use-5)
+amod(fallacies-7, logical-6)
+prep_against(Those-1, fallacies-7)
+
+Those against gay marriage use logical fallacies .
+
+
+root(ROOT-0, Those-1)
+amod(fallacies-7, gay-3)
+nn(fallacies-7, marriage-4)
+nn(fallacies-7, use-5)
+amod(fallacies-7, logical-6)
+prep_against(Those-1, fallacies-7)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, is-8)
+det(S1-2, what-1)
+nsubj(is-8, S1-2)
+possessive(S1-2, 's-3)
+dep(S1-2, problem-4)
+amod(marriage-7, gay-6)
+prep_with(problem-4, marriage-7)

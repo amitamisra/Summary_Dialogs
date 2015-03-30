@@ -1,0 +1,26 @@
+   special case scenarios that do not overlap with existing marriage laws in existence . 
+root(ROOT-0, scenarios-3)
+amod(scenarios-3, special-1)
+nn(scenarios-3, case-2)
+nsubj(overlap-7, that-4)
+aux(overlap-7, do-5)
+neg(overlap-7, not-6)
+rcmod(scenarios-3, overlap-7)
+amod(laws-11, existing-9)
+nn(laws-11, marriage-10)
+prep_with(scenarios-3, laws-11)
+prep_in(laws-11, existence-13)
+
+   special case scenarios that do not overlap with existing marriage laws in existence . 
+root(ROOT-0, scenarios-3)
+amod(scenarios-3, special-1)
+nn(scenarios-3, case-2)
+nsubj(overlap-7, that-4)
+aux(overlap-7, do-5)
+neg(overlap-7, not-6)
+rcmod(scenarios-3, overlap-7)
+amod(laws-11, existing-9)
+nn(laws-11, marriage-10)
+prep_with(scenarios-3, laws-11)
+prep_in(laws-11, existence-13)
+

@@ -1,0 +1,46 @@
+S2 says to push hard on Biden about the gay marriage opinion a few weeks away from election day and balance the response .
+
+
+root(ROOT-0, says-2)
+nsubj(says-2, S2-1)
+aux(push-4, to-3)
+xcomp(says-2, push-4)
+advmod(push-4, hard-5)
+prep_on(push-4, Biden-7)
+det(opinion-12, the-9)
+amod(opinion-12, gay-10)
+nn(opinion-12, marriage-11)
+prep_about(Biden-7, opinion-12)
+det(weeks-15, a-13)
+amod(weeks-15, few-14)
+npadvmod(push-4, weeks-15)
+nn(day-19, election-18)
+prep_away_from(push-4, day-19)
+prep_away_from(push-4, balance-21)
+conj_and(day-19, balance-21)
+det(response-23, the-22)
+dep(day-19, response-23)
+
+S2 says to push hard on Biden about the gay marriage opinion a few weeks away from election day and balance the response .
+
+
+root(ROOT-0, says-2)
+nsubj(says-2, S2-1)
+aux(push-4, to-3)
+xcomp(says-2, push-4)
+advmod(push-4, hard-5)
+prep_on(push-4, Biden-7)
+det(opinion-12, the-9)
+amod(opinion-12, gay-10)
+nn(opinion-12, marriage-11)
+prep_about(Biden-7, opinion-12)
+det(weeks-15, a-13)
+amod(weeks-15, few-14)
+npadvmod(push-4, weeks-15)
+nn(day-19, election-18)
+prep_away_from(push-4, day-19)
+prep_away_from(push-4, balance-21)
+conj_and(day-19, balance-21)
+det(response-23, the-22)
+dep(day-19, response-23)
+

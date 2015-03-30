@@ -1,0 +1,33 @@
+ S1 states that healthcare usually applies to spouses 
+root(ROOT-0, states-2)
+nn(states-2, S1-1)
+dobj(applies-6, that-3)
+nsubj(applies-6, healthcare-4)
+advmod(applies-6, usually-5)
+dep(states-2, applies-6)
+prep_to(applies-6, spouses-8)
+
+Without gay marriage, the state has to support the dependent spouse.
+root(ROOT-0, has-7)
+amod(marriage-3, gay-2)
+prep_without(has-7, marriage-3)
+det(state-6, the-5)
+nsubj(has-7, state-6)
+aux(support-9, to-8)
+xcomp(has-7, support-9)
+det(spouse-12, the-10)
+amod(spouse-12, dependent-11)
+dobj(support-9, spouse-12)
+
+Without gay marriage, the state has to support the dependent spouse.
+root(ROOT-0, has-7)
+amod(marriage-3, gay-2)
+prep_without(has-7, marriage-3)
+det(state-6, the-5)
+nsubj(has-7, state-6)
+aux(support-9, to-8)
+xcomp(has-7, support-9)
+det(spouse-12, the-10)
+amod(spouse-12, dependent-11)
+dobj(support-9, spouse-12)
+

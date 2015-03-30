@@ -1,0 +1,36 @@
+ that S1 did not present his statistics as a discussion about the progression of AIS in the US .
+
+
+root(ROOT-0, did-3)
+mark(did-3, that-1)
+nsubj(did-3, S1-2)
+neg(present-5, not-4)
+acomp(did-3, present-5)
+poss(statistics-7, his-6)
+dobj(did-3, statistics-7)
+det(discussion-10, a-9)
+prep_as(did-3, discussion-10)
+det(progression-13, the-12)
+prep_about(discussion-10, progression-13)
+prep_of(progression-13, AIS-15)
+det(US-18, the-17)
+prep_in(did-3, US-18)
+
+ that S1 did not present his statistics as a discussion about the progression of AIS in the US .
+
+
+root(ROOT-0, did-3)
+mark(did-3, that-1)
+nsubj(did-3, S1-2)
+neg(present-5, not-4)
+acomp(did-3, present-5)
+poss(statistics-7, his-6)
+dobj(did-3, statistics-7)
+det(discussion-10, a-9)
+prep_as(did-3, discussion-10)
+det(progression-13, the-12)
+prep_about(discussion-10, progression-13)
+prep_of(progression-13, AIS-15)
+det(US-18, the-17)
+prep_in(did-3, US-18)
+

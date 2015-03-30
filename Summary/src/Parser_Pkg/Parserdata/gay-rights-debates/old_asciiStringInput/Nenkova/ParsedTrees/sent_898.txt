@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS states)) (SBAR (WHNP (WDT that)) (S (NP (NN location)) (VP (VBZ is) (ADJP (JJ relevant)) (, ,) (PP (IN as) (NP (NP (DT the) (NN way) (NN AIS) (NN spread)) (PP (IN in) (NP (NNP Africa))))))))) (VP (VBZ is) (ADJP (JJ different) (PP (IN from) (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (VBZ spreads) (PP (IN in) (NP (DT the) (NNP US))))))))) (. .)))

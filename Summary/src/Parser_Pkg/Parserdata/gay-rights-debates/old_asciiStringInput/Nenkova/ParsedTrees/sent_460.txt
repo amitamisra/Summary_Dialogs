@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NN law)) (VP (VBZ is) (ADJP (JJ unjust)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ segregates) (NP (DT the) (JJ gay) (NN community)) (PP (IN from) (NP (NP (DT that)) (PP (IN of) (NP (DT the) (JJ heterosexual) (NN community)))))))))))) (. .)))

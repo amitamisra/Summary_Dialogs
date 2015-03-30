@@ -1,0 +1,11 @@
+S1 asks S2 to clarify his statement about Jeffersonian liberalism.
+root(ROOT-0, asks-2)
+nsubj(asks-2, S1-1)
+dobj(asks-2, S2-3)
+aux(clarify-5, to-4)
+xcomp(asks-2, clarify-5)
+poss(statement-7, his-6)
+dobj(clarify-5, statement-7)
+amod(liberalism-10, Jeffersonian-9)
+prep_about(clarify-5, liberalism-10)
+

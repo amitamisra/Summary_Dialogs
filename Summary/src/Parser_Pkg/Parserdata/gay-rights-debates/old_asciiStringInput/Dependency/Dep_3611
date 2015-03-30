@@ -1,0 +1,24 @@
+ that the government should have no say in marriage .
+
+
+root(ROOT-0, have-5)
+mark(have-5, that-1)
+det(government-3, the-2)
+nsubj(have-5, government-3)
+aux(have-5, should-4)
+neg(say-7, no-6)
+dobj(have-5, say-7)
+prep_in(say-7, marriage-9)
+
+ that the government should have no say in marriage .
+
+
+root(ROOT-0, have-5)
+mark(have-5, that-1)
+det(government-3, the-2)
+nsubj(have-5, government-3)
+aux(have-5, should-4)
+neg(say-7, no-6)
+dobj(have-5, say-7)
+prep_in(say-7, marriage-9)
+

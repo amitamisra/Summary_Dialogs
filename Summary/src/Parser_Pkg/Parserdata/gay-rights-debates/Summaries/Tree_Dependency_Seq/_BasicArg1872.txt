@@ -1,0 +1,4 @@
+root(ROOT-0, care-4)
+nsubj(care-4, he-1)
+aux(care-4, does-2)
+neg(care-4, not-3)

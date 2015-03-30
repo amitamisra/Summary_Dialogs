@@ -1,0 +1,11 @@
+(same-unit[N][N]
+  _!( S2 )!_
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!states the importance for government to get!_
+      _!involved however ,!_)
+    (Joint[N][N]
+      _!it is convenient!_
+      (Elaboration[N][S]
+        _!and mentions Mr. WriteLA as someone!_
+        _!who has eloquently talked about the topic . <s>!_))))

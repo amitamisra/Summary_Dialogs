@@ -1,0 +1,7 @@
+root(ROOT-0, are-2)
+expl(are-2, there-1)
+amod(reasons-4, logical-3)
+nsubj(are-2, reasons-4)
+prep(reasons-4, for-5)
+nn(discrimination-7, marriage-6)
+pobj(for-5, discrimination-7)

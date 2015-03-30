@@ -1,0 +1,7 @@
+root(ROOT-0, occur-4)
+amod(acts-2, homosexual-1)
+nsubj(occur-4, acts-2)
+aux(occur-4, did-3)
+amod(cultures-8, many-6)
+amod(cultures-8, past-7)
+prep_in(occur-4, cultures-8)

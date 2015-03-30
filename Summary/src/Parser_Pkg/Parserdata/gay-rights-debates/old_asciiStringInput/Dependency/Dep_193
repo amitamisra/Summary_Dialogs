@@ -1,0 +1,21 @@
+  gay people upset by VA leave 
+root(ROOT-0, leave-6)
+amod(people-2, gay-1)
+nsubj(leave-6, people-2)
+vmod(people-2, upset-3)
+agent(upset-3, VA-5)
+
+ He compares homosexual partners to roommates 
+root(ROOT-0, compares-2)
+nsubj(compares-2, He-1)
+amod(partners-4, homosexual-3)
+dobj(compares-2, partners-4)
+prep_to(compares-2, roommates-6)
+
+ He compares homosexual partners to roommates 
+root(ROOT-0, compares-2)
+nsubj(compares-2, He-1)
+amod(partners-4, homosexual-3)
+dobj(compares-2, partners-4)
+prep_to(compares-2, roommates-6)
+

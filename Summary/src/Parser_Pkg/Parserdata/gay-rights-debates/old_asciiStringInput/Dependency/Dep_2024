@@ -1,0 +1,46 @@
+S1 and S2 enter a discussion on gay rights and religion impact of legislation .
+
+
+root(ROOT-0, enter-4)
+nsubj(enter-4, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(enter-4, S2-3)
+det(discussion-6, a-5)
+dobj(enter-4, discussion-6)
+amod(rights-9, gay-8)
+prep_on(discussion-6, rights-9)
+nn(impact-12, religion-11)
+dobj(enter-4, impact-12)
+conj_and(discussion-6, impact-12)
+prep_of(impact-12, legislation-14)
+
+S2 argues that either one of them can be impeding on the others religious freedom.
+root(ROOT-0, argues-2)
+nsubj(argues-2, S2-1)
+mark(impeding-10, that-3)
+dep(one-5, either-4)
+nsubj(impeding-10, one-5)
+prep_of(one-5, them-7)
+aux(impeding-10, can-8)
+aux(impeding-10, be-9)
+ccomp(argues-2, impeding-10)
+det(freedom-15, the-12)
+nn(freedom-15, others-13)
+amod(freedom-15, religious-14)
+prep_on(impeding-10, freedom-15)
+
+S2 argues that either one of them can be impeding on the others religious freedom.
+root(ROOT-0, argues-2)
+nsubj(argues-2, S2-1)
+mark(impeding-10, that-3)
+dep(one-5, either-4)
+nsubj(impeding-10, one-5)
+prep_of(one-5, them-7)
+aux(impeding-10, can-8)
+aux(impeding-10, be-9)
+ccomp(argues-2, impeding-10)
+det(freedom-15, the-12)
+nn(freedom-15, others-13)
+amod(freedom-15, religious-14)
+prep_on(impeding-10, freedom-15)
+

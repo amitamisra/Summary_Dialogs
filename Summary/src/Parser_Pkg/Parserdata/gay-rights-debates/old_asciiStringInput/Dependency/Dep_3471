@@ -1,0 +1,32 @@
+ name calling and violence were the things Jason conflated with opposing gay marriage .
+
+
+root(ROOT-0, things-7)
+nn(calling-2, name-1)
+nsubj(things-7, calling-2)
+conj_and(calling-2, violence-4)
+nsubj(things-7, violence-4)
+cop(things-7, were-5)
+det(things-7, the-6)
+nsubj(conflated-9, Jason-8)
+rcmod(things-7, conflated-9)
+prepc_with(conflated-9, opposing-11)
+amod(marriage-13, gay-12)
+dobj(opposing-11, marriage-13)
+
+ name calling and violence were the things Jason conflated with opposing gay marriage .
+
+
+root(ROOT-0, things-7)
+nn(calling-2, name-1)
+nsubj(things-7, calling-2)
+conj_and(calling-2, violence-4)
+nsubj(things-7, violence-4)
+cop(things-7, were-5)
+det(things-7, the-6)
+nsubj(conflated-9, Jason-8)
+rcmod(things-7, conflated-9)
+prepc_with(conflated-9, opposing-11)
+amod(marriage-13, gay-12)
+dobj(opposing-11, marriage-13)
+

@@ -1,0 +1,51 @@
+0 -LRB- S2 -RRB- He argues about the kind of democracy in  where majority of the people decide what best for society 
+root(ROOT-0, S2-3)
+num(S2-3, 0-1)
+nsubj(argues-6, He-5)
+rcmod(S2-3, argues-6)
+det(kind-9, the-8)
+prep_about(argues-6, kind-9)
+prep_of(kind-9, democracy-11)
+advmod(decide-18, where-13)
+nsubj(decide-18, majority-14)
+det(people-17, the-16)
+prep_of(majority-14, people-17)
+prepc_in(S2-3, decide-18)
+nsubj(best-20, what-19)
+xcomp(decide-18, best-20)
+prep_for(best-20, society-22)
+
+S2 disagrees with the statements made and gives links to info which is related to .
+
+
+root(ROOT-0, disagrees-2)
+nsubj(disagrees-2, S2-1)
+nsubj(gives-8, S2-1)
+det(statements-5, the-4)
+prep_with(disagrees-2, statements-5)
+vmod(statements-5, made-6)
+conj_and(disagrees-2, gives-8)
+dobj(gives-8, links-9)
+prep_to(gives-8, info-11)
+nsubj(related-14, which-12)
+cop(related-14, is-13)
+rcmod(info-11, related-14)
+prep(related-14, to-15)
+
+S2 disagrees with the statements made and gives links to info which is related to .
+
+
+root(ROOT-0, disagrees-2)
+nsubj(disagrees-2, S2-1)
+nsubj(gives-8, S2-1)
+det(statements-5, the-4)
+prep_with(disagrees-2, statements-5)
+vmod(statements-5, made-6)
+conj_and(disagrees-2, gives-8)
+dobj(gives-8, links-9)
+prep_to(gives-8, info-11)
+nsubj(related-14, which-12)
+cop(related-14, is-13)
+rcmod(info-11, related-14)
+prep(related-14, to-15)
+

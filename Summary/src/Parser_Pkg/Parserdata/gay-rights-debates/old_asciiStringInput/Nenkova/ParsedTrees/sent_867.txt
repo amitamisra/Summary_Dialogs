@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VP (VBZ challenges) (NP (NN S1)) (PP (TO to))) (CC either) (VP (VBP produce) (NP (DT the) (NN link)) (PP (TO to) (NP (NP (DT the) (NN source)) (PP (IN of) (NP (NN aominionist) (NN article))) (SBAR (WHNP (WDT that)) (S (NP (NN S1)) (VP (VP (VBD posted)) (CC or) (VP (VB delete) (NP (DT the) (NN post)) (PP (IN as) (NP (DT a) (NN lie))))))))))) (. .)))

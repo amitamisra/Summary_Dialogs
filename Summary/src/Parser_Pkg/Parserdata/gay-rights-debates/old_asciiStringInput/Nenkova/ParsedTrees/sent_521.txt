@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ finds) (NP (NN fault)) (PP (IN with) (NP (NP (DT the) (NN stance)) (SBAR (WHNP (WDT that)) (S (NP (NNS republicans)) (VP (MD would) (VP (VB ship) (NP (JJ gay) (NNS people)) (PP (TO to) (NP (NN concentration) (NNS camps)))))))))) (. .)))

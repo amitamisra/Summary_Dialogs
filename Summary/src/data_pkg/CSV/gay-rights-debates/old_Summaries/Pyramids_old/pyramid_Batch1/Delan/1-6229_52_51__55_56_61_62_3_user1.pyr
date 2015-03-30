@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 and S2 are talking about how Democracy is based on majority rule and whether or not its fair. S1 believes it is completely unfair that gay marriage be dismissed or disliked and S2 argues that no matter what S1 believes is right or wrong, the majority of people control what is normal in our society. That if S1 is only towards the rights of gay people it is completely understandable for this lady to be in belief that marriage as is is fine. S2 believes that S1's argument is not a legitimate viewpoint because S1 has no justification that this lady hates gays. S1 believes that because this lady is not in favor of gay marriage, the lady is anti-gay. S1 is taking an aggressive approach by saying they will talk to bible churches and disrupt them because she feels like she has no place in society. S1 thinks that the majority of people is enslaving their people by not allowing gay rights, but S2 argues that it happens that way and it changes over time.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 does not believe S2 has answered her question of how equal marriage hurts any heterosexual.  S2 believes the point has been made because different laws affect different people.  S2 attacks S1 by calling their argument silly because it violates the First amendment rights. S2 remarks that S1 is only concerned with the rights of gay and the anti-gay Christianity. S1 specifically names a woman in particular to admit her discrimination. S1 expresses that the rights of gays is their first concern and protection from church. S1 threatens to respond with similar actions against the church, like protesting ceremonial events and church services.  S2 urges S1 to allow the democratic process to decide the issue, believing the anti-gay movement may also have legitimacy. S1 questions the majority rule ideology because of incidents in the past like slavery and concentration camps., and once again calls out the women. S2 ends by stating those would not be possible today because of the 13th amendment. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>(S1) states how can gay marriage hurt politicians or anyone else? (S2) says that there are laws that hurt all kinds of peoples and argues about violation of the First Amendment by imposing someones belief over another. (S1) argues that he is only concern with gay peoples rights and says that the politician wants gays to remain as second-class citizens. Argues that politician/she is discriminating and protecting her heterosexual privilege. He also argues that not accepting gay marriage is punishment to him, his family and others. (S2) He argues about the kind of democracy in where majority of the people decide what best for society and how being anti-gay is a right of the First Amendment.  Is a gay person is allowed to have the freedom, so does he who and others who may not agree. (S1) then gives the example that not just because majority rules it means that its a good thing. For example, enslaving people was accepted in previous societies. (S2) argues that although previous societies had legal rights to enslave people but that doesnt mean that it makes those decisions all the time and that is like gay marriage. </line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line></line>
+  <line> </line>
+  <line> </line>
+  <line> S1 asks S2 how equal marriage would hurt someone, her, or anyone else. S1s way of equal marriage would not S1 or her. S1 is only concerned with gay rights and will talk people out of attending bible churches. S1 will try to legally disrupt any of the fundraising activities that they have going on, protest their weddings and their services. Once they crossed the line and enacted laws that hurt S1 and S1s family, then they have no place in society. The majority should not have the right to enslave their fellow citizens and send them to concentration camps. She should admit to her bigotry, discrimination and anti-gay views.</line>
+  <line> </line>
+  <line> </line>
+  <line> S2 is glad that S1 abandoned a silly argument about the violation of the first amendment right, but still does not see why only laws that do not cause harm should be enacted. S2 is surprised at S1s affinity for the harm principle given that S1 has expressed being at war with evangelical anti-gay christianity. S2 holds that people should be about to legislate their views, and wants S1 to explain why that shouldnt be so with anti-gay people. In a democracy like ours people use the democratic process to have views enacted into law. If she is free to do this, then so is S1.</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 questions to how equal marriages hurts the woman or any other heterosexual. The only person that gets hurt is S1. If equal marriage is incorporated into the law then nobody gets hurt. S2 talks about what if a proposed law hurt someone and that there are all kinds of laws that hurt all kinds of people. S1 says he is only concerned with the rights of gay people. He calls the woman evil and that she should admit that she is anti-gay and wants to protect her heterosexual privilege. S2 believes that S1 just cares about gay people but has not shown why anti-gay people should not be able to legislate their view. S2 says that S1 and the woman both have their own opinions. S1 asks whether the majority should have the right to enslave their fellow citizens or lock people up in concentration camps. S2 responds saying the majority did have the right to enslave fellow citizens until the 13th amendment took place and says that the majority wins in the united states.</line>
+ </text>
+ <scu uid="7" label="S1 believes anti-gay marriage is like incidents in the past like slavery and concentration camps">
+  <contributor label="incidents in the past like slavery and concentration camps">
+   <part label="incidents in the past like slavery and concentration camps" start="1836" end="1894"/>
+  </contributor>
+  <contributor label="enslaving people was accepted in previous societies...enslave people">
+   <part label="enslaving people was accepted in previous societies" start="2946" end="2997"/>
+   <part label="enslave people" start="3064" end="3078"/>
+  </contributor>
+  <contributor label="enslave their fellow citizens and send them to concentration camps">
+   <part label="enslave their fellow citizens and send them to concentration camps" start="3700" end="3766"/>
+  </contributor>
+  <contributor label="enslave their fellow citizens or lock people up in concentration camps...enslave fellow citizens">
+   <part label="enslave their fellow citizens or lock people up in concentration camps" start="5174" end="5244"/>
+   <part label="enslave fellow citizens" start="5300" end="5323"/>
+  </contributor>
+  <contributor label="enslaving their people">
+   <part label="enslaving their people" start="871" end="893"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="S1 is only concerned with the rights of gay people">
+  <contributor label="only concerned with the rights of gay...rights of gays is their first concern">
+   <part label="only concerned with the rights of gay" start="1311" end="1348"/>
+   <part label="rights of gays is their first concern" start="1475" end="1512"/>
+  </contributor>
+  <contributor label="only concern with gay peoples rights">
+   <part label="only concern with gay peoples rights" start="2287" end="2323"/>
+  </contributor>
+  <contributor label="only concerned with the rights of gay people...S1 just cares about gay people">
+   <part label="only concerned with the rights of gay people" start="4764" end="4808"/>
+   <part label="S1 just cares about gay people" start="4947" end="4977"/>
+  </contributor>
+  <contributor label="only concerned with gay rights">
+   <part label="only concerned with gay rights" start="3331" end="3361"/>
+  </contributor>
+  <contributor label="only towards the rights of gay people">
+   <part label="only towards the rights of gay people" start="343" end="380"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="S2 argues that the majority of people control what is normal in our society">
+  <contributor label="Democracy is based on majority rule...majority of people control what is normal in our society">
+   <part label="majority of people control what is normal in our society" start="271" end="327"/>
+   <part label="Democracy is based on majority rule" start="58" end="93"/>
+  </contributor>
+  <contributor label="allow the democratic process to decide the issue">
+   <part label="allow the democratic process to decide the issue" start="1677" end="1725"/>
+  </contributor>
+  <contributor label="majority of the people decide what best for society...not just because majority rules it means that its a good thing">
+   <part label="majority of the people decide what best for society" start="2632" end="2683"/>
+   <part label="not just because majority rules it means that its a good thing" start="2869" end="2931"/>
+  </contributor>
+  <contributor label="people use the democratic process">
+   <part label="people use the democratic process" start="4310" end="4343"/>
+  </contributor>
+  <contributor label="majority did have the right...majority wins in the united states">
+   <part label="majority did have the right" start="5269" end="5296"/>
+   <part label="majority wins in the united states" start="5378" end="5412"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="S1 questions how equal marriage would hurt someone, her, or anyone else">
+  <contributor label="how equal marriage would hurt someone, her, or anyone else...equal marriage would not S1 or her">
+   <part label="how equal marriage would hurt someone, her, or anyone else" start="3218" end="3276"/>
+   <part label="equal marriage would not S1 or her" start="3289" end="3323"/>
+  </contributor>
+  <contributor label="how equal marriage hurts any heterosexual">
+   <part label="how equal marriage hurts any heterosexual" start="1066" end="1107"/>
+  </contributor>
+  <contributor label="how can gay marriage hurt politicians or anyone else?">
+   <part label="how can gay marriage hurt politicians or anyone else?" start="2057" end="2110"/>
+  </contributor>
+  <contributor label="how equal marriages hurts the woman or any other heterosexual...equal marriage is incorporated into the law then nobody gets hurt">
+   <part label="how equal marriages hurts the woman or any other heterosexual" start="4460" end="4521"/>
+   <part label="equal marriage is incorporated into the law then nobody gets hurt" start="4564" end="4629"/>
+  </contributor>
+ </scu>
+ <scu uid="107" label="S1 says this lady is anti-gay">
+  <contributor label="this lady hates gays...lady is not in favor of gay marriage...the lady is anti-gay">
+   <part label="this lady hates gays" start="570" end="590"/>
+   <part label="the lady is anti-gay" start="660" end="680"/>
+   <part label="lady is not in favor of gay marriage" start="622" end="658"/>
+  </contributor>
+  <contributor label="She should admit to her bigotry, discrimination and anti-gay views">
+   <part label="She should admit to her bigotry, discrimination and anti-gay views" start="3768" end="3834"/>
+  </contributor>
+  <contributor label="she is anti-gay">
+   <part label="she is anti-gay" start="4865" end="4880"/>
+  </contributor>
+  <contributor label="admit her discrimination">
+   <part label="admit her discrimination" start="1427" end="1451"/>
+  </contributor>
+ </scu>
+ <scu uid="112" label="S2 holds that people should be about to legislate their views">
+  <contributor label="people should be about to legislate their views...If she is free to do this, then so is S1">
+   <part label="people should be about to legislate their views" start="4166" end="4213"/>
+   <part label="If she is free to do this, then so is S1" start="4376" end="4416"/>
+  </contributor>
+  <contributor label="anti-gay is a right of the First Amendment">
+   <part label="anti-gay is a right of the First Amendment" start="2698" end="2740"/>
+  </contributor>
+  <contributor label="completely understandable for this lady to be in belief">
+   <part label="completely understandable for this lady to be in belief" start="387" end="442"/>
+  </contributor>
+  <contributor label="S1 and the woman both have their own opinions">
+   <part label="S1 and the woman both have their own opinions" start="5073" end="5118"/>
+  </contributor>
+ </scu>
+ <scu uid="108" label="S1 argues that the enacted laws hurt S1 and S1s family and others">
+  <contributor label="enacted laws that hurt S1 and S1s family">
+   <part label="enacted laws that hurt S1 and S1s family" start="3580" end="3620"/>
+  </contributor>
+  <contributor label="person that gets hurt is S1">
+   <part label="person that gets hurt is S1" start="4532" end="4559"/>
+  </contributor>
+  <contributor label="punishment to him, his family and others">
+   <part label="punishment to him, his family and others" start="2538" end="2578"/>
+  </contributor>
+ </scu>
+ <scu uid="1" label="S1 questions the majority rule and whether or not its fair">
+  <contributor label="whether or not its fair">
+   <part label="whether or not its fair" start="98" end="121"/>
+  </contributor>
+  <contributor label="S1 questions the majority rule ideology">
+   <part label="S1 questions the majority rule ideology" start="1785" end="1824"/>
+  </contributor>
+  <contributor label="whether the majority should have the right">
+   <part label="whether the majority should have the right" start="5128" end="5170"/>
+  </contributor>
+ </scu>
+ <scu uid="106" label="S1 threatens with actions against the church, like protesting ceremonial events and church">
+  <contributor label="actions against the church, like protesting ceremonial events and church">
+   <part label="actions against the church, like protesting ceremonial events and church" start="1578" end="1650"/>
+  </contributor>
+  <contributor label="talk people out of attending bible churches...disrupt any of the fundraising activities...protest their weddings and their services">
+   <part label="protest their weddings and their services" start="3506" end="3547"/>
+   <part label="talk people out of attending bible churches" start="3371" end="3414"/>
+   <part label="disrupt any of the fundraising activities" start="3439" end="3480"/>
+  </contributor>
+  <contributor label="talk to bible churches and disrupt them">
+   <part label="talk to bible churches and disrupt them" start="738" end="777"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="S2 believes S1's argument is a violation of the first amendment right">
+  <contributor label="violation of the first amendment right">
+   <part label="violation of the first amendment right" start="3897" end="3935"/>
+  </contributor>
+  <contributor label="violation of the First Amendment">
+   <part label="violation of the First Amendment" start="2189" end="2221"/>
+  </contributor>
+  <contributor label="violates the First amendment rights">
+   <part label="violates the First amendment rights" start="1252" end="1287"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="S2 says that different laws affect different people">
+  <contributor label="different laws affect different people">
+   <part label="different laws affect different people" start="1154" end="1192"/>
+  </contributor>
+  <contributor label="laws that hurt all kinds of peoples">
+   <part label="laws that hurt all kinds of peoples" start="2136" end="2171"/>
+  </contributor>
+  <contributor label="a proposed law hurt someone...all kinds of laws that hurt all kinds of people">
+   <part label="all kinds of laws that hurt all kinds of people" start="4701" end="4748"/>
+   <part label="a proposed law hurt someone" start="4654" end="4681"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="S1 believes the woman wants to protect her heterosexual privilege">
+  <contributor label="protect her heterosexual privilege">
+   <part label="protect her heterosexual privilege" start="4894" end="4928"/>
+  </contributor>
+  <contributor label="protecting her heterosexual privilege">
+   <part label="protecting her heterosexual privilege" start="2449" end="2486"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="S1 feels like she has no place in society">
+  <contributor label="have no place in society">
+   <part label="have no place in society" start="3632" end="3656"/>
+  </contributor>
+  <contributor label="feels like she has no place in society">
+   <part label="feels like she has no place in society" start="790" end="828"/>
+  </contributor>
+ </scu>
+ <scu uid="109" label="S1 has expressed being at war with evangelical anti-gay christianity">
+  <contributor label="S1 has expressed being at war with evangelical anti-gay christianity">
+   <part label="S1 has expressed being at war with evangelical anti-gay christianity" start="4082" end="4150"/>
+  </contributor>
+  <contributor label="anti-gay Christianity">
+   <part label="anti-gay Christianity" start="1357" end="1378"/>
+  </contributor>
+ </scu>
+ <scu uid="123" label="S2 responds by saying majority rule enslaved citizens until the 13th amendment">
+  <contributor label="because of the 13th amendment">
+   <part label="because of the 13th amendment" start="1986" end="2015"/>
+  </contributor>
+  <contributor label="until the 13th amendment took place">
+   <part label="until the 13th amendment took place" start="5324" end="5359"/>
+  </contributor>
+ </scu>
+ <scu uid="115" label="anti-gay people should not be able to legislate their view">
+  <contributor label="anti-gay people should not be able to legislate their view">
+   <part label="anti-gay people should not be able to legislate their view" start="5000" end="5058"/>
+  </contributor>
+ </scu>
+ <scu uid="116" label="Is a gay person is allowed to have the freedom">
+  <contributor label="Is a gay person is allowed to have the freedom">
+   <part label="Is a gay person is allowed to have the freedom" start="2743" end="2789"/>
+  </contributor>
+ </scu>
+ <scu uid="126" label="it changes over time">
+  <contributor label="it changes over time">
+   <part label="it changes over time" start="965" end="985"/>
+  </contributor>
+ </scu>
+ <scu uid="125" label="it happens that way">
+  <contributor label="it happens that way">
+   <part label="it happens that way" start="941" end="960"/>
+  </contributor>
+ </scu>
+ <scu uid="120" label="like gay marriage">
+  <contributor label="like gay marriage">
+   <part label="like gay marriage" start="3155" end="3172"/>
+  </contributor>
+ </scu>
+ <scu uid="119" label="makes those decisions all the time">
+  <contributor label="makes those decisions all the time">
+   <part label="makes those decisions all the time" start="3108" end="3142"/>
+  </contributor>
+ </scu>
+ <scu uid="127" label="marriage as is is fine">
+  <contributor label="marriage as is is fine">
+   <part label="marriage as is is fine" start="448" end="470"/>
+  </contributor>
+ </scu>
+ <scu uid="129" label="no matter what S1 believes is right or wrong">
+  <contributor label="no matter what S1 believes is right or wrong">
+   <part label="no matter what S1 believes is right or wrong" start="221" end="265"/>
+  </contributor>
+ </scu>
+ <scu uid="124" label="not allowing gay rights">
+  <contributor label="not allowing gay rights">
+   <part label="not allowing gay rights" start="897" end="920"/>
+  </contributor>
+ </scu>
+ <scu uid="111" label="only laws that do not cause harm should be enacted">
+  <contributor label="only laws that do not cause harm should be enacted">
+   <part label="only laws that do not cause harm should be enacted" start="3964" end="4014"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="politician wants gays to remain as second-class citizens">
+  <contributor label="politician wants gays to remain as second-class citizens">
+   <part label="politician wants gays to remain as second-class citizens" start="2342" end="2398"/>
+  </contributor>
+ </scu>
+ <scu uid="118" label="previous societies had legal rights">
+  <contributor label="previous societies had legal rights">
+   <part label="previous societies had legal rights" start="3025" end="3060"/>
+  </contributor>
+ </scu>
+ <scu uid="122" label="protection from church">
+  <contributor label="protection from church">
+   <part label="protection from church" start="1517" end="1539"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="S1 believes it is completely unfair that gay marriage be dismissed or disliked">
+  <contributor label="it is completely unfair that gay marriage be dismissed or disliked">
+   <part label="it is completely unfair that gay marriage be dismissed or disliked" start="135" end="201"/>
+  </contributor>
+ </scu>
+ <scu uid="128" label="S1's argument is not a legitimate viewpoint">
+  <contributor label="S1's argument is not a legitimate viewpoint">
+   <part label="S1's argument is not a legitimate viewpoint" start="489" end="532"/>
+  </contributor>
+ </scu>
+ <scu uid="110" label="the anti-gay movement may also have legitimacy">
+  <contributor label="the anti-gay movement may also have legitimacy">
+   <part label="the anti-gay movement may also have legitimacy" start="1737" end="1783"/>
+  </contributor>
+ </scu>
+ <scu uid="113" label="views enacted into law">
+  <contributor label="views enacted into law">
+   <part label="views enacted into law" start="4352" end="4374"/>
+  </contributor>
+ </scu>
+</pyramid>

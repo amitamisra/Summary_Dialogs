@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (JJ gay) (NNS people)) (VP (VBP are) (ADJP (RBR more) (JJ promiscuous) (PP (IN than) (NP (NNS heterosexuals)))))))) (. .)))

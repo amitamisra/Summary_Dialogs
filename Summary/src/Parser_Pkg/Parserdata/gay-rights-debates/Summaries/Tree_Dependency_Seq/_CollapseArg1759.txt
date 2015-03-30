@@ -1,0 +1,3 @@
+root(ROOT-0, heterophobic-3)
+aux(heterophobic-3, to-1)
+cop(heterophobic-3, be-2)

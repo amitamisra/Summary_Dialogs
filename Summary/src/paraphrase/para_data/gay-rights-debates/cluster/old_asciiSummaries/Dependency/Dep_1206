@@ -1,0 +1,15 @@
+S2 believes the point has been made because different laws affect different people.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+det(point-4, the-3)
+nsubjpass(made-7, point-4)
+aux(made-7, has-5)
+auxpass(made-7, been-6)
+ccomp(believes-2, made-7)
+mark(affect-11, because-8)
+amod(laws-10, different-9)
+nsubj(affect-11, laws-10)
+advcl(made-7, affect-11)
+amod(people-13, different-12)
+dobj(affect-11, people-13)
+

@@ -1,0 +1,24 @@
+ that opponents of gay rights are discriminatory and bigoted .
+
+
+root(ROOT-0, discriminatory-7)
+mark(discriminatory-7, that-1)
+nsubj(discriminatory-7, opponents-2)
+nsubj(bigoted-9, opponents-2)
+amod(rights-5, gay-4)
+prep_of(opponents-2, rights-5)
+cop(discriminatory-7, are-6)
+conj_and(discriminatory-7, bigoted-9)
+
+ that opponents of gay rights are discriminatory and bigoted .
+
+
+root(ROOT-0, discriminatory-7)
+mark(discriminatory-7, that-1)
+nsubj(discriminatory-7, opponents-2)
+nsubj(bigoted-9, opponents-2)
+amod(rights-5, gay-4)
+prep_of(opponents-2, rights-5)
+cop(discriminatory-7, are-6)
+conj_and(discriminatory-7, bigoted-9)
+

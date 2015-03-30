@@ -1,0 +1,40 @@
+Just saying that Frank is inconsistent on abortion issues is not enough to show what is inconsistent .
+
+
+root(ROOT-0, enough-12)
+advmod(saying-2, Just-1)
+csubj(enough-12, saying-2)
+mark(inconsistent-6, that-3)
+nsubj(inconsistent-6, Frank-4)
+cop(inconsistent-6, is-5)
+ccomp(saying-2, inconsistent-6)
+nn(issues-9, abortion-8)
+prep_on(inconsistent-6, issues-9)
+cop(enough-12, is-10)
+neg(enough-12, not-11)
+aux(show-14, to-13)
+xcomp(enough-12, show-14)
+nsubj(inconsistent-17, what-15)
+cop(inconsistent-17, is-16)
+ccomp(show-14, inconsistent-17)
+
+Just saying that Frank is inconsistent on abortion issues is not enough to show what is inconsistent .
+
+
+root(ROOT-0, enough-12)
+advmod(saying-2, Just-1)
+csubj(enough-12, saying-2)
+mark(inconsistent-6, that-3)
+nsubj(inconsistent-6, Frank-4)
+cop(inconsistent-6, is-5)
+ccomp(saying-2, inconsistent-6)
+nn(issues-9, abortion-8)
+prep_on(inconsistent-6, issues-9)
+cop(enough-12, is-10)
+neg(enough-12, not-11)
+aux(show-14, to-13)
+xcomp(enough-12, show-14)
+nsubj(inconsistent-17, what-15)
+cop(inconsistent-17, is-16)
+ccomp(show-14, inconsistent-17)
+

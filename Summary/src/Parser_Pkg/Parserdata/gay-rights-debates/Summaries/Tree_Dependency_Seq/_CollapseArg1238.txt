@@ -1,0 +1,3 @@
+root(ROOT-0, complains-2)
+nsubj(complains-2, S2-1)
+prep_about(complains-2, it-4)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ prefers) (S (NP (JJ political) (NNS candidates)) (VP (TO to) (VP (VB be) (ADJP (JJ honest) (PP (IN about) (NP (PRP$ their) (NNS views)))) (PP (IN on) (NP (NP (NNS topics)) (, ,) (UCP (PP (IN whether) (NP (PRP$ its) (JJ popular))) (CC or#0#0) (ADVP (RB not))))))))) (. .)))

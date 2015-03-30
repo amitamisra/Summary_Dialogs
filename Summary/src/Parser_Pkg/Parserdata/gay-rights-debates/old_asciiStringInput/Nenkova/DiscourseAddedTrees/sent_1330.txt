@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (-LRB- -LRB-) (NN S1) (-RRB- -RRB-)) (NP (NN Marriage))) (VP (VP (VBZ is) (ADJP (JJ meaningful))) (CC and#0#0) (VP (MD should) (RB not) (VP (VB be) (NP (NP (DT a) (NN concern)) (PP (IN of) (NP (DT the) (NN government))))))) (. .)))

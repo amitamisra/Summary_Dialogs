@@ -1,0 +1,36 @@
+ Exp_1_conn}   insufficient to explain why homosexuals are being discriminated against  
+root(ROOT-0, Exp_1_conn-1)
+dobj(Exp_1_conn-1, insufficient-3)
+aux(explain-5, to-4)
+dep(insufficient-3, explain-5)
+advmod(discriminated-10, why-6)
+nsubjpass(discriminated-10, homosexuals-7)
+aux(discriminated-10, are-8)
+auxpass(discriminated-10, being-9)
+advcl(explain-5, discriminated-10)
+prep(discriminated-10, against-11)
+
+ that the push for gay marriage is driven by economics .
+
+
+root(ROOT-0, driven-8)
+mark(driven-8, that-1)
+det(push-3, the-2)
+nsubjpass(driven-8, push-3)
+amod(marriage-6, gay-5)
+prep_for(push-3, marriage-6)
+auxpass(driven-8, is-7)
+agent(driven-8, economics-10)
+
+ that the push for gay marriage is driven by economics .
+
+
+root(ROOT-0, driven-8)
+mark(driven-8, that-1)
+det(push-3, the-2)
+nsubjpass(driven-8, push-3)
+amod(marriage-6, gay-5)
+prep_for(push-3, marriage-6)
+auxpass(driven-8, is-7)
+agent(driven-8, economics-10)
+

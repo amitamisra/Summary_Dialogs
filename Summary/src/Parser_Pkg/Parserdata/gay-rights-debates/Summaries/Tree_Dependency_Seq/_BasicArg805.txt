@@ -1,0 +1,6 @@
+root(ROOT-0, of-1)
+det(generalization-3, the-2)
+pobj(of-1, generalization-3)
+dobj(made-6, that-4)
+nsubj(made-6, S2-5)
+rcmod(generalization-3, made-6)

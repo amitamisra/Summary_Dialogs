@@ -1,0 +1,14 @@
+S2 compliments S1 for clever banter.
+root(ROOT-0, compliments-2)
+nn(compliments-2, S2-1)
+dep(compliments-2, S1-3)
+amod(banter-6, clever-5)
+prep_for(S1-3, banter-6)
+
+S2 compliments S1 for clever banter.
+root(ROOT-0, compliments-2)
+nn(compliments-2, S2-1)
+dep(compliments-2, S1-3)
+amod(banter-6, clever-5)
+prep_for(S1-3, banter-6)
+

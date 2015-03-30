@@ -1,0 +1,4 @@
+root(ROOT-0, hurt-3)
+nsubj(hurt-3, it-1)
+aux(hurt-3, would-2)
+dobj(hurt-3, S1-4)

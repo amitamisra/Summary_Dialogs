@@ -1,0 +1,30 @@
+ that there is an anti-gay rhetoric and inflated statements to scare people .
+
+
+root(ROOT-0, rhetoric-6)
+mark(rhetoric-6, that-1)
+expl(rhetoric-6, there-2)
+cop(rhetoric-6, is-3)
+det(rhetoric-6, an-4)
+amod(rhetoric-6, anti-gay-5)
+conj_and(rhetoric-6, inflated-8)
+dobj(inflated-8, statements-9)
+aux(scare-11, to-10)
+vmod(inflated-8, scare-11)
+dobj(scare-11, people-12)
+
+ that there is an anti-gay rhetoric and inflated statements to scare people .
+
+
+root(ROOT-0, rhetoric-6)
+mark(rhetoric-6, that-1)
+expl(rhetoric-6, there-2)
+cop(rhetoric-6, is-3)
+det(rhetoric-6, an-4)
+amod(rhetoric-6, anti-gay-5)
+conj_and(rhetoric-6, inflated-8)
+dobj(inflated-8, statements-9)
+aux(scare-11, to-10)
+vmod(inflated-8, scare-11)
+dobj(scare-11, people-12)
+

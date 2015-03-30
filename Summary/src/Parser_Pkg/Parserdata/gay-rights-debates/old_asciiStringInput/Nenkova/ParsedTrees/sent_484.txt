@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT Both) (NNS subjects)) (VP (VBP seem) (S (VP (TO to) (VP (VB be) (PP (IN on) (NP (NP (DT the) (NN fence)) (PP (IN with) (NP (DT the) (NN issue))))))))) (. .)))

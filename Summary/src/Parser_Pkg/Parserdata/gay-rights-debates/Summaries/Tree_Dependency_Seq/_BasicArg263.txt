@@ -1,0 +1,8 @@
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+nsubj(is-2, allot-3)
+prep(allot-3, of-4)
+pobj(of-4, backlash-5)
+vmod(backlash-5, going-6)
+prep(going-6, on-7)
+pcomp(on-7, lately-8)

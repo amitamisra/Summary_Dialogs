@@ -1,0 +1,22 @@
+   he does not agree with over intrusion by the government  
+root(ROOT-0, agree-4)
+nsubj(agree-4, he-1)
+aux(agree-4, does-2)
+neg(agree-4, not-3)
+prep(agree-4, with-5)
+pcomp(with-5, over-6)
+pobj(over-6, intrusion-7)
+det(government-10, the-9)
+prep_by(agree-4, government-10)
+
+   he does not agree with over intrusion by the government  
+root(ROOT-0, agree-4)
+nsubj(agree-4, he-1)
+aux(agree-4, does-2)
+neg(agree-4, not-3)
+prep(agree-4, with-5)
+pcomp(with-5, over-6)
+pobj(over-6, intrusion-7)
+det(government-10, the-9)
+prep_by(agree-4, government-10)
+

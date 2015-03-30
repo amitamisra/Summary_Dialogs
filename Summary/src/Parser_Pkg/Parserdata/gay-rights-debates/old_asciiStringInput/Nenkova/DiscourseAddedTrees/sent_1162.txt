@@ -1,0 +1,1 @@
+(ROOT (S (PP (IN In) (NP (NP (NN response)) (PP (TO to) (NP (NP (DT the) (NN poll)) (VP (VBN cited) (PP (IN by) (NP (NN S2)))))))) (, ,) (NP (NN S1)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NP (NNS opinions)) (PP (VBG regarding) (NP (JJ homosexual) (NNS marriages)))) (VP (VBP extend) (PP (IN beyond) (NP (JJ political) (NN party) (NNS lines))))))) (. .)))

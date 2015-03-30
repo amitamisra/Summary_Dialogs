@@ -1,0 +1,1 @@
+(ROOT (FRAG (NP (NN S2)) (: :) (S (NP (EX There)) (VP (VBD was) (NP (NP (NN prejudice)) (PP (IN against) (NP (NP (NNS gays)) (PP (IN in) (NP (CD 1909)))))) (SBAR (RB just) (IN as) (S (NP (EX there)) (VP (VBZ is) (ADVP (RB now))))))) (. .)))

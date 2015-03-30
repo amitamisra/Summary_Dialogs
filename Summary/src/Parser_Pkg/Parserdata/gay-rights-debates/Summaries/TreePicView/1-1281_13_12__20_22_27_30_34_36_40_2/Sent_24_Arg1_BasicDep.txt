@@ -1,0 +1,7 @@
+root(ROOT-0, counters-2)
+nn(counters-2, S2-1)
+prep(counters-2, by-3)
+pcomp(by-3, asking-4)
+prep(asking-4, about-5)
+amod(insemination-7, artificial-6)
+pobj(about-5, insemination-7)

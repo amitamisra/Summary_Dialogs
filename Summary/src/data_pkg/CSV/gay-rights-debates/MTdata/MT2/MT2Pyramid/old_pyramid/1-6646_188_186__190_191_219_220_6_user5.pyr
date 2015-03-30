@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 presents the idea that gay marriage has been pervasive in many cultures, including the Romans, Greeks, Celts, and American Indians. He also mentions the existence of other alternative forms of marriage such as polygamy and polyandry. He claims that gay marriage is not a new idea and that the idea of marriage being between a man and a woman is a recent development.</line>
+  <line>S2 claims that although homosexual acts did occur in many past cultures, these relationships were not marriages. He insists that marriages were almost exclusively between people of opposite genders. He argues that same-sex marriage has never been commonplace or accepted, despite homosexual acts occurring at times, and that the original idea of marriage is a union between people of opposite genders. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 provides two websites which outline the history of gay marriage in a few different cultures advising homosexuals were held in high regard in some cultures and were thought of as healers and prophets.  S1 cites several cultures who practices gay unions such as Romans and Celts.  S1 advises some cultures still practice polygamy and one in Nigeria  even practices polyandry. </line>
+  <line></line>
+  <line>S1 advises while homosexual unions were present in history they were not actually thought of as marriages but more of unions for a specific purpose.  He/she contends that matrimonial unions were between opposite genders, even throughout history.  S1 concedes that homosexual liaisons were common in other times and cultures but never recognized as actual marriages and were frowned upon. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two people are discussing gay marriage. S1 states that gay marriage is not a new idea, as many societies have historically practiced it and in some cases the homosexuals were valued.  He also asserts that even in the old testament marriage was not just between one man and one woman; polygamy was present.  S2 states that historically marriage has been about different genders.  He then states that even though the societies had homosexual liaisons, but they were not regarded as marriage but as unions for a particular purpose.  In some cases they were even frowned upon.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 bring sup historical evidence in support that homosexual marriage was conducted in the past, naming the Romans, Celts, Greeks and Native American tribes. They argue that such unions were important in the Native American tribe's culture as these individuals were seen as healers and prophets. They also point out that polygamy has been around historically as well, and argues that marriage has never been a binary union between one man and one woman.</line>
+  <line>S2 responds by stating that the evidence provided does not classify these unions as marriage, but special case scenarios that do not overlap with existing marriage laws in existence. They argue that marriage has always been considered to be between one man and one woman and that homosexual liaisons were special cases. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 asserts that gay marriage and polygamy are commonplace in ancient Greece, Rome and China. He listed hyperlinks to the source of his assertion. He argues that marriage as a union between one man and one woman is a recent construct as compared to gay marriage.</line>
+  <line>S2 asserts that same-sex marriage has never been commonplace. He argues that a couple of Buddhist sects allow it. It was frowned upon in Roman times. The Greeks had homosexual liaisons, some from desire, some for a form of mentoring reasons. But those were neither marriages nor assumed to be so by those societies. Marriage is between people of opposite genders in those societies, and thus it is not a new concept.</line>
+ </text>
+ <scu uid="16" label="Gay marriage, polygamy, and polyandry has been pervasive in many cultures including places such as Greece, Rome, and China.">
+  <contributor label="gay marriage in a few different cultures advising homosexuals were held in high regard in some cultures...several cultures who practices gay unions such as Romans and Celts...some cultures still practice polygamy and one in Nigeria  even practices polyandry">
+   <part label="gay marriage in a few different cultures advising homosexuals were held in high regard in some cultures" start="880" end="983"/>
+   <part label="several cultures who practices gay unions such as Romans and Celts" start="1039" end="1105"/>
+   <part label="some cultures still practice polygamy and one in Nigeria  even practices polyandry" start="1119" end="1201"/>
+  </contributor>
+  <contributor label="support that homosexual marriage was conducted in the past, naming the Romans, Celts, Greeks and Native American tribes">
+   <part label="support that homosexual marriage was conducted in the past, naming the Romans, Celts, Greeks and Native American tribes" start="2257" end="2376"/>
+  </contributor>
+  <contributor label="gay marriage has been pervasive in many cultures, including the Romans, Greeks, Celts, and American Indians...existence of other alternative forms of marriage such as polygamy and polyandry">
+   <part label="gay marriage has been pervasive in many cultures, including the Romans, Greeks, Celts, and American Indians" start="52" end="159"/>
+   <part label="existence of other alternative forms of marriage such as polygamy and polyandry" start="182" end="261"/>
+  </contributor>
+  <contributor label="societies have historically practiced it and in some cases the homosexuals were valued">
+   <part label="societies have historically practiced it and in some cases the homosexuals were valued" start="1716" end="1802"/>
+  </contributor>
+  <contributor label="gay marriage and polygamy are commonplace in ancient Greece, Rome and China">
+   <part label="gay marriage and polygamy are commonplace in ancient Greece, Rome and China" start="3038" end="3113"/>
+  </contributor>
+ </scu>
+ <scu uid="20" label="Marriage has always been a union between a man and a woman.">
+  <contributor label="insists that marriages were almost exclusively between people of opposite genders...original idea of marriage is a union between people of opposite genders">
+   <part label="insists that marriages were almost exclusively between people of opposite genders" start="512" end="593"/>
+   <part label="original idea of marriage is a union between people of opposite genders" start="725" end="796"/>
+  </contributor>
+  <contributor label="contends that matrimonial unions were between opposite genders, even throughout history">
+   <part label="contends that matrimonial unions were between opposite genders, even throughout history" start="1362" end="1449"/>
+  </contributor>
+  <contributor label="states that historically marriage has been about different genders">
+   <part label="states that historically marriage has been about different genders" start="1931" end="1997"/>
+  </contributor>
+  <contributor label="marriage has always been considered to be between one man and one woman">
+   <part label="marriage has always been considered to be between one man and one woman" start="2873" end="2944"/>
+  </contributor>
+  <contributor label="Marriage is between people of opposite genders in those societies">
+   <part label="Marriage is between people of opposite genders in those societies" start="3600" end="3665"/>
+  </contributor>
+ </scu>
+ <scu uid="21" label="Same-sex marriage has never been commonplace or accepted.">
+  <contributor label="same-sex marriage has never been commonplace or accepted">
+   <part label="same-sex marriage has never been commonplace or accepted" start="610" end="666"/>
+  </contributor>
+  <contributor label="never recognized as actual marriages and were frowned upon">
+   <part label="never recognized as actual marriages and were frowned upon" start="1533" end="1591"/>
+  </contributor>
+  <contributor label="In some cases they were even frowned upon">
+   <part label="In some cases they were even frowned upon" start="2151" end="2192"/>
+  </contributor>
+  <contributor label="that homosexual liaisons were special cases">
+   <part label="that homosexual liaisons were special cases" start="2949" end="2992"/>
+  </contributor>
+  <contributor label="asserts that same-sex marriage has never been commonplace">
+   <part label="asserts that same-sex marriage has never been commonplace" start="3287" end="3344"/>
+  </contributor>
+ </scu>
+ <scu uid="17" label="Gay marriage and polygamy is not a new concept.">
+  <contributor label="claims that gay marriage is not a new idea">
+   <part label="claims that gay marriage is not a new idea" start="266" end="308"/>
+  </contributor>
+  <contributor label="states that gay marriage is not a new idea">
+   <part label="states that gay marriage is not a new idea" start="1664" end="1706"/>
+  </contributor>
+  <contributor label="thus it is not a new concept">
+   <part label="thus it is not a new concept" start="3671" end="3699"/>
+  </contributor>
+  <contributor label="point out that polygamy has been around historically as well">
+   <part label="point out that polygamy has been around historically as well" start="2526" end="2586"/>
+  </contributor>
+ </scu>
+ <scu uid="19" label="Homosexual unions were present in history they were not actually thought of as marriages.">
+  <contributor label="homosexual unions were present in history they were not actually thought of as marriages">
+   <part label="homosexual unions were present in history they were not actually thought of as marriages" start="1222" end="1310"/>
+  </contributor>
+  <contributor label="homosexual acts did occur in many past cultures, these relationships were not marriages">
+   <part label="homosexual acts did occur in many past cultures, these relationships were not marriages" start="420" end="507"/>
+  </contributor>
+  <contributor label="societies had homosexual liaisons, but they were not regarded as marriage">
+   <part label="societies had homosexual liaisons, but they were not regarded as marriage" start="2036" end="2109"/>
+  </contributor>
+  <contributor label="Greeks had homosexual liaisons...neither marriages nor assumed to be so by those societies">
+   <part label="Greeks had homosexual liaisons" start="3438" end="3468"/>
+   <part label="neither marriages nor assumed to be so by those societies" start="3541" end="3598"/>
+  </contributor>
+ </scu>
+ <scu uid="18" label="Idea of marriage being between a man and a woman is a recent development.">
+  <contributor label="idea of marriage being between a man and a woman is a recent development">
+   <part label="idea of marriage being between a man and a woman is a recent development" start="322" end="394"/>
+  </contributor>
+  <contributor label="marriage was not just between one man and one woman;">
+   <part label="marriage was not just between one man and one woman;" start="1852" end="1904"/>
+  </contributor>
+  <contributor label="marriage has never been a binary union between one man and one woman">
+   <part label="marriage has never been a binary union between one man and one woman" start="2604" end="2672"/>
+  </contributor>
+  <contributor label="marriage as a union between one man and one woman is a recent construct as compared to gay marriage">
+   <part label="marriage as a union between one man and one woman is a recent construct as compared to gay marriage" start="3183" end="3282"/>
+  </contributor>
+ </scu>
+ <scu uid="24" label="S1 proves websites which outline the history of gay marriage in a few different cultures.">
+  <contributor label="provides two websites which outline the history">
+   <part label="provides two websites which outline the history" start="829" end="876"/>
+  </contributor>
+  <contributor label="S1 bring sup historical evidence">
+   <part label="S1 bring sup historical evidence" start="2221" end="2253"/>
+  </contributor>
+  <contributor label="asserts that even in the old testament">
+   <part label="asserts that even in the old testament" start="1813" end="1851"/>
+  </contributor>
+  <contributor label="listed hyperlinks to the source of his assertion">
+   <part label="listed hyperlinks to the source of his assertion" start="3118" end="3166"/>
+  </contributor>
+ </scu>
+ <scu uid="22" label="Homosexual acts were present at times.">
+  <contributor label="despite homosexual acts occurring at times">
+   <part label="despite homosexual acts occurring at times" start="668" end="710"/>
+  </contributor>
+  <contributor label="homosexual liaisons were common in other times and cultures">
+   <part label="homosexual liaisons were common in other times and cultures" start="1469" end="1528"/>
+  </contributor>
+  <contributor label="polygamy was present">
+   <part label="polygamy was present" start="1905" end="1925"/>
+  </contributor>
+ </scu>
+ <scu uid="28" label="Homosexual liaisons were regarded as unions for a particular purpose, rather than as marriage.">
+  <contributor label="as unions for a particular purpose">
+   <part label="as unions for a particular purpose" start="2114" end="2148"/>
+  </contributor>
+  <contributor label="argue that such unions were important in the Native American tribe's culture...evidence provided does not classify these unions as marriage">
+   <part label="argue that such unions were important in the Native American tribe's culture" start="2383" end="2459"/>
+   <part label="evidence provided does not classify these unions as marriage" start="2706" end="2766"/>
+  </contributor>
+  <contributor label="more of unions for a specific purpose">
+   <part label="more of unions for a specific purpose" start="1315" end="1352"/>
+  </contributor>
+ </scu>
+ <scu uid="23" label="Homosexuals in some cultures were thought of as healers and prophets.">
+  <contributor label="were thought of as healers and prophets">
+   <part label="were thought of as healers and prophets" start="988" end="1027"/>
+  </contributor>
+  <contributor label="these individuals were seen as healers and prophets">
+   <part label="these individuals were seen as healers and prophets" start="2463" end="2514"/>
+  </contributor>
+ </scu>
+ <scu uid="30" label="argues that a couple of Buddhist sects allow it">
+  <contributor label="argues that a couple of Buddhist sects allow it">
+   <part label="argues that a couple of Buddhist sects allow it" start="3349" end="3396"/>
+  </contributor>
+ </scu>
+ <scu uid="31" label="frowned upon in Roman times">
+  <contributor label="frowned upon in Roman times">
+   <part label="frowned upon in Roman times" start="3405" end="3432"/>
+  </contributor>
+ </scu>
+ <scu uid="32" label="some from desire, some for a form of mentoring reasons">
+  <contributor label="some from desire, some for a form of mentoring reasons">
+   <part label="some from desire, some for a form of mentoring reasons" start="3470" end="3524"/>
+  </contributor>
+ </scu>
+ <scu uid="29" label="special case scenarios that do not overlap with existing marriage laws in existence">
+  <contributor label="special case scenarios that do not overlap with existing marriage laws in existence">
+   <part label="special case scenarios that do not overlap with existing marriage laws in existence" start="2772" end="2855"/>
+  </contributor>
+ </scu>
+ <scu uid="26" label="Two people are discussing gay marriage">
+  <contributor label="Two people are discussing gay marriage">
+   <part label="Two people are discussing gay marriage" start="1621" end="1659"/>
+  </contributor>
+ </scu>
+</pyramid>

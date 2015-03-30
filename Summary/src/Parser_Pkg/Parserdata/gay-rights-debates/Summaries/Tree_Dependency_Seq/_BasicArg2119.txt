@@ -1,0 +1,7 @@
+root(ROOT-0, beginning-5)
+nsubj(beginning-5, S1-2)
+aux(beginning-5, is-4)
+aux(debate-7, to-6)
+xcomp(beginning-5, debate-7)
+prep(debate-7, about-8)
+pobj(about-8, abortion-9)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ contends) (SBAR (IN that) (S (NP (DT the) (JJ high) (NN divorce) (NN rate)) (VP (VBZ is) (ADJP (JJ due) (PP (TO to) (NP (NP (DT the) (JJ high) (NN rate)) (PP (IN of) (NP (JJ young) (NNS people))) (SBAR (WHNP (WP who)) (S (VP (VBP get) (ADJP (VBN divorced)))))))))))) (. .)))

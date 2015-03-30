@@ -1,0 +1,15 @@
+Also that taboos are constructed on the basis of peoples reasoning, indications and practices.
+root(ROOT-0, Also-1)
+mark(constructed-5, that-2)
+nsubjpass(constructed-5, taboos-3)
+auxpass(constructed-5, are-4)
+dep(Also-1, constructed-5)
+det(basis-8, the-7)
+prep_on(constructed-5, basis-8)
+nn(reasoning-11, peoples-10)
+prep_of(basis-8, reasoning-11)
+prep_of(basis-8, indications-13)
+conj_and(reasoning-11, indications-13)
+prep_of(basis-8, practices-15)
+conj_and(reasoning-11, practices-15)
+

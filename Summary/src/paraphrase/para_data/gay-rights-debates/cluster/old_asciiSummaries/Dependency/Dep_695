@@ -1,0 +1,11 @@
+S1 and S2 are discussing the issue of marriage equality.
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+det(issue-7, the-6)
+dobj(discussing-5, issue-7)
+nn(equality-10, marriage-9)
+prep_of(issue-7, equality-10)
+

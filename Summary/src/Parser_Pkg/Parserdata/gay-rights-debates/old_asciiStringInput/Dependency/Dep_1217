@@ -1,0 +1,49 @@
+S1 challenges S2 to debate the cause of the spread of AIS in the United States and encourages S2 to attempt to challenge his claims with proof that they are untrue .
+
+
+root(ROOT-0, debate-5)
+nn(S2-3, S1-1)
+nn(S2-3, challenges-2)
+nsubj(debate-5, S2-3)
+nsubj(encourages-18, S2-3)
+aux(debate-5, to-4)
+det(cause-7, the-6)
+dobj(debate-5, cause-7)
+det(spread-10, the-9)
+prep_of(cause-7, spread-10)
+prep_of(spread-10, AIS-12)
+det(States-16, the-14)
+nn(States-16, United-15)
+prep_in(debate-5, States-16)
+conj_and(debate-5, encourages-18)
+dobj(encourages-18, S2-19)
+aux(attempt-21, to-20)
+xcomp(encourages-18, attempt-21)
+aux(challenge-23, to-22)
+xcomp(attempt-21, challenge-23)
+poss(claims-25, his-24)
+dobj(challenge-23, claims-25)
+prep_with(challenge-23, proof-27)
+mark(untrue-31, that-28)
+nsubj(untrue-31, they-29)
+cop(untrue-31, are-30)
+ccomp(challenge-23, untrue-31)
+
+He cites slavery as an example .
+
+
+root(ROOT-0, cites-2)
+nsubj(cites-2, He-1)
+dobj(cites-2, slavery-3)
+det(example-6, an-5)
+prep_as(cites-2, example-6)
+
+He cites slavery as an example .
+
+
+root(ROOT-0, cites-2)
+nsubj(cites-2, He-1)
+dobj(cites-2, slavery-3)
+det(example-6, an-5)
+prep_as(cites-2, example-6)
+

@@ -1,0 +1,54 @@
+   because that , gays are broadening marriage , which inevitably leads to broadening in the other areas 
+root(ROOT-0, broadening-6)
+prep_because(broadening-6, that-2)
+nsubj(broadening-6, gays-4)
+aux(broadening-6, are-5)
+dobj(broadening-6, marriage-7)
+nsubj(leads-11, which-9)
+advmod(leads-11, inevitably-10)
+rcmod(marriage-7, leads-11)
+prepc_to(leads-11, broadening-13)
+det(areas-17, the-15)
+amod(areas-17, other-16)
+prep_in(broadening-13, areas-17)
+
+Marriage has nothing to do with the bible and everything to do with the slippery slope logical fallacy .
+
+
+root(ROOT-0, has-2)
+nsubj(has-2, Marriage-1)
+dobj(has-2, nothing-3)
+aux(do-5, to-4)
+vmod(nothing-3, do-5)
+det(bible-8, the-7)
+prep_with(do-5, bible-8)
+prep_with(do-5, everything-10)
+conj_and(bible-8, everything-10)
+aux(do-12, to-11)
+xcomp(do-5, do-12)
+det(fallacy-18, the-14)
+amod(fallacy-18, slippery-15)
+nn(fallacy-18, slope-16)
+amod(fallacy-18, logical-17)
+prep_with(do-12, fallacy-18)
+
+Marriage has nothing to do with the bible and everything to do with the slippery slope logical fallacy .
+
+
+root(ROOT-0, has-2)
+nsubj(has-2, Marriage-1)
+dobj(has-2, nothing-3)
+aux(do-5, to-4)
+vmod(nothing-3, do-5)
+det(bible-8, the-7)
+prep_with(do-5, bible-8)
+prep_with(do-5, everything-10)
+conj_and(bible-8, everything-10)
+aux(do-12, to-11)
+xcomp(do-5, do-12)
+det(fallacy-18, the-14)
+amod(fallacy-18, slippery-15)
+nn(fallacy-18, slope-16)
+amod(fallacy-18, logical-17)
+prep_with(do-12, fallacy-18)
+

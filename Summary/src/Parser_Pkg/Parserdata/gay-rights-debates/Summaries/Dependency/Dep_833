@@ -1,0 +1,24 @@
+ S2 is hypocritical about supporting Jeffersonian values on `` making sure.
+root(ROOT-0, hypocritical-3)
+nsubj(hypocritical-3, S2-1)
+cop(hypocritical-3, is-2)
+prep(hypocritical-3, about-4)
+pcomp(about-4, supporting-5)
+amod(values-7, Jeffersonian-6)
+dobj(supporting-5, values-7)
+prep(supporting-5, on-8)
+dep(on-8, making-10)
+advmod(making-10, sure-11)
+
+ S2 is hypocritical about supporting Jeffersonian values on `` making sure.
+root(ROOT-0, hypocritical-3)
+nsubj(hypocritical-3, S2-1)
+cop(hypocritical-3, is-2)
+prep(hypocritical-3, about-4)
+pcomp(about-4, supporting-5)
+amod(values-7, Jeffersonian-6)
+dobj(supporting-5, values-7)
+prep(supporting-5, on-8)
+dep(on-8, making-10)
+advmod(making-10, sure-11)
+

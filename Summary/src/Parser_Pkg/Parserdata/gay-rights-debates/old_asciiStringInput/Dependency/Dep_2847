@@ -1,0 +1,14 @@
+0  They do n't believe 
+root(ROOT-0, 0-1)
+nsubj(believe-5, They-2)
+aux(believe-5, do-3)
+neg(believe-5, n't-4)
+rcmod(0-1, believe-5)
+
+0  They do n't believe 
+root(ROOT-0, 0-1)
+nsubj(believe-5, They-2)
+aux(believe-5, do-3)
+neg(believe-5, n't-4)
+rcmod(0-1, believe-5)
+

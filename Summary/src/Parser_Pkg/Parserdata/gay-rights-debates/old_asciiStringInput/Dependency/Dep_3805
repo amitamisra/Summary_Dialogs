@@ -1,0 +1,22 @@
+   the 9th is about how federal constitution applies to gay marriage . 
+root(ROOT-0, is-3)
+det(9th-2, the-1)
+nsubj(is-3, 9th-2)
+advmod(applies-8, how-5)
+amod(constitution-7, federal-6)
+nsubj(applies-8, constitution-7)
+prepc_about(is-3, applies-8)
+amod(marriage-11, gay-10)
+prep_to(applies-8, marriage-11)
+
+   the 9th is about how federal constitution applies to gay marriage . 
+root(ROOT-0, is-3)
+det(9th-2, the-1)
+nsubj(is-3, 9th-2)
+advmod(applies-8, how-5)
+amod(constitution-7, federal-6)
+nsubj(applies-8, constitution-7)
+prepc_about(is-3, applies-8)
+amod(marriage-11, gay-10)
+prep_to(applies-8, marriage-11)
+

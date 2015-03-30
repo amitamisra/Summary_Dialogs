@@ -1,0 +1,10 @@
+(S2) compares abortion to the extermination of Jews in the Holocaust.
+root(ROOT-0, compares-4)
+nsubj(compares-4, S2-2)
+dobj(compares-4, abortion-5)
+det(extermination-8, the-7)
+prep_to(compares-4, extermination-8)
+prep_of(extermination-8, Jews-10)
+det(Holocaust-13, the-12)
+prep_in(Jews-10, Holocaust-13)
+

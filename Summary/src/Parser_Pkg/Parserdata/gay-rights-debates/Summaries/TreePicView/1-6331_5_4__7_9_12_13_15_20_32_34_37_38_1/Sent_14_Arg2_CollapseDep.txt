@@ -1,0 +1,8 @@
+root(ROOT-0, extended-6)
+det(courtesy-3, the-1)
+amod(courtesy-3, same-2)
+nsubjpass(extended-6, courtesy-3)
+aux(extended-6, should-4)
+auxpass(extended-6, be-5)
+amod(marriage-9, polygamous-8)
+prep_to(extended-6, marriage-9)

@@ -1,0 +1,8 @@
+root(ROOT-0, fought-2)
+nsubj(fought-2, he-1)
+prep(fought-2, for-3)
+det(right-5, the-4)
+pobj(for-3, right-5)
+prep(right-5, of-6)
+amod(speech-8, free-7)
+pobj(of-6, speech-8)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB also#0#Expansion)) (VP (VBZ notes) (SBAR (IN that) (S (NP (JJ gay) (NN marriage) (NNS laws)) (VP (MD would) (RB not) (VP (VB force) (S (NP (NNS heterosexuals)) (VP (TO to) (VP (VP (VB enter) (PP (IN into) (NP (PRP them)))) (CC or#1#0) (VP (VB attend) (NP (JJ gay) (NNS weddings))))))))))) (. .)))

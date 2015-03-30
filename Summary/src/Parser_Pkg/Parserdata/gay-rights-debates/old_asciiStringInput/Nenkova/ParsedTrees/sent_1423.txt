@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (NNS questions)) (VP (VBZ is) (NP (NP (NNP Maines)) (SBAR (S (NP (NN voting) (NNS results)) (VP (MD will) (VP (VB overturn) (NP (DT the) (JJ 9th) (NN amendment)))))))) (. .)))

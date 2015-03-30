@@ -1,0 +1,3 @@
+root(ROOT-0, stay-2)
+nsubj(stay-2, they-1)
+prep_in(stay-2, closet-4)

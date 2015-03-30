@@ -1,0 +1,26 @@
+ that preventing gay marriage is simply faith based hate .
+
+
+root(ROOT-0, faith-7)
+mark(faith-7, that-1)
+csubj(faith-7, preventing-2)
+amod(marriage-4, gay-3)
+dobj(preventing-2, marriage-4)
+cop(faith-7, is-5)
+advmod(faith-7, simply-6)
+vmod(faith-7, based-8)
+dobj(based-8, hate-9)
+
+ that preventing gay marriage is simply faith based hate .
+
+
+root(ROOT-0, faith-7)
+mark(faith-7, that-1)
+csubj(faith-7, preventing-2)
+amod(marriage-4, gay-3)
+dobj(preventing-2, marriage-4)
+cop(faith-7, is-5)
+advmod(faith-7, simply-6)
+vmod(faith-7, based-8)
+dobj(based-8, hate-9)
+

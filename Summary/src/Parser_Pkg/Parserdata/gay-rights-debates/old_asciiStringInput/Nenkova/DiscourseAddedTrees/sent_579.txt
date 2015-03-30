@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN Men)) (SBAR (WHNP (WP who)) (`` ``) (S (VP (VBD acted) (NP (JJ gay)))) ('' ''))) (VP (VBD were) (VP (VBN punished) (PP (IN for#0#0) (NP (PRP it))) (PP (IN in) (NP (CD 1909))))) (. .)))

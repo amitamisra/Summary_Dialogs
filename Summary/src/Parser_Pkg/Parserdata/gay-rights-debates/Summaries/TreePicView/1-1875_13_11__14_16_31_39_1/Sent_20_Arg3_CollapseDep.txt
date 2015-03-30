@@ -1,0 +1,2 @@
+root(ROOT-0, chooses-2)
+nsubj(chooses-2, he-1)

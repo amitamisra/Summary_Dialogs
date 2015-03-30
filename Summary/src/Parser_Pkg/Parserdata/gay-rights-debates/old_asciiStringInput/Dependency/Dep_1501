@@ -1,0 +1,32 @@
+ that even conservatives criticize Bush 's spending .  
+root(ROOT-0, criticize-4)
+mark(criticize-4, that-1)
+advmod(conservatives-3, even-2)
+nsubj(criticize-4, conservatives-3)
+poss(spending-7, Bush-5)
+dobj(criticize-4, spending-7)
+
+Men who `` acted gay '' were punished for it in 1909 .
+
+
+root(ROOT-0, punished-8)
+nsubjpass(punished-8, Men-1)
+nsubj(acted-4, who-2)
+rcmod(Men-1, acted-4)
+dobj(acted-4, gay-5)
+auxpass(punished-8, were-7)
+prep_for(punished-8, it-10)
+prep_in(punished-8, 1909-12)
+
+Men who `` acted gay '' were punished for it in 1909 .
+
+
+root(ROOT-0, punished-8)
+nsubjpass(punished-8, Men-1)
+nsubj(acted-4, who-2)
+rcmod(Men-1, acted-4)
+dobj(acted-4, gay-5)
+auxpass(punished-8, were-7)
+prep_for(punished-8, it-10)
+prep_in(punished-8, 1909-12)
+

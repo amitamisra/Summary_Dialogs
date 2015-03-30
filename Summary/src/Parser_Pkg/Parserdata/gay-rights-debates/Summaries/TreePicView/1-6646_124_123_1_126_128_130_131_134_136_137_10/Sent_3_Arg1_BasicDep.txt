@@ -1,0 +1,3 @@
+root(ROOT-0, offers-2)
+nsubj(offers-2, he-1)
+dobj(offers-2, none-3)

@@ -1,0 +1,35 @@
+He also challenged S1's earthquake argument.
+root(ROOT-0, challenged-3)
+nsubj(challenged-3, He-1)
+advmod(challenged-3, also-2)
+poss(argument-7, S1-4)
+possessive(S1-4, 's-5)
+nn(argument-7, earthquake-6)
+dobj(challenged-3, argument-7)
+
+He also challenged S1's earthquake argument.
+root(ROOT-0, challenged-3)
+nsubj(challenged-3, He-1)
+advmod(challenged-3, also-2)
+poss(argument-7, S1-4)
+possessive(S1-4, 's-5)
+nn(argument-7, earthquake-6)
+dobj(challenged-3, argument-7)
+
+He also challenged S1's earthquake argument.
+root(ROOT-0, challenged-3)
+nsubj(challenged-3, He-1)
+advmod(challenged-3, also-2)
+poss(argument-7, S1-4)
+possessive(S1-4, 's-5)
+nn(argument-7, earthquake-6)
+dobj(challenged-3, argument-7)
+
+ 60,000 gay couples would get married.
+root(ROOT-0, married-6)
+num(couples-3, 60,000-1)
+amod(couples-3, gay-2)
+nsubjpass(married-6, couples-3)
+aux(married-6, would-4)
+auxpass(married-6, get-5)
+

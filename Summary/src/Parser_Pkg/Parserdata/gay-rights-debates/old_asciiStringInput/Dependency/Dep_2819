@@ -1,0 +1,28 @@
+ that it is unnecessary to redefine marriage to include gays .
+
+
+root(ROOT-0, unnecessary-4)
+mark(unnecessary-4, that-1)
+nsubj(unnecessary-4, it-2)
+cop(unnecessary-4, is-3)
+aux(redefine-6, to-5)
+xcomp(unnecessary-4, redefine-6)
+dobj(redefine-6, marriage-7)
+aux(include-9, to-8)
+vmod(redefine-6, include-9)
+dobj(include-9, gays-10)
+
+ that it is unnecessary to redefine marriage to include gays .
+
+
+root(ROOT-0, unnecessary-4)
+mark(unnecessary-4, that-1)
+nsubj(unnecessary-4, it-2)
+cop(unnecessary-4, is-3)
+aux(redefine-6, to-5)
+xcomp(unnecessary-4, redefine-6)
+dobj(redefine-6, marriage-7)
+aux(include-9, to-8)
+vmod(redefine-6, include-9)
+dobj(include-9, gays-10)
+

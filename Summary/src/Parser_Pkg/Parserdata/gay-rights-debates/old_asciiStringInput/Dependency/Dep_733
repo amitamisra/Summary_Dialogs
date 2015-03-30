@@ -1,0 +1,65 @@
+ that a problem with the study is that most people in the country identifies as Christian .
+
+
+root(ROOT-0, is-7)
+mark(is-7, that-1)
+det(problem-3, a-2)
+nsubj(is-7, problem-3)
+det(study-6, the-5)
+prep_with(problem-3, study-6)
+mark(identifies-14, that-8)
+amod(people-10, most-9)
+nsubj(identifies-14, people-10)
+det(country-13, the-12)
+prep_in(people-10, country-13)
+ccomp(is-7, identifies-14)
+prep_as(identifies-14, Christian-16)
+
+S1 does n't want people to compare a race of people 's fight for equal rights to a class of people determined by their sexual orientation .
+
+
+root(ROOT-0, want-4)
+nsubj(want-4, S1-1)
+aux(want-4, does-2)
+neg(want-4, n't-3)
+nsubj(compare-7, people-5)
+aux(compare-7, to-6)
+xcomp(want-4, compare-7)
+det(race-9, a-8)
+dobj(compare-7, race-9)
+poss(fight-13, people-11)
+prep_of(race-9, fight-13)
+amod(rights-16, equal-15)
+prep_for(fight-13, rights-16)
+det(class-19, a-18)
+prep_to(compare-7, class-19)
+prep_of(class-19, people-21)
+vmod(people-21, determined-22)
+poss(orientation-26, their-24)
+amod(orientation-26, sexual-25)
+agent(determined-22, orientation-26)
+
+S1 does n't want people to compare a race of people 's fight for equal rights to a class of people determined by their sexual orientation .
+
+
+root(ROOT-0, want-4)
+nsubj(want-4, S1-1)
+aux(want-4, does-2)
+neg(want-4, n't-3)
+nsubj(compare-7, people-5)
+aux(compare-7, to-6)
+xcomp(want-4, compare-7)
+det(race-9, a-8)
+dobj(compare-7, race-9)
+poss(fight-13, people-11)
+prep_of(race-9, fight-13)
+amod(rights-16, equal-15)
+prep_for(fight-13, rights-16)
+det(class-19, a-18)
+prep_to(compare-7, class-19)
+prep_of(class-19, people-21)
+vmod(people-21, determined-22)
+poss(orientation-26, their-24)
+amod(orientation-26, sexual-25)
+agent(determined-22, orientation-26)
+

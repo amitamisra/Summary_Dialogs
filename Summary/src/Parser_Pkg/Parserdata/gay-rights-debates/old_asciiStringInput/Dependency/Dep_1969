@@ -1,0 +1,57 @@
+   gay are not being protected 
+root(ROOT-0, protected-5)
+nsubjpass(protected-5, gay-1)
+aux(protected-5, are-2)
+neg(protected-5, not-3)
+auxpass(protected-5, being-4)
+
+-LRB- S1 -RRB- responds that the her/politicians interest is not part of his interests and or societys and does not hurts him in any way .
+
+
+root(ROOT-0, hurts-21)
+nsubj(hurts-21, S1-2)
+rcmod(S1-2, responds-4)
+mark(part-11, that-5)
+det(interest-8, the-6)
+nn(interest-8, her/politicians-7)
+nsubj(part-11, interest-8)
+nsubj(does-19, interest-8)
+cop(part-11, is-9)
+neg(part-11, not-10)
+ccomp(responds-4, part-11)
+poss(interests-14, his-13)
+prep_of(part-11, interests-14)
+prep_of(part-11, societys-17)
+conj_or(interests-14, societys-17)
+ccomp(responds-4, does-19)
+conj_and(part-11, does-19)
+neg(hurts-21, not-20)
+dobj(hurts-21, him-22)
+det(way-25, any-24)
+prep_in(hurts-21, way-25)
+
+-LRB- S1 -RRB- responds that the her/politicians interest is not part of his interests and or societys and does not hurts him in any way .
+
+
+root(ROOT-0, hurts-21)
+nsubj(hurts-21, S1-2)
+rcmod(S1-2, responds-4)
+mark(part-11, that-5)
+det(interest-8, the-6)
+nn(interest-8, her/politicians-7)
+nsubj(part-11, interest-8)
+nsubj(does-19, interest-8)
+cop(part-11, is-9)
+neg(part-11, not-10)
+ccomp(responds-4, part-11)
+poss(interests-14, his-13)
+prep_of(part-11, interests-14)
+prep_of(part-11, societys-17)
+conj_or(interests-14, societys-17)
+ccomp(responds-4, does-19)
+conj_and(part-11, does-19)
+neg(hurts-21, not-20)
+dobj(hurts-21, him-22)
+det(way-25, any-24)
+prep_in(hurts-21, way-25)
+

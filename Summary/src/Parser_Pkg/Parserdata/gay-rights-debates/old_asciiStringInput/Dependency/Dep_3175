@@ -1,0 +1,26 @@
+ that as political consumers we should expect honesty of the politicians .
+
+
+root(ROOT-0, expect-7)
+mark(expect-7, that-1)
+amod(consumers-4, political-3)
+prep_as(expect-7, consumers-4)
+nsubj(expect-7, we-5)
+aux(expect-7, should-6)
+dobj(expect-7, honesty-8)
+det(politicians-11, the-10)
+prep_of(honesty-8, politicians-11)
+
+ that as political consumers we should expect honesty of the politicians .
+
+
+root(ROOT-0, expect-7)
+mark(expect-7, that-1)
+amod(consumers-4, political-3)
+prep_as(expect-7, consumers-4)
+nsubj(expect-7, we-5)
+aux(expect-7, should-6)
+dobj(expect-7, honesty-8)
+det(politicians-11, the-10)
+prep_of(honesty-8, politicians-11)
+

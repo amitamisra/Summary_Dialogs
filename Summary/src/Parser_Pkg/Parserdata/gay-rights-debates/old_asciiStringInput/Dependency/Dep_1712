@@ -1,0 +1,31 @@
+ that anyone would  be satisfied 
+root(ROOT-0, satisfied-5)
+mark(satisfied-5, that-1)
+nsubj(satisfied-5, anyone-2)
+aux(satisfied-5, would-3)
+cop(satisfied-5, be-4)
+
+You cannot justify an anti-gay agenda on morals or religion.
+root(ROOT-0, justify-4)
+nsubj(justify-4, You-1)
+aux(justify-4, can-2)
+neg(justify-4, not-3)
+det(agenda-7, an-5)
+amod(agenda-7, anti-gay-6)
+dobj(justify-4, agenda-7)
+prep_on(justify-4, morals-9)
+prep_on(justify-4, religion-11)
+conj_or(morals-9, religion-11)
+
+You cannot justify an anti-gay agenda on morals or religion.
+root(ROOT-0, justify-4)
+nsubj(justify-4, You-1)
+aux(justify-4, can-2)
+neg(justify-4, not-3)
+det(agenda-7, an-5)
+amod(agenda-7, anti-gay-6)
+dobj(justify-4, agenda-7)
+prep_on(justify-4, morals-9)
+prep_on(justify-4, religion-11)
+conj_or(morals-9, religion-11)
+

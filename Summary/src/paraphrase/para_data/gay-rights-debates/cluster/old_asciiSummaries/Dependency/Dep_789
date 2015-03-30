@@ -1,0 +1,14 @@
+To contradict, S1 states that only serious religious views are taken into account.
+root(ROOT-0, contradict-2)
+aux(contradict-2, To-1)
+nn(states-5, S1-4)
+dobj(contradict-2, states-5)
+dobj(taken-12, that-6)
+advmod(views-10, only-7)
+amod(views-10, serious-8)
+amod(views-10, religious-9)
+nsubjpass(taken-12, views-10)
+auxpass(taken-12, are-11)
+rcmod(states-5, taken-12)
+prep_into(taken-12, account-14)
+

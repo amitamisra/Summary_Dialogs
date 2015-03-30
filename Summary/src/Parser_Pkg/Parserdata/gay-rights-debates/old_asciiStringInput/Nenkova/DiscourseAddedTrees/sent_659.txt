@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Speaker) (CD two)) (VP (VBZ believes) (SBAR (IN that) (S (NP (JJ gay) (NNS people)) (VP (MD should) (VP (VB marry) (NP (DT a) (NN woman)) (SBAR (IN if#0#Contingency) (S (NP (PRP they)) (VP (VBP want) (NP (DT the) (JJ same) (NNS rights)))))))))) (. .)))

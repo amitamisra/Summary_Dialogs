@@ -1,0 +1,22 @@
+  that the origin of AIS in the United States is unknown 
+root(ROOT-0, unknown-11)
+mark(unknown-11, that-1)
+det(origin-3, the-2)
+nsubj(unknown-11, origin-3)
+prep_of(origin-3, AIS-5)
+det(States-9, the-7)
+nn(States-9, United-8)
+prep_in(AIS-5, States-9)
+cop(unknown-11, is-10)
+
+  that the origin of AIS in the United States is unknown 
+root(ROOT-0, unknown-11)
+mark(unknown-11, that-1)
+det(origin-3, the-2)
+nsubj(unknown-11, origin-3)
+prep_of(origin-3, AIS-5)
+det(States-9, the-7)
+nn(States-9, United-8)
+prep_in(AIS-5, States-9)
+cop(unknown-11, is-10)
+

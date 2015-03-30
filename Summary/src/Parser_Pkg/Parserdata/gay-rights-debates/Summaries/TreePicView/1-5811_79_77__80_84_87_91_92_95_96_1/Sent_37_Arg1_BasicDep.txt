@@ -1,0 +1,8 @@
+root(ROOT-0, S2-1)
+nsubj(fact-6, Prejudice-3)
+cop(fact-6, is-4)
+det(fact-6, a-5)
+dep(S2-1, fact-6)
+prep(fact-6, of-7)
+amod(existence-9, human-8)
+pobj(of-7, existence-9)

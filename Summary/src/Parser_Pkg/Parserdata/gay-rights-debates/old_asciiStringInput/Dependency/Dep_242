@@ -1,0 +1,31 @@
+S2 feels the only reason these terms are not recognized  is 
+root(ROOT-0, feels-2)
+nsubj(feels-2, S2-1)
+det(reason-5, the-3)
+amod(reason-5, only-4)
+dobj(feels-2, reason-5)
+det(terms-7, these-6)
+nsubjpass(recognized-10, terms-7)
+auxpass(recognized-10, are-8)
+neg(recognized-10, not-9)
+rcmod(reason-5, recognized-10)
+ccomp(recognized-10, is-11)
+
+Gay marriage can bring in new taxes.
+root(ROOT-0, bring-4)
+nn(marriage-2, Gay-1)
+nsubj(bring-4, marriage-2)
+aux(bring-4, can-3)
+prt(bring-4, in-5)
+amod(taxes-7, new-6)
+dobj(bring-4, taxes-7)
+
+Gay marriage can bring in new taxes.
+root(ROOT-0, bring-4)
+nn(marriage-2, Gay-1)
+nsubj(bring-4, marriage-2)
+aux(bring-4, can-3)
+prt(bring-4, in-5)
+amod(taxes-7, new-6)
+dobj(bring-4, taxes-7)
+

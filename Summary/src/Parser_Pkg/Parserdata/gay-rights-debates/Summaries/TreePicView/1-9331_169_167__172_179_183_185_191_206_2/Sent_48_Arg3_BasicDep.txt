@@ -1,0 +1,5 @@
+root(ROOT-0, goes-2)
+nsubj(goes-2, S2-1)
+advmod(goes-2, back-3)
+prep(back-3, to-4)
+pcomp(to-4, saying-5)

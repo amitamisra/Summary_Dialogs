@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (ADVP (RB also#1#Expansion)) (VP (VBZ cites) (NP (NP (DT the) (NN practice)) (PP (IN of) (NP (JJ untested) (NN blood) (NNS transfusions)))) (SBAR (IN before#0#Temporal) (S (NP (PRP it)) (VP (VBD was) (VP (VBN discovered) (SBAR (WHADVP (WRB how)) (S (NP (NNP AIS)) (VP (MD could) (VP (VB be) (VP (VBN spread))))))))))) (. .)))

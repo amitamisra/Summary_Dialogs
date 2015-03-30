@@ -1,0 +1,18 @@
+S1 contends the remark pertaining specifically to 100 men shows this information is based more on opinion than fact.
+root(ROOT-0, contends-2)
+nsubj(contends-2, S1-1)
+det(remark-4, the-3)
+nsubj(shows-10, remark-4)
+vmod(remark-4, pertaining-5)
+advmod(pertaining-5, specifically-6)
+num(men-9, 100-8)
+prep_to(pertaining-5, men-9)
+ccomp(contends-2, shows-10)
+det(information-12, this-11)
+nsubjpass(based-14, information-12)
+auxpass(based-14, is-13)
+ccomp(shows-10, based-14)
+advmod(based-14, more-15)
+prep_on(more-15, opinion-17)
+prep_than(based-14, fact-19)
+

@@ -1,0 +1,1 @@
+(ROOT (S (VP (TO To) (VP (VP (VB contradict)) (, ,) (NP (NP (NN S1) (NNS states)) (SBAR (WHNP (WDT that)) (S (NP (RB only) (JJ serious) (JJ religious) (NNS views)) (VP (VBP are) (VP (VBN taken) (PP (IN into) (NP (NN account)))))))))) (. .)))

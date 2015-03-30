@@ -1,0 +1,10 @@
+Two people are discussing about redefining the meaning of marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+prepc_about(discussing-4, redefining-6)
+det(meaning-8, the-7)
+dobj(redefining-6, meaning-8)
+prep_of(meaning-8, marriage-10)
+

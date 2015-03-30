@@ -1,0 +1,28 @@
+  that   one broaches the topic of AIS one  must  look at it as a whole  .  
+root(ROOT-0, look-10)
+mark(broaches-3, that-1)
+nsubj(broaches-3, one-2)
+csubj(look-10, broaches-3)
+det(topic-5, the-4)
+dobj(broaches-3, topic-5)
+prep_of(topic-5, AIS-7)
+num(AIS-7, one-8)
+aux(look-10, must-9)
+prep_at(look-10, it-12)
+det(whole-15, a-14)
+prep_as(look-10, whole-15)
+
+  that   one broaches the topic of AIS one  must  look at it as a whole  .  
+root(ROOT-0, look-10)
+mark(broaches-3, that-1)
+nsubj(broaches-3, one-2)
+csubj(look-10, broaches-3)
+det(topic-5, the-4)
+dobj(broaches-3, topic-5)
+prep_of(topic-5, AIS-7)
+num(AIS-7, one-8)
+aux(look-10, must-9)
+prep_at(look-10, it-12)
+det(whole-15, a-14)
+prep_as(look-10, whole-15)
+

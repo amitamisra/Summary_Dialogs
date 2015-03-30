@@ -1,0 +1,33 @@
+   these individuals were seen as healers and prophets 
+root(ROOT-0, seen-4)
+det(individuals-2, these-1)
+nsubjpass(seen-4, individuals-2)
+auxpass(seen-4, were-3)
+prep_as(seen-4, healers-6)
+prep_as(seen-4, prophets-8)
+conj_and(healers-6, prophets-8)
+
+   these states had constitutions which are similar to the U.S. Constitution 
+root(ROOT-0, had-3)
+det(states-2, these-1)
+nsubj(had-3, states-2)
+dobj(had-3, constitutions-4)
+nsubj(similar-7, which-5)
+cop(similar-7, are-6)
+rcmod(constitutions-4, similar-7)
+det(Constitution-11, the-9)
+nn(Constitution-11, U.S.-10)
+prep_to(similar-7, Constitution-11)
+
+   these states had constitutions which are similar to the U.S. Constitution 
+root(ROOT-0, had-3)
+det(states-2, these-1)
+nsubj(had-3, states-2)
+dobj(had-3, constitutions-4)
+nsubj(similar-7, which-5)
+cop(similar-7, are-6)
+rcmod(constitutions-4, similar-7)
+det(Constitution-11, the-9)
+nn(Constitution-11, U.S.-10)
+prep_to(similar-7, Constitution-11)
+

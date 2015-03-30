@@ -1,0 +1,5 @@
+root(ROOT-0, inconsistent-5)
+nsubj(inconsistent-5, Biden-1)
+vmod(Biden-1, saying-2)
+dobj(saying-2, this-3)
+cop(inconsistent-5, is-4)

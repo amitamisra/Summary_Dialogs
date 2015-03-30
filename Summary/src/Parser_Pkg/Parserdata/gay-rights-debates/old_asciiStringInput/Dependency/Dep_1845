@@ -1,0 +1,35 @@
+ The choice of law doctrine trumps the FFC clause in cases of marriage contract 
+root(ROOT-0, trumps-6)
+det(choice-2, The-1)
+nsubj(trumps-6, choice-2)
+nn(doctrine-5, law-4)
+prep_of(choice-2, doctrine-5)
+det(clause-9, the-7)
+nn(clause-9, FFC-8)
+dobj(trumps-6, clause-9)
+prep_in(trumps-6, cases-11)
+nn(contract-14, marriage-13)
+prep_of(cases-11, contract-14)
+
+ that    previous societies had legal rights to enslave people  
+root(ROOT-0, had-4)
+mark(had-4, that-1)
+amod(societies-3, previous-2)
+nsubj(had-4, societies-3)
+amod(rights-6, legal-5)
+dobj(had-4, rights-6)
+aux(enslave-8, to-7)
+vmod(rights-6, enslave-8)
+dobj(enslave-8, people-9)
+
+ that    previous societies had legal rights to enslave people  
+root(ROOT-0, had-4)
+mark(had-4, that-1)
+amod(societies-3, previous-2)
+nsubj(had-4, societies-3)
+amod(rights-6, legal-5)
+dobj(had-4, rights-6)
+aux(enslave-8, to-7)
+vmod(rights-6, enslave-8)
+dobj(enslave-8, people-9)
+

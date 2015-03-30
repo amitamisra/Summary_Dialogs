@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (SBAR (WHADVP (WRB when#0#Temporal)) (S (NP (NNS people)) (VP (VBP are) (VP (VBN opposed) (PP (TO to) (NP (JJ gay) (NN marriage))))))) (NP (PRP they)) (VP (VBP are) (ADVP (RB often)) (VP (VBN called) (NP (DT a) (NN homophobe))))))) (. .)))

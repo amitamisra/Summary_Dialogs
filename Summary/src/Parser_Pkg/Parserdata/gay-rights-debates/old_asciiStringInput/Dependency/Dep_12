@@ -1,0 +1,34 @@
+S1 feels any headway will take many years .
+
+
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+det(headway-4, any-3)
+nsubj(take-6, headway-4)
+aux(take-6, will-5)
+ccomp(feels-2, take-6)
+amod(years-8, many-7)
+tmod(take-6, years-8)
+
+S1 is in favor of gay marriage while S2 is against.
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+prep_in(is-2, favor-4)
+amod(marriage-7, gay-6)
+prep_of(favor-4, marriage-7)
+mark(is-10, while-8)
+nsubj(is-10, S2-9)
+advcl(is-2, is-10)
+prep(is-10, against-11)
+
+S1 is in favor of gay marriage while S2 is against.
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+prep_in(is-2, favor-4)
+amod(marriage-7, gay-6)
+prep_of(favor-4, marriage-7)
+mark(is-10, while-8)
+nsubj(is-10, S2-9)
+advcl(is-2, is-10)
+prep(is-10, against-11)
+

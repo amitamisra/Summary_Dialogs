@@ -1,0 +1,7 @@
+root(ROOT-0, applies-2)
+nsubj(applies-2, love-1)
+amod(marriages-5, straight-4)
+prep_to(applies-2, marriages-5)
+amod(marriages-10, gay-9)
+prep_to(applies-2, marriages-10)
+conj_and(marriages-5, marriages-10)

@@ -1,0 +1,5 @@
+(Condition[N][S]
+  _!There is no point is questioning candidates ,!_
+  (Attribution[S][N]
+    _!if it is known!_
+    _!they are going to lie . <s>!_))

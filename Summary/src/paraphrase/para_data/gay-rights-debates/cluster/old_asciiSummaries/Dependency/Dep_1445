@@ -1,0 +1,16 @@
+He also states that a federal marriage amendment to the constitution is a long shot.
+root(ROOT-0, states-3)
+nsubj(states-3, He-1)
+advmod(states-3, also-2)
+mark(shot-15, that-4)
+det(amendment-8, a-5)
+amod(amendment-8, federal-6)
+nn(amendment-8, marriage-7)
+nsubj(shot-15, amendment-8)
+det(constitution-11, the-10)
+prep_to(amendment-8, constitution-11)
+cop(shot-15, is-12)
+det(shot-15, a-13)
+amod(shot-15, long-14)
+ccomp(states-3, shot-15)
+

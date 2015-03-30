@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ is) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (DT these) (NNS unions))))) (SBAR (IN while#0#Comparison) (S (NP (NN S2)) (VP (VBZ does) (RB not) (VP (VB support) (NP (PRP them))))))) (. .)))

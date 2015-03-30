@@ -1,0 +1,18 @@
+  that the politicians will pay a price 
+root(ROOT-0, pay-5)
+mark(pay-5, that-1)
+det(politicians-3, the-2)
+nsubj(pay-5, politicians-3)
+aux(pay-5, will-4)
+det(price-7, a-6)
+dobj(pay-5, price-7)
+
+  that the politicians will pay a price 
+root(ROOT-0, pay-5)
+mark(pay-5, that-1)
+det(politicians-3, the-2)
+nsubj(pay-5, politicians-3)
+aux(pay-5, will-4)
+det(price-7, a-6)
+dobj(pay-5, price-7)
+

@@ -1,0 +1,35 @@
+Broadened marriage could change the current traditional marriage laws .
+
+
+root(ROOT-0, change-4)
+csubj(change-4, Broadened-1)
+dep(Broadened-1, marriage-2)
+aux(change-4, could-3)
+det(laws-9, the-5)
+amod(laws-9, current-6)
+amod(laws-9, traditional-7)
+nn(laws-9, marriage-8)
+dobj(change-4, laws-9)
+
+  that S1 does n't understand    he is heterosexual   not 
+root(ROOT-0, understand-5)
+mark(understand-5, that-1)
+nsubj(understand-5, S1-2)
+aux(understand-5, does-3)
+neg(understand-5, n't-4)
+nsubj(heterosexual-8, he-6)
+cop(heterosexual-8, is-7)
+ccomp(understand-5, heterosexual-8)
+neg(heterosexual-8, not-9)
+
+  that S1 does n't understand    he is heterosexual   not 
+root(ROOT-0, understand-5)
+mark(understand-5, that-1)
+nsubj(understand-5, S1-2)
+aux(understand-5, does-3)
+neg(understand-5, n't-4)
+nsubj(heterosexual-8, he-6)
+cop(heterosexual-8, is-7)
+ccomp(understand-5, heterosexual-8)
+neg(heterosexual-8, not-9)
+

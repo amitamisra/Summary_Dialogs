@@ -1,0 +1,38 @@
+ S1 seems inclined to grant her leeway based on such a religious objection , 
+root(ROOT-0, inclined-3)
+nsubjpass(inclined-3, S1-1)
+auxpass(inclined-3, seems-2)
+aux(grant-5, to-4)
+xcomp(inclined-3, grant-5)
+poss(leeway-7, her-6)
+dobj(grant-5, leeway-7)
+prepc_based_on(grant-5, on-9)
+predet(objection-13, such-10)
+det(objection-13, a-11)
+amod(objection-13, religious-12)
+pobj(grant-5, objection-13)
+
+He questions if S1 got the information from Focus on the Family.
+root(ROOT-0, got-5)
+dep(got-5, He-1)
+dep(got-5, questions-2)
+mark(got-5, if-3)
+nsubj(got-5, S1-4)
+det(information-7, the-6)
+dobj(got-5, information-7)
+prep_from(got-5, Focus-9)
+det(Family-12, the-11)
+prep_on(got-5, Family-12)
+
+He questions if S1 got the information from Focus on the Family.
+root(ROOT-0, got-5)
+dep(got-5, He-1)
+dep(got-5, questions-2)
+mark(got-5, if-3)
+nsubj(got-5, S1-4)
+det(information-7, the-6)
+dobj(got-5, information-7)
+prep_from(got-5, Focus-9)
+det(Family-12, the-11)
+prep_on(got-5, Family-12)
+

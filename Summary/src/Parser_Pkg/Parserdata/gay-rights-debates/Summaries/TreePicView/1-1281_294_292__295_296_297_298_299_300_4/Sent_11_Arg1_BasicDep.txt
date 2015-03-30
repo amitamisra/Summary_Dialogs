@@ -1,0 +1,5 @@
+root(ROOT-0, is-3)
+amod(marriage-2, gay-1)
+nsubj(is-3, marriage-2)
+prep(is-3, about-4)
+pobj(about-4, economics-5)

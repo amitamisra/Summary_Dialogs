@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ rebuts) (, ,) (S (VP (VBG asking) (NP (NN S2)) (S (VP (TO to) (VP (VB provide) (NP (NN evidence)) (S (VP (TO to) (VP (VB back) (PRT (RP up)) (NP (PRP$ his) (NN claim))))))))))) (. .)))

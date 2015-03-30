@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBD recognized) (NP (NP (DT the) (NN difficulty)) (VP (VBN imposed) (PP (IN by) (NP (DT the) (NN fact))) (SBAR (IN that) (S (NP (NN marriage)) (VP (VBZ is) (NP (CC both) (NP (DT a) (JJ legal) (NN contract)) (CC and) (NP (DT a) (JJ religious) (NN ceremony))))))))) (. .)))

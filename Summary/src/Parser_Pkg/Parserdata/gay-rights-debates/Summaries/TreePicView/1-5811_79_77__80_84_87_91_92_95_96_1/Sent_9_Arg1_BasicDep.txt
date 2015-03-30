@@ -1,0 +1,6 @@
+root(ROOT-0, claim-2)
+nsubj(claim-2, people-1)
+dobj(claim-2, religion-3)
+prep(claim-2, in-4)
+pcomp(in-4, doing-5)
+dobj(doing-5, prejudice-6)

@@ -1,0 +1,24 @@
+   perform gay marriages despite his or her personal religious objection to them  
+root(ROOT-0, perform-1)
+amod(marriages-3, gay-2)
+dobj(perform-1, marriages-3)
+amod(objection-10, his-5)
+conj_or(his-5, her-7)
+amod(objection-10, her-7)
+amod(objection-10, personal-8)
+amod(objection-10, religious-9)
+prep_despite(perform-1, objection-10)
+prep_to(objection-10, them-12)
+
+   perform gay marriages despite his or her personal religious objection to them  
+root(ROOT-0, perform-1)
+amod(marriages-3, gay-2)
+dobj(perform-1, marriages-3)
+amod(objection-10, his-5)
+conj_or(his-5, her-7)
+amod(objection-10, her-7)
+amod(objection-10, personal-8)
+amod(objection-10, religious-9)
+prep_despite(perform-1, objection-10)
+prep_to(objection-10, them-12)
+

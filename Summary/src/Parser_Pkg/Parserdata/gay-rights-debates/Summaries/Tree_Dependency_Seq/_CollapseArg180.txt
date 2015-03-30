@@ -1,0 +1,7 @@
+root(ROOT-0, get-3)
+nsubj(get-3, they-1)
+aux(get-3, should-2)
+dobj(get-3, healthcare-4)
+prepc_because_of(get-3, of-6)
+amod(law-8, Common-7)
+pobj(get-3, law-8)

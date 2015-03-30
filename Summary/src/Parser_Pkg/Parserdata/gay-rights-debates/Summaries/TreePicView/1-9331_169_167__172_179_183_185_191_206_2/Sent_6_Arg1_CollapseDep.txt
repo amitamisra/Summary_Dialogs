@@ -1,0 +1,4 @@
+root(ROOT-0, are-2)
+nsubj(are-2, you-1)
+amod(marriage-5, interracial-4)
+prep_against(are-2, marriage-5)

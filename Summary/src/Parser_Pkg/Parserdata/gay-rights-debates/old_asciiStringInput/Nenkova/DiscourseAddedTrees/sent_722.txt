@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ asks) (SBAR (IN whether) (S (NP (DT the) (NN majority)) (VP (MD should) (VP (VB have) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB enslave) (NP (PRP$ their) (JJ fellow) (NNS citizens) (CC or#0#0) (JJ lock) (NNS people)) (ADVP (RB up) (PP (IN in) (NP (NN concentration) (NNS camps))))))))))))) (. .)))

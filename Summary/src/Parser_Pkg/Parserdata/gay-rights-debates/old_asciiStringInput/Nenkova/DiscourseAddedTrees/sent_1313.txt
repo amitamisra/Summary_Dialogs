@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNS People)) (VP (VBP shouldnt) (SBAR (S (VP (VBP have) (S (VP (TO to) (VP (VB stop) (S (VP (VBG standing) (PRT (RP up)) (PP (IN for#1#0) (NP (PRP$ their) (NNS principles))) (PP (ADVP (RB just)) (IN because#0#0) (IN of) (NP (JJ other) (NNS people)))))))))))) (. .)))

@@ -1,0 +1,11 @@
+Banning gay marriage is forcing one set of believes onto others.
+root(ROOT-0, forcing-5)
+amod(marriage-3, Banning-1)
+amod(marriage-3, gay-2)
+nsubj(forcing-5, marriage-3)
+aux(forcing-5, is-4)
+num(set-7, one-6)
+dobj(forcing-5, set-7)
+prepc_of(set-7, believes-9)
+prep_onto(believes-9, others-11)
+

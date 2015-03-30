@@ -1,0 +1,1 @@
+(ROOT (NP (NP (DT Those)) (PP (IN against) (NP (JJ gay) (NN marriage) (NN use) (JJ logical) (NNS fallacies))) (. .)))

@@ -1,0 +1,5 @@
+root(ROOT-0, was-4)
+det(wing-3, the-1)
+amod(wing-3, left-2)
+nsubj(was-4, wing-3)
+prep_for(was-4, it-6)

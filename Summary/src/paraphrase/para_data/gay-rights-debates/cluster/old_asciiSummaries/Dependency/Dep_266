@@ -1,0 +1,16 @@
+He or she believes that objections should not be hypothetical, but actual proven ones.
+root(ROOT-0, believes-4)
+nsubj(believes-4, He-1)
+conj_or(He-1, she-3)
+nsubj(believes-4, she-3)
+mark(hypothetical-10, that-5)
+nsubj(hypothetical-10, objections-6)
+aux(hypothetical-10, should-7)
+neg(hypothetical-10, not-8)
+cop(hypothetical-10, be-9)
+ccomp(believes-4, hypothetical-10)
+amod(ones-15, actual-13)
+amod(ones-15, proven-14)
+ccomp(believes-4, ones-15)
+conj_but(hypothetical-10, ones-15)
+

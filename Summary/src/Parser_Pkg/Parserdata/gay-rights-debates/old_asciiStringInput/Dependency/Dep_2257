@@ -1,0 +1,28 @@
+ that gay marriage would open the door to further broadening of marriage .
+
+
+root(ROOT-0, open-5)
+mark(open-5, that-1)
+amod(marriage-3, gay-2)
+nsubj(open-5, marriage-3)
+aux(open-5, would-4)
+det(door-7, the-6)
+dobj(open-5, door-7)
+prep_to(open-5, further-9)
+vmod(further-9, broadening-10)
+prep_of(broadening-10, marriage-12)
+
+ that gay marriage would open the door to further broadening of marriage .
+
+
+root(ROOT-0, open-5)
+mark(open-5, that-1)
+amod(marriage-3, gay-2)
+nsubj(open-5, marriage-3)
+aux(open-5, would-4)
+det(door-7, the-6)
+dobj(open-5, door-7)
+prep_to(open-5, further-9)
+vmod(further-9, broadening-10)
+prep_of(broadening-10, marriage-12)
+

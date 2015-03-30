@@ -1,0 +1,17 @@
+S1 also feels that divorce rates among Christians has nothing to do with the issue of gay marriage.
+root(ROOT-0, feels-3)
+nsubj(feels-3, S1-1)
+advmod(feels-3, also-2)
+mark(has-9, that-4)
+nn(rates-6, divorce-5)
+nsubj(has-9, rates-6)
+prep_among(rates-6, Christians-8)
+ccomp(feels-3, has-9)
+dobj(has-9, nothing-10)
+aux(do-12, to-11)
+vmod(nothing-10, do-12)
+det(issue-15, the-14)
+prep_with(do-12, issue-15)
+amod(marriage-18, gay-17)
+prep_of(issue-15, marriage-18)
+

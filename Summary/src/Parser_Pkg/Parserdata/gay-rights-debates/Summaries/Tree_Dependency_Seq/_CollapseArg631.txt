@@ -1,0 +1,6 @@
+root(ROOT-0, is-7)
+nsubj(lead-3, What-1)
+aux(lead-3, may-2)
+csubj(is-7, lead-3)
+amod(marriage-6, incestuous-5)
+prep_to(lead-3, marriage-6)

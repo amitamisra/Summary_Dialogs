@@ -1,0 +1,46 @@
+ that -LRB- S1 -RRB- does not  that gay people should have the opportunity to serve in the military or have freedom of speech .
+
+
+root(ROOT-0, does-5)
+mark(does-5, that-1)
+nsubj(does-5, S1-3)
+nsubj(have-20, S1-3)
+dep(have-11, not-6)
+mark(have-11, that-7)
+amod(people-9, gay-8)
+nsubj(have-11, people-9)
+aux(have-11, should-10)
+dep(does-5, have-11)
+det(opportunity-13, the-12)
+dobj(have-11, opportunity-13)
+aux(serve-15, to-14)
+vmod(opportunity-13, serve-15)
+det(military-18, the-17)
+prep_in(serve-15, military-18)
+conj_or(does-5, have-20)
+dobj(have-20, freedom-21)
+prep_of(freedom-21, speech-23)
+
+ that -LRB- S1 -RRB- does not  that gay people should have the opportunity to serve in the military or have freedom of speech .
+
+
+root(ROOT-0, does-5)
+mark(does-5, that-1)
+nsubj(does-5, S1-3)
+nsubj(have-20, S1-3)
+dep(have-11, not-6)
+mark(have-11, that-7)
+amod(people-9, gay-8)
+nsubj(have-11, people-9)
+aux(have-11, should-10)
+dep(does-5, have-11)
+det(opportunity-13, the-12)
+dobj(have-11, opportunity-13)
+aux(serve-15, to-14)
+vmod(opportunity-13, serve-15)
+det(military-18, the-17)
+prep_in(serve-15, military-18)
+conj_or(does-5, have-20)
+dobj(have-20, freedom-21)
+prep_of(freedom-21, speech-23)
+

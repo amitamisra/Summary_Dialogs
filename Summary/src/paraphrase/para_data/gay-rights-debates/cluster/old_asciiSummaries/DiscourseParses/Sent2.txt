@@ -1,0 +1,93 @@
+
+The connective string of an explicit relation is enclosed by
+ {Exp_id_conn_type and Exp_id_conn}, where id and type are the id and relation type assigned to this explicit relation.
+ Arg1 span is enclosed by {Exp_id_Arg1 and Exp_id_Arg1}, and Arg2 span is enclosed by {Exp_id_Arg2 and Exp_id_Arg2}.
+
+Attribution spans are enclosed by {Attr_id and Attr_id}.
+
+Some examples
+
+1)S1 Believes it is not a bad idea because they think it is not necessary for the government to be involved in most aspects of our lives, while S2 is questioning why its necessary to try and remove government involvement when it is unavoidable.
+
+
+
+{Attr_0 S1 Believes Attr_0} 
+{Exp_0_Arg1 it is not a bad idea Exp_0_Arg1} 
+{Exp_0_conn_Cause because Exp_0_conn} 
+{Exp_0_Arg2 they think 
+		{Exp_1_Arg1 it is not necessary for the government to be involved in most 		aspects of our lives , Exp_1_Arg1} 
+		{Exp_1_conn_Contrast while Exp_1_conn} 
+		{Exp_1_Arg2 S2 is questioning 
+			{Exp_2_Arg1 why its necessary to try and remove government 				involvement Exp_2_Arg1} 
+			{Exp_2_conn_Synchrony when Exp_2_conn} 
+			{Exp_2_Arg2 it is unavoidable 
+Exp_0_Arg2} 
+		Exp_1_Arg2} 
+			Exp_2_Arg2} .
+
+
+
+
+
+
+
+2)S1 brings up that because several people are against the government due to gay marriage and not because it's just marriage altogether, it doesn't mean its not a bad idea to remove government intervention.
+
+{Exp_0_Arg1 S1 brings up that Exp_0_Arg1} 
+{Exp_0_conn_Cause because Exp_0_conn} 
+{Exp_0_Arg2 several people are against the government due to gay marriage and not 		{Exp_1_conn_Cause because Exp_1_conn} 
+	{Exp_1_Arg2 it 's just marriage altogether , Exp_1_Arg2} 
+	{Exp_1_Arg1 it does n't mean its not a bad idea to remove government intervention 	Exp_1_Arg1} . 
+Exp_0_Arg2}
+
+
+
+
+
+3)S2 says that there is too much legal work and documents behind marriage in the government, such as inheritance, pension and social rights, etc., and that it would be a lot more work if the government didn't intervene, also stating that removing marriage from government will only benefit lawyers.
+
+{Attr_0 
+   {Exp_2_Arg2 
+	{Exp_2_Arg1 S2 says 
+Attr_0} 
+	{Exp_0_Arg1 that there is too much legal work and documents behind marriage in the 	government , such as inheritance , pension and social rights , etc. , 
+        Exp_0_Arg1} 	
+	{Exp_0_conn_Conjunction and Exp_0_conn} 
+	{Exp_1_Arg1 
+		{Exp_0_Arg2 that it would be a lot more work 
+	{Exp_1_conn_Condition if Exp_1_conn} 
+	{Exp_1_Arg2 the government did n't intervene Exp_1_Arg2} , 
+	{Exp_2_conn_Conjunction also Exp_2_conn} 
+	stating that removing marriage from government will only benefit lawyers 		Exp_0_Arg2} 
+	Exp_1_Arg1} . 
+	Exp_2_Arg1} 
+	Exp_2_Arg2}
+
+
+
+
+
+
+4)S2 encountered problems with this view in their personal life when their partner died, and they were unable to sort out all of the legal issues involved in death, like inheritance, or social security rights.
+
+{Exp_1_Arg1 
+	{Exp_0_Arg1 S2 encountered problems with this view in their personal life 		Exp_0_Arg1} 
+	{Exp_0_conn_Synchrony when Exp_0_conn} 
+	{Exp_0_Arg2 their partner died Exp_0_Arg2} , 
+Exp_1_Arg1} 
+{Exp_1_conn_Conjunction and Exp_1_conn} 
+{Exp_1_Arg2 they were unable to sort out all of the legal issues involved in death , like inheritance , or social security rights . Exp_1_Arg2}
+
+
+What I am thinking is :
+Decide the input based on type of connective
+1)if we have expansion relation then the two arguments could be separated as two distinct inputs
+2)if it is a condition, we may need both the arguments as one input, example sentence 4
+that it would be a lot more work 
+	{Exp_1_conn_Condition if Exp_1_conn} 
+	{Exp_1_Arg2 the government did n't intervene Exp_1_Arg2}.
+
+
+
+
+

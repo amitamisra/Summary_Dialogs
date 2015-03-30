@@ -1,0 +1,6 @@
+root(ROOT-0, exclusive-4)
+nsubj(exclusive-4, love-1)
+cop(exclusive-4, is-2)
+neg(exclusive-4, not-3)
+amod(marriages-7, gay-6)
+prep_to(exclusive-4, marriages-7)

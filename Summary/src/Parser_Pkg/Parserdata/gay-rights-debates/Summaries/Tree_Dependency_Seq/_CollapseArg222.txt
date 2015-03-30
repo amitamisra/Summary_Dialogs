@@ -1,0 +1,5 @@
+root(ROOT-0, cohabitating-1)
+det(period-5, a-3)
+amod(period-5, certain-4)
+prep_for(cohabitating-1, period-5)
+prep_of(period-5, time-7)

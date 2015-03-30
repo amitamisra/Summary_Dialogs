@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP They)) (VP (VBP believe) (SBAR (IN that) (S (SBAR (IN if#1#Contingency) (S (NP (CD one)) (VP (VBZ broaches) (NP (NP (DT the) (NN topic)) (PP (IN of) (NP (NNP AIS) (CD one))))))) (VP (MD must) (ADVP (RB also#0#Expansion)) (VP (VB look) (PP (IN at) (NP (PRP it))) (PP (IN as#2#0) (NP (DT a) (NN whole)))))))) (. .)))

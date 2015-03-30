@@ -1,0 +1,5 @@
+root(ROOT-0, scares-2)
+nsubj(scares-2, it-1)
+det(people-4, some-3)
+dobj(scares-2, people-4)
+advmod(scares-2, away-5)

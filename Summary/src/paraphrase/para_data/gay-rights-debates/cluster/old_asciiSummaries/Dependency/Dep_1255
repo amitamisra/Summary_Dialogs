@@ -1,0 +1,15 @@
+S1 advises some cultures still practice polygamy and one in Nigeria even practices polyandry.
+root(ROOT-0, advises-2)
+nsubj(advises-2, S1-1)
+det(cultures-4, some-3)
+nsubj(practice-6, cultures-4)
+advmod(practice-6, still-5)
+ccomp(advises-2, practice-6)
+dobj(practice-6, polygamy-7)
+dobj(practice-6, one-9)
+conj_and(polygamy-7, one-9)
+nn(practices-13, Nigeria-11)
+advmod(practices-13, even-12)
+prep_in(one-9, practices-13)
+dep(practices-13, polyandry-14)
+

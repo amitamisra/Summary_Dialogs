@@ -1,0 +1,24 @@
+ that S2 is making ridiculous generalizations .
+
+
+root(ROOT-0, making-4)
+mark(making-4, that-1)
+nsubj(making-4, S2-2)
+aux(making-4, is-3)
+amod(generalizations-6, ridiculous-5)
+dobj(making-4, generalizations-6)
+
+   he would have opposed over-regulation . 
+root(ROOT-0, opposed-4)
+nsubj(opposed-4, he-1)
+aux(opposed-4, would-2)
+aux(opposed-4, have-3)
+dobj(opposed-4, over-regulation-5)
+
+   he would have opposed over-regulation . 
+root(ROOT-0, opposed-4)
+nsubj(opposed-4, he-1)
+aux(opposed-4, would-2)
+aux(opposed-4, have-3)
+dobj(opposed-4, over-regulation-5)
+

@@ -1,0 +1,5 @@
+root(ROOT-0, changing-3)
+nsubj(changing-3, people-1)
+aux(changing-3, are-2)
+amod(bigotry-6, homophobic-5)
+prep_against(changing-3, bigotry-6)

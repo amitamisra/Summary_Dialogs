@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NNP LAWRENCE) (NNP V.) (NNP TEXAS) (NNP The) (NN fact)) (SBAR (IN that) (S (NP (DT a) (NN majority)) (VP (VBP want) (NP (DT a) (NN law)))))) (VP (VBZ is) (RB not) (ADJP (JJ enough) (S (VP (TO to) (VP (VB satisfy) (NP (NP (DT a) (JJ constitutional) (NN challenge)) (PP (IN of) (NP (DT that) (NN law))))))))) (. .)))

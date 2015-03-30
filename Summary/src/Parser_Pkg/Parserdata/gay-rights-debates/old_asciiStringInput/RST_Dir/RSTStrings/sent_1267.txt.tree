@@ -1,0 +1,7 @@
+(Attribution[S][N]
+  _!S1 believes S2 is stating!_
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      _!that S1 believes in gay marriage!_
+      _!but not gay rights ,!_)
+    _!which seems contradictory to S1 's point . <s>!_))

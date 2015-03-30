@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ feels) (NP (NP (NNS remarks)) (VP (VBN made) (PP (IN by) (NP (NN S2) (NN point))) (S (VP (VP (ADVP (RBR more) (PP (TO to) (NP (PRP$ his)))) (VBG being) (NP (DT a) (NN bigot))) (CONJP (RB rather#0#0) (IN than)) (VP (ADVP (RB simply)) (VBG opposing) (NP (JJ gay) (NN marriage)))))))) (. .)))

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (NN S2)) (VP (VBZ is) (VP (VBG being) (VP (NP (NN prejudice)) (PP (IN against) (NP (JJ religious-minded) (NNS people))))))))) (. .)))

@@ -1,0 +1,8 @@
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(spread-6, the-5)
+dobj(discussing-4, spread-6)
+prep(spread-6, of-7)
+pobj(of-7, AIS-8)

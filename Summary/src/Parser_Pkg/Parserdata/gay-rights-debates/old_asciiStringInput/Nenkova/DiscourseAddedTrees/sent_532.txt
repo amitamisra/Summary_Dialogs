@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ is) (ADJP (VBN surprised) (SBAR (IN that) (S (NP (JJ reasonable) (NNS people)) (VP (VBP talk) (PP (IN about) (NP (NNP Paul) (NNP Cameron)))))))) (. .)))

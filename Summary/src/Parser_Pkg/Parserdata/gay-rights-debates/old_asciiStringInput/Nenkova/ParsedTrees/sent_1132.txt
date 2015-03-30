@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS states)) (NP (WDT that) (JJ gay) (NN marriage))) (VP (MD will) (ADVP (RB ultimately)) (VP (VB lead) (PP (TO to) (NP (NP (DT a) (NN marriage) (NN bill)) (PP (IN for) (NP (NNS polygamists))))))) (. .)))

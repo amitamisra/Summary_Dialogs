@@ -1,0 +1,13 @@
+S1 believes this will result in her family not having legal protection.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+nsubj(result-5, this-3)
+aux(result-5, will-4)
+ccomp(believes-2, result-5)
+poss(family-8, her-7)
+prep_in(result-5, family-8)
+neg(having-10, not-9)
+dep(family-8, having-10)
+amod(protection-12, legal-11)
+dobj(having-10, protection-12)
+

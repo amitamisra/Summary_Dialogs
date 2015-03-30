@@ -1,0 +1,8 @@
+root(ROOT-0, deal-4)
+det(courts-2, the-1)
+nsubj(deal-4, courts-2)
+advmod(deal-4, only-3)
+prep(deal-4, with-5)
+det(aspect-8, the-6)
+amod(aspect-8, legal-7)
+pobj(with-5, aspect-8)

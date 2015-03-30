@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (ADVP (RB specifically#0#0)) (VP (VBZ points) (PRT (RP out)) (NP (NP (DT the) (NN comparison)) (PP (IN of) (NP (NP (JJ gay) (NN marriage)) (PP (TO to) (NP (NN incest) (CC or#1#0) (NN polygamy))))))) (. .)))

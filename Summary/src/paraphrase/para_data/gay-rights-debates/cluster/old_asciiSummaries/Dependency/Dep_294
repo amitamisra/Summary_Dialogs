@@ -1,0 +1,13 @@
+S2 claims that opponents of gay rights are discriminatory and bigoted.
+root(ROOT-0, claims-2)
+nsubj(claims-2, S2-1)
+mark(discriminatory-9, that-3)
+nsubj(discriminatory-9, opponents-4)
+nsubj(bigoted-11, opponents-4)
+amod(rights-7, gay-6)
+prep_of(opponents-4, rights-7)
+cop(discriminatory-9, are-8)
+ccomp(claims-2, discriminatory-9)
+ccomp(claims-2, bigoted-11)
+conj_and(discriminatory-9, bigoted-11)
+

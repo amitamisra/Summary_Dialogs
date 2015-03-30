@@ -1,0 +1,12 @@
+  should look for another job 
+root(ROOT-0, look-2)
+aux(look-2, should-1)
+det(job-5, another-4)
+prep_for(look-2, job-5)
+
+  should look for another job 
+root(ROOT-0, look-2)
+aux(look-2, should-1)
+det(job-5, another-4)
+prep_for(look-2, job-5)
+

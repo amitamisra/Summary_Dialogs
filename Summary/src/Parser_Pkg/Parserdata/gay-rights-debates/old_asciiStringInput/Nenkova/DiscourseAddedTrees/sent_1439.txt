@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ poses) (NP (DT a) (NN question)) (SBAR (IN if#0#Contingency) (S (NP (NNP Maines) (NNS results)) (VP (VBP have) (NP (NP (DT any) (NN bearing)) (PP (IN on) (NP (DT the) (NN scotus) (NN look)))) (PP (IN at) (S (VP (VBG overturning) (NP (DT the) (JJ 9th))))))))) (. .)))

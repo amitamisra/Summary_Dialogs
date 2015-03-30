@@ -1,0 +1,26 @@
+    enough people wanted legal polygamous marriage  , the laws would be passed .   
+root(ROOT-0, passed-12)
+amod(people-2, enough-1)
+nsubj(wanted-3, people-2)
+ccomp(passed-12, wanted-3)
+amod(marriage-6, legal-4)
+amod(marriage-6, polygamous-5)
+dobj(wanted-3, marriage-6)
+det(laws-9, the-8)
+nsubjpass(passed-12, laws-9)
+aux(passed-12, would-10)
+auxpass(passed-12, be-11)
+
+    enough people wanted legal polygamous marriage  , the laws would be passed .   
+root(ROOT-0, passed-12)
+amod(people-2, enough-1)
+nsubj(wanted-3, people-2)
+ccomp(passed-12, wanted-3)
+amod(marriage-6, legal-4)
+amod(marriage-6, polygamous-5)
+dobj(wanted-3, marriage-6)
+det(laws-9, the-8)
+nsubjpass(passed-12, laws-9)
+aux(passed-12, would-10)
+auxpass(passed-12, be-11)
+

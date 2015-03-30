@@ -1,0 +1,29 @@
+ the government getting out of marriage is not a bad idea .
+
+
+root(ROOT-0, idea-11)
+det(government-2, the-1)
+nsubj(idea-11, government-2)
+vmod(government-2, getting-3)
+prep_out_of(getting-3, marriage-6)
+cop(idea-11, is-7)
+neg(idea-11, not-8)
+det(idea-11, a-9)
+amod(idea-11, bad-10)
+
+   who is allowed to get married 
+root(ROOT-0, allowed-3)
+nsubjpass(allowed-3, who-1)
+auxpass(allowed-3, is-2)
+aux(married-6, to-4)
+auxpass(married-6, get-5)
+xcomp(allowed-3, married-6)
+
+   who is allowed to get married 
+root(ROOT-0, allowed-3)
+nsubjpass(allowed-3, who-1)
+auxpass(allowed-3, is-2)
+aux(married-6, to-4)
+auxpass(married-6, get-5)
+xcomp(allowed-3, married-6)
+

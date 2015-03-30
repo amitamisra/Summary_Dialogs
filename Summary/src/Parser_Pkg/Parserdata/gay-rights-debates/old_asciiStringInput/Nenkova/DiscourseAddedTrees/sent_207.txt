@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ notes) (SBAR (IN that) (S (NP (EX there)) (VP (VBP are) (NP (NP (JJ logical) (NNS reasons)) (PP (IN for#0#0) (NP (NN marriage) (NN discrimination)))))))) (. .)))

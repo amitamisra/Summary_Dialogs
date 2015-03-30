@@ -1,0 +1,8 @@
+root(ROOT-0, make-6)
+poss(beliefs-3, S2-1)
+possessive(S2-1, 's-2)
+nsubj(make-6, beliefs-3)
+aux(make-6, do-4)
+neg(make-6, not-5)
+nsubj(correct-8, him-7)
+ccomp(make-6, correct-8)

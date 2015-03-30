@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NN world)) (VP (VBD changed) (PP (IN with) (NP (NP (DT the) (NN legislation)) (PP (IN in) (NP (NNP Massachusetts))))) (S (VP (TO to) (VP (VB allow) (NP (JJ gay) (NN marriage))))))))) (. .)))

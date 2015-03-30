@@ -1,0 +1,48 @@
+He calls gays a perversity , then states that he does n't hate gays  that marriage should not be redefined for them .
+
+
+root(ROOT-0, calls-2)
+nsubj(calls-2, He-1)
+dobj(calls-2, gays-3)
+det(perversity-5, a-4)
+nsubj(states-8, perversity-5)
+advmod(states-8, then-7)
+rcmod(gays-3, states-8)
+mark(hate-13, that-9)
+nsubj(hate-13, he-10)
+aux(hate-13, does-11)
+neg(hate-13, n't-12)
+ccomp(states-8, hate-13)
+dobj(hate-13, gays-14)
+dobj(redefined-20, that-15)
+nsubjpass(redefined-20, marriage-16)
+aux(redefined-20, should-17)
+neg(redefined-20, not-18)
+auxpass(redefined-20, be-19)
+rcmod(gays-14, redefined-20)
+prep_for(redefined-20, them-22)
+
+He calls gays a perversity , then states that he does n't hate gays  that marriage should not be redefined for them .
+
+
+root(ROOT-0, calls-2)
+nsubj(calls-2, He-1)
+dobj(calls-2, gays-3)
+det(perversity-5, a-4)
+nsubj(states-8, perversity-5)
+advmod(states-8, then-7)
+rcmod(gays-3, states-8)
+mark(hate-13, that-9)
+nsubj(hate-13, he-10)
+aux(hate-13, does-11)
+neg(hate-13, n't-12)
+ccomp(states-8, hate-13)
+dobj(hate-13, gays-14)
+dobj(redefined-20, that-15)
+nsubjpass(redefined-20, marriage-16)
+aux(redefined-20, should-17)
+neg(redefined-20, not-18)
+auxpass(redefined-20, be-19)
+rcmod(gays-14, redefined-20)
+prep_for(redefined-20, them-22)
+

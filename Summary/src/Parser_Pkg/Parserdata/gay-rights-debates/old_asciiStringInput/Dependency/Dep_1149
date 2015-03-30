@@ -1,0 +1,27 @@
+S1 and S2 are discussingomionists .
+
+
+root(ROOT-0, discussingomionists-5)
+nsubj(discussingomionists-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussingomionists-5, S2-3)
+cop(discussingomionists-5, are-4)
+
+  conservatives are heartless and do n't care 
+root(ROOT-0, heartless-3)
+nsubj(heartless-3, conservatives-1)
+nsubj(care-7, conservatives-1)
+cop(heartless-3, are-2)
+aux(care-7, do-5)
+neg(care-7, n't-6)
+conj_and(heartless-3, care-7)
+
+  conservatives are heartless and do n't care 
+root(ROOT-0, heartless-3)
+nsubj(heartless-3, conservatives-1)
+nsubj(care-7, conservatives-1)
+cop(heartless-3, are-2)
+aux(care-7, do-5)
+neg(care-7, n't-6)
+conj_and(heartless-3, care-7)
+

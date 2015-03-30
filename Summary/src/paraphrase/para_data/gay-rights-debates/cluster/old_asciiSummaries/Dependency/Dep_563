@@ -1,0 +1,16 @@
+This seems to be an argument about gay rights and generalizing the political beliefs of people.
+root(ROOT-0, seems-2)
+nsubj(seems-2, This-1)
+aux(argument-6, to-3)
+cop(argument-6, be-4)
+det(argument-6, an-5)
+dep(seems-2, argument-6)
+amod(rights-9, gay-8)
+prep_about(argument-6, rights-9)
+dep(seems-2, generalizing-11)
+conj_and(argument-6, generalizing-11)
+det(beliefs-14, the-12)
+amod(beliefs-14, political-13)
+dobj(generalizing-11, beliefs-14)
+prep_of(beliefs-14, people-16)
+

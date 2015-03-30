@@ -1,0 +1,8 @@
+root(ROOT-0, equivalent-8)
+det(cases-2, the-1)
+nsubj(equivalent-8, cases-2)
+vmod(cases-2, presented-3)
+prep(presented-3, by-4)
+pobj(by-4, S1-5)
+cop(equivalent-8, are-6)
+neg(equivalent-8, not-7)

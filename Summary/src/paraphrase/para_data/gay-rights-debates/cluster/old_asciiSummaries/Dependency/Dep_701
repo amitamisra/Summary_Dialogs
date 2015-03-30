@@ -1,0 +1,12 @@
+S1 contends there is no such piece to the Massachusetts constitution.
+root(ROOT-0, contends-2)
+nsubj(contends-2, S1-1)
+expl(is-4, there-3)
+ccomp(contends-2, is-4)
+neg(piece-7, no-5)
+amod(piece-7, such-6)
+nsubj(is-4, piece-7)
+det(constitution-11, the-9)
+nn(constitution-11, Massachusetts-10)
+prep_to(piece-7, constitution-11)
+

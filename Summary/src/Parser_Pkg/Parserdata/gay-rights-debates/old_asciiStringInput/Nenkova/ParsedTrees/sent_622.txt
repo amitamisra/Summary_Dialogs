@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ contends) (SBAR (IN that) (S (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP justify) (NP (DT the) (JJ anti-gay) (NN agenda)))))) (VP (VBP claim) (NP (DT a) (JJ moral) (CC or) (JJ religious) (NN stance)) (PP (IN without) (S (VP (VBG having) (NP (CD one))))))))) (. .)))

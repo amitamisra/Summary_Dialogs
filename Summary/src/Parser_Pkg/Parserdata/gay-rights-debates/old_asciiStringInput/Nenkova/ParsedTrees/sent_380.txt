@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP They)) (VP (VBP go) (PP (IN on) (NP (S (VP (TO to) (VP (VB announce) (SBAR (IN that) (S (NP (DT a) (NN state) (JJ constitutional) (NN amendment)) (VP (VBZ is) (VP (VBG being) (VP (VBN passed) (S (VP (TO to) (VP (VB preclude) (NP (JJ same) (NN sex) (NN marriage))))))))))))) (CC and) (NP (JJ civil) (NNS unions))))) (. .)))

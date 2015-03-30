@@ -1,0 +1,51 @@
+ S1 is not bothered by the inconsistency of one supporting gay rights but not gay marriage , 
+root(ROOT-0, bothered-4)
+nsubjpass(bothered-4, S1-1)
+auxpass(bothered-4, is-2)
+neg(bothered-4, not-3)
+det(inconsistency-7, the-6)
+agent(bothered-4, inconsistency-7)
+prep_of(inconsistency-7, one-9)
+xcomp(bothered-4, supporting-10)
+amod(rights-12, gay-11)
+dobj(supporting-10, rights-12)
+amod(marriage-16, gay-15)
+dobj(supporting-10, marriage-16)
+conj_negcc(rights-12, marriage-16)
+
+ there is no issue with people who do not try to push their views on others .
+
+
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+neg(issue-4, no-3)
+nsubj(is-2, issue-4)
+prep_with(issue-4, people-6)
+nsubj(try-10, who-7)
+aux(try-10, do-8)
+neg(try-10, not-9)
+rcmod(people-6, try-10)
+aux(push-12, to-11)
+xcomp(try-10, push-12)
+poss(views-14, their-13)
+dobj(push-12, views-14)
+prep_on(push-12, others-16)
+
+ there is no issue with people who do not try to push their views on others .
+
+
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+neg(issue-4, no-3)
+nsubj(is-2, issue-4)
+prep_with(issue-4, people-6)
+nsubj(try-10, who-7)
+aux(try-10, do-8)
+neg(try-10, not-9)
+rcmod(people-6, try-10)
+aux(push-12, to-11)
+xcomp(try-10, push-12)
+poss(views-14, their-13)
+dobj(push-12, views-14)
+prep_on(push-12, others-16)
+

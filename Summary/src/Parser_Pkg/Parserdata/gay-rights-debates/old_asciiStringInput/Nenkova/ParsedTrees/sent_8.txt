@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (ADVP (RB also)) (VP (VBZ feels) (SBAR (S (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (JJ gay) (NNS rights)))) (VP (VBZ is) (ADJP (RBR more) (JJ political)))))) (. .)))

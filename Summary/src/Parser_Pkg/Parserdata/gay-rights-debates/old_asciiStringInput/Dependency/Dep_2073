@@ -1,0 +1,20 @@
+   they do not want to do their jobs 
+root(ROOT-0, want-4)
+nsubj(want-4, they-1)
+aux(want-4, do-2)
+neg(want-4, not-3)
+aux(do-6, to-5)
+xcomp(want-4, do-6)
+poss(jobs-8, their-7)
+dobj(do-6, jobs-8)
+
+   they do not want to do their jobs 
+root(ROOT-0, want-4)
+nsubj(want-4, they-1)
+aux(want-4, do-2)
+neg(want-4, not-3)
+aux(do-6, to-5)
+xcomp(want-4, do-6)
+poss(jobs-8, their-7)
+dobj(do-6, jobs-8)
+

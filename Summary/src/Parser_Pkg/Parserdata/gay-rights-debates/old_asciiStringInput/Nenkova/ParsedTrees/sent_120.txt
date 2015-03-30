@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VP (VBZ takes) (NP (DT this) (NN point)) (PP (IN into) (NP (NN consideration)))) (, ,) (CC but) (VP (VBZ claims) (SBAR (IN that) (S (NP (DT the) (NN evidence)) (ADVP (RB still)) (VP (VBZ supports) (NP (PRP$ his) (JJ original) (NN claim))))))) (. .)))

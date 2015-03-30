@@ -1,0 +1,8 @@
+root(ROOT-0, stand-4)
+nsubj(stand-4, equality-1)
+aux(stand-4, will-2)
+advmod(stand-4, soon-3)
+det(side-7, the-6)
+prep_on(stand-4, side-7)
+det(majority-10, the-9)
+prep_of(side-7, majority-10)

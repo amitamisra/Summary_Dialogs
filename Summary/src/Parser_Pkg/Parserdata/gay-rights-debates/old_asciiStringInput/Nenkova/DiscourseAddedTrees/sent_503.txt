@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT This)) (VP (VBZ seems) (S (S (VP (TO to) (VP (VB be) (NP (NP (DT an) (NN argument)) (PP (IN about) (NP (JJ gay) (NNS rights))))))) (CC and#0#Expansion) (S (VP (VBG generalizing) (NP (NP (DT the) (JJ political) (NNS beliefs)) (PP (IN of) (NP (NNS people)))))))) (. .)))

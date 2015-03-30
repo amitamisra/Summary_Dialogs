@@ -1,0 +1,48 @@
+Two people are discussing politics and gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+dobj(discussing-4, politics-5)
+amod(marriage-8, gay-7)
+dobj(discussing-4, marriage-8)
+conj_and(politics-5, marriage-8)
+
+He likens this situations to a heterosexual male with a girlfriend who would not receive his healthcare benefits.
+root(ROOT-0, likens-2)
+nsubj(likens-2, He-1)
+det(situations-4, this-3)
+dobj(likens-2, situations-4)
+det(male-8, a-6)
+amod(male-8, heterosexual-7)
+prep_to(likens-2, male-8)
+det(girlfriend-11, a-10)
+prep_with(male-8, girlfriend-11)
+nsubj(receive-15, who-12)
+aux(receive-15, would-13)
+neg(receive-15, not-14)
+rcmod(girlfriend-11, receive-15)
+poss(benefits-18, his-16)
+nn(benefits-18, healthcare-17)
+dobj(receive-15, benefits-18)
+
+He likens this situations to a heterosexual male with a girlfriend who would not receive his healthcare benefits.
+root(ROOT-0, likens-2)
+nsubj(likens-2, He-1)
+det(situations-4, this-3)
+dobj(likens-2, situations-4)
+det(male-8, a-6)
+amod(male-8, heterosexual-7)
+prep_to(likens-2, male-8)
+det(girlfriend-11, a-10)
+prep_with(male-8, girlfriend-11)
+nsubj(receive-15, who-12)
+aux(receive-15, would-13)
+neg(receive-15, not-14)
+rcmod(girlfriend-11, receive-15)
+poss(benefits-18, his-16)
+nn(benefits-18, healthcare-17)
+dobj(receive-15, benefits-18)
+

@@ -1,0 +1,17 @@
+S1 believes the disease was made into a huge health concern as the result of the homosexual community.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+det(disease-4, the-3)
+nsubjpass(made-6, disease-4)
+auxpass(made-6, was-5)
+ccomp(believes-2, made-6)
+det(concern-11, a-8)
+amod(concern-11, huge-9)
+nn(concern-11, health-10)
+prep_into(made-6, concern-11)
+det(result-14, the-13)
+prep_as(made-6, result-14)
+det(community-18, the-16)
+amod(community-18, homosexual-17)
+prep_of(result-14, community-18)
+

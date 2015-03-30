@@ -1,0 +1,3 @@
+root(ROOT-0, get-3)
+nsubj(get-3, they-1)
+aux(get-3, 'll-2)

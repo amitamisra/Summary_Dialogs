@@ -1,0 +1,7 @@
+root(ROOT-0, dog-6)
+det(cat-2, a-1)
+nsubj(dog-6, cat-2)
+cop(dog-6, is-3)
+neg(dog-6, not-4)
+det(dog-6, a-5)
+advmod(dog-6, simply-7)

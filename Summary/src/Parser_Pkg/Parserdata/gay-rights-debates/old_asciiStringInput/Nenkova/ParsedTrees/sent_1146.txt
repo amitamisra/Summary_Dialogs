@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (S (NP (NNS conservatives)) (VP (VBP spend) (NP (JJR more) (NN money)))))) (. .)))

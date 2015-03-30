@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (NNS states)) (SBAR (WHNP (WDT that)) (S (NP (NN marriage)) (VP (MD should) (VP (VB be) (VP (VBN left) (PP (TO to) (NP (DT a) (JJ religious) (NN institution))) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (MD would) (VP (VB mean) (NP (NN something))))))))))) (. .)))

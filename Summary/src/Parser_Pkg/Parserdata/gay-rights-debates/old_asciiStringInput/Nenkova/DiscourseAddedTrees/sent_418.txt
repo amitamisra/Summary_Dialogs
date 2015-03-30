@@ -1,0 +1,1 @@
+(ROOT (S (RB Then#1#Temporal) (S (NP (WP what)) (VP (MD may) (VP (VB lead) (PP (TO to) (NP (NN incest)))))) (CC and#2#Expansion) (S (NP (NN polygamy)) (VP (VBZ does) (RB n't) (VP (VB relate) (ADVP (RB specifically#0#0)) (PP (TO to) (NP (NP (JJ gay) (JJ legal) (NN marriage)) (ADVP (IN at) (DT all))))))) (. .)))

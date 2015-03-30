@@ -1,0 +1,15 @@
+S1 proposes that it is easy for S2 to be unsympathetic because S2 dislikes religion.
+root(ROOT-0, proposes-2)
+nsubj(proposes-2, S1-1)
+mark(easy-6, that-3)
+nsubj(easy-6, it-4)
+cop(easy-6, is-5)
+ccomp(proposes-2, easy-6)
+prep_for(easy-6, S2-8)
+aux(unsympathetic-11, to-9)
+cop(unsympathetic-11, be-10)
+xcomp(easy-6, unsympathetic-11)
+nn(religion-15, S2-13)
+nn(religion-15, dislikes-14)
+prep_because(unsympathetic-11, religion-15)
+

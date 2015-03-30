@@ -1,0 +1,7 @@
+root(ROOT-0, driven-7)
+det(push-2, the-1)
+nsubjpass(driven-7, push-2)
+amod(marriage-5, gay-4)
+prep_for(push-2, marriage-5)
+auxpass(driven-7, is-6)
+agent(driven-7, economics-9)

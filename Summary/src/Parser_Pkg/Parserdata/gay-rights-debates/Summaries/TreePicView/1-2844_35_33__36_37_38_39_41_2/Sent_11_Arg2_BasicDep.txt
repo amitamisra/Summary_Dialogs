@@ -1,0 +1,8 @@
+root(ROOT-0, saying-4)
+nsubj(saying-4, it-1)
+aux(saying-4, is-2)
+advmod(saying-4, basically-3)
+amod(rights-6, equal-5)
+dobj(saying-4, rights-6)
+prep(rights-6, for-7)
+pobj(for-7, all-8)

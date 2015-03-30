@@ -1,0 +1,1 @@
+(ROOT (S (NP (JJS Most) (NNPS Americans)) (PRN (, ,) (S (NP (PRP he)) (VP (VBZ thinks))) (, ,)) (VP (VBP are) (PP (IN against) (NP (JJ gay) (NN marriage)))) (. .)))

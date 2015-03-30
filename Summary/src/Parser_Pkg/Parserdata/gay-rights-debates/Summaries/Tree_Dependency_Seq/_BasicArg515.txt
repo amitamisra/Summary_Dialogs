@@ -1,0 +1,7 @@
+root(ROOT-0, promiscuous-7)
+nsubj(promiscuous-7, gays-1)
+prep(gays-1, in-2)
+pobj(in-2, general-3)
+cop(promiscuous-7, are-4)
+advmod(promiscuous-7, much-5)
+advmod(promiscuous-7, more-6)

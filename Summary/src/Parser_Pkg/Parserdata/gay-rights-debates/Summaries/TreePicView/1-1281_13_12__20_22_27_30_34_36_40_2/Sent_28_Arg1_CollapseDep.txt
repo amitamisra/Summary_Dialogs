@@ -1,0 +1,4 @@
+root(ROOT-0, count-4)
+nsubj(count-4, polygamy-1)
+aux(count-4, would-2)
+neg(count-4, n't-3)

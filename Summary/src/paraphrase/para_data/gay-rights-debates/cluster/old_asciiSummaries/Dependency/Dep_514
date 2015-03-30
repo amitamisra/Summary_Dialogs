@@ -1,0 +1,14 @@
+He says something isn't judged as good just because it is natural.
+root(ROOT-0, says-2)
+nsubj(says-2, He-1)
+nsubjpass(judged-6, something-3)
+auxpass(judged-6, is-4)
+neg(judged-6, n't-5)
+ccomp(says-2, judged-6)
+prep_as(judged-6, good-8)
+advmod(natural-13, just-9)
+mark(natural-13, because-10)
+nsubj(natural-13, it-11)
+cop(natural-13, is-12)
+advcl(judged-6, natural-13)
+

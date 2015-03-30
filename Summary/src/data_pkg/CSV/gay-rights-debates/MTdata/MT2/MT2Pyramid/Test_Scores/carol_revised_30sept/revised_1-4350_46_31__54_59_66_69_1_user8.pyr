@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 and S2 are debating whether making gay marriage legal will open opportunities for other &quot;taboos&quot; in our society. S1 believes that in opening this opportunity for gay marriage, the definition of marriage will change and it will allow other issues like incest and polygamy to become legal. S2 accuses S1 of hypocracy. In a sense, they believe gay marriage will have a sort of domino effect for other issues. S1 is arguing that using these other issues to be evidence for why gay-marriage shouldn't be allowed is not a valid argument. Then S1 goes on to say that this tactic is used to instill fear to those who do not support those other issues. S1 understands the other issues, but doesn't see the relationship between those and that of same-sex marriage. S2 keeps arguing that it shouldnt be different figuring out whether one can approve gay marriage but not incest ince they believe the two to be somewhat related.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line></line>
+  <line>S1 and S2 discuss same-sex marriage. S1 is for gay marriage, and opens the discussion by showing logical fallacies used by the opposition to deter people from believing gay marriage is an extension of equal rights.  S1 believes that modern families are not traditional families and are often better off for it. S1 specifically points out the comparison of gay marriage to incest or polygamy. S1 says this is a scare tactic to turn people away. S2 believes that homosexuality, incest, and polygamy are all related because they are all taboos of society. S2 wants to draw the line as is so the definition of marriage does not change. If it does change then there would be no limit to who could marry.  S1 explains that love is present in all marriage so the claims made by S2 about gay marriage leading to incest, could be used for straight marriage as well. S2 attacks S1 and thinks that if the other parties mentioned went and paraded their lifestyle then they would also have an equal opportunity to make their marriage a social issue. </line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>(S1) begins talking about how we benefit from what is considered common, such as a nuclear family and how it is composed. He also says that its right it has nothing to do with the bible however; it has everything to do with slippery slop logical fallacy. Then, gives the example of how incest and polygamy is less socially accepted in comparison to gay marriage. And so, it rebuttals the argument using both issues with equal weight because it scares some people away who might not have much knowledge about the topics.  (S2) states that a married couple is considered a nuclear family and that marriage is a legal institution. (S2) poses the question of weather its acceptable for gay marriage to be accepted but not the other because they are less popular and if so why? (S1) answers that those issues do not relate specifically to gay legal marriage and that many attempt to use those issues similarly to argue against gay marriage.  (S2) brings up the question of what is socially accepted and the types of taboo relationship and legality. (S1) says that love is not exceptionally for gay people but also others. Also that taboos are constructed on the basis of peoples reasoning, indications and practices. (S2) keeps arguing why is anestrous taboo and not gay marriage?  </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 thinks that we don't just benefit from what is often considered the common , nuclear family . We benefit from families with adopted children , step children , families with no children at all . S1 believes that marriage has nothing to do with the bible. Then what may lead to incest and polygamy doesn't relate specifically to gay legal marriage at all. S1 is trying to show that people who are against gay marriage try to dissuade others by attempting to incite fear by spouting off a parade of horribles that have nothing to do with the issue of gay marriage . S1 holds that love applies to straight marriages as well as gay marriages and that love is not exclusive to gay marriages. It is fallacious to believe that love will lead to a slippery slope. Those against gay marriage use logical fallacies.</line>
+  <line> </line>
+  <line> </line>
+  <line> S2 does not see the logic in bringing up sibling marriages and is curious to know how S1 would respond to such movements. S2 does not believe that what people do in their private lives is anyone elses business. What may lead to incestuous marriage is if siblings or related people who love each other and want to live together under the legal union of marriage. What may lead to polygamous marriage is 3 or more people who love each other and want to live together under the legal union of marriage . Gay marriage was considered just as much a taboo as incest or polygamy just a few years ago. S2 does not understand why it is  ok to deny incestuous relations the right to marry on the grounds that it is considered taboo , but ok to approve gay marriage on the same grounds.</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 says we benefit from families with adopted children, step children, or families with no children at all. Marriage has nothing to do with the bible and everything to do with the slippery slope logical fallacy. S2 believes a married couple as the head of a home is considered a nuclear family because is already that the question of legality. He questions S1if he is trying to say because gay marriage is less acceptable than incestuous relations that it is okay to grant gay marriage but not sibling marriage. According to S1, incest and polygamy doesnt relate specifically to gay legal marriage. S2 questions to what exactly does the social acceptance of any type of taboo relationship have to do with their right to be legally married. S2 believes  that gay marriage will change the definition of marriage from a legal union between man and woman to a legal union between any parties that love each other. He poses the question if it is okay for two people to tie the knot then how could incest be  taboo.</line>
+ </text>
+ <scu uid="2" label="Marriage has nothing to do with the bible">
+  <contributor label="Marriage has nothing to do with the bible">
+   <part label="Marriage has nothing to do with the bible" start="5066" end="5107"/>
+  </contributor>
+  <contributor label="marriage has nothing to do with the bible">
+   <part label="marriage has nothing to do with the bible" start="3557" end="3598"/>
+  </contributor>
+  <contributor label="it has nothing to do with the bible">
+   <part label="it has nothing to do with the bible" start="2188" end="2223"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="homosexuality, incest, and polygamy are all related because they are all taboos of society">
+  <contributor label="S1 specifically points out the comparison of gay marriage to incest or polygamy...homosexuality, incest, and polygamy are all related because they are all taboos of society">
+   <part label="homosexuality, incest, and polygamy are all related because they are all taboos of society" start="1435" end="1525"/>
+   <part label="S1 specifically points out the comparison of gay marriage to incest or polygamy" start="1285" end="1364"/>
+  </contributor>
+  <contributor label="they believe the two to be somewhat related">
+   <part label="they believe the two to be somewhat related" start="901" end="944"/>
+  </contributor>
+  <contributor label="Gay marriage was considered just as much a taboo as incest or polygamy just a few years ago">
+   <part label="Gay marriage was considered just as much a taboo as incest or polygamy just a few years ago" start="4657" end="4748"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="incest and polygamy is less socially accepted in comparison to gay marriage">
+  <contributor label="incest and polygamy is less socially accepted in comparison to gay marriage...poses the question of weather its acceptable for gay marriage to be accepted but not the other because they are less popular and if so why?">
+   <part label="incest and polygamy is less socially accepted in comparison to gay marriage" start="2324" end="2399"/>
+   <part label="poses the question of weather its acceptable for gay marriage to be accepted but not the other because they are less popular and if so why?" start="2671" end="2810"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="we benefit from what is considered the common nuclear families and not traditional families">
+  <contributor label="modern families are not traditional families and are often better off for it">
+   <part label="modern families are not traditional families and are often better off for it" start="1207" end="1283"/>
+  </contributor>
+  <contributor label="we don't just benefit from what is often considered the common , nuclear family...We benefit from families with adopted children , step children , families with no children at all">
+   <part label="we don't just benefit from what is often considered the common , nuclear family" start="3358" end="3437"/>
+   <part label="We benefit from families with adopted children , step children , families with no children at all" start="3440" end="3537"/>
+  </contributor>
+  <contributor label="we benefit from families with adopted children, step children, or families with no children at all">
+   <part label="we benefit from families with adopted children, step children, or families with no children at all" start="4966" end="5064"/>
+  </contributor>
+  <contributor label="we benefit from what is considered common, such as a nuclear family and how it is composed">
+   <part label="we benefit from what is considered common, such as a nuclear family and how it is composed" start="2068" end="2158"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="Marriage has everything to do with the slippery slope logical fallacy">
+  <contributor label="everything to do with the slippery slope logical fallacy">
+   <part label="everything to do with the slippery slope logical fallacy" start="5112" end="5168"/>
+  </contributor>
+  <contributor label="it has everything to do with slippery slop logical fallacy">
+   <part label="it has everything to do with slippery slop logical fallacy" start="2233" end="2291"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="logical fallacies are a scare tactic">
+  <contributor label="is a scare tactic to turn people away">
+   <part label="is a scare tactic to turn people away" start="1379" end="1416"/>
+  </contributor>
+  <contributor label="this tactic is used to instill fear to those who do not support those other issues">
+   <part label="this tactic is used to instill fear to those who do not support those other issues" start="589" end="671"/>
+  </contributor>
+  <contributor label="people who are against gay marriage try to dissuade others by attempting to incite fear by spouting off a parade of horribles that have nothing to do with the issue of gay marriage">
+   <part label="people who are against gay marriage try to dissuade others by attempting to incite fear by spouting off a parade of horribles that have nothing to do with the issue of gay marriage" start="3726" end="3906"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="Those against gay marriage use logical fallacies">
+  <contributor label="Those against gay marriage use logical fallacies">
+   <part label="Those against gay marriage use logical fallacies" start="4101" end="4149"/>
+  </contributor>
+  <contributor label="many attempt to use those issues similarly to argue against gay marriage">
+   <part label="many attempt to use those issues similarly to argue against gay marriage" start="2900" end="2972"/>
+  </contributor>
+  <contributor label="logical fallacies used by the opposition to deter people from believing gay marriage is an extension of equal rights">
+   <part label="logical fallacies used by the opposition to deter people from believing gay marriage is an extension of equal rights" start="1071" end="1187"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="incest and polygamy doesn't relate specifically to gay legal marriage">
+  <contributor label="incest and polygamy doesnt relate specifically to gay legal marriage">
+   <part label="incest and polygamy doesnt relate specifically to gay legal marriage" start="5487" end="5555"/>
+  </contributor>
+  <contributor label="incest and polygamy doesn't relate specifically to gay legal marriage at all">
+   <part label="incest and polygamy doesn't relate specifically to gay legal marriage at all" start="3622" end="3698"/>
+  </contributor>
+  <contributor label="those issues do not relate specifically to gay legal marriage">
+   <part label="those issues do not relate specifically to gay legal marriage" start="2829" end="2890"/>
+  </contributor>
+  <contributor label="using these other issues to be evidence for why gay-marriage shouldn't be allowed is not a valid argument...doesn't see the relationship between those and that of same-sex marriage">
+   <part label="doesn't see the relationship between those and that of same-sex marriage" start="710" end="782"/>
+   <part label="using these other issues to be evidence for why gay-marriage shouldn't be allowed is not a valid argument" start="454" end="559"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="love is present in all marriage">
+  <contributor label="love is present in all marriage">
+   <part label="love is present in all marriage" start="1691" end="1722"/>
+  </contributor>
+  <contributor label="love is not exceptionally for gay people but also others">
+   <part label="love is not exceptionally for gay people but also others" start="3097" end="3153"/>
+  </contributor>
+  <contributor label="love applies to straight marriages as well as gay marriages and that love is not exclusive to gay marriages">
+   <part label="love applies to straight marriages as well as gay marriages and that love is not exclusive to gay marriages" start="3923" end="4030"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="making gay marriage legal will open opportunities for other taboos in our society">
+  <contributor label="making gay marriage legal will open opportunities for other &quot;taboos&quot; in our society...in opening this opportunity for gay marriage, the definition of marriage will change and it will allow other issues like incest and polygamy to become legal...gay marriage will have a sort of domino effect for other issues">
+   <part label="making gay marriage legal will open opportunities for other &quot;taboos&quot; in our society" start="57" end="140"/>
+   <part label="in opening this opportunity for gay marriage, the definition of marriage will change and it will allow other issues like incest and polygamy to become legal" start="159" end="315"/>
+   <part label="gay marriage will have a sort of domino effect for other issues" start="370" end="433"/>
+  </contributor>
+  <contributor label="If it does change then there would be no limit to who could marry">
+   <part label="If it does change then there would be no limit to who could marry" start="1606" end="1671"/>
+  </contributor>
+  <contributor label="gay marriage will change the definition of marriage from a legal union between man and woman to a legal union between any parties that love each other">
+   <part label="gay marriage will change the definition of marriage from a legal union between man and woman to a legal union between any parties that love each other" start="5716" end="5866"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="the claims about gay marriage leading to incest could be used for straight marriage as well">
+  <contributor label="the claims made by S2 about gay marriage leading to incest, could be used for straight marriage as well">
+   <part label="the claims made by S2 about gay marriage leading to incest, could be used for straight marriage as well" start="1726" end="1829"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="it's ok to deny incestuous relations the right to marry but not ok to approve gay marriage">
+  <contributor label="why it is  ok to deny incestuous relations the right to marry on the grounds that it is considered taboo , but ok to approve gay marriage on the same grounds">
+   <part label="why it is  ok to deny incestuous relations the right to marry on the grounds that it is considered taboo , but ok to approve gay marriage on the same grounds" start="4773" end="4930"/>
+  </contributor>
+  <contributor label="it shouldnt be different figuring out whether one can approve gay marriage but not incest">
+   <part label="it shouldnt be different figuring out whether one can approve gay marriage but not incest" start="806" end="895"/>
+  </contributor>
+  <contributor label="S1if he is trying to say because gay marriage is less acceptable than incestuous relations that it is okay to grant gay marriage but not sibling marriage...if it is okay for two people to tie the knot then how could incest be  taboo">
+   <part label="S1if he is trying to say because gay marriage is less acceptable than incestuous relations that it is okay to grant gay marriage but not sibling marriage" start="5315" end="5468"/>
+   <part label="if it is okay for two people to tie the knot then how could incest be  taboo" start="5890" end="5966"/>
+  </contributor>
+  <contributor label="why is anestrous taboo and not gay marriage?">
+   <part label="why is anestrous taboo and not gay marriage?" start="3269" end="3313"/>
+  </contributor>
+ </scu>
+ <scu uid="16" label="Discussion of same-sex marriage">
+  <contributor label="discuss same-sex marriage">
+   <part label="discuss same-sex marriage" start="984" end="1009"/>
+  </contributor>
+ </scu>
+ <scu uid="17" label="draw the line of marriage as is so the definition of marriage does not change">
+  <contributor label="draw the line as is so the definition of marriage does not change">
+   <part label="draw the line as is so the definition of marriage does not change" start="1539" end="1604"/>
+  </contributor>
+ </scu>
+ <scu uid="18" label="if other parties paraded their lifestyle they would also have an equal opportunity to make their marriage a social issue">
+  <contributor label="if the other parties mentioned went and paraded their lifestyle then they would also have an equal opportunity to make their marriage a social issue">
+   <part label="if the other parties mentioned went and paraded their lifestyle then they would also have an equal opportunity to make their marriage a social issue" start="1861" end="2009"/>
+  </contributor>
+ </scu>
+ <scu uid="19" label="a married couple is considered a nuclear family">
+  <contributor label="a married couple is considered a nuclear family">
+   <part label="a married couple is considered a nuclear family" start="2576" end="2623"/>
+  </contributor>
+  <contributor label="a married couple as the head of a home is considered a nuclear family">
+   <part label="a married couple as the head of a home is considered a nuclear family" start="5182" end="5251"/>
+  </contributor>
+ </scu>
+ <scu uid="20" label="marriage is a legal institution">
+  <contributor label="marriage is a legal institution">
+   <part label="marriage is a legal institution" start="2633" end="2664"/>
+  </contributor>
+ </scu>
+ <scu uid="22" label="taboos are constructed on the basis of peoples reasoning, indications and practices">
+  <contributor label="taboos are constructed on the basis of peoples reasoning, indications and practices">
+   <part label="taboos are constructed on the basis of peoples reasoning, indications and practices" start="3165" end="3248"/>
+  </contributor>
+ </scu>
+ <scu uid="24" label="It is fallacious to believe that love will lead to a slippery slope">
+  <contributor label="It is fallacious to believe that love will lead to a slippery slope">
+   <part label="It is fallacious to believe that love will lead to a slippery slope" start="4032" end="4099"/>
+  </contributor>
+ </scu>
+ <scu uid="25" label="what people do in their private lives is not anyone elses business">
+  <contributor label="what people do in their private lives is anyone elses business">
+   <part label="what people do in their private lives is anyone elses business" start="4303" end="4365"/>
+  </contributor>
+ </scu>
+ <scu uid="26" label="social acceptance of any type of taboo relationship does not have to do with their right to be legally married">
+  <contributor label="what exactly does the social acceptance of any type of taboo relationship have to do with their right to be legally married">
+   <part label="what exactly does the social acceptance of any type of taboo relationship have to do with their right to be legally married" start="5573" end="5696"/>
+  </contributor>
+ </scu>
+ <scu uid="27" label="What may lead to incestuous marriage is if siblings or related people who love each other and want to live together under the legal union of marriage">
+  <contributor label="What may lead to incestuous marriage is if siblings or related people who love each other and want to live together under the legal union of marriage">
+   <part label="What may lead to incestuous marriage is if siblings or related people who love each other and want to live together under the legal union of marriage" start="4367" end="4516"/>
+  </contributor>
+ </scu>
+ <scu uid="28" label="What may lead to polygamous marriage is 3 or more people who love each other and want to live together under the legal union of marriage">
+  <contributor label="What may lead to polygamous marriage is 3 or more people who love each other and want to live together under the legal union of marriage">
+   <part label="What may lead to polygamous marriage is 3 or more people who love each other and want to live together under the legal union of marriage" start="4518" end="4654"/>
+  </contributor>
+ </scu>
+ <scu uid="30" label="there is no logic in bringing up sibling marriages">
+  <contributor label="S2 does not see the logic in bringing up sibling marriages">
+   <part label="S2 does not see the logic in bringing up sibling marriages" start="4156" end="4214"/>
+  </contributor>
+ </scu>
+</pyramid>

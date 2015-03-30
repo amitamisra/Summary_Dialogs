@@ -1,0 +1,46 @@
+Two people are arguing gay marriage .
+
+
+root(ROOT-0, arguing-4)
+num(people-2, Two-1)
+nsubj(arguing-4, people-2)
+aux(arguing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(arguing-4, marriage-6)
+
+However, (S2) argues that Paul is frequently referenced as an expert on the issue of gay marriage and rights.
+root(ROOT-0, argues-6)
+advmod(argues-6, However-1)
+nsubj(argues-6, S2-4)
+mark(referenced-11, that-7)
+nsubjpass(referenced-11, Paul-8)
+auxpass(referenced-11, is-9)
+advmod(referenced-11, frequently-10)
+ccomp(argues-6, referenced-11)
+det(expert-14, an-13)
+prep_as(referenced-11, expert-14)
+det(issue-17, the-16)
+prep_on(expert-14, issue-17)
+amod(marriage-20, gay-19)
+prep_of(issue-17, marriage-20)
+prep_of(issue-17, rights-22)
+conj_and(marriage-20, rights-22)
+
+However, (S2) argues that Paul is frequently referenced as an expert on the issue of gay marriage and rights.
+root(ROOT-0, argues-6)
+advmod(argues-6, However-1)
+nsubj(argues-6, S2-4)
+mark(referenced-11, that-7)
+nsubjpass(referenced-11, Paul-8)
+auxpass(referenced-11, is-9)
+advmod(referenced-11, frequently-10)
+ccomp(argues-6, referenced-11)
+det(expert-14, an-13)
+prep_as(referenced-11, expert-14)
+det(issue-17, the-16)
+prep_on(expert-14, issue-17)
+amod(marriage-20, gay-19)
+prep_of(issue-17, marriage-20)
+prep_of(issue-17, rights-22)
+conj_and(marriage-20, rights-22)
+

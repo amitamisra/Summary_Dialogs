@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 challenges S2 to debate the cause of the spread of AIDS in the United States and encourages S2 to attempt to challenge his claims with proof that they are untrue. He accuses S2 of attempting to change the debate and making personal attacks rather than addressing the question at hand. He suggests that if the debate occurs, he will prove his assertions true.</line>
+  <line>S2 claims that the origin of AIDS in the United States is unknown and that the spread of AIDS was caused by unclean needles, unprotected sex, and contaminated blood transfusions. He rejects the requirement that he should provide proof for his claims by citing S1's failure to do so. He suggests that once S1 begins to debate appropriately, then he will too.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 believes that gay people are the ones that made AIDS a major health concern in the US and asks for proof to the contrary. He thinks S2 is simply giving opinions and not facts and when he quotes him S1 says he is flattered that a quote from him is the best intelligent statement he could come up with. He wishes to debate S2. S2 believes no one knows how AIDS came to the US and states that people using dirty needles, those participating in unsafe sex, and those involved in blood transfusions before they knew how it was spread were the ones that made it a health concern. He quotes S1 as evidence of his hypocrisy in requesting evidence when he offers none.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing the onslaught of AIDS in the United States.  S1 believes the disease was made into a huge health concern as the result of the homosexual community. S2 contends no one really knows how AIDS originally arrived in the United States and the fault of the spread lies with the folks who used dirty needles when taking drugs and people who didn't practice safe sex.  S2 also cites the practice of untested blood transfusions before it was discovered how AIDS could be spread.  S1 argues that S2 has provided no substantial proof to back his/her arguments in regard to how the disease actually rose to concerning levels in America and asks for a debate between he/she and S2.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 said that he continues to &quot;stand by&quot; and adhere to his previous post. He challenged S2 to show proof that this was not the case (seeming that gays caused AIDs to be a major health concern) and to stop making empty arguments and/or attacking him. He impatiently waited for the proofs he wanted.</line>
+  <line>S2 stated his belief that it remains a mystery about how AIDs reached the United States and that IV drug users who exchanged needles without cleaning them and those who did not practice safe sex and those who gave blood for transfusions before AIDS was known about spread the disease. He said that he would not debate S1 until S1 starts himself giving the proofs that he requests of others.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two people are discussing the spread of AIDS.  S2 states that no one knows how AIDS got to the US.  He also states that those who made AIDS a major health are the people who didn't clean their needles while doing drugs, those who don't practice safe sex, and those giving blood transfusions before it was a known form of transmission.  S1 rebuts, asking S2 to provide evidence to back up his claim.  S2 then quotes a recent post from S1, stating that any debate will start when S1 owns up to his own requirements and defend his statements, to which S1 guaranteers that he can prove his assertions, as long as S2 accepts his challenge to a debate.</line>
+ </text>
+ <scu uid="159" label="no one knows how AIDS got to the US">
+  <contributor label="S2 states that no one knows how AIDS got to the US">
+   <part label="S2 states that no one knows how AIDS got to the US" start="2945" end="2995"/>
+  </contributor>
+  <contributor label="S2 stated his belief that it remains a mystery about how AIDs reached the United States">
+   <part label="S2 stated his belief that it remains a mystery about how AIDs reached the United States" start="2480" end="2567"/>
+  </contributor>
+  <contributor label="S2 contends no one really knows how AIDS originally arrived in the United States">
+   <part label="S2 contends no one really knows how AIDS originally arrived in the United States" start="1636" end="1716"/>
+  </contributor>
+  <contributor label="S2 claims that the origin of AIDS in the United States is unknown">
+   <part label="S2 claims that the origin of AIDS in the United States is unknown" start="388" end="453"/>
+  </contributor>
+  <contributor label="S2 believes no one knows how AIDS came to the US">
+   <part label="S2 believes no one knows how AIDS came to the US" start="1101" end="1149"/>
+  </contributor>
+ </scu>
+ <scu uid="165" label="spread of AIDS was caused by contaminated blood transfusions">
+  <contributor label="that the spread of AIDS was caused by...contaminated blood transfusions">
+   <part label="that the spread of AIDS was caused by" start="458" end="495"/>
+   <part label="contaminated blood transfusions" start="534" end="565"/>
+  </contributor>
+  <contributor label="S2 also cites the practice of untested blood transfusions before it was discovered how AIDS could be spread">
+   <part label="S2 also cites the practice of untested blood transfusions before it was discovered how AIDS could be spread" start="1848" end="1955"/>
+  </contributor>
+  <contributor label="those who gave blood for transfusions before AIDS was known about spread the disease">
+   <part label="those who gave blood for transfusions before AIDS was known about spread the disease" start="2679" end="2763"/>
+  </contributor>
+  <contributor label="those giving blood transfusions before it was a known form of transmission">
+   <part label="those giving blood transfusions before it was a known form of transmission" start="3157" end="3231"/>
+  </contributor>
+  <contributor label="those involved in blood transfusions before they knew how it was spread were the ones that made it a health concern">
+   <part label="those involved in blood transfusions before they knew how it was spread were the ones that made it a health concern" start="1233" end="1348"/>
+  </contributor>
+ </scu>
+ <scu uid="163" label="spread of AIDS was caused by unclean needles">
+  <contributor label="that the spread of AIDS was caused by unclean needles">
+   <part label="that the spread of AIDS was caused by unclean needles" start="458" end="511"/>
+  </contributor>
+  <contributor label="states that people using dirty needles">
+   <part label="states that people using dirty needles" start="1154" end="1192"/>
+  </contributor>
+  <contributor label="fault of the spread lies with the folks who used dirty needles when taking drugs">
+   <part label="fault of the spread lies with the folks who used dirty needles when taking drugs" start="1725" end="1805"/>
+  </contributor>
+  <contributor label="IV drug users who exchanged needles without cleaning them">
+   <part label="IV drug users who exchanged needles without cleaning them" start="2577" end="2634"/>
+  </contributor>
+  <contributor label="those who made AIDS a major health are the people who didn't clean their needles while doing drugs">
+   <part label="those who made AIDS a major health are the people who didn't clean their needles while doing drugs" start="3018" end="3116"/>
+  </contributor>
+ </scu>
+ <scu uid="164" label="spread of AIDS was caused by unprotected sex">
+  <contributor label="that the spread of AIDS was caused by...unprotected sex">
+   <part label="that the spread of AIDS was caused by" start="458" end="495"/>
+   <part label="unprotected sex" start="513" end="528"/>
+  </contributor>
+  <contributor label="those participating in unsafe sex">
+   <part label="those participating in unsafe sex" start="1194" end="1227"/>
+  </contributor>
+  <contributor label="people who didn't practice safe sex">
+   <part label="people who didn't practice safe sex" start="1810" end="1845"/>
+  </contributor>
+  <contributor label="those who did not practice safe sex">
+   <part label="those who did not practice safe sex" start="2639" end="2674"/>
+  </contributor>
+  <contributor label="those who don't practice safe sex">
+   <part label="those who don't practice safe sex" start="3118" end="3151"/>
+  </contributor>
+ </scu>
+ <scu uid="156" label="debate of the cause of the spread of AIDS in the United States">
+  <contributor label="S1 challenges S2 to debate the cause of the spread of AIDS in the United States">
+   <part label="S1 challenges S2 to debate the cause of the spread of AIDS in the United States" start="26" end="105"/>
+  </contributor>
+  <contributor label="S1 and S2 are discussing the onslaught of AIDS in the United States">
+   <part label="S1 and S2 are discussing the onslaught of AIDS in the United States" start="1463" end="1530"/>
+  </contributor>
+  <contributor label="Two people are discussing the spread of AIDS">
+   <part label="Two people are discussing the spread of AIDS" start="2898" end="2942"/>
+  </contributor>
+  <contributor label="S1 believes that gay people are the ones that made AIDS a major health concern in the US">
+   <part label="S1 believes that gay people are the ones that made AIDS a major health concern in the US" start="773" end="861"/>
+  </contributor>
+ </scu>
+ <scu uid="166" label="Evidence of hypocrisy">
+  <contributor label="He quotes S1 as evidence of his hypocrisy in requesting evidence when he offers none">
+   <part label="He quotes S1 as evidence of his hypocrisy in requesting evidence when he offers none" start="1350" end="1434"/>
+  </contributor>
+  <contributor label="He rejects the requirement that he should provide proof for his claims by citing S1's failure to do so...He suggests that once S1 begins to debate appropriately, then he will too">
+   <part label="He rejects the requirement that he should provide proof for his claims by citing S1's failure to do so" start="567" end="669"/>
+   <part label="He suggests that once S1 begins to debate appropriately, then he will too" start="671" end="744"/>
+  </contributor>
+  <contributor label="S2 then quotes a recent post from S1, stating that any debate will start when S1 owns up to his own requirements...defend his statements">
+   <part label="S2 then quotes a recent post from S1, stating that any debate will start when S1 owns up to his own requirements" start="3298" end="3410"/>
+   <part label="defend his statements" start="3415" end="3436"/>
+  </contributor>
+  <contributor label="He said that he would not debate S1 until S1 starts himself giving the proofs that he requests of others">
+   <part label="He said that he would not debate S1 until S1 starts himself giving the proofs that he requests of others" start="2765" end="2869"/>
+  </contributor>
+ </scu>
+ <scu uid="169" label="Provide evidence to back up claim">
+  <contributor label="S1 rebuts, asking S2 to provide evidence to back up his claim">
+   <part label="S1 rebuts, asking S2 to provide evidence to back up his claim" start="3234" end="3295"/>
+  </contributor>
+  <contributor label="S1 argues that S2 has provided no substantial proof to back his/her arguments in regard to how the disease actually rose to concerning levels in America">
+   <part label="S1 argues that S2 has provided no substantial proof to back his/her arguments in regard to how the disease actually rose to concerning levels in America" start="1958" end="2110"/>
+  </contributor>
+  <contributor label="He impatiently waited for the proofs he wanted">
+   <part label="He impatiently waited for the proofs he wanted" start="2432" end="2478"/>
+  </contributor>
+  <contributor label="He thinks S2 is simply giving opinions and not facts">
+   <part label="He thinks S2 is simply giving opinions and not facts" start="898" end="950"/>
+  </contributor>
+ </scu>
+ <scu uid="167" label="Wish to debate">
+  <contributor label="He wishes to debate S2">
+   <part label="He wishes to debate S2" start="1077" end="1099"/>
+  </contributor>
+  <contributor label="He accuses S2 of attempting to change the debate">
+   <part label="He accuses S2 of attempting to change the debate" start="192" end="240"/>
+  </contributor>
+  <contributor label="asks for a debate between he/she and S2">
+   <part label="asks for a debate between he/she and S2" start="2115" end="2154"/>
+  </contributor>
+  <contributor label="as long as S2 accepts his challenge to a debate">
+   <part label="as long as S2 accepts his challenge to a debate" start="3496" end="3543"/>
+  </contributor>
+ </scu>
+ <scu uid="157" label="challenge claims with proof that they are untrue">
+  <contributor label="encourages S2 to attempt to challenge his claims with proof that they are untrue">
+   <part label="encourages S2 to attempt to challenge his claims with proof that they are untrue" start="110" end="190"/>
+  </contributor>
+  <contributor label="asks for proof to the contrary">
+   <part label="asks for proof to the contrary" start="866" end="896"/>
+  </contributor>
+  <contributor label="He challenged S2 to show proof that this was not the case (seeming that gays caused AIDs to be a major health concern)">
+   <part label="He challenged S2 to show proof that this was not the case (seeming that gays caused AIDs to be a major health concern)" start="2256" end="2374"/>
+  </contributor>
+ </scu>
+ <scu uid="170" label="Guarantees proof of assertions">
+  <contributor label="S1 guaranteers that he can prove his assertions">
+   <part label="S1 guaranteers that he can prove his assertions" start="3447" end="3494"/>
+  </contributor>
+  <contributor label="suggests that if the debate occurs, he will prove his assertions true">
+   <part label="suggests that if the debate occurs, he will prove his assertions true" start="317" end="386"/>
+  </contributor>
+ </scu>
+ <scu uid="160" label="making personal attacks rather than addressing the question at hand">
+  <contributor label="He accuses S2 of...making personal attacks rather than addressing the question at hand">
+   <part label="He accuses S2 of" start="192" end="208"/>
+   <part label="making personal attacks rather than addressing the question at hand" start="245" end="312"/>
+  </contributor>
+  <contributor label="He challenged S2...to stop making empty arguments and/or attacking him">
+   <part label="He challenged S2" start="2256" end="2272"/>
+   <part label="to stop making empty arguments and/or attacking him" start="2379" end="2430"/>
+  </contributor>
+ </scu>
+ <scu uid="161" label="disease was made into a huge health concern as the result of the homosexual community">
+  <contributor label="S1 believes the disease was made into a huge health concern as the result of the homosexual community">
+   <part label="S1 believes the disease was made into a huge health concern as the result of the homosexual community" start="1533" end="1634"/>
+  </contributor>
+ </scu>
+ <scu uid="172" label="flattered by quote">
+  <contributor label="S1 says he is flattered that a quote from him is the best intelligent statement he could come up with">
+   <part label="S1 says he is flattered that a quote from him is the best intelligent statement he could come up with" start="974" end="1075"/>
+  </contributor>
+ </scu>
+ <scu uid="171" label="Standing by previous posts">
+  <contributor label="S1 said that he continues to &quot;stand by&quot; and adhere to his previous post">
+   <part label="S1 said that he continues to &quot;stand by&quot; and adhere to his previous post" start="2183" end="2254"/>
+  </contributor>
+ </scu>
+</pyramid>

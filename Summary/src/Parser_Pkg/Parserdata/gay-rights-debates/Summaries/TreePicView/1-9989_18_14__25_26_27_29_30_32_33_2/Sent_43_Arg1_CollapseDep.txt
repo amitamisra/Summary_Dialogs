@@ -1,0 +1,8 @@
+root(ROOT-0, ignorant-3)
+aux(ignorant-3, to-1)
+cop(ignorant-3, be-2)
+det(context-7, the-5)
+amod(context-7, actual-6)
+prep_to(ignorant-3, context-7)
+det(conversation-10, the-9)
+prep_of(context-7, conversation-10)

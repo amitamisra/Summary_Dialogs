@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB also#0#Expansion)) (VP (VBZ states) (SBAR (IN that) (S (NP (JJ single) (NNS families)) (VP (VBZ is) (RB not) (ADJP (JJ natural)))))) (. .)))

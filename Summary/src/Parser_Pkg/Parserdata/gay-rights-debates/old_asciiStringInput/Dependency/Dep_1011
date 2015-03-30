@@ -1,0 +1,61 @@
+The woman is just trying to keep gay people out of marriage to preserve her heterosexual privilege .
+
+
+root(ROOT-0, trying-5)
+det(woman-2, The-1)
+nsubj(trying-5, woman-2)
+aux(trying-5, is-3)
+advmod(trying-5, just-4)
+aux(keep-7, to-6)
+xcomp(trying-5, keep-7)
+amod(people-9, gay-8)
+dobj(keep-7, people-9)
+prep_out_of(keep-7, marriage-12)
+aux(preserve-14, to-13)
+vmod(keep-7, preserve-14)
+poss(privilege-17, her-15)
+amod(privilege-17, heterosexual-16)
+dobj(preserve-14, privilege-17)
+
+S1 and S2 are debating whether making gay marriage legal will open opportunities for other `` taboos '' in our society .
+
+
+root(ROOT-0, debating-5)
+nsubj(debating-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(debating-5, S2-3)
+aux(debating-5, are-4)
+mark(open-12, whether-6)
+csubj(open-12, making-7)
+amod(marriage-9, gay-8)
+nsubj(legal-10, marriage-9)
+xcomp(making-7, legal-10)
+aux(open-12, will-11)
+ccomp(debating-5, open-12)
+dobj(open-12, opportunities-13)
+amod(taboos-17, other-15)
+prep_for(open-12, taboos-17)
+poss(society-21, our-20)
+prep_in(taboos-17, society-21)
+
+S1 and S2 are debating whether making gay marriage legal will open opportunities for other `` taboos '' in our society .
+
+
+root(ROOT-0, debating-5)
+nsubj(debating-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(debating-5, S2-3)
+aux(debating-5, are-4)
+mark(open-12, whether-6)
+csubj(open-12, making-7)
+amod(marriage-9, gay-8)
+nsubj(legal-10, marriage-9)
+xcomp(making-7, legal-10)
+aux(open-12, will-11)
+ccomp(debating-5, open-12)
+dobj(open-12, opportunities-13)
+amod(taboos-17, other-15)
+prep_for(open-12, taboos-17)
+poss(society-21, our-20)
+prep_in(taboos-17, society-21)
+

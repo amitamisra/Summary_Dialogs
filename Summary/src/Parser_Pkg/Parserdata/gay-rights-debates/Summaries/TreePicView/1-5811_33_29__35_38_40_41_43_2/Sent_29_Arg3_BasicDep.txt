@@ -1,0 +1,5 @@
+root(ROOT-0, believe-5)
+det(person-2, This-1)
+nsubj(believe-5, person-2)
+aux(believe-5, does-3)
+neg(believe-5, not-4)

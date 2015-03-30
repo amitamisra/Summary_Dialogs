@@ -1,0 +1,6 @@
+root(ROOT-0, compliments-2)
+nn(compliments-2, S2-1)
+dep(compliments-2, S1-3)
+prep(S1-3, for-4)
+amod(banter-6, clever-5)
+pobj(for-4, banter-6)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB then#0#Temporal)) (VP (VBZ states) (SBAR (IN that) (S (SBAR (IN if#2#Contingency) (S (NP (PRP it)) (VP (VBD were) (NP (NP (DT another) (NN minority)) (VP (VBG being) (VP (VBN challenged) (ADVP (RB then#2#Contingency)))))))) (NP (PRP it)) (VP (MD would) (ADVP (RB clearly)) (VP (VB be) (NP (NN bigotry))))))) (. .)))

@@ -1,0 +1,14 @@
+S1 feels this is a weak argument which gay lobbyists have overused.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+nsubj(argument-7, this-3)
+cop(argument-7, is-4)
+det(argument-7, a-5)
+amod(argument-7, weak-6)
+ccomp(feels-2, argument-7)
+dobj(overused-12, which-8)
+amod(lobbyists-10, gay-9)
+nsubj(overused-12, lobbyists-10)
+aux(overused-12, have-11)
+rcmod(argument-7, overused-12)
+

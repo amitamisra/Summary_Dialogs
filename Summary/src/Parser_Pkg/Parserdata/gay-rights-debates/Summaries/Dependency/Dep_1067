@@ -1,0 +1,18 @@
+ homosexual relationships should compare to heterosexual marriages.
+root(ROOT-0, compare-4)
+amod(relationships-2, homosexual-1)
+nsubj(compare-4, relationships-2)
+aux(compare-4, should-3)
+prep(compare-4, to-5)
+amod(marriages-7, heterosexual-6)
+pobj(to-5, marriages-7)
+
+ homosexual relationships should compare to heterosexual marriages.
+root(ROOT-0, compare-4)
+amod(relationships-2, homosexual-1)
+nsubj(compare-4, relationships-2)
+aux(compare-4, should-3)
+prep(compare-4, to-5)
+amod(marriages-7, heterosexual-6)
+pobj(to-5, marriages-7)
+

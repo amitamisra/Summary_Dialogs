@@ -1,0 +1,8 @@
+root(ROOT-0, S1-8)
+det(person-3, The-1)
+amod(person-3, only-2)
+nsubj(S1-8, person-3)
+nsubj(hurt-6, that-4)
+dep(hurt-6, gets-5)
+rcmod(person-3, hurt-6)
+cop(S1-8, is-7)

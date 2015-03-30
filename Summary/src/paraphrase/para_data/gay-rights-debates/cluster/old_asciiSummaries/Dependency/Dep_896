@@ -1,0 +1,15 @@
+S1 and S2 are pondering the future of gay marriage laws in the United States.
+root(ROOT-0, pondering-5)
+nsubj(pondering-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(pondering-5, S2-3)
+aux(pondering-5, are-4)
+det(future-7, the-6)
+dobj(pondering-5, future-7)
+amod(laws-11, gay-9)
+nn(laws-11, marriage-10)
+prep_of(future-7, laws-11)
+det(States-15, the-13)
+nn(States-15, United-14)
+prep_in(laws-11, States-15)
+

@@ -1,0 +1,10 @@
+S2 doesn't think morals should be forced.
+root(ROOT-0, think-4)
+nsubj(think-4, S2-1)
+aux(think-4, does-2)
+neg(think-4, n't-3)
+nsubjpass(forced-8, morals-5)
+aux(forced-8, should-6)
+auxpass(forced-8, be-7)
+ccomp(think-4, forced-8)
+

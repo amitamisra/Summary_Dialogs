@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2) (NN doesnt)) (VP (VBP believe) (SBAR (IN that) (S (NP (NNS S1s) (JJ religious) (NN freedom)) (VP (VBZ is) (VP (VBG being) (VP (VBN persecuted) (SBAR (IN because) (S (NP (PRP she)) (VP (VBZ is) (VP (ADVP (RB still)) (VB bale) (S (VP (TO to) (VP (VB hold) (NP (JJ religious) (NNS ceremonies))))))))))))))) (. .)))

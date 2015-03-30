@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line> S1 and S2 are debating the topic of what marriage should mean to our government. S1 Believes it is not a bad idea because they think it is not necessary for the government to be involved in most aspects of our lives, while S2 is questioning why its necessary to try and remove government involvement when it is unavoidable. S1 brings up that because several people are against the government due to gay marriage and not because it's just marriage altogether, it doesn't mean its not a bad idea to remove government intervention. S1 mentions the Healthy Marriage Initiative and how it isnt necessary. S2 says that there is too much legal work and documents behind marriage in the government, such as inheritance, pension and social rights, etc., and that it would be a lot more work if the government didn't intervene, also stating that removing marriage from government will only benefit lawyers. Both S1 and S2 have had experience with marriage, S2 states that marriage benefits are good because of government intervention.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line></line>
+  <line>This discussion is about the government roll in marriage, specifically pertaining to homosexual marriage. S1 believes that the government should have no say in marriage. S2 believes that government should have a say in marriage because it is more practical in todays world. S1 believes that individual contracts by lawyers  rather than the government being involved would be the fairest compromise. S2 encountered problems with this view in their personal life when their partner died, and they were unable to sort out all of the legal issues involved in death, like inheritance, or social security rights.  S2 believes there will be privileges that come only in government recognized unions. S1 comments best way to go about solving these problems is to take them one issue at a time rather then facing the problem as a whole. S2 thinks that you need to look at situations in from different perspectives like trees in the woods.  Both S1 and S2 have previous experience with married life and single life. </line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line></line>
+  <line> (S1) Marriage is meaningful and should not be a concern of the government. </line>
+  <line> (S2) states that marriage is an ancient human institution, natural for humans and is one of the foundations of social stability. (S2) says that Christians are involved in the topic because they want the government to get out of marriage since gay people are becoming involved. (S2) says that Christians are hypocrites because before they had not complained. (S2) states the importance for government to get involved however, it is convenient and mentions Mr. WriteLA as someone who has eloquently talked about the topic. (S1) government desires to be involved in lives. Talks about the Healthy Marriage Initiative and how some mean-spirited hypocrites want the government out for the wrong reasons. (S2) Questions why is it in societies interest in preventing the government to be involved in marriage. Also mentions Mr. WriteLA who said that the governments involvement is inevitable. (S1) argues that the government should get out of the marriage business because it is not needed and the benefits of marriage are terribly unfair for single people. (S2) says single people do not have same issues as married people from experience.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line></line>
+  <line> </line>
+  <line> </line>
+  <line> S1 Questions the role of government in marriage, maintaining that it should have a very limited one. S1 says that governments want to be involved in our lives as much as they can be, and that getting the government out of marriage getting the government out of marriage would be a good idea even if people are supporting this change for the wrong reasons. It is not necessary to have government in marriage and citizens should be vigilant in making sure that the government does not intrude where it is not needed. S1 believes that single people have the biggest stake in this issue. </line>
+  <line> </line>
+  <line> </line>
+  <line> S2 criticizes the new push for government getting out of marriage. S2 talks about marriage being an ancient tradition, based on the pair bonding that is natural for humans, and that is one of the foundations for social stability. It is thought that it would be natural for the government to want to support it and that it should because the government is the source of law. Replacing marriage would mean a plethora of minor and specific legal contracts to cover all the hundreds of rights and mutual obligations currently conferred by marriage. Legal issues such as inheritance, pension and social security rights, adoption, custody, and home ownership that would need separate contracts without the umbrella of marriage. Marriage is more convenient.</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 and S2 are talking about what marriage means to the government. S1 says his marriage has nothing to do with the government. S2 believes that marriage is one of the foundations of social stability. S1 and S2 are both not surprised if the government gets involved in marriage. S2 is upset that Christians are demanding the government to get out of marriage because gay people want to get in it. He believes the government does not need to get involved with the regulation and support of marriage and why the society should prevent it. S1 believes the government getting out of marriage is not a bad idea. S1 and S2 start arguing about marriage benefits between single people and married. S1 argues government support of marriage is unfair to single people and S2 argues single people do not have the same issues as married people. They give examples of their own married and single life. They both compare marriage to marriage to woods and trees. </line>
+ </text>
+ <scu uid="55" label="arguing about marriage benefits between single people and married">
+  <contributor label="S1 and S2 start arguing about marriage benefits between single people and married...S1 argues government support of marriage is unfair to single people...S2 argues single people do not have the same issues as married people">
+   <part label="S1 and S2 start arguing about marriage benefits between single people and married" start="5332" end="5413"/>
+   <part label="S1 argues government support of marriage is unfair to single people" start="5415" end="5482"/>
+   <part label="S2 argues single people do not have the same issues as married people" start="5487" end="5556"/>
+  </contributor>
+  <contributor label="(S1) argues...the benefits of marriage are terribly unfair for single people...(S2) says single people do not have same issues as married people from experience">
+   <part label="(S1) argues" start="3078" end="3089"/>
+   <part label="the benefits of marriage are terribly unfair for single people" start="3179" end="3241"/>
+   <part label="(S2) says single people do not have same issues as married people from experience" start="3243" end="3324"/>
+  </contributor>
+  <contributor label="S2 states that marriage benefits are good because of government intervention">
+   <part label="S2 states that marriage benefits are good because of government intervention" start="974" end="1050"/>
+  </contributor>
+  <contributor label="S1 believes that single people have the biggest stake in this issue...Marriage is more convenient">
+   <part label="S1 believes that single people have the biggest stake in this issue" start="3874" end="3941"/>
+   <part label="Marriage is more convenient" start="4671" end="4698"/>
+  </contributor>
+  <contributor label="S2 believes there will be privileges that come only in government recognized unions">
+   <part label="S2 believes there will be privileges that come only in government recognized unions" start="1688" end="1771"/>
+  </contributor>
+ </scu>
+ <scu uid="44" label="government should have a say in marriage because it is more practical in todays world">
+  <contributor label="S2 believes that government should have a say in marriage because it is more practical in todays world">
+   <part label="S2 believes that government should have a say in marriage because it is more practical in todays world" start="1250" end="1352"/>
+  </contributor>
+  <contributor label="S2 is questioning why its necessary to try and remove government involvement when it is unavoidable">
+   <part label="S2 is questioning why its necessary to try and remove government involvement when it is unavoidable" start="250" end="349"/>
+  </contributor>
+  <contributor label="(S2) states the importance for government to get involved...(S2) Questions why is it in societies interest in preventing the government to be involved in marriage">
+   <part label="(S2) states the importance for government to get involved" start="2550" end="2607"/>
+   <part label="(S2) Questions why is it in societies interest in preventing the government to be involved in marriage" start="2891" end="2993"/>
+  </contributor>
+  <contributor label="S2 criticizes the new push for government getting out of marriage...thought that it would be natural for the government to want to support it and that it should because the government is the source of law">
+   <part label="S2 criticizes the new push for government getting out of marriage" start="3949" end="4014"/>
+   <part label="thought that it would be natural for the government to want to support it and that it should because the government is the source of law" start="4185" end="4321"/>
+  </contributor>
+  <contributor label="He believes the government does not need to get involved with the regulation and support of marriage">
+   <part label="He believes the government does not need to get involved with the regulation and support of marriage" start="5122" end="5222"/>
+  </contributor>
+ </scu>
+ <scu uid="43" label="government should have no say in marriage">
+  <contributor label="S1 believes that the government should have no say in marriage">
+   <part label="S1 believes that the government should have no say in marriage" start="1186" end="1248"/>
+  </contributor>
+  <contributor label="(S1) Marriage is meaningful and should not be a concern of the government...government should get out of the marriage business because it is not needed">
+   <part label="(S1) Marriage is meaningful and should not be a concern of the government" start="2115" end="2188"/>
+   <part label="government should get out of the marriage business because it is not needed" start="3099" end="3174"/>
+  </contributor>
+  <contributor label="S1 Questions the role of government in marriage, maintaining that it should have a very limited one...It is not necessary to have government in marriage">
+   <part label="S1 Questions the role of government in marriage, maintaining that it should have a very limited one" start="3359" end="3458"/>
+   <part label="It is not necessary to have government in marriage" start="3715" end="3765"/>
+  </contributor>
+  <contributor label="S1 says his marriage has nothing to do with the government...S1 believes the government getting out of marriage is not a bad idea">
+   <part label="S1 says his marriage has nothing to do with the government" start="4793" end="4851"/>
+   <part label="S1 believes the government getting out of marriage is not a bad idea" start="5262" end="5330"/>
+  </contributor>
+  <contributor label="S1 Believes it is not a bad idea because they think it is not necessary for the government to be involved in most aspects of our lives">
+   <part label="S1 Believes it is not a bad idea because they think it is not necessary for the government to be involved in most aspects of our lives" start="108" end="242"/>
+  </contributor>
+ </scu>
+ <scu uid="42" label="debating the topic of what marriage should mean to our government">
+  <contributor label="S1 and S2 are debating the topic of what marriage should mean to our government">
+   <part label="S1 and S2 are debating the topic of what marriage should mean to our government" start="27" end="106"/>
+  </contributor>
+  <contributor label="This discussion is about the government roll in marriage...pertaining to homosexual marriage">
+   <part label="This discussion is about the government roll in marriage" start="1080" end="1136"/>
+   <part label="pertaining to homosexual marriage" start="1151" end="1184"/>
+  </contributor>
+  <contributor label="S1 and S2 are talking about what marriage means to the government">
+   <part label="S1 and S2 are talking about what marriage means to the government" start="4726" end="4791"/>
+  </contributor>
+ </scu>
+ <scu uid="56" label="experience with marriage">
+  <contributor label="Both S1 and S2 have had experience with marriage">
+   <part label="Both S1 and S2 have had experience with marriage" start="924" end="972"/>
+  </contributor>
+  <contributor label="Both S1 and S2 have previous experience with married life and single life">
+   <part label="Both S1 and S2 have previous experience with married life and single life" start="2011" end="2084"/>
+  </contributor>
+  <contributor label="They give examples of their own married and single life">
+   <part label="They give examples of their own married and single life" start="5558" end="5613"/>
+  </contributor>
+ </scu>
+ <scu uid="54" label="Legal issues would need separate contracts without marriage">
+  <contributor label="Replacing marriage would mean a plethora of minor and specific legal contracts to cover all the hundreds of rights and mutual obligations currently conferred by marriage...Legal issues...such as inheritance, pension and social security rights, adoption, custody, and home ownership that would need separate contracts without the umbrella of marriage">
+   <part label="Legal issues" start="4494" end="4506"/>
+   <part label="such as inheritance, pension and social security rights, adoption, custody, and home ownership that would need separate contracts without the umbrella of marriage" start="4507" end="4669"/>
+   <part label="Replacing marriage would mean a plethora of minor and specific legal contracts to cover all the hundreds of rights and mutual obligations currently conferred by marriage" start="4323" end="4492"/>
+  </contributor>
+  <contributor label="S2 says that there is too much legal work and documents behind marriage in the government, such as inheritance, pension and social rights, etc., and that it would be a lot more work if the government didn't intervene">
+   <part label="S2 says that there is too much legal work and documents behind marriage in the government, such as inheritance, pension and social rights, etc., and that it would be a lot more work if the government didn't intervene" start="627" end="843"/>
+  </contributor>
+  <contributor label="they were unable to sort out all of the legal issues involved in death, like inheritance, or social security rights...S1 comments best way to go about solving these problems is to take them one issue at a time rather then facing the problem as a whole">
+   <part label="they were unable to sort out all of the legal issues involved in death, like inheritance, or social security rights" start="1570" end="1685"/>
+   <part label="S1 comments best way to go about solving these problems is to take them one issue at a time rather then facing the problem as a whole" start="1773" end="1906"/>
+  </contributor>
+ </scu>
+ <scu uid="49" label="marriage being one of the foundations for social stability">
+  <contributor label="S2 talks about marriage being...one of the foundations for social stability">
+   <part label="S2 talks about marriage being" start="4016" end="4045"/>
+   <part label="one of the foundations for social stability" start="4134" end="4177"/>
+  </contributor>
+  <contributor label="S2 believes that marriage is one of the foundations of social stability">
+   <part label="S2 believes that marriage is one of the foundations of social stability" start="4853" end="4924"/>
+  </contributor>
+  <contributor label="(S2) states that marriage is...one of the foundations of social stability">
+   <part label="(S2) states that marriage is" start="2192" end="2220"/>
+   <part label="one of the foundations of social stability" start="2277" end="2319"/>
+  </contributor>
+ </scu>
+ <scu uid="51" label="Christians are demanding the government to get out of marriage">
+  <contributor label="S2 is upset that Christians are demanding the government to get out of marriage because gay people want to get in it">
+   <part label="S2 is upset that Christians are demanding the government to get out of marriage because gay people want to get in it" start="5004" end="5120"/>
+  </contributor>
+  <contributor label="(S2) says that Christians are involved in the topic because they want the government to get out of marriage since gay people are becoming involved">
+   <part label="(S2) says that Christians are involved in the topic because they want the government to get out of marriage since gay people are becoming involved" start="2321" end="2467"/>
+  </contributor>
+ </scu>
+ <scu uid="64" label="citizens making sure that government does not intrude where it is not needed">
+  <contributor label="citizens should be vigilant in making sure that the government does not intrude where it is not needed">
+   <part label="citizens should be vigilant in making sure that the government does not intrude where it is not needed" start="3770" end="3872"/>
+  </contributor>
+  <contributor label="society should prevent it">
+   <part label="society should prevent it" start="5235" end="5260"/>
+  </contributor>
+ </scu>
+ <scu uid="57" label="comparison of marriage to woods and trees">
+  <contributor label="They both compare marriage to marriage to woods and trees">
+   <part label="They both compare marriage to marriage to woods and trees" start="5615" end="5672"/>
+  </contributor>
+  <contributor label="S2 thinks that you need to look at situations in from different perspectives like trees in the woods">
+   <part label="S2 thinks that you need to look at situations in from different perspectives like trees in the woods" start="1908" end="2008"/>
+  </contributor>
+ </scu>
+ <scu uid="60" label="doesn't mean its not a bad idea to remove government intervention">
+  <contributor label="doesn't mean its not a bad idea to remove government intervention">
+   <part label="doesn't mean its not a bad idea to remove government intervention" start="489" end="554"/>
+  </contributor>
+  <contributor label="getting the government out of marriage getting the government out of marriage would be a good idea">
+   <part label="getting the government out of marriage getting the government out of marriage would be a good idea" start="3551" end="3649"/>
+  </contributor>
+ </scu>
+ <scu uid="59" label="government desires to be involved in lives">
+  <contributor label="government desires to be involved in lives">
+   <part label="government desires to be involved in lives" start="2718" end="2760"/>
+  </contributor>
+  <contributor label="S1 says that governments want to be involved in our lives as much as they can be">
+   <part label="S1 says that governments want to be involved in our lives as much as they can be" start="3460" end="3540"/>
+  </contributor>
+ </scu>
+ <scu uid="53" label="Healthy Marriage Initiative isnt necessary">
+  <contributor label="S1 mentions the Healthy Marriage Initiative and how it isnt necessary">
+   <part label="S1 mentions the Healthy Marriage Initiative and how it isnt necessary" start="556" end="625"/>
+  </contributor>
+  <contributor label="Talks about the Healthy Marriage Initiative">
+   <part label="Talks about the Healthy Marriage Initiative" start="2762" end="2805"/>
+  </contributor>
+ </scu>
+ <scu uid="47" label="marriage based on bonding that is natural for humans">
+  <contributor label="S2 talks about marriage...based on the pair bonding that is natural for humans">
+   <part label="S2 talks about marriage" start="4016" end="4039"/>
+   <part label="based on the pair bonding that is natural for humans" start="4068" end="4120"/>
+  </contributor>
+  <contributor label="(S2) states that marriage is...natural for humans">
+   <part label="(S2) states that marriage is" start="2192" end="2220"/>
+   <part label="natural for humans" start="2251" end="2269"/>
+  </contributor>
+ </scu>
+ <scu uid="46" label="marriage being an ancient tradition">
+  <contributor label="S2 talks about marriage being an ancient tradition">
+   <part label="S2 talks about marriage being an ancient tradition" start="4016" end="4066"/>
+  </contributor>
+  <contributor label="(S2) states that marriage is an ancient human institution">
+   <part label="(S2) states that marriage is an ancient human institution" start="2192" end="2249"/>
+  </contributor>
+ </scu>
+ <scu uid="63" label="not surprised if the government gets involved in marriage">
+  <contributor label="S1 and S2 are both not surprised if the government gets involved in marriage">
+   <part label="S1 and S2 are both not surprised if the government gets involved in marriage" start="4926" end="5002"/>
+  </contributor>
+  <contributor label="Mr. WriteLA who said that the governments involvement is inevitable">
+   <part label="Mr. WriteLA who said that the governments involvement is inevitable" start="3009" end="3076"/>
+  </contributor>
+ </scu>
+ <scu uid="61" label="people are supporting this change for the wrong reasons">
+  <contributor label="people are supporting this change for the wrong reasons">
+   <part label="people are supporting this change for the wrong reasons" start="3658" end="3713"/>
+  </contributor>
+  <contributor label="S1 brings up that because several people are against the government due to gay marriage and not because it's just marriage altogether">
+   <part label="S1 brings up that because several people are against the government due to gay marriage and not because it's just marriage altogether" start="351" end="484"/>
+  </contributor>
+ </scu>
+ <scu uid="52" label="Christians are hypocrites">
+  <contributor label="(S2) says that Christians are hypocrites because before they had not complained...mean-spirited hypocrites want the government out for the wrong reasons">
+   <part label="(S2) says that Christians are hypocrites because before they had not complained" start="2469" end="2548"/>
+   <part label="mean-spirited hypocrites want the government out for the wrong reasons" start="2819" end="2889"/>
+  </contributor>
+ </scu>
+ <scu uid="183" label="individual contracts by lawyers rather than the government being involved would be the fairest compromise">
+  <contributor label="S1 believes that individual contracts by lawyers  rather than the government being involved would be the fairest compromise">
+   <part label="S1 believes that individual contracts by lawyers  rather than the government being involved would be the fairest compromise" start="1354" end="1477"/>
+  </contributor>
+ </scu>
+ <scu uid="62" label="Mr. WriteLA as someone who has eloquently talked about the topic">
+  <contributor label="mentions Mr. WriteLA as someone who has eloquently talked about the topic">
+   <part label="mentions Mr. WriteLA as someone who has eloquently talked about the topic" start="2638" end="2711"/>
+  </contributor>
+ </scu>
+ <scu uid="184" label="problems with this view partner died">
+  <contributor label="S2 encountered problems with this view in their personal life when their partner died">
+   <part label="S2 encountered problems with this view in their personal life when their partner died" start="1479" end="1564"/>
+  </contributor>
+ </scu>
+ <scu uid="58" label="removing marriage from government will only benefit lawyers">
+  <contributor label="removing marriage from government will only benefit lawyers">
+   <part label="removing marriage from government will only benefit lawyers" start="863" end="922"/>
+  </contributor>
+ </scu>
+</pyramid>

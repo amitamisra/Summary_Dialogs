@@ -1,0 +1,5 @@
+root(ROOT-0, amused-3)
+nsubjpass(amused-3, S2-1)
+auxpass(amused-3, is-2)
+poss(statement-7, S1-5)
+prep_at(amused-3, statement-7)

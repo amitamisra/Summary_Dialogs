@@ -1,0 +1,22 @@
+   any other minority would try and change traditional marriage 
+root(ROOT-0, try-5)
+det(minority-3, any-1)
+amod(minority-3, other-2)
+nsubj(try-5, minority-3)
+nsubj(change-7, minority-3)
+aux(try-5, would-4)
+conj_and(try-5, change-7)
+amod(marriage-9, traditional-8)
+dobj(try-5, marriage-9)
+
+   any other minority would try and change traditional marriage 
+root(ROOT-0, try-5)
+det(minority-3, any-1)
+amod(minority-3, other-2)
+nsubj(try-5, minority-3)
+nsubj(change-7, minority-3)
+aux(try-5, would-4)
+conj_and(try-5, change-7)
+amod(marriage-9, traditional-8)
+dobj(try-5, marriage-9)
+

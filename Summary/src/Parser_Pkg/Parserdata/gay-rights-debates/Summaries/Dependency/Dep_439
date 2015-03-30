@@ -1,0 +1,31 @@
+he chooses.
+root(ROOT-0, chooses-2)
+nsubj(chooses-2, he-1)
+
+he chooses.
+root(ROOT-0, chooses-2)
+nsubj(chooses-2, he-1)
+
+He asks for references of Coretta Scott King and Julian Bond being for gay marriage and is surprised to get them.
+root(ROOT-0, asks-2)
+nsubj(asks-2, He-1)
+prep(asks-2, for-3)
+pobj(for-3, references-4)
+prep(references-4, of-5)
+nn(King-8, Coretta-6)
+nn(King-8, Scott-7)
+pobj(of-5, King-8)
+cc(King-8, and-9)
+nn(Bond-11, Julian-10)
+conj(King-8, Bond-11)
+xcomp(asks-2, being-12)
+prep(being-12, for-13)
+amod(marriage-15, gay-14)
+pobj(for-13, marriage-15)
+cc(asks-2, and-16)
+auxpass(surprised-18, is-17)
+conj(asks-2, surprised-18)
+aux(get-20, to-19)
+xcomp(surprised-18, get-20)
+dobj(get-20, them-21)
+

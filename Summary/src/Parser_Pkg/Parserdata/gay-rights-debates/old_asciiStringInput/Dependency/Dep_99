@@ -1,0 +1,40 @@
+It would create a new dependent class and be a large new tax on businesses , Social Security , and healthcare .
+
+
+root(ROOT-0, create-3)
+nsubj(create-3, It-1)
+aux(create-3, would-2)
+det(class-7, a-4)
+amod(class-7, new-5)
+amod(class-7, dependent-6)
+dobj(create-3, class-7)
+cop(tax-13, be-9)
+det(tax-13, a-10)
+amod(tax-13, large-11)
+amod(tax-13, new-12)
+conj_and(create-3, tax-13)
+prep_on(tax-13, businesses-15)
+nn(Security-18, Social-17)
+prep_on(tax-13, Security-18)
+conj_and(businesses-15, Security-18)
+prep_on(tax-13, healthcare-21)
+conj_and(businesses-15, healthcare-21)
+
+ S2 challenges the religious aspects of S1 's belief 
+root(ROOT-0, challenges-2)
+nsubj(challenges-2, S2-1)
+det(aspects-5, the-3)
+amod(aspects-5, religious-4)
+dobj(challenges-2, aspects-5)
+poss(belief-9, S1-7)
+prep_of(aspects-5, belief-9)
+
+ S2 challenges the religious aspects of S1 's belief 
+root(ROOT-0, challenges-2)
+nsubj(challenges-2, S2-1)
+det(aspects-5, the-3)
+amod(aspects-5, religious-4)
+dobj(challenges-2, aspects-5)
+poss(belief-9, S1-7)
+prep_of(aspects-5, belief-9)
+

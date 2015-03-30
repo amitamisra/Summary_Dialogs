@@ -1,0 +1,37 @@
+S1 believes gay marriage is about economics.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+amod(marriage-4, gay-3)
+nsubj(is-5, marriage-4)
+ccomp(believes-2, is-5)
+prep(is-5, about-6)
+pobj(about-6, economics-7)
+
+S1 believes gay marriage is about economics.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+amod(marriage-4, gay-3)
+nsubj(is-5, marriage-4)
+ccomp(believes-2, is-5)
+prep(is-5, about-6)
+pobj(about-6, economics-7)
+
+S1 believes gay marriage is about economics.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+amod(marriage-4, gay-3)
+nsubj(is-5, marriage-4)
+ccomp(believes-2, is-5)
+prep(is-5, about-6)
+pobj(about-6, economics-7)
+
+S1 states that healthcare usually applies to spouses.
+root(ROOT-0, applies-6)
+nn(states-2, S1-1)
+dep(applies-6, states-2)
+dobj(applies-6, that-3)
+nsubj(applies-6, healthcare-4)
+advmod(applies-6, usually-5)
+prep(applies-6, to-7)
+pobj(to-7, spouses-8)
+

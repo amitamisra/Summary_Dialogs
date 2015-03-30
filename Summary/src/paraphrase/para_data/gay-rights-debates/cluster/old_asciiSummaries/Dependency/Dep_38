@@ -1,0 +1,12 @@
+S1 says his marriage has nothing to do with the government.
+root(ROOT-0, says-2)
+nsubj(says-2, S1-1)
+poss(marriage-4, his-3)
+nsubj(has-5, marriage-4)
+ccomp(says-2, has-5)
+dobj(has-5, nothing-6)
+aux(do-8, to-7)
+vmod(nothing-6, do-8)
+det(government-11, the-10)
+prep_with(do-8, government-11)
+

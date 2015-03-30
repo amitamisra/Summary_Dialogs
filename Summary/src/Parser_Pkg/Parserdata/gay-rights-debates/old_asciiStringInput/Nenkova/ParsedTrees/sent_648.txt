@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT A) (NN person)) (VP (MD can) (VP (VB claim) (NP (DT a) (JJ moral) (CC or) (JJ religious) (NN stance)) (PP (IN without) (S (VP (VBG having) (NP (CD one))))))) (. .)))

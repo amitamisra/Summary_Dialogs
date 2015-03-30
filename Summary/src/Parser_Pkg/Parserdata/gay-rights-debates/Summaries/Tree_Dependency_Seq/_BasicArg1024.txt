@@ -1,0 +1,4 @@
+root(ROOT-0, want-4)
+dobj(want-4, what-1)
+amod(people-3, gay-2)
+nsubj(want-4, people-3)

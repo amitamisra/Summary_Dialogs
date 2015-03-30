@@ -1,0 +1,5 @@
+root(ROOT-0, Biden-1)
+det(way-5, the-2)
+amod(way-5, exact-3)
+amod(way-5, same-4)
+dep(Biden-1, way-5)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (S (NP (PRP he)) (VP (VBD did) (NP (NP (JJ other) (NN research)) (SBAR (WHNP (WDT which)) (S (VP (VBD showed) (NP (DT the) (JJ same) (NNS results)) (SBAR (RB even) (WHADVP (WRB when#0#Temporal)) (S (NP (DT that)) (VP (VBD was) (VP (VBN taken) (PP (IN into) (NP (NN account))))))))))))))) (. .)))

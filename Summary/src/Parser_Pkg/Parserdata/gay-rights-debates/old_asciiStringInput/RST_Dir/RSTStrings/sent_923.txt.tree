@@ -1,0 +1,11 @@
+(Temporal[N][S]
+  (Attribution[S][N]
+    _!S2 believes no one knows!_
+    (Joint[N][N]
+      _!how AIS came to the US and states that people using dirty needles , those participating in unsafe sex ,!_
+      _!and those involved in blood transfusions!_))
+  (Attribution[S][N]
+    _!before they knew!_
+    (Elaboration[N][S]
+      _!how it was spread were the ones!_
+      _!that made it a health concern . <s>!_)))

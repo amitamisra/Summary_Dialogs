@@ -1,0 +1,6 @@
+root(ROOT-0, keep-3)
+nsubj(keep-3, he-1)
+aux(keep-3, could-2)
+prep(keep-3, from-4)
+pcomp(from-4, losing-5)
+dobj(losing-5, votes-6)

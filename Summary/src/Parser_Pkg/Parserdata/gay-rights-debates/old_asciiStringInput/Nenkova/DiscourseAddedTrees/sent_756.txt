@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VP (VBZ understands) (NP (NP (DT the) (NN perspective)) (PP (IN of) (NP (NN S1))))) (CC but#0#0) (VP (VBZ does) (RB not) (VP (VB think) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (DT a) (JJ valid) (NN argument)))))))) (. .)))

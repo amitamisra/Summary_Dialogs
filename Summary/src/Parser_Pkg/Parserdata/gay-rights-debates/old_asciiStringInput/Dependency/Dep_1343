@@ -1,0 +1,38 @@
+ that these peoples ' opinions are definitively against homosexuals in general .
+
+
+root(ROOT-0, are-6)
+mark(are-6, that-1)
+det(peoples-3, these-2)
+poss(opinions-5, peoples-3)
+nsubj(are-6, opinions-5)
+advmod(are-6, definitively-7)
+prep_against(are-6, homosexuals-9)
+prep_in(homosexuals-9, general-11)
+
+ that there 's a big difference between possibility and likelihood .
+
+
+root(ROOT-0, 's-3)
+mark('s-3, that-1)
+expl('s-3, there-2)
+det(difference-6, a-4)
+amod(difference-6, big-5)
+nsubj('s-3, difference-6)
+prep_between(difference-6, possibility-8)
+prep_between(difference-6, likelihood-10)
+conj_and(possibility-8, likelihood-10)
+
+ that there 's a big difference between possibility and likelihood .
+
+
+root(ROOT-0, 's-3)
+mark('s-3, that-1)
+expl('s-3, there-2)
+det(difference-6, a-4)
+amod(difference-6, big-5)
+nsubj('s-3, difference-6)
+prep_between(difference-6, possibility-8)
+prep_between(difference-6, likelihood-10)
+conj_and(possibility-8, likelihood-10)
+

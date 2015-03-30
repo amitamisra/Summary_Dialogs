@@ -1,0 +1,14 @@
+He quotes S1 as evidence of his hypocrisy in requesting evidence when he offers none.
+root(ROOT-0, quotes-2)
+nsubj(quotes-2, He-1)
+dobj(quotes-2, S1-3)
+prep_as(quotes-2, evidence-5)
+poss(hypocrisy-8, his-7)
+prep_of(evidence-5, hypocrisy-8)
+prepc_in(quotes-2, requesting-10)
+dobj(requesting-10, evidence-11)
+advmod(offers-14, when-12)
+nsubj(offers-14, he-13)
+advcl(requesting-10, offers-14)
+dobj(offers-14, none-15)
+

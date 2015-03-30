@@ -1,0 +1,34 @@
+   that homosexual families -LRB- like S2 's -RRB- deviate from the norm 
+root(ROOT-0, deviate-9)
+mark(deviate-9, that-1)
+amod(families-3, homosexual-2)
+nsubj(deviate-9, families-3)
+prep_like(families-3, S2-6)
+possessive(S2-6, 's-7)
+det(norm-12, the-11)
+prep_from(deviate-9, norm-12)
+
+Paul Cameron is a frequent target of gay pride movement for demonization.
+root(ROOT-0, target-6)
+nn(Cameron-2, Paul-1)
+nsubj(target-6, Cameron-2)
+cop(target-6, is-3)
+det(target-6, a-4)
+amod(target-6, frequent-5)
+amod(movement-10, gay-8)
+nn(movement-10, pride-9)
+prep_of(target-6, movement-10)
+prep_for(movement-10, demonization-12)
+
+Paul Cameron is a frequent target of gay pride movement for demonization.
+root(ROOT-0, target-6)
+nn(Cameron-2, Paul-1)
+nsubj(target-6, Cameron-2)
+cop(target-6, is-3)
+det(target-6, a-4)
+amod(target-6, frequent-5)
+amod(movement-10, gay-8)
+nn(movement-10, pride-9)
+prep_of(target-6, movement-10)
+prep_for(movement-10, demonization-12)
+

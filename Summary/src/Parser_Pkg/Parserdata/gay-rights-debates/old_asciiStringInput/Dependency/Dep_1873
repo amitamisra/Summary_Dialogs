@@ -1,0 +1,46 @@
+-LRB- S1 -RRB- talks about the desire of the voters and so brings up the decision made in California .
+
+
+root(ROOT-0, talks-4)
+nsubj(talks-4, S1-2)
+nsubj(brings-13, S1-2)
+det(desire-7, the-6)
+prep_about(talks-4, desire-7)
+det(voters-10, the-9)
+prep_of(desire-7, voters-10)
+advmod(brings-13, so-12)
+conj_and(talks-4, brings-13)
+prt(brings-13, up-14)
+det(decision-16, the-15)
+dobj(brings-13, decision-16)
+vmod(decision-16, made-17)
+prep_in(made-17, California-19)
+
+ she is free to do this , ee to do this , {Exp_0_conn_Condition  then 
+root(ROOT-0, free-3)
+nsubj(free-3, she-1)
+cop(free-3, is-2)
+aux(do-5, to-4)
+xcomp(free-3, do-5)
+dobj(do-5, this-6)
+amod(this-6, ee-8)
+aux(do-10, to-9)
+xcomp(ee-8, do-10)
+dobj(do-10, this-11)
+npadvmod(then-15, Exp_0_conn_Condition-14)
+advmod(this-6, then-15)
+
+ she is free to do this , ee to do this , {Exp_0_conn_Condition  then 
+root(ROOT-0, free-3)
+nsubj(free-3, she-1)
+cop(free-3, is-2)
+aux(do-5, to-4)
+xcomp(free-3, do-5)
+dobj(do-5, this-6)
+amod(this-6, ee-8)
+aux(do-10, to-9)
+xcomp(ee-8, do-10)
+dobj(do-10, this-11)
+npadvmod(then-15, Exp_0_conn_Condition-14)
+advmod(this-6, then-15)
+

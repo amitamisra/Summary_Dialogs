@@ -1,0 +1,26 @@
+   that the definition of marriage should be changed to include homosexual unions . 
+root(ROOT-0, changed-8)
+mark(changed-8, that-1)
+det(definition-3, the-2)
+nsubjpass(changed-8, definition-3)
+prep_of(definition-3, marriage-5)
+aux(changed-8, should-6)
+auxpass(changed-8, be-7)
+aux(include-10, to-9)
+xcomp(changed-8, include-10)
+amod(unions-12, homosexual-11)
+dobj(include-10, unions-12)
+
+   that the definition of marriage should be changed to include homosexual unions . 
+root(ROOT-0, changed-8)
+mark(changed-8, that-1)
+det(definition-3, the-2)
+nsubjpass(changed-8, definition-3)
+prep_of(definition-3, marriage-5)
+aux(changed-8, should-6)
+auxpass(changed-8, be-7)
+aux(include-10, to-9)
+xcomp(changed-8, include-10)
+amod(unions-12, homosexual-11)
+dobj(include-10, unions-12)
+

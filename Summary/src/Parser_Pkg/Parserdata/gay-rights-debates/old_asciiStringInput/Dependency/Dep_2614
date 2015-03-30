@@ -1,0 +1,22 @@
+He argues that a couple of Buddhist sects allow it.
+root(ROOT-0, argues-2)
+nsubj(argues-2, He-1)
+mark(allow-9, that-3)
+det(couple-5, a-4)
+nsubj(allow-9, couple-5)
+nn(sects-8, Buddhist-7)
+prep_of(couple-5, sects-8)
+ccomp(argues-2, allow-9)
+dobj(allow-9, it-10)
+
+He argues that a couple of Buddhist sects allow it.
+root(ROOT-0, argues-2)
+nsubj(argues-2, He-1)
+mark(allow-9, that-3)
+det(couple-5, a-4)
+nsubj(allow-9, couple-5)
+nn(sects-8, Buddhist-7)
+prep_of(couple-5, sects-8)
+ccomp(argues-2, allow-9)
+dobj(allow-9, it-10)
+

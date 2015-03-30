@@ -1,0 +1,46 @@
+S2 disagrees and thinks she is doing what she thinks is before society .
+
+
+root(ROOT-0, disagrees-2)
+nsubj(disagrees-2, S2-1)
+nsubj(thinks-4, S2-1)
+conj_and(disagrees-2, thinks-4)
+nsubj(doing-7, she-5)
+aux(doing-7, is-6)
+ccomp(thinks-4, doing-7)
+dobj(thinks-10, what-8)
+nsubj(thinks-10, she-9)
+ccomp(doing-7, thinks-10)
+ccomp(thinks-10, is-11)
+prep_before(is-11, society-13)
+
+He contends that evangelicals are rarely united for anything, let alone banning gay people.
+root(ROOT-0, contends-2)
+nsubj(contends-2, He-1)
+mark(united-7, that-3)
+nsubjpass(united-7, evangelicals-4)
+auxpass(united-7, are-5)
+advmod(united-7, rarely-6)
+ccomp(contends-2, united-7)
+prep_for(united-7, anything-9)
+ccomp(united-7, let-11)
+advmod(let-11, alone-12)
+xcomp(let-11, banning-13)
+amod(people-15, gay-14)
+dobj(banning-13, people-15)
+
+He contends that evangelicals are rarely united for anything, let alone banning gay people.
+root(ROOT-0, contends-2)
+nsubj(contends-2, He-1)
+mark(united-7, that-3)
+nsubjpass(united-7, evangelicals-4)
+auxpass(united-7, are-5)
+advmod(united-7, rarely-6)
+ccomp(contends-2, united-7)
+prep_for(united-7, anything-9)
+ccomp(united-7, let-11)
+advmod(let-11, alone-12)
+xcomp(let-11, banning-13)
+amod(people-15, gay-14)
+dobj(banning-13, people-15)
+

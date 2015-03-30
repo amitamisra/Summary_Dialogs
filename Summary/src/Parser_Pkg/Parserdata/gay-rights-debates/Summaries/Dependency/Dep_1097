@@ -1,0 +1,14 @@
+this is not the case.
+root(ROOT-0, case-5)
+nsubj(case-5, this-1)
+cop(case-5, is-2)
+neg(case-5, not-3)
+det(case-5, the-4)
+
+this is not the case.
+root(ROOT-0, case-5)
+nsubj(case-5, this-1)
+cop(case-5, is-2)
+neg(case-5, not-3)
+det(case-5, the-4)
+

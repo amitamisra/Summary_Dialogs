@@ -1,0 +1,16 @@
+S1 feels statements made by S2 indicate he/she is completely opposed to equal rights for gay couples.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+nsubj(indicate-7, statements-3)
+vmod(statements-3, made-4)
+agent(made-4, S2-6)
+ccomp(feels-2, indicate-7)
+nsubjpass(opposed-11, he/she-8)
+auxpass(opposed-11, is-9)
+advmod(opposed-11, completely-10)
+ccomp(indicate-7, opposed-11)
+amod(rights-14, equal-13)
+prep_to(opposed-11, rights-14)
+amod(couples-17, gay-16)
+prep_for(rights-14, couples-17)
+

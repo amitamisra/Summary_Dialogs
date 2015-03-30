@@ -1,0 +1,7 @@
+root(ROOT-0, valued-7)
+prep(valued-7, in-1)
+det(cases-3, some-2)
+pobj(in-1, cases-3)
+det(homosexuals-5, the-4)
+nsubjpass(valued-7, homosexuals-5)
+auxpass(valued-7, were-6)

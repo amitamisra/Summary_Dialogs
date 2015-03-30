@@ -1,0 +1,7 @@
+root(ROOT-0, boring-5)
+amod(homosexuals-2, many-1)
+nsubj(boring-5, homosexuals-2)
+nsubj(inconspicuous-7, homosexuals-2)
+cop(boring-5, are-3)
+advmod(boring-5, actually-4)
+conj_and(boring-5, inconspicuous-7)

@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>This is about politics and whether or not the lie in order to get more votes. S1 believes politicians sometimes may lie as long as its what is the majority, while S2 is saying that S2 is more concerned with the honesty of the candidates rather than whether they are lying or not. S2 says we should expect them to be honest, because that is what we should want from politicians. S1 argues that politicians seem to lie in order to get the position they want or sway people to become popular, while S2 thinks that we should rely on them to make the right decision. S1 seems to think that S2 is making an argument for their belief, but S2 is just trying to be honest and show the other perspective. They argue about politicians lying through discussing when politicians are asked questions and how they answer them. S2 finishes by telling S1 we should not label politicians and expect them to do and say the right, honest thing.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 begins the dialog by attacking conservative republicans for the lack of gay rights in America, and claims democrats have been trying to progress gay rights but are afraid to loose their political position. S2 responds by commenting that Democratic Vice President Joe Biden stated he was against gay marriage. S1 believes he was lying to attract votes. S2 expresses desire for a candidate who stands behind their beliefs regardless of popular opinion, and not lie to get votes. S1 calls S2 naive for believing that lying does not happen in politics today. S1 believes it is the responsibility of the public to decipher political language to know when politicians are lying or not.  S2 believes that the public should demand honesty but not assume it.  There is no point is questioning candidates, if it is known they are going to lie. S2 addresses that S1 also believes that honesty should be demanded because their earlier statements insinuated that they thought this practice was wrong</line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line></line>
+  <line> (S1) argues that overtime-religious politicians, conservative republicans have made the effort to make gay rights a poison topic. According to his democrats want to do the right thing however, they are force to moderate their opinions for public approval. (S2) says that politicians lie about their opinion to not loose votes. He says that he would prefer if politicians were honest. (S1) says that it is common knowledge that politicians are going to lie because they can not simply say things, they have to be careful for the judgment of other. The particular case of Biden who stated that doesnt support gay marriage. He also states that it might be because Biden did not wanted to risk his support and his position in the White House. (S2)  argues that (S1) is misunderstanding him because according to him people need to put expectation for politicians to be more clear and honest about their opinions. He says that people need to pay close attention to politicians and not excuse politicians cynicism so that the American people can have politicians to be honest. </line>
+  <line> </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line></line>
+  <line> </line>
+  <line> </line>
+  <line> S1 is of the opinion that a certain level of dishonesty is understandable and expected in politics. In regard to gay rights, the religious right and conservative republicans have made it a poisoned topic such that politicians wont say the right thing because it will cost them votes. Democrats have had to be moderate on the issue in order to still be in a position to do something. Its too naive to expect to a politician to give their view on matters, and so it is necessary to figure out how often they lie, what they lie about, and how big their lies are.  In this particular case , if Biden says he doesn't support gay marriage S1 is just as likely to think it's because he knows that open support could cost him the White House as any other reason .  </line>
+  <line> </line>
+  <line> </line>
+  <line> S2 believes that as political consumers we should expect honesty of the politicians. It isnt too much to demand honesty. Without that expectation it is pointless in asking a politician a direct question. S2 understands that politicians lie but holds that if words of politicians mean nothing then there is little point in having political discourse. Political cynicism is no excuse to not put expectations on our candidates to be honest with the American people .</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 says the topic of gay rights has become a poisoned topic because of efforts of religious right and conservative republicans. It will cost more votes than it will gain. S2 questions if S1 is saying the Biden was lying when he said he doesnt support gay marriage so he could keep from losing votes. S2 prefers political candidates to be honest about their views on topics, whether its popular or not. S2 believes a candidates view should be accepted that it is really their view and S1 says that politicians are going to tell some lies and consumers should not take politicians at their word. S1 believes it is important to figure out how often they lie and how big their lies are. He gives an example of how Biden says he doesnt support gay marriage, it can because he knows that open support could cost him the White House. S2 believes they should put the expectation on them to be honest about what their views are and political cynicism is no excuse to not put expectation on their candidates to be honest.</line>
+ </text>
+ <scu uid="6" label="S2 says we should expect politicians to be honest">
+  <contributor label="S2 says we should expect them to be honest...that is what we should want from politicians...S2 finishes by telling S1 we should not label politicians and expect them to do and say the right, honest thing">
+   <part label="S2 says we should expect them to be honest" start="306" end="348"/>
+   <part label="that is what we should want from politicians" start="358" end="402"/>
+   <part label="S2 finishes by telling S1 we should not label politicians and expect them to do and say the right, honest thing" start="838" end="949"/>
+  </contributor>
+  <contributor label="people need to put expectation for politicians to be more clear and honest about their opinions">
+   <part label="people need to put expectation for politicians to be more clear and honest about their opinions" start="2807" end="2902"/>
+  </contributor>
+  <contributor label="S2 believes that as political consumers we should expect honesty of the politicians...It isnt too much to demand honesty">
+   <part label="S2 believes that as political consumers we should expect honesty of the politicians" start="3865" end="3948"/>
+   <part label="It isnt too much to demand honesty" start="3950" end="3984"/>
+  </contributor>
+  <contributor label="S2 believes they should put the expectation on them to be honest about what their views are">
+   <part label="S2 believes they should put the expectation on them to be honest about what their views are" start="5182" end="5273"/>
+  </contributor>
+  <contributor label="S2 believes that the public should demand honesty but not assume it...S2 addresses that S1 also believes that honesty should be demanded">
+   <part label="S2 believes that the public should demand honesty but not assume it" start="1662" end="1729"/>
+   <part label="S2 addresses that S1 also believes that honesty should be demanded" start="1815" end="1881"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="Democratic Vice President Joe Biden stated he was against gay marriage">
+  <contributor label="The particular case of Biden who stated that doesnt support gay marriage">
+   <part label="The particular case of Biden who stated that doesnt support gay marriage" start="2543" end="2615"/>
+  </contributor>
+  <contributor label="Biden says he doesn't support gay marriage">
+   <part label="Biden says he doesn't support gay marriage" start="3692" end="3734"/>
+  </contributor>
+  <contributor label="S2 responds by commenting that Democratic Vice President Joe Biden stated he was against gay marriage">
+   <part label="S2 responds by commenting that Democratic Vice President Joe Biden stated he was against gay marriage" start="1187" end="1288"/>
+  </contributor>
+  <contributor label="He gives an example of how Biden says he doesnt support gay marriage">
+   <part label="He gives an example of how Biden says he doesnt support gay marriage" start="5038" end="5106"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="Democrats have been trying to progress gay rights but are afraid to loose their political position">
+  <contributor label="claims democrats have been trying to progress gay rights but are afraid to loose their political position">
+   <part label="claims democrats have been trying to progress gay rights but are afraid to loose their political position" start="1080" end="1185"/>
+  </contributor>
+  <contributor label="According to his democrats want to do the right thing however, they are force to moderate their opinions for public approval...they have to be careful for the judgment of other">
+   <part label="According to his democrats want to do the right thing however, they are force to moderate their opinions for public approval" start="2126" end="2250"/>
+   <part label="they have to be careful for the judgment of other" start="2492" end="2541"/>
+  </contributor>
+  <contributor label="politicians wont say the right thing because it will cost them votes...Democrats have had to be moderate on the issue in order to still be in a position to do something">
+   <part label="Democrats have had to be moderate on the issue in order to still be in a position to do something" start="3386" end="3483"/>
+   <part label="politicians wont say the right thing because it will cost them votes" start="3316" end="3384"/>
+  </contributor>
+  <contributor label="It will cost more votes than it will gain">
+   <part label="It will cost more votes than it will gain" start="4483" end="4524"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="S1 believes ...Joe Biden... was lying to attract votes">
+  <contributor label="S1 believes he was lying to attract votes">
+   <part label="S1 believes he was lying to attract votes" start="1290" end="1331"/>
+  </contributor>
+  <contributor label="Biden did not wanted to risk his support and his position in the White House">
+   <part label="Biden did not wanted to risk his support and his position in the White House" start="2657" end="2733"/>
+  </contributor>
+  <contributor label="it's because he knows that open support could cost him the White House as any other reason">
+   <part label="it's because he knows that open support could cost him the White House as any other reason" start="3765" end="3855"/>
+  </contributor>
+  <contributor label="S2 questions if S1 is saying the Biden was lying when he said he doesnt support gay marriage so he could keep from losing votes...because he knows that open support could cost him the White House">
+   <part label="because he knows that open support could cost him the White House" start="5115" end="5180"/>
+   <part label="S2 questions if S1 is saying the Biden was lying when he said he doesnt support gay marriage so he could keep from losing votes" start="4526" end="4653"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="S1 believes it is the responsibility of the public to decipher political language">
+  <contributor label="S1 believes it is the responsibility of the public to decipher political language to know when politicians are lying or not">
+   <part label="S1 believes it is the responsibility of the public to decipher political language to know when politicians are lying or not" start="1536" end="1659"/>
+  </contributor>
+  <contributor label="it is necessary to figure out how often they lie, what they lie about, and how big their lies are">
+   <part label="it is necessary to figure out how often they lie, what they lie about, and how big their lies are" start="3563" end="3660"/>
+  </contributor>
+  <contributor label="consumers should not take politicians at their word...S1 believes it is important to figure out how often they lie and how big their lies are">
+   <part label="S1 believes it is important to figure out how often they lie and how big their lies are" start="4949" end="5036"/>
+   <part label="consumers should not take politicians at their word" start="4896" end="4947"/>
+  </contributor>
+  <contributor label="He says that people need to pay close attention to politicians">
+   <part label="He says that people need to pay close attention to politicians" start="2904" end="2966"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="S1 believes politicians sometimes may lie as long as its what is the majority">
+  <contributor label="S1 believes politicians sometimes may lie as long as its what is the majority...S1 argues that politicians seem to lie in order to get the position they want or sway people to become popular">
+   <part label="S1 believes politicians sometimes may lie as long as its what is the majority" start="104" end="181"/>
+   <part label="S1 argues that politicians seem to lie in order to get the position they want or sway people to become popular" start="404" end="514"/>
+  </contributor>
+  <contributor label="(S1) says that it is common knowledge that politicians are going to lie because they can not simply say things">
+   <part label="(S1) says that it is common knowledge that politicians are going to lie because they can not simply say things" start="2380" end="2490"/>
+  </contributor>
+  <contributor label="S1 is of the opinion that a certain level of dishonesty is understandable and expected in politics">
+   <part label="S1 is of the opinion that a certain level of dishonesty is understandable and expected in politics" start="3102" end="3200"/>
+  </contributor>
+  <contributor label="S1 says that politicians are going to tell some lies">
+   <part label="S1 says that politicians are going to tell some lies" start="4839" end="4891"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="S1 says the topic of gay rights has become a poisoned topic">
+  <contributor label="S1 says the topic of gay rights has become a poisoned topic because of efforts of religious right and conservative republicans">
+   <part label="S1 says the topic of gay rights has become a poisoned topic because of efforts of religious right and conservative republicans" start="4355" end="4481"/>
+  </contributor>
+  <contributor label="(S1) argues that overtime-religious politicians, conservative republicans have made the effort to make gay rights a poison topic">
+   <part label="(S1) argues that overtime-religious politicians, conservative republicans have made the effort to make gay rights a poison topic" start="1996" end="2124"/>
+  </contributor>
+  <contributor label="S1 begins the dialog by attacking conservative republicans for the lack of gay rights in America">
+   <part label="S1 begins the dialog by attacking conservative republicans for the lack of gay rights in America" start="978" end="1074"/>
+  </contributor>
+  <contributor label="In regard to gay rights, the religious right and conservative republicans have made it a poisoned topic">
+   <part label="In regard to gay rights, the religious right and conservative republicans have made it a poisoned topic" start="3202" end="3305"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="S2 is more concerned with the honesty of the candidates">
+  <contributor label="S2 is more concerned with the honesty of the candidates rather than whether they are lying or not">
+   <part label="S2 is more concerned with the honesty of the candidates rather than whether they are lying or not" start="207" end="304"/>
+  </contributor>
+  <contributor label="He says that he would prefer if politicians were honest">
+   <part label="He says that he would prefer if politicians were honest" start="2323" end="2378"/>
+  </contributor>
+  <contributor label="S2 prefers political candidates to be honest about their views on topics, whether its popular or not">
+   <part label="S2 prefers political candidates to be honest about their views on topics, whether its popular or not" start="4655" end="4755"/>
+  </contributor>
+  <contributor label="S2 expresses desire for a candidate who stands behind their beliefs regardless of popular opinion, and not lie to get votes">
+   <part label="S2 expresses desire for a candidate who stands behind their beliefs regardless of popular opinion, and not lie to get votes" start="1333" end="1456"/>
+  </contributor>
+ </scu>
+ <scu uid="17" label="political cynicism is no excuse to not put expectation on their candidates to be honest">
+  <contributor label="political cynicism is no excuse to not put expectation on their candidates to be honest">
+   <part label="political cynicism is no excuse to not put expectation on their candidates to be honest" start="5278" end="5365"/>
+  </contributor>
+  <contributor label="Political cynicism is no excuse to not put expectations on our candidates to be honest with the American people">
+   <part label="Political cynicism is no excuse to not put expectations on our candidates to be honest with the American people" start="4215" end="4326"/>
+  </contributor>
+  <contributor label="not excuse politicians cynicism so that the American people can have politicians to be honest">
+   <part label="not excuse politicians cynicism so that the American people can have politicians to be honest" start="2971" end="3064"/>
+  </contributor>
+ </scu>
+ <scu uid="18" label="S1 calls S2 naive for believing that lying does not happen in politics today">
+  <contributor label="S1 calls S2 naive for believing that lying does not happen in politics today">
+   <part label="S1 calls S2 naive for believing that lying does not happen in politics today" start="1458" end="1534"/>
+  </contributor>
+  <contributor label="something. Its too naive to expect to a politician to give their view on matters">
+   <part label="something. Its too naive to expect to a politician to give their view on matters" start="3474" end="3554"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="S2 thinks that we should rely on them to make the right decision">
+  <contributor label="S2 thinks that we should rely on them to make the right decision">
+   <part label="S2 thinks that we should rely on them to make the right decision" start="522" end="586"/>
+  </contributor>
+  <contributor label="S2 believes a candidates view should be accepted that it is really their view">
+   <part label="S2 believes a candidates view should be accepted that it is really their view" start="4757" end="4834"/>
+  </contributor>
+ </scu>
+ <scu uid="16" label="There is no point is questioning candidates, if it is known they are going to lie">
+  <contributor label="There is no point is questioning candidates, if it is known they are going to lie">
+   <part label="There is no point is questioning candidates, if it is known they are going to lie" start="1732" end="1813"/>
+  </contributor>
+  <contributor label="Without that expectation it is pointless in asking a politician a direct question...S2 understands that politicians lie but holds that if words of politicians mean nothing then there is little point in having political discourse">
+   <part label="Without that expectation it is pointless in asking a politician a direct question" start="3986" end="4067"/>
+   <part label="S2 understands that politicians lie but holds that if words of politicians mean nothing then there is little point in having political discourse" start="4069" end="4213"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="They argue about politicians lying">
+  <contributor label="S1 seems to think that S2 is making an argument for their belief, but S2 is just trying to be honest and show the other perspective...They argue about politicians lying through discussing when politicians are asked questions and how they answer them">
+   <part label="They argue about politicians lying through discussing when politicians are asked questions and how they answer them" start="721" end="836"/>
+   <part label="S1 seems to think that S2 is making an argument for their belief, but S2 is just trying to be honest and show the other perspective" start="588" end="719"/>
+  </contributor>
+  <contributor label="(S2)  argues that (S1) is misunderstanding him">
+   <part label="(S2)  argues that (S1) is misunderstanding him" start="2735" end="2781"/>
+  </contributor>
+ </scu>
+ <scu uid="20" label="S2 addresses that S1...because...earlier statements">
+  <contributor label="S2 addresses that S1...because their earlier statements insinuated that they thought this practice was wrong">
+   <part label="S2 addresses that S1" start="1815" end="1835"/>
+   <part label="because their earlier statements insinuated that they thought this practice was wrong" start="1882" end="1967"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="This is about politics and whether or not the lie in order to get more votes">
+  <contributor label="(S2) says that politicians lie about their opinion to not loose votes">
+   <part label="(S2) says that politicians lie about their opinion to not loose votes" start="2252" end="2321"/>
+  </contributor>
+  <contributor label="This is about politics and whether or not the lie in order to get more votes">
+   <part label="This is about politics and whether or not the lie in order to get more votes" start="26" end="102"/>
+  </contributor>
+ </scu>
+</pyramid>

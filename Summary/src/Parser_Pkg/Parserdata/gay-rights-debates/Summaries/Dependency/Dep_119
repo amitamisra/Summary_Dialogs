@@ -1,0 +1,58 @@
+marriage is recognizing a family unit based on natural heterosexual contact.
+root(ROOT-0, recognizing-3)
+nsubj(recognizing-3, marriage-1)
+aux(recognizing-3, is-2)
+det(unit-6, a-4)
+nn(unit-6, family-5)
+dobj(recognizing-3, unit-6)
+prep(recognizing-3, based-7)
+pcomp(based-7, on-8)
+amod(contact-11, natural-9)
+amod(contact-11, heterosexual-10)
+pobj(on-8, contact-11)
+
+marriage is recognizing a family unit based on natural heterosexual contact.
+root(ROOT-0, recognizing-3)
+nsubj(recognizing-3, marriage-1)
+aux(recognizing-3, is-2)
+det(unit-6, a-4)
+nn(unit-6, family-5)
+dobj(recognizing-3, unit-6)
+prep(recognizing-3, based-7)
+pcomp(based-7, on-8)
+amod(contact-11, natural-9)
+amod(contact-11, heterosexual-10)
+pobj(on-8, contact-11)
+
+marriage is recognizing a family unit based on natural heterosexual contact.
+root(ROOT-0, recognizing-3)
+nsubj(recognizing-3, marriage-1)
+aux(recognizing-3, is-2)
+det(unit-6, a-4)
+nn(unit-6, family-5)
+dobj(recognizing-3, unit-6)
+prep(recognizing-3, based-7)
+pcomp(based-7, on-8)
+amod(contact-11, natural-9)
+amod(contact-11, heterosexual-10)
+pobj(on-8, contact-11)
+
+marriage is recognizing a family unit based on natural heterosexual contact.
+root(ROOT-0, recognizing-3)
+nsubj(recognizing-3, marriage-1)
+aux(recognizing-3, is-2)
+det(unit-6, a-4)
+nn(unit-6, family-5)
+dobj(recognizing-3, unit-6)
+prep(recognizing-3, based-7)
+pcomp(based-7, on-8)
+amod(contact-11, natural-9)
+amod(contact-11, heterosexual-10)
+pobj(on-8, contact-11)
+
+ , it is n't marriage.
+root(ROOT-0, is-3)
+nsubj(is-3, it-2)
+prep(is-3, n't-4)
+dep(n't-4, marriage-5)
+

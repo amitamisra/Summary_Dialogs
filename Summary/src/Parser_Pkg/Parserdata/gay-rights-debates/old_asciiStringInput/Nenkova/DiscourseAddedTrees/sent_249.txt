@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (PRP they)) (VP (VBP are) (NP (NN nothing)) (SBAR (ADVP (RB alike)) (IN while#0#Comparison) (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (PRP they)) (VP (VBP have) (NP (JJ many) (NNS similarities)))))))))))) (. .)))

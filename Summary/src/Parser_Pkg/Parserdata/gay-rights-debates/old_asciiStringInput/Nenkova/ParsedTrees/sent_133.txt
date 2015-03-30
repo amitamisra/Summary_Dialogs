@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ holds) (NP (NN hope)) (SBAR (IN that) (S (NP (JJ gay) (NN marriage)) (VP (MD will) (VP (VB be) (VP (VBN banned) (ADVP (RB everywhere)))))))) (. .)))

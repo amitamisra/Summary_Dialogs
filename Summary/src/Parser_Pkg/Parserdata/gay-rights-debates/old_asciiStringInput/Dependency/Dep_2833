@@ -1,0 +1,24 @@
+   that the benefits deserved by homosexuals can be had without redefining marriage 
+root(ROOT-0, had-9)
+mark(had-9, that-1)
+det(benefits-3, the-2)
+nsubjpass(had-9, benefits-3)
+vmod(benefits-3, deserved-4)
+agent(deserved-4, homosexuals-6)
+aux(had-9, can-7)
+auxpass(had-9, be-8)
+prepc_without(had-9, redefining-11)
+dobj(redefining-11, marriage-12)
+
+   that the benefits deserved by homosexuals can be had without redefining marriage 
+root(ROOT-0, had-9)
+mark(had-9, that-1)
+det(benefits-3, the-2)
+nsubjpass(had-9, benefits-3)
+vmod(benefits-3, deserved-4)
+agent(deserved-4, homosexuals-6)
+aux(had-9, can-7)
+auxpass(had-9, be-8)
+prepc_without(had-9, redefining-11)
+dobj(redefining-11, marriage-12)
+

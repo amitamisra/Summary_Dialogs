@@ -1,0 +1,40 @@
+ that he knew that S2 is not against all diversity but seems to be very much against gays .
+
+
+root(ROOT-0, knew-3)
+mark(knew-3, that-1)
+nsubj(knew-3, he-2)
+nsubj(seems-12, he-2)
+mark(is-6, that-4)
+nsubj(is-6, S2-5)
+ccomp(knew-3, is-6)
+neg(is-6, not-7)
+det(diversity-10, all-9)
+prep_against(is-6, diversity-10)
+conj_but(knew-3, seems-12)
+aux(much-16, to-13)
+cop(much-16, be-14)
+advmod(much-16, very-15)
+xcomp(seems-12, much-16)
+prep_against(much-16, gays-18)
+
+ that he knew that S2 is not against all diversity but seems to be very much against gays .
+
+
+root(ROOT-0, knew-3)
+mark(knew-3, that-1)
+nsubj(knew-3, he-2)
+nsubj(seems-12, he-2)
+mark(is-6, that-4)
+nsubj(is-6, S2-5)
+ccomp(knew-3, is-6)
+neg(is-6, not-7)
+det(diversity-10, all-9)
+prep_against(is-6, diversity-10)
+conj_but(knew-3, seems-12)
+aux(much-16, to-13)
+cop(much-16, be-14)
+advmod(much-16, very-15)
+xcomp(seems-12, much-16)
+prep_against(much-16, gays-18)
+

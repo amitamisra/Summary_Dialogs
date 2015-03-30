@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1)) (SBAR (S (VP (VBZ thinks) (SBAR (S (NP (DT the) (NNS results)) (VP (VBP are) (UCP (JJ professional) (CC and#0#0) (NP (NN S1)))))))))) (VP (VBZ is) (ADJP (RB just) (JJ uncomfortable) (PP (IN with) (NP (DT the) (NNS results))))) (. .)))

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Christianity)) (VP (VBZ is) (NP (DT a) (JJ moral) (NN system))) (. .)))

@@ -1,0 +1,44 @@
+ that politicians seem to lie in order to get the position they want or sway people  to become popular , 
+root(ROOT-0, seem-3)
+mark(seem-3, that-1)
+nsubj(seem-3, politicians-2)
+aux(lie-5, to-4)
+xcomp(seem-3, lie-5)
+mark(get-9, in-6)
+dep(get-9, order-7)
+aux(get-9, to-8)
+advcl(lie-5, get-9)
+det(position-11, the-10)
+dobj(get-9, position-11)
+nsubj(want-13, they-12)
+nsubj(sway-15, they-12)
+rcmod(position-11, want-13)
+rcmod(position-11, sway-15)
+conj_or(want-13, sway-15)
+dobj(want-13, people-16)
+aux(popular-19, to-17)
+cop(popular-19, become-18)
+vmod(people-16, popular-19)
+
+The immorality of homosexuality in 1909 is based on ignorance .
+
+
+root(ROOT-0, based-8)
+det(immorality-2, The-1)
+nsubjpass(based-8, immorality-2)
+prep_of(immorality-2, homosexuality-4)
+prep_in(homosexuality-4, 1909-6)
+auxpass(based-8, is-7)
+prep_on(based-8, ignorance-10)
+
+The immorality of homosexuality in 1909 is based on ignorance .
+
+
+root(ROOT-0, based-8)
+det(immorality-2, The-1)
+nsubjpass(based-8, immorality-2)
+prep_of(immorality-2, homosexuality-4)
+prep_in(homosexuality-4, 1909-6)
+auxpass(based-8, is-7)
+prep_on(based-8, ignorance-10)
+

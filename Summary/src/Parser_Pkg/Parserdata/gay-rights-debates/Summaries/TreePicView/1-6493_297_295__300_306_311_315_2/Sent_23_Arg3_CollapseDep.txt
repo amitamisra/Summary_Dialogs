@@ -1,0 +1,5 @@
+root(ROOT-0, unfamiliar-3)
+nsubj(unfamiliar-3, they-1)
+cop(unfamiliar-3, are-2)
+det(truth-6, the-5)
+prep_with(unfamiliar-3, truth-6)

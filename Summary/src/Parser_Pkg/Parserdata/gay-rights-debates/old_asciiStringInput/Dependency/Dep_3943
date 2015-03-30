@@ -1,0 +1,40 @@
+ that it is unfair to have laws based on religious text that does serve as everyones religious text .
+
+
+root(ROOT-0, unfair-4)
+mark(unfair-4, that-1)
+nsubj(unfair-4, it-2)
+cop(unfair-4, is-3)
+aux(have-6, to-5)
+xcomp(unfair-4, have-6)
+dobj(have-6, laws-7)
+prepc_based_on(have-6, on-9)
+amod(text-11, religious-10)
+pobj(have-6, text-11)
+nsubj(serve-14, that-12)
+aux(serve-14, does-13)
+rcmod(text-11, serve-14)
+prep_as(serve-14, everyones-16)
+amod(text-18, religious-17)
+dep(everyones-16, text-18)
+
+ that it is unfair to have laws based on religious text that does serve as everyones religious text .
+
+
+root(ROOT-0, unfair-4)
+mark(unfair-4, that-1)
+nsubj(unfair-4, it-2)
+cop(unfair-4, is-3)
+aux(have-6, to-5)
+xcomp(unfair-4, have-6)
+dobj(have-6, laws-7)
+prepc_based_on(have-6, on-9)
+amod(text-11, religious-10)
+pobj(have-6, text-11)
+nsubj(serve-14, that-12)
+aux(serve-14, does-13)
+rcmod(text-11, serve-14)
+prep_as(serve-14, everyones-16)
+amod(text-18, religious-17)
+dep(everyones-16, text-18)
+

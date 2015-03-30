@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S2) (NNS attacks) (NN S1)) (PP (IN by) (S (VP (VBG calling) (NP (PRP$ their) (NN argument)) (ADVP (RB silly) (PP (IN because#0#0) (NP (PRP it)))))))) (VP (VBZ violates) (NP (DT the) (JJ First) (NN amendment) (NNS rights))) (. .)))

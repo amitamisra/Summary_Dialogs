@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ believes) (NP (NN fidelity)) (S (VP (TO to) (VP (VB be) (UCP (NP (NP (NN part)) (PP (IN of) (NP (DT the) (JJ normal) (JJ American) (NN attitude)))) (, ,) (CC or#0#0) (ADVP (IN at) (JJS least)) (PP (IN of) (NP (NNS Christians)))))))) (. .)))

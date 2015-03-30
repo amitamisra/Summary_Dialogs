@@ -1,0 +1,11 @@
+When people claim religion in morals, they abandon that moral system.
+root(ROOT-0, abandon-9)
+advmod(claim-3, When-1)
+nsubj(claim-3, people-2)
+advcl(abandon-9, claim-3)
+dobj(claim-3, religion-4)
+prep_in(religion-4, morals-6)
+nsubj(abandon-9, they-8)
+amod(system-12, moral-11)
+prep_that(abandon-9, system-12)
+

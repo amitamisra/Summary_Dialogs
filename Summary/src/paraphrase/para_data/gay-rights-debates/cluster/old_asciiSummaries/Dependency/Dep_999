@@ -1,0 +1,18 @@
+S1 advises values are always believed to be correct by the person or group who practices them.
+root(ROOT-0, advises-2)
+nsubj(advises-2, S1-1)
+nsubjpass(believed-6, values-3)
+auxpass(believed-6, are-4)
+advmod(believed-6, always-5)
+ccomp(advises-2, believed-6)
+aux(correct-9, to-7)
+cop(correct-9, be-8)
+xcomp(believed-6, correct-9)
+det(person-12, the-11)
+prep_by(correct-9, person-12)
+prep_by(correct-9, group-14)
+conj_or(person-12, group-14)
+dep(them-17, who-15)
+dep(them-17, practices-16)
+rcmod(person-12, them-17)
+

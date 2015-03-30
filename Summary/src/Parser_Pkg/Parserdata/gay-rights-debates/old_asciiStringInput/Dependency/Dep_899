@@ -1,0 +1,38 @@
+   who is allowed to get married 
+root(ROOT-0, allowed-3)
+nsubjpass(allowed-3, who-1)
+auxpass(allowed-3, is-2)
+aux(married-6, to-4)
+auxpass(married-6, get-5)
+xcomp(allowed-3, married-6)
+
+S2 retorts by stating  that young people and young marriage are not the same , 
+root(ROOT-0, retorts-2)
+nn(retorts-2, S2-1)
+prepc_by(retorts-2, stating-4)
+mark(same-14, that-5)
+amod(people-7, young-6)
+nsubj(same-14, people-7)
+amod(marriage-10, young-9)
+conj_and(people-7, marriage-10)
+nsubj(same-14, marriage-10)
+cop(same-14, are-11)
+neg(same-14, not-12)
+det(same-14, the-13)
+ccomp(stating-4, same-14)
+
+S2 retorts by stating  that young people and young marriage are not the same , 
+root(ROOT-0, retorts-2)
+nn(retorts-2, S2-1)
+prepc_by(retorts-2, stating-4)
+mark(same-14, that-5)
+amod(people-7, young-6)
+nsubj(same-14, people-7)
+amod(marriage-10, young-9)
+conj_and(people-7, marriage-10)
+nsubj(same-14, marriage-10)
+cop(same-14, are-11)
+neg(same-14, not-12)
+det(same-14, the-13)
+ccomp(stating-4, same-14)
+

@@ -1,0 +1,13 @@
+(Condition[S][N]
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!In regard to gay rights , the religious right and conservative republicans have made it a poisoned topic!_
+      _!such that politicians wont say!_)
+    (Explanation[N][S]
+      _!the right thing!_
+      _!because it will cost them votes .!_))
+  (Elaboration[N][S]
+    _!emocrats have had to be moderate on the issue!_
+    (Enablement[N][S]
+      _!in order to still be in a position!_
+      _!to do something . <s>!_)))

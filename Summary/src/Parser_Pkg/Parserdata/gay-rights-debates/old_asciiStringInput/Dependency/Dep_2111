@@ -1,0 +1,18 @@
+   it violates his or her religious beliefs 
+root(ROOT-0, violates-2)
+nsubj(violates-2, it-1)
+amod(beliefs-7, his-3)
+conj_or(his-3, her-5)
+amod(beliefs-7, her-5)
+amod(beliefs-7, religious-6)
+dobj(violates-2, beliefs-7)
+
+   it violates his or her religious beliefs 
+root(ROOT-0, violates-2)
+nsubj(violates-2, it-1)
+amod(beliefs-7, his-3)
+conj_or(his-3, her-5)
+amod(beliefs-7, her-5)
+amod(beliefs-7, religious-6)
+dobj(violates-2, beliefs-7)
+

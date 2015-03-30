@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ rebuts) (PP (IN by) (S (VP (VBG saying) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ 's) (VP (VBG calling) (S (NP (PRP it)) (NP (NN bigotry))) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ 's) (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (VBZ is))))))))))))))) (. .)))

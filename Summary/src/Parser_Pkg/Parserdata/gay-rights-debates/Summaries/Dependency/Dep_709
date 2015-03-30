@@ -1,0 +1,22 @@
+about what the moral and health concerns would be.
+root(ROOT-0, about-1)
+dobj(be-9, what-2)
+det(concerns-7, the-3)
+amod(concerns-7, moral-4)
+cc(moral-4, and-5)
+conj(moral-4, health-6)
+nsubj(be-9, concerns-7)
+aux(be-9, would-8)
+dep(about-1, be-9)
+
+about what the moral and health concerns would be.
+root(ROOT-0, about-1)
+dobj(be-9, what-2)
+det(concerns-7, the-3)
+amod(concerns-7, moral-4)
+cc(moral-4, and-5)
+conj(moral-4, health-6)
+nsubj(be-9, concerns-7)
+aux(be-9, would-8)
+dep(about-1, be-9)
+

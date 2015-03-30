@@ -1,0 +1,4 @@
+TEXT  S2 feels the US will not pass the laws so easily citing the fact that Hawaii has already banned the practice.
+
+1ARG:    the US will not pass the laws so easily citing the fact that Hawaii has already banned the practice
+2ARG:    S2 feels .

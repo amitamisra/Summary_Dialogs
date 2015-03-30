@@ -1,0 +1,16 @@
+She suggests that to view it otherwise would be an insult to all African Americans.
+root(ROOT-0, suggests-2)
+nsubj(suggests-2, She-1)
+mark(insult-11, that-3)
+aux(view-5, to-4)
+csubj(insult-11, view-5)
+dobj(view-5, it-6)
+advmod(view-5, otherwise-7)
+aux(insult-11, would-8)
+cop(insult-11, be-9)
+det(insult-11, an-10)
+ccomp(suggests-2, insult-11)
+det(Americans-15, all-13)
+amod(Americans-15, African-14)
+prep_to(insult-11, Americans-15)
+

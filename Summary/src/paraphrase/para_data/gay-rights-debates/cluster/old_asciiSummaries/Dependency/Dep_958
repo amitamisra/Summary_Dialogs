@@ -1,0 +1,13 @@
+(S2) says that politicians lie about their opinion to not loose votes.
+root(ROOT-0, says-4)
+nsubj(says-4, S2-2)
+mark(lie-7, that-5)
+nsubj(lie-7, politicians-6)
+ccomp(says-4, lie-7)
+poss(opinion-10, their-9)
+prep_about(lie-7, opinion-10)
+aux(loose-13, to-11)
+neg(loose-13, not-12)
+vmod(opinion-10, loose-13)
+dobj(loose-13, votes-14)
+

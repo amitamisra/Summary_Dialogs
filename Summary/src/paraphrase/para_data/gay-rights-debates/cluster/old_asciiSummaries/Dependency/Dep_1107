@@ -1,0 +1,14 @@
+S2 disagrees and thinks she is doing what she thinks is before society.
+root(ROOT-0, disagrees-2)
+nsubj(disagrees-2, S2-1)
+nsubj(thinks-4, S2-1)
+conj_and(disagrees-2, thinks-4)
+nsubj(doing-7, she-5)
+aux(doing-7, is-6)
+ccomp(thinks-4, doing-7)
+dobj(thinks-10, what-8)
+nsubj(thinks-10, she-9)
+ccomp(doing-7, thinks-10)
+ccomp(thinks-10, is-11)
+prep_before(is-11, society-13)
+

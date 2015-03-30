@@ -1,0 +1,16 @@
+S1 thinks S2 is making a generalization on the entire partys based off one person.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S1-1)
+nsubj(making-5, S2-3)
+aux(making-5, is-4)
+ccomp(thinks-2, making-5)
+det(generalization-7, a-6)
+dobj(making-5, generalization-7)
+det(partys-11, the-9)
+amod(partys-11, entire-10)
+prep_on(generalization-7, partys-11)
+prep(making-5, based-12)
+pcomp(based-12, off-13)
+num(person-15, one-14)
+pobj(off-13, person-15)
+

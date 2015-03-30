@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ asks) (NP (NP (NN S2)) (SBAR (WHADVP (WRB how)) (S (NP (JJ equal) (NN marriage)) (VP (MD would) (VP (VB hurt) (NP (NP (NN someone)) (, ,) (NP (PRP her)) (, ,) (CC or) (NP (NN anyone) (RB else))))))))) (. .)))

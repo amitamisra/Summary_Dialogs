@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ explains) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (RB not) (NP (NP (DT an) (NN inconsistency)) (PP (PP (IN in) (S (VP (VBG being) (PP (IN against) (NP (JJ gay) (NN marriage)))))) (, ,) (CC but) (PP (IN for) (NP (NP (JJ gay) (NNS rights)) (PP (IN in) (NP (DT every) (JJ other) (NN way))))))))))) (. .)))

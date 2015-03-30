@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB then)) (VP (VBZ asks) (NP (NN S2)) (S (VP (TO to) (VP (VB go) (PP (TO to) (NP (DT a) (S (VP (VBP cite))) (NN link))) (S (VP (TO to) (VP (VB see) (SBAR (WHADVP (WRB how)) (S (NP (NNS gays)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB reopen) (NP (NN bath) (NNS houses)) (PP (IN in) (NP (NNP San) (NNP Francisco))))))))))))))))) (. .)))

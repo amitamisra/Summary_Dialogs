@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ says) (S (VP (TO to) (VP (VB push) (ADVP (RB hard)) (PP (IN on) (NP (NP (NNP Biden)) (PP (IN about) (NP (DT the) (JJ gay) (NN marriage) (NN opinion))))) (PP (ADVP (NP (DT a) (JJ few) (NNS weeks)) (RB away)) (IN from) (NP (NP (NN election) (NN day) (CC and) (NN balance)) (NP (DT the) (NN response)))))))) (. .)))

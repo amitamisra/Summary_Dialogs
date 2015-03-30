@@ -1,0 +1,47 @@
+ Both S1 and S2 are for gay rights , S2 is stating that S1 is n't being consistent and `` admits '' to being inconsistent , 
+root(ROOT-0, are-5)
+preconj(S1-2, Both-1)
+nsubj(are-5, S1-2)
+conj_and(S1-2, S2-4)
+nsubj(are-5, S2-4)
+amod(rights-8, gay-7)
+prep_for(are-5, rights-8)
+prep_for(are-5, S2-10)
+conj_and(rights-8, S2-10)
+aux(stating-12, is-11)
+rcmod(S2-10, stating-12)
+mark(consistent-18, that-13)
+nsubj(consistent-18, S1-14)
+aux(consistent-18, is-15)
+neg(consistent-18, n't-16)
+cop(consistent-18, being-17)
+ccomp(stating-12, consistent-18)
+prep_for(are-5, admits-21)
+conj_and(rights-8, admits-21)
+cop(inconsistent-25, being-24)
+prepc_to(admits-21, inconsistent-25)
+
+People have been prejudiced against homosexuals for a long time .
+
+
+root(ROOT-0, prejudiced-4)
+nsubjpass(prejudiced-4, People-1)
+aux(prejudiced-4, have-2)
+auxpass(prejudiced-4, been-3)
+prep_against(prejudiced-4, homosexuals-6)
+det(time-10, a-8)
+amod(time-10, long-9)
+prep_for(homosexuals-6, time-10)
+
+People have been prejudiced against homosexuals for a long time .
+
+
+root(ROOT-0, prejudiced-4)
+nsubjpass(prejudiced-4, People-1)
+aux(prejudiced-4, have-2)
+auxpass(prejudiced-4, been-3)
+prep_against(prejudiced-4, homosexuals-6)
+det(time-10, a-8)
+amod(time-10, long-9)
+prep_for(homosexuals-6, time-10)
+

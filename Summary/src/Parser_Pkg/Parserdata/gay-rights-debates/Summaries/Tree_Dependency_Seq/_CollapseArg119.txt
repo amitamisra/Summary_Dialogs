@@ -1,0 +1,4 @@
+root(ROOT-0, is-3)
+nsubj(is-3, it-2)
+prep(is-3, n't-4)
+dep(n't-4, marriage-5)

@@ -1,0 +1,7 @@
+root(ROOT-0, think-3)
+nsubj(think-3, someone-1)
+aux(think-3, might-2)
+det(argument-5, an-4)
+nsubj(bigoted-7, argument-5)
+cop(bigoted-7, is-6)
+ccomp(think-3, bigoted-7)

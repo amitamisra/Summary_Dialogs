@@ -1,0 +1,6 @@
+root(ROOT-0, compares-2)
+nsubj(compares-2, He-1)
+amod(partners-4, homosexual-3)
+dobj(compares-2, partners-4)
+prep(compares-2, to-5)
+pobj(to-5, roommates-6)

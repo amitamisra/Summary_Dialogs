@@ -1,0 +1,33 @@
+ gays do n't have the right to shared health care.
+root(ROOT-0, have-4)
+nsubj(have-4, gays-1)
+aux(have-4, do-2)
+neg(have-4, n't-3)
+det(right-6, the-5)
+dobj(have-4, right-6)
+prep(right-6, to-7)
+amod(care-10, shared-8)
+nn(care-10, health-9)
+pobj(to-7, care-10)
+
+ gays do n't have the right to shared health care.
+root(ROOT-0, have-4)
+nsubj(have-4, gays-1)
+aux(have-4, do-2)
+neg(have-4, n't-3)
+det(right-6, the-5)
+dobj(have-4, right-6)
+prep(right-6, to-7)
+amod(care-10, shared-8)
+nn(care-10, health-9)
+pobj(to-7, care-10)
+
+ gays in general are much more promiscuous.
+root(ROOT-0, promiscuous-7)
+nsubj(promiscuous-7, gays-1)
+prep(gays-1, in-2)
+pobj(in-2, general-3)
+cop(promiscuous-7, are-4)
+advmod(promiscuous-7, much-5)
+advmod(promiscuous-7, more-6)
+

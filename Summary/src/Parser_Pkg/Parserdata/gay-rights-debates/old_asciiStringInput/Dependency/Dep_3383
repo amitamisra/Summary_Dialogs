@@ -1,0 +1,26 @@
+S1 believes he was only responding to the attacks by S2 .
+
+
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+nsubj(responding-6, he-3)
+aux(responding-6, was-4)
+advmod(responding-6, only-5)
+ccomp(believes-2, responding-6)
+det(attacks-9, the-8)
+prep_to(responding-6, attacks-9)
+prep_by(responding-6, S2-11)
+
+S1 believes he was only responding to the attacks by S2 .
+
+
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+nsubj(responding-6, he-3)
+aux(responding-6, was-4)
+advmod(responding-6, only-5)
+ccomp(believes-2, responding-6)
+det(attacks-9, the-8)
+prep_to(responding-6, attacks-9)
+prep_by(responding-6, S2-11)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, applies-6)
+nn(states-2, S1-1)
+dep(applies-6, states-2)
+dobj(applies-6, that-3)
+nsubj(applies-6, healthcare-4)
+advmod(applies-6, usually-5)
+prep(applies-6, to-7)
+pobj(to-7, spouses-8)

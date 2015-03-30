@@ -1,0 +1,5 @@
+root(ROOT-0, is-3)
+expl(is-3, there-2)
+nsubj(is-3, no-4)
+dep(is-3, choice-5)
+advmod(choice-5, but-6)

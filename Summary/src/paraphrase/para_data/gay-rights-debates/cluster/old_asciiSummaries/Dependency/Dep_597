@@ -1,0 +1,15 @@
+His name appears in the citations of virtually every legal brief filed by opponents of same-sex marriage .
+root(ROOT-0, appears-3)
+poss(name-2, His-1)
+nsubj(appears-3, name-2)
+det(citations-6, the-5)
+prep_in(appears-3, citations-6)
+advmod(brief-11, virtually-8)
+det(brief-11, every-9)
+amod(brief-11, legal-10)
+prep_of(citations-6, brief-11)
+vmod(brief-11, filed-12)
+agent(filed-12, opponents-14)
+amod(marriage-17, same-sex-16)
+prep_of(opponents-14, marriage-17)
+

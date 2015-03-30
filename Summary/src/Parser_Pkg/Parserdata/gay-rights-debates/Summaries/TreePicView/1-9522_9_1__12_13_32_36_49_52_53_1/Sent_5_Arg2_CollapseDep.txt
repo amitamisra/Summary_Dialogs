@@ -1,0 +1,8 @@
+root(ROOT-0, pay-3)
+amod(people-2, gay-1)
+nsubj(pay-3, people-2)
+poss(taxes-5, their-4)
+dobj(pay-3, taxes-5)
+advmod(taxes-5, just-6)
+prep_like(pay-3, everyone-8)
+advmod(everyone-8, else-9)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ feels) (SBAR (S (NP (DT the) (NNP US)) (VP (MD will) (RB not) (VP (VB pass) (NP (DT the) (NNS laws)) (ADVP (RB so#0#0) (RB easily) (S (VP (VBG citing) (NP (DT the) (NN fact)) (SBAR (IN that) (S (NP (NNP Hawaii)) (VP (VBZ has) (ADVP (RB already)) (VP (VBN banned) (NP (DT the) (NN practice)))))))))))))) (. .)))

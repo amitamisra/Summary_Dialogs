@@ -1,0 +1,13 @@
+S1 specifically points out the comparison of gay marriage to incest or polygamy.
+root(ROOT-0, points-3)
+nsubj(points-3, S1-1)
+advmod(points-3, specifically-2)
+prt(points-3, out-4)
+det(comparison-6, the-5)
+dobj(points-3, comparison-6)
+amod(marriage-9, gay-8)
+prep_of(comparison-6, marriage-9)
+prep_to(marriage-9, incest-11)
+prep_to(marriage-9, polygamy-13)
+conj_or(incest-11, polygamy-13)
+

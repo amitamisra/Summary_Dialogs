@@ -1,0 +1,12 @@
+   that S1 hates gays . 
+root(ROOT-0, hates-3)
+mark(hates-3, that-1)
+nsubj(hates-3, S1-2)
+dobj(hates-3, gays-4)
+
+   that S1 hates gays . 
+root(ROOT-0, hates-3)
+mark(hates-3, that-1)
+nsubj(hates-3, S1-2)
+dobj(hates-3, gays-4)
+

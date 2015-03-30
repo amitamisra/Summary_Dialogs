@@ -1,0 +1,33 @@
+   how big their lies are 
+root(ROOT-0, are-5)
+advmod(big-2, how-1)
+dep(are-5, big-2)
+poss(lies-4, their-3)
+nsubj(are-5, lies-4)
+
+S2: There was prejudice against gays in 1909 just as there is now.
+root(ROOT-0, S2-1)
+expl(was-4, There-3)
+dep(S2-1, was-4)
+nsubj(was-4, prejudice-5)
+prep_against(prejudice-5, gays-7)
+prep_in(gays-7, 1909-9)
+advmod(is-13, just-10)
+mark(is-13, as-11)
+expl(is-13, there-12)
+advcl(was-4, is-13)
+advmod(is-13, now-14)
+
+S2: There was prejudice against gays in 1909 just as there is now.
+root(ROOT-0, S2-1)
+expl(was-4, There-3)
+dep(S2-1, was-4)
+nsubj(was-4, prejudice-5)
+prep_against(prejudice-5, gays-7)
+prep_in(gays-7, 1909-9)
+advmod(is-13, just-10)
+mark(is-13, as-11)
+expl(is-13, there-12)
+advcl(was-4, is-13)
+advmod(is-13, now-14)
+

@@ -1,0 +1,1 @@
+(ROOT (S (S (VP (VBG Redefining) (ADVP (RB only)))) (VP (VBZ serves) (S (VP (TO to) (VP (VB hurt) (NP (NP (DT the) (JJ many) (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP see) (NP (NN marriage)) (PP (IN as#1#0) (NP (NP (DT a) (JJ sacred) (NN bond)) (PP (IN between) (NP (NN man) (CC and#0#0) (NN woman))))))))))))) (. .)))

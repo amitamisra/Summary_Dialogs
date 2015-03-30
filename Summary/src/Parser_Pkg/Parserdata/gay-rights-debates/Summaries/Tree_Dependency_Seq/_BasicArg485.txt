@@ -1,0 +1,8 @@
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+expl(is-4, there-3)
+ccomp(thinks-2, is-4)
+neg(proof-6, no-5)
+nsubj(is-4, proof-6)
+prep(proof-6, of-7)
+pobj(of-7, that-8)

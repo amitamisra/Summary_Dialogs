@@ -1,0 +1,16 @@
+He believes that the majority will support less ambiguous laws that ban gay marriage.
+root(ROOT-0, believes-2)
+nsubj(believes-2, He-1)
+mark(support-7, that-3)
+det(majority-5, the-4)
+nsubj(support-7, majority-5)
+aux(support-7, will-6)
+ccomp(believes-2, support-7)
+amod(laws-10, less-8)
+amod(laws-10, ambiguous-9)
+dobj(support-7, laws-10)
+nsubj(ban-12, that-11)
+rcmod(laws-10, ban-12)
+amod(marriage-14, gay-13)
+dobj(ban-12, marriage-14)
+

@@ -1,0 +1,43 @@
+  that S1s religious freedom is being persecuted 
+root(ROOT-0, persecuted-7)
+mark(persecuted-7, that-1)
+nn(freedom-4, S1s-2)
+amod(freedom-4, religious-3)
+nsubjpass(persecuted-7, freedom-4)
+aux(persecuted-7, is-5)
+auxpass(persecuted-7, being-6)
+
+Two people are discussing whether or not Christians want to ban gay people .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+mark(want-9, whether-5)
+ccomp(discussing-4, not-7)
+conj_or(want-9, not-7)
+nsubj(want-9, Christians-8)
+ccomp(discussing-4, want-9)
+aux(ban-11, to-10)
+xcomp(want-9, ban-11)
+amod(people-13, gay-12)
+dobj(ban-11, people-13)
+
+Two people are discussing whether or not Christians want to ban gay people .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+mark(want-9, whether-5)
+ccomp(discussing-4, not-7)
+conj_or(want-9, not-7)
+nsubj(want-9, Christians-8)
+ccomp(discussing-4, want-9)
+aux(ban-11, to-10)
+xcomp(want-9, ban-11)
+amod(people-13, gay-12)
+dobj(ban-11, people-13)
+

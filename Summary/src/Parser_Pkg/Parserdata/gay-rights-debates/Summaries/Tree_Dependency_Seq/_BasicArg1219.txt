@@ -1,0 +1,6 @@
+root(ROOT-0, finds-2)
+nsubj(finds-2, S2-1)
+prep(finds-2, that-3)
+pobj(that-3, offensive-4)
+appos(offensive-4, reasoning-6)
+rcmod(reasoning-6, that-7)

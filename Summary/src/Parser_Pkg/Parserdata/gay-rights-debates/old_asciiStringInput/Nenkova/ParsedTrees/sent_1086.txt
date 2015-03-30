@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ asserts) (SBAR (IN that) (S (S (VP (VBG redefining) (NP (NN marriage)) (S (VP (TO to) (VP (VB include) (NP (JJ same-sex) (NNS couples))))))) (VP (VBZ does) (RB not) (VP (VB harm) (NP (NN anyone))))))) (. .)))

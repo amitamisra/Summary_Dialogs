@@ -1,0 +1,6 @@
+root(ROOT-0, incorrect-3)
+nsubj(incorrect-3, he-1)
+cop(incorrect-3, was-2)
+prep(incorrect-3, about-4)
+pobj(about-4, the-5)
+vmod(the-5, citing-6)

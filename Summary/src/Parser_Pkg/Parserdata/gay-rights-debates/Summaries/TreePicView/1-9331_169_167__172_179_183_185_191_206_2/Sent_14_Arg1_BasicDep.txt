@@ -1,0 +1,8 @@
+root(ROOT-0, talk-1)
+prep(talk-1, about-2)
+amod(rights-4, gay-3)
+pobj(about-2, rights-4)
+prep(talk-1, in-5)
+pobj(in-5, relation-6)
+prep(talk-1, to-7)
+pobj(to-7, abortion-8)

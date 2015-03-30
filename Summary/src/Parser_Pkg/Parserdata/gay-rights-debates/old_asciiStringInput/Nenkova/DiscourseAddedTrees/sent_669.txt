@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (DT the) (JJ religious) (NN aspect)) (VP (VBZ is) (RB not) (SBAR (WHNP (WP what)) (S (NP (JJ gay) (NNS couples)) (VP (VBP are) (VP (VBG trying) (S (VP (TO to) (VP (VB be) (NP (NP (DT a) (NN part)) (PP (IN of)))))))))))))) (. .)))

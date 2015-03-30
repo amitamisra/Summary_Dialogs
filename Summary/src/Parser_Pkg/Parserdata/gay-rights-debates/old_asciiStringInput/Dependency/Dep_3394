@@ -1,0 +1,24 @@
+(S1) is talking about how gay marriage is not synonymous with violence.
+root(ROOT-0, talking-5)
+nsubj(talking-5, S1-2)
+aux(talking-5, is-4)
+advmod(synonymous-12, how-7)
+amod(marriage-9, gay-8)
+nsubj(synonymous-12, marriage-9)
+cop(synonymous-12, is-10)
+neg(synonymous-12, not-11)
+prepc_about(talking-5, synonymous-12)
+prep_with(synonymous-12, violence-14)
+
+(S1) is talking about how gay marriage is not synonymous with violence.
+root(ROOT-0, talking-5)
+nsubj(talking-5, S1-2)
+aux(talking-5, is-4)
+advmod(synonymous-12, how-7)
+amod(marriage-9, gay-8)
+nsubj(synonymous-12, marriage-9)
+cop(synonymous-12, is-10)
+neg(synonymous-12, not-11)
+prepc_about(talking-5, synonymous-12)
+prep_with(synonymous-12, violence-14)
+

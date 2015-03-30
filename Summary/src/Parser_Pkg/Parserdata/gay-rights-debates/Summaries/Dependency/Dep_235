@@ -1,0 +1,40 @@
+it is n't in the definition of marriage.
+root(ROOT-0, is-2)
+nsubj(is-2, it-1)
+neg(is-2, n't-3)
+prep(is-2, in-4)
+det(definition-6, the-5)
+pobj(in-4, definition-6)
+prep(definition-6, of-7)
+pobj(of-7, marriage-8)
+
+it is n't in the definition of marriage.
+root(ROOT-0, is-2)
+nsubj(is-2, it-1)
+neg(is-2, n't-3)
+prep(is-2, in-4)
+det(definition-6, the-5)
+pobj(in-4, definition-6)
+prep(definition-6, of-7)
+pobj(of-7, marriage-8)
+
+it is n't in the definition of marriage.
+root(ROOT-0, is-2)
+nsubj(is-2, it-1)
+neg(is-2, n't-3)
+prep(is-2, in-4)
+det(definition-6, the-5)
+pobj(in-4, definition-6)
+prep(definition-6, of-7)
+pobj(of-7, marriage-8)
+
+, slavery and women 's rights are bad comparisons.
+root(ROOT-0, slavery-2)
+prep(slavery-2, and-3)
+pobj(and-3, women-4)
+possessive(women-4, 's-5)
+nsubj(comparisons-9, rights-6)
+cop(comparisons-9, are-7)
+amod(comparisons-9, bad-8)
+rcmod(women-4, comparisons-9)
+

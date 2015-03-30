@@ -1,0 +1,4 @@
+root(ROOT-0, understand-4)
+nsubj(understand-4, S1-1)
+aux(understand-4, does-2)
+neg(understand-4, n't-3)

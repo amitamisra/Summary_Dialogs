@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-)) (ADVP (RB also#0#0))) (VP (VBZ says) (SBAR (IN that) (S (NP (NNP Paul)) (VP (VBZ has) (VP (VBN been) (VP (VBN cited) (PP (IN in) (NP (NP (RB virtually) (DT every) (JJ legal) (NN brief)) (SBAR (S (VP (VBD filed) (S (VP (VBG opposing) (NP (JJ gay) (NN marriage))))))))))))))) (. .)))

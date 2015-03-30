@@ -1,0 +1,7 @@
+root(ROOT-0, insult-4)
+nsubj(insult-4, it-1)
+cop(insult-4, is-2)
+det(insult-4, an-3)
+det(Americans-8, all-6)
+amod(Americans-8, African-7)
+prep_to(insult-4, Americans-8)

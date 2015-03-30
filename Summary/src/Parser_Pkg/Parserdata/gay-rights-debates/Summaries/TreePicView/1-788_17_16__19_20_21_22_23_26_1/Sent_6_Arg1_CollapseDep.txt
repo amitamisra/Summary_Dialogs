@@ -1,0 +1,5 @@
+root(ROOT-0, opposed-3)
+nsubjpass(opposed-3, people-1)
+auxpass(opposed-3, are-2)
+amod(marriage-6, gay-5)
+prep_to(opposed-3, marriage-6)

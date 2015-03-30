@@ -1,0 +1,6 @@
+root(ROOT-0, due-3)
+nsubj(due-3, this-1)
+cop(due-3, is-2)
+prep(due-3, to-4)
+amod(freedom-6, religious-5)
+pobj(to-4, freedom-6)

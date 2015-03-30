@@ -1,0 +1,14 @@
+S2 questions what is perverse.
+root(ROOT-0, questions-2)
+nn(questions-2, S2-1)
+nsubj(perverse-5, what-3)
+cop(perverse-5, is-4)
+rcmod(questions-2, perverse-5)
+
+S2 questions what is perverse.
+root(ROOT-0, questions-2)
+nn(questions-2, S2-1)
+nsubj(perverse-5, what-3)
+cop(perverse-5, is-4)
+rcmod(questions-2, perverse-5)
+

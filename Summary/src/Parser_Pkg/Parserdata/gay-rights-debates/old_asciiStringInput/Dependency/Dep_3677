@@ -1,0 +1,16 @@
+   the FFC clause does not apply ? 
+root(ROOT-0, apply-6)
+det(clause-3, the-1)
+nn(clause-3, FFC-2)
+nsubj(apply-6, clause-3)
+aux(apply-6, does-4)
+neg(apply-6, not-5)
+
+   the FFC clause does not apply ? 
+root(ROOT-0, apply-6)
+det(clause-3, the-1)
+nn(clause-3, FFC-2)
+nsubj(apply-6, clause-3)
+aux(apply-6, does-4)
+neg(apply-6, not-5)
+

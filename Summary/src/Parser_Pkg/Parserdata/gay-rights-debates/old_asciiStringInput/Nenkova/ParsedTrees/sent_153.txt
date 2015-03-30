@@ -1,0 +1,1 @@
+(ROOT (S (ADVP (RB Therefore)) (, ,) (NP (NP (NN slavery)) (CC and) (NP (NP (NNS women) (POS 's)) (NNS rights))) (VP (VBP are) (NP (JJ bad) (NNS comparisons))) (. .)))

@@ -1,0 +1,7 @@
+(Contrast[S][N]
+  _!S1 and S2 enter a discussion about gay rights ,!_
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!but more specifically on the claims!_
+      _!made by a certain Republican Party member :!_)
+    _!Paul Cameron . <s>!_))

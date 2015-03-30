@@ -1,0 +1,14 @@
+Free to be gay as long as they weren't openly gay.
+root(ROOT-0, gay-4)
+nsubj(gay-4, Free-1)
+aux(gay-4, to-2)
+cop(gay-4, be-3)
+advmod(long-6, as-5)
+advmod(gay-4, long-6)
+mark(gay-12, as-7)
+nsubj(gay-12, they-8)
+cop(gay-12, were-9)
+neg(gay-12, n't-10)
+advmod(gay-12, openly-11)
+advcl(gay-4, gay-12)
+

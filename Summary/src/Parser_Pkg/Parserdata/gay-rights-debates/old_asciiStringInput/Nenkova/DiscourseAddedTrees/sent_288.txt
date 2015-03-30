@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP She)) (VP (VBZ lets) (S (NP (NN S1)) (VP (VB know) (SBAR (IN that) (S (VP (VBP cite) (SBAR (S (NP (NNS links)) (VP (VBP have) (VP (VBN been) (VP (VBN shared) (NP-TMP (JJ many) (NNS times))))))))))))) (. .)))

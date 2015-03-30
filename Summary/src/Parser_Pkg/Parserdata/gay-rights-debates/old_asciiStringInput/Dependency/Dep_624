@@ -1,0 +1,44 @@
+ that supreme court decisions regarding violations of state constitutions are irrelevant to the federal constitution .
+
+
+root(ROOT-0, irrelevant-11)
+mark(irrelevant-11, that-1)
+nn(decisions-4, supreme-2)
+nn(decisions-4, court-3)
+nsubj(irrelevant-11, decisions-4)
+prep_regarding(decisions-4, violations-6)
+nn(constitutions-9, state-8)
+prep_of(violations-6, constitutions-9)
+cop(irrelevant-11, are-10)
+det(constitution-15, the-13)
+amod(constitution-15, federal-14)
+prep_to(irrelevant-11, constitution-15)
+
+He also thinks that same sex marriage does, in fact benefit our U.S.
+root(ROOT-0, thinks-3)
+nsubj(thinks-3, He-1)
+advmod(thinks-3, also-2)
+mark(does-8, that-4)
+amod(marriage-7, same-5)
+nn(marriage-7, sex-6)
+nsubj(does-8, marriage-7)
+ccomp(thinks-3, does-8)
+nn(benefit-12, fact-11)
+prep_in(thinks-3, benefit-12)
+poss(U.S.-14, our-13)
+dep(benefit-12, U.S.-14)
+
+He also thinks that same sex marriage does, in fact benefit our U.S.
+root(ROOT-0, thinks-3)
+nsubj(thinks-3, He-1)
+advmod(thinks-3, also-2)
+mark(does-8, that-4)
+amod(marriage-7, same-5)
+nn(marriage-7, sex-6)
+nsubj(does-8, marriage-7)
+ccomp(thinks-3, does-8)
+nn(benefit-12, fact-11)
+prep_in(thinks-3, benefit-12)
+poss(U.S.-14, our-13)
+dep(benefit-12, U.S.-14)
+

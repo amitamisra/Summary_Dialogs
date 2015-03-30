@@ -1,0 +1,48 @@
+ that gays are the first victims of the AIS epidemic and acknowledges that gays are the first people to spread it .
+
+
+root(ROOT-0, victims-6)
+mark(victims-6, that-1)
+nsubj(victims-6, gays-2)
+nsubj(acknowledges-12, gays-2)
+cop(victims-6, are-3)
+det(victims-6, the-4)
+amod(victims-6, first-5)
+det(AIS-9, the-8)
+prep_of(victims-6, AIS-9)
+amod(victims-6, epidemic-10)
+conj_and(victims-6, acknowledges-12)
+mark(people-18, that-13)
+nsubj(people-18, gays-14)
+cop(people-18, are-15)
+det(people-18, the-16)
+amod(people-18, first-17)
+ccomp(acknowledges-12, people-18)
+aux(spread-20, to-19)
+vmod(people-18, spread-20)
+dobj(spread-20, it-21)
+
+ that gays are the first victims of the AIS epidemic and acknowledges that gays are the first people to spread it .
+
+
+root(ROOT-0, victims-6)
+mark(victims-6, that-1)
+nsubj(victims-6, gays-2)
+nsubj(acknowledges-12, gays-2)
+cop(victims-6, are-3)
+det(victims-6, the-4)
+amod(victims-6, first-5)
+det(AIS-9, the-8)
+prep_of(victims-6, AIS-9)
+amod(victims-6, epidemic-10)
+conj_and(victims-6, acknowledges-12)
+mark(people-18, that-13)
+nsubj(people-18, gays-14)
+cop(people-18, are-15)
+det(people-18, the-16)
+amod(people-18, first-17)
+ccomp(acknowledges-12, people-18)
+aux(spread-20, to-19)
+vmod(people-18, spread-20)
+dobj(spread-20, it-21)
+

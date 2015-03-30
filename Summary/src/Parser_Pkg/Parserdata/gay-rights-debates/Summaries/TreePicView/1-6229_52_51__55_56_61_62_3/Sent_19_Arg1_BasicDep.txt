@@ -1,0 +1,7 @@
+root(ROOT-0, enslaving-2)
+nsubjpass(accepted-5, people-3)
+auxpass(accepted-5, was-4)
+ccomp(enslaving-2, accepted-5)
+prep(accepted-5, in-6)
+amod(societies-8, previous-7)
+pobj(in-6, societies-8)

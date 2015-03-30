@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S1)) (VP (VBZ contends) (SBAR (IN that) (S (NP (JJS most) (NNS Christians)) (VP (VBP are) (RB not) (VP (VBG trying) (S (VP (TO to) (VP (VB ban) (NP (NP (DT the) (NN decriminalization)) (PP (IN of) (NP (NN same-sex))))))))))))) (, ,) (NP (PRP it)) (VP (VBD was) (VP (ADVP (RB just) (NP (DT an) (NN accusation))) (VBN made))) (. .)))

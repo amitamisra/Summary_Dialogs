@@ -1,0 +1,26 @@
+  ,  it is corrupt to post an article but withhold the source link . 
+root(ROOT-0, corrupt-4)
+nsubj(corrupt-4, it-2)
+cop(corrupt-4, is-3)
+aux(post-6, to-5)
+xcomp(corrupt-4, post-6)
+det(article-8, an-7)
+nsubj(withhold-10, article-8)
+cc(withhold-10, but-9)
+ccomp(post-6, withhold-10)
+det(link-13, the-11)
+nn(link-13, source-12)
+dobj(withhold-10, link-13)
+
+  society is oppressing people , 
+root(ROOT-0, oppressing-3)
+nsubj(oppressing-3, society-1)
+aux(oppressing-3, is-2)
+dobj(oppressing-3, people-4)
+
+  society is oppressing people , 
+root(ROOT-0, oppressing-3)
+nsubj(oppressing-3, society-1)
+aux(oppressing-3, is-2)
+dobj(oppressing-3, people-4)
+

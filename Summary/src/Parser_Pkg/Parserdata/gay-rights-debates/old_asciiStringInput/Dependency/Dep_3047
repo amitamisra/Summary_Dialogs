@@ -1,0 +1,28 @@
+  that   people are opposed to gay marriage  they are often called a homophobe 
+root(ROOT-0, opposed-4)
+mark(opposed-4, that-1)
+nsubjpass(opposed-4, people-2)
+auxpass(opposed-4, are-3)
+amod(marriage-7, gay-6)
+prep_to(opposed-4, marriage-7)
+nsubjpass(called-11, they-8)
+auxpass(called-11, are-9)
+advmod(called-11, often-10)
+rcmod(marriage-7, called-11)
+det(homophobe-13, a-12)
+dobj(called-11, homophobe-13)
+
+  that   people are opposed to gay marriage  they are often called a homophobe 
+root(ROOT-0, opposed-4)
+mark(opposed-4, that-1)
+nsubjpass(opposed-4, people-2)
+auxpass(opposed-4, are-3)
+amod(marriage-7, gay-6)
+prep_to(opposed-4, marriage-7)
+nsubjpass(called-11, they-8)
+auxpass(called-11, are-9)
+advmod(called-11, often-10)
+rcmod(marriage-7, called-11)
+det(homophobe-13, a-12)
+dobj(called-11, homophobe-13)
+

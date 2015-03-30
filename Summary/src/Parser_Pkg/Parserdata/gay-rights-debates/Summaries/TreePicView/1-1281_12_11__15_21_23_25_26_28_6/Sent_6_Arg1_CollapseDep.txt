@@ -1,0 +1,5 @@
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+prep_in(is-2, favor-4)
+amod(marriage-7, gay-6)
+prep_of(favor-4, marriage-7)

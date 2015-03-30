@@ -1,0 +1,45 @@
+  that in 1909 , the stance against homosexuality was based on a moral obligation and not prejudice 
+root(ROOT-0, based-10)
+mark(based-10, that-1)
+prep_in(based-10, 1909-3)
+det(stance-6, the-5)
+nsubjpass(based-10, stance-6)
+prep_against(stance-6, homosexuality-8)
+auxpass(based-10, was-9)
+det(obligation-14, a-12)
+amod(obligation-14, moral-13)
+prep_on(based-10, obligation-14)
+neg(prejudice-17, not-16)
+prep_on(based-10, prejudice-17)
+conj_and(obligation-14, prejudice-17)
+
+S1 and S2 are discussing gay marriage and S2 's opposition to it .
+
+
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+amod(marriage-7, gay-6)
+dobj(discussing-5, marriage-7)
+poss(opposition-11, S2-9)
+dobj(discussing-5, opposition-11)
+conj_and(marriage-7, opposition-11)
+prep_to(discussing-5, it-13)
+
+S1 and S2 are discussing gay marriage and S2 's opposition to it .
+
+
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+amod(marriage-7, gay-6)
+dobj(discussing-5, marriage-7)
+poss(opposition-11, S2-9)
+dobj(discussing-5, opposition-11)
+conj_and(marriage-7, opposition-11)
+prep_to(discussing-5, it-13)
+

@@ -1,0 +1,18 @@
+   believes these were passed without a ballot vote . 
+root(ROOT-0, believes-1)
+nsubjpass(passed-4, these-2)
+auxpass(passed-4, were-3)
+ccomp(believes-1, passed-4)
+det(vote-8, a-6)
+nn(vote-8, ballot-7)
+prep_without(passed-4, vote-8)
+
+   believes these were passed without a ballot vote . 
+root(ROOT-0, believes-1)
+nsubjpass(passed-4, these-2)
+auxpass(passed-4, were-3)
+ccomp(believes-1, passed-4)
+det(vote-8, a-6)
+nn(vote-8, ballot-7)
+prep_without(passed-4, vote-8)
+

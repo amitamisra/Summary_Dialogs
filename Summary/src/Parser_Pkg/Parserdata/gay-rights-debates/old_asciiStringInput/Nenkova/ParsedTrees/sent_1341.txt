@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (S (NP (JJ single) (NNS people)) (VP (VBP do) (RB not) (VP (VB have) (NP (NP (JJ same) (NNS issues)) (PP (IN as) (NP (JJ married) (NNS people)))) (PP (IN from) (NP (NN experience)))))))) (. .)))

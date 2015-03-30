@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (S (NP (NN S1)) (VP (VBZ is) (VP (VBG ignoring) (NP (PRP him)))))))) (CC but) (S (NP (NN S1)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (RB not) (ADVP (RB rather)) (SBAR (S (NP (JJ S2s) (NN tone)) (VP (VBZ has) (VP (VBN changed)))))))))) (. .)))

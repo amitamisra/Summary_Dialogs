@@ -1,0 +1,9 @@
+(Explanation[N][S]
+  (Attribution[S][N]
+    (same-unit[N][N]
+      (Elaboration[N][S] _!To that!_ _!( S2 )!_)
+      _!says!_)
+    (same-unit[N][N]
+      _!that!_
+      _!he can not trust the intellectual honesty discourse of ( S1 )!_))
+  _!because of his flawed arguments . <s>!_)

@@ -1,0 +1,58 @@
+S1 understands the other issues , but does n't see the relationship between those and that of same-sex marriage .
+
+
+root(ROOT-0, understands-2)
+nsubj(understands-2, S1-1)
+nsubj(see-10, S1-1)
+det(issues-5, the-3)
+amod(issues-5, other-4)
+dobj(understands-2, issues-5)
+aux(see-10, does-8)
+neg(see-10, n't-9)
+conj_but(understands-2, see-10)
+det(relationship-12, the-11)
+dobj(see-10, relationship-12)
+prep_between(relationship-12, those-14)
+dobj(see-10, that-16)
+conj_and(relationship-12, that-16)
+amod(marriage-19, same-sex-18)
+prep_of(that-16, marriage-19)
+
+ that he does n't want to impose his morals on others , but believes in defending the Constitution .
+
+
+root(ROOT-0, want-5)
+mark(want-5, that-1)
+nsubj(want-5, he-2)
+nsubj(believes-14, he-2)
+aux(want-5, does-3)
+neg(want-5, n't-4)
+aux(impose-7, to-6)
+xcomp(want-5, impose-7)
+poss(morals-9, his-8)
+dobj(impose-7, morals-9)
+prep_on(impose-7, others-11)
+conj_but(want-5, believes-14)
+prepc_in(believes-14, defending-16)
+det(Constitution-18, the-17)
+dobj(defending-16, Constitution-18)
+
+ that he does n't want to impose his morals on others , but believes in defending the Constitution .
+
+
+root(ROOT-0, want-5)
+mark(want-5, that-1)
+nsubj(want-5, he-2)
+nsubj(believes-14, he-2)
+aux(want-5, does-3)
+neg(want-5, n't-4)
+aux(impose-7, to-6)
+xcomp(want-5, impose-7)
+poss(morals-9, his-8)
+dobj(impose-7, morals-9)
+prep_on(impose-7, others-11)
+conj_but(want-5, believes-14)
+prepc_in(believes-14, defending-16)
+det(Constitution-18, the-17)
+dobj(defending-16, Constitution-18)
+

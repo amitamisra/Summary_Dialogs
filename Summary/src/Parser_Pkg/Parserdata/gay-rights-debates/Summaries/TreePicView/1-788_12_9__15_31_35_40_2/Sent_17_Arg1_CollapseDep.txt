@@ -1,0 +1,5 @@
+root(ROOT-0, criticize-3)
+advmod(criticize-3, even-1)
+nsubj(criticize-3, conservatives-2)
+poss(spending-6, Bush-4)
+dobj(criticize-3, spending-6)

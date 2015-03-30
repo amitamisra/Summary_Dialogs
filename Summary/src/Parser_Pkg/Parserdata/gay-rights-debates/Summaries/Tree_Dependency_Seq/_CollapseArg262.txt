@@ -1,0 +1,8 @@
+root(ROOT-0, law-3)
+det(law-3, a-1)
+amod(law-3, federal-2)
+vmod(law-3, allowing-4)
+amod(marriages-6, gay-5)
+dobj(allowing-4, marriages-6)
+det(US-9, the-8)
+prep_in(allowing-4, US-9)

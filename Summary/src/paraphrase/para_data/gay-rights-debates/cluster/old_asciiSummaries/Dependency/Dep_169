@@ -1,0 +1,16 @@
+S2 ends the discussion by accusing S1 of repeating his points, which pertain to two separate issues.
+root(ROOT-0, ends-2)
+nsubj(ends-2, S2-1)
+det(discussion-4, the-3)
+dobj(ends-2, discussion-4)
+prepc_by(ends-2, accusing-6)
+dobj(accusing-6, S1-7)
+prepc_of(S1-7, repeating-9)
+poss(points-11, his-10)
+dobj(repeating-9, points-11)
+nsubj(pertain-14, which-13)
+rcmod(points-11, pertain-14)
+num(issues-18, two-16)
+amod(issues-18, separate-17)
+prep_to(pertain-14, issues-18)
+

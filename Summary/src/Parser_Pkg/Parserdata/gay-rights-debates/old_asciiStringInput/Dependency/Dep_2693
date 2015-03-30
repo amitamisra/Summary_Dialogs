@@ -1,0 +1,44 @@
+ that the opposition to gay marriage is a lack of acceptance of homosexuality or its visible and open displays and representations .
+
+
+root(ROOT-0, lack-9)
+mark(lack-9, that-1)
+det(opposition-3, the-2)
+nsubj(lack-9, opposition-3)
+amod(marriage-6, gay-5)
+prep_to(opposition-3, marriage-6)
+cop(lack-9, is-7)
+det(lack-9, a-8)
+prep_of(lack-9, acceptance-11)
+prep_of(acceptance-11, homosexuality-13)
+poss(displays-19, its-15)
+amod(displays-19, visible-16)
+conj_and(visible-16, open-18)
+amod(displays-19, open-18)
+prep_of(lack-9, displays-19)
+conj_or(acceptance-11, displays-19)
+conj_or(acceptance-11, representations-21)
+conj_and(displays-19, representations-21)
+
+ that the opposition to gay marriage is a lack of acceptance of homosexuality or its visible and open displays and representations .
+
+
+root(ROOT-0, lack-9)
+mark(lack-9, that-1)
+det(opposition-3, the-2)
+nsubj(lack-9, opposition-3)
+amod(marriage-6, gay-5)
+prep_to(opposition-3, marriage-6)
+cop(lack-9, is-7)
+det(lack-9, a-8)
+prep_of(lack-9, acceptance-11)
+prep_of(acceptance-11, homosexuality-13)
+poss(displays-19, its-15)
+amod(displays-19, visible-16)
+conj_and(visible-16, open-18)
+amod(displays-19, open-18)
+prep_of(lack-9, displays-19)
+conj_or(acceptance-11, displays-19)
+conj_or(acceptance-11, representations-21)
+conj_and(displays-19, representations-21)
+

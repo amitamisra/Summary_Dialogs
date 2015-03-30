@@ -1,0 +1,34 @@
+ that there have always been homosexuals and prejudice against them , citing Oscar Wilde for example .
+
+
+root(ROOT-0, homosexuals-6)
+mark(homosexuals-6, that-1)
+expl(homosexuals-6, there-2)
+aux(homosexuals-6, have-3)
+advmod(homosexuals-6, always-4)
+cop(homosexuals-6, been-5)
+conj_and(homosexuals-6, prejudice-8)
+prep_against(homosexuals-6, them-10)
+vmod(homosexuals-6, citing-12)
+nn(Wilde-14, Oscar-13)
+dobj(citing-12, Wilde-14)
+prep_for(Wilde-14, example-16)
+
+   it is an insult to all African Americans 
+root(ROOT-0, insult-4)
+nsubj(insult-4, it-1)
+cop(insult-4, is-2)
+det(insult-4, an-3)
+det(Americans-8, all-6)
+amod(Americans-8, African-7)
+prep_to(insult-4, Americans-8)
+
+   it is an insult to all African Americans 
+root(ROOT-0, insult-4)
+nsubj(insult-4, it-1)
+cop(insult-4, is-2)
+det(insult-4, an-3)
+det(Americans-8, all-6)
+amod(Americans-8, African-7)
+prep_to(insult-4, Americans-8)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, name-4)
+nn(resorts-2, someone-1)
+nsubj(name-4, resorts-2)
+aux(name-4, to-3)
+xcomp(name-4, calling-5)
+prep(calling-5, in-6)
+det(argument-8, an-7)
+pobj(in-6, argument-8)

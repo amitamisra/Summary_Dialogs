@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ feels) (SBAR (S (NP (DT the) (JJ opposing) (NN group)) (VP (VBZ is) (VP (VBG using) (NP (NP (DT the) (NN spread)) (PP (IN of) (NP (NNP AIS)))) (PP (IN as) (NP (NP (DT a) (NN basis)) (PP (IN for) (S (VP (VBG banning) (NP (JJ gay) (NN marriage)))))))))))) (. .)))

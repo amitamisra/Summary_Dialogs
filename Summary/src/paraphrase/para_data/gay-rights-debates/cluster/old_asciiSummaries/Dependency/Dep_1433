@@ -1,0 +1,11 @@
+He thinks same sex partners living together are roommates.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+amod(partners-5, same-3)
+nn(partners-5, sex-4)
+nsubj(roommates-9, partners-5)
+vmod(partners-5, living-6)
+advmod(living-6, together-7)
+cop(roommates-9, are-8)
+ccomp(thinks-2, roommates-9)
+

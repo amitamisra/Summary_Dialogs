@@ -1,0 +1,4 @@
+root(ROOT-0, is-1)
+prep(is-1, like-2)
+amod(marriage-4, gay-3)
+pobj(like-2, marriage-4)

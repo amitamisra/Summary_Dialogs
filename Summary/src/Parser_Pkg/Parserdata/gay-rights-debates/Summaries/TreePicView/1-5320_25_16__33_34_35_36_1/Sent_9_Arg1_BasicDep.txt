@@ -1,0 +1,6 @@
+root(ROOT-0, involved-4)
+det(cases-3, the-1)
+amod(cases-3, cited-2)
+nsubj(involved-4, cases-3)
+nn(constitutions-6, state-5)
+dobj(involved-4, constitutions-6)

@@ -1,0 +1,38 @@
+   he thinks he simply hates a form of it , gay people 
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, he-1)
+nsubj(hates-5, he-3)
+advmod(hates-5, simply-4)
+ccomp(thinks-2, hates-5)
+det(form-7, a-6)
+dobj(hates-5, form-7)
+prep_of(form-7, it-9)
+amod(people-12, gay-11)
+appos(it-9, people-12)
+
+It was presented in the " debate " about same-sex marriage in the U.S. friggin ' Senate .
+root(ROOT-0, presented-3)
+nsubjpass(presented-3, It-1)
+auxpass(presented-3, was-2)
+prep_in(presented-3, the-5)
+npadvmod(the-5, debate-7)
+amod(marriage-11, same-sex-10)
+nn(Senate-17, marriage-11)
+det(friggin-15, the-13)
+nn(friggin-15, U.S.-14)
+prep_in(marriage-11, friggin-15)
+prep_about(the-5, Senate-17)
+
+It was presented in the " debate " about same-sex marriage in the U.S. friggin ' Senate .
+root(ROOT-0, presented-3)
+nsubjpass(presented-3, It-1)
+auxpass(presented-3, was-2)
+prep_in(presented-3, the-5)
+npadvmod(the-5, debate-7)
+amod(marriage-11, same-sex-10)
+nn(Senate-17, marriage-11)
+det(friggin-15, the-13)
+nn(friggin-15, U.S.-14)
+prep_in(marriage-11, friggin-15)
+prep_about(the-5, Senate-17)
+

@@ -1,0 +1,30 @@
+ that S1 and the woman both have their own opinions .
+
+
+root(ROOT-0, have-7)
+mark(have-7, that-1)
+nsubj(have-7, S1-2)
+det(woman-5, the-4)
+conj_and(S1-2, woman-5)
+nsubj(have-7, woman-5)
+dep(woman-5, both-6)
+poss(opinions-10, their-8)
+amod(opinions-10, own-9)
+dobj(have-7, opinions-10)
+
+Two people are discussing gay marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+
+Two people are discussing gay marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+

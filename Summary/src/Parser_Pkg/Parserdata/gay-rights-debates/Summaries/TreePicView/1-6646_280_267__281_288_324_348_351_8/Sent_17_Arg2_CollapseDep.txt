@@ -1,0 +1,7 @@
+root(ROOT-0, deviate-8)
+amod(families-2, homosexual-1)
+nsubj(deviate-8, families-2)
+prep_like(families-2, S2-5)
+possessive(S2-5, 's-6)
+det(norm-11, the-10)
+prep_from(deviate-8, norm-11)

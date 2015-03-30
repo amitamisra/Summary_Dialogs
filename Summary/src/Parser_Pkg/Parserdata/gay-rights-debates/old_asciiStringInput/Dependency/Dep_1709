@@ -1,0 +1,47 @@
+Both -LRB- S1 -RRB- and -LRB- S2 -RRB- keep referring to others views on the issue and choose sides .
+
+
+root(ROOT-0, keep-9)
+det(S1-3, Both-1)
+nsubj(keep-9, S1-3)
+conj_and(S1-3, S2-7)
+nsubj(keep-9, S2-7)
+dep(keep-9, referring-10)
+nn(views-13, others-12)
+prep_to(referring-10, views-13)
+det(issue-16, the-15)
+prep_on(views-13, issue-16)
+dep(keep-9, choose-18)
+conj_and(referring-10, choose-18)
+dobj(choose-18, sides-19)
+
+A person can claim a moral or religious stance without having one .
+
+
+root(ROOT-0, claim-4)
+det(person-2, A-1)
+nsubj(claim-4, person-2)
+aux(claim-4, can-3)
+det(stance-9, a-5)
+amod(stance-9, moral-6)
+conj_or(moral-6, religious-8)
+amod(stance-9, religious-8)
+dobj(claim-4, stance-9)
+prepc_without(claim-4, having-11)
+dobj(having-11, one-12)
+
+A person can claim a moral or religious stance without having one .
+
+
+root(ROOT-0, claim-4)
+det(person-2, A-1)
+nsubj(claim-4, person-2)
+aux(claim-4, can-3)
+det(stance-9, a-5)
+amod(stance-9, moral-6)
+conj_or(moral-6, religious-8)
+amod(stance-9, religious-8)
+dobj(claim-4, stance-9)
+prepc_without(claim-4, having-11)
+dobj(having-11, one-12)
+

@@ -1,0 +1,28 @@
+He questions if S1 got the information from Focus on the Family.
+root(ROOT-0, got-5)
+dep(got-5, He-1)
+dep(got-5, questions-2)
+mark(got-5, if-3)
+nsubj(got-5, S1-4)
+det(information-7, the-6)
+dobj(got-5, information-7)
+prep(got-5, from-8)
+pobj(from-8, Focus-9)
+prep(got-5, on-10)
+det(Family-12, the-11)
+pobj(on-10, Family-12)
+
+He questions if S1 got the information from Focus on the Family.
+root(ROOT-0, got-5)
+dep(got-5, He-1)
+dep(got-5, questions-2)
+mark(got-5, if-3)
+nsubj(got-5, S1-4)
+det(information-7, the-6)
+dobj(got-5, information-7)
+prep(got-5, from-8)
+pobj(from-8, Focus-9)
+prep(got-5, on-10)
+det(Family-12, the-11)
+pobj(on-10, Family-12)
+

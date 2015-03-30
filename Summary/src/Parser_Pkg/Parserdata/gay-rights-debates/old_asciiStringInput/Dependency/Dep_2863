@@ -1,0 +1,26 @@
+ that offending the sensibilities of people does not constitute harm .
+
+
+root(ROOT-0, constitute-9)
+mark(constitute-9, that-1)
+csubj(constitute-9, offending-2)
+det(sensibilities-4, the-3)
+dobj(offending-2, sensibilities-4)
+prep_of(sensibilities-4, people-6)
+aux(constitute-9, does-7)
+neg(constitute-9, not-8)
+dobj(constitute-9, harm-10)
+
+ that offending the sensibilities of people does not constitute harm .
+
+
+root(ROOT-0, constitute-9)
+mark(constitute-9, that-1)
+csubj(constitute-9, offending-2)
+det(sensibilities-4, the-3)
+dobj(offending-2, sensibilities-4)
+prep_of(sensibilities-4, people-6)
+aux(constitute-9, does-7)
+neg(constitute-9, not-8)
+dobj(constitute-9, harm-10)
+

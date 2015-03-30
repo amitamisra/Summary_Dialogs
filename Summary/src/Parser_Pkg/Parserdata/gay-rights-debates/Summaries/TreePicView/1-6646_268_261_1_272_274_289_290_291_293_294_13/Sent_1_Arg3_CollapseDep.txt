@@ -1,0 +1,7 @@
+root(ROOT-0, motivated-5)
+nsubjpass(motivated-5, it-2)
+aux(motivated-5, may-3)
+auxpass(motivated-5, be-4)
+agent(motivated-5, something-7)
+amod(something-7, other-8)
+prep_than(motivated-5, bigotry-10)

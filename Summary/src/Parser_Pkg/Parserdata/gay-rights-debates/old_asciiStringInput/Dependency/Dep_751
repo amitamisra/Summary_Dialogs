@@ -1,0 +1,50 @@
+Men who `` acted gay '' were punished for it in 1909 .
+
+
+root(ROOT-0, punished-8)
+nsubjpass(punished-8, Men-1)
+nsubj(acted-4, who-2)
+rcmod(Men-1, acted-4)
+dobj(acted-4, gay-5)
+auxpass(punished-8, were-7)
+prep_for(punished-8, it-10)
+prep_in(punished-8, 1909-12)
+
+S1 does not agree with the comparison of gay rights and gay marriage to African American civil rights .
+
+
+root(ROOT-0, agree-4)
+nsubj(agree-4, S1-1)
+aux(agree-4, does-2)
+neg(agree-4, not-3)
+det(comparison-7, the-6)
+prep_with(agree-4, comparison-7)
+amod(rights-10, gay-9)
+prep_of(comparison-7, rights-10)
+amod(marriage-13, gay-12)
+prep_of(comparison-7, marriage-13)
+conj_and(rights-10, marriage-13)
+amod(rights-18, African-15)
+amod(rights-18, American-16)
+amod(rights-18, civil-17)
+prep_to(agree-4, rights-18)
+
+S1 does not agree with the comparison of gay rights and gay marriage to African American civil rights .
+
+
+root(ROOT-0, agree-4)
+nsubj(agree-4, S1-1)
+aux(agree-4, does-2)
+neg(agree-4, not-3)
+det(comparison-7, the-6)
+prep_with(agree-4, comparison-7)
+amod(rights-10, gay-9)
+prep_of(comparison-7, rights-10)
+amod(marriage-13, gay-12)
+prep_of(comparison-7, marriage-13)
+conj_and(rights-10, marriage-13)
+amod(rights-18, African-15)
+amod(rights-18, American-16)
+amod(rights-18, civil-17)
+prep_to(agree-4, rights-18)
+

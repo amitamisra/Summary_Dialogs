@@ -1,0 +1,7 @@
+root(ROOT-0, wing-4)
+nsubj(wing-4, it-1)
+cop(wing-4, 's-2)
+amod(wing-4, left-3)
+aux(oppose-6, to-5)
+vmod(wing-4, oppose-6)
+dobj(oppose-6, it-7)

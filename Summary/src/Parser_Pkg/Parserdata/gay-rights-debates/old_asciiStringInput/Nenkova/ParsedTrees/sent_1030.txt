@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ invites) (S (NP (DT the) (NN word) (JJ gay)) (VP (TO to) (VP (VB be) (VP (VBN replaced) (PP (IN with) (NP (NP (DT another) (NN minority)) (CC and) (NP (NP (DT the) (NNS statements)) (VP (VBN made) (S (VP (TO to) (RB not) (VP (VB appear) (S (VP (TO to) (VP (VB be) (ADJP (JJ bigoted))))))))))))))))) (. .)))

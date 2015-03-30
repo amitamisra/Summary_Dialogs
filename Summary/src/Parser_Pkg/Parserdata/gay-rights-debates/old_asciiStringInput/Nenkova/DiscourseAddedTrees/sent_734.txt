@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNS S1s)) (VP (VBP believe) (PP (IN of) (NP (NP (NN marriage)) (SBAR (S (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (MD should) (VP (VB be) (VP (VBN based) (PP (PP (IN on) (NP (NN love))) (CC and#0#0) (RB not) (PP (IN on) (NP (NN sex))))))))))))))) (. .)))

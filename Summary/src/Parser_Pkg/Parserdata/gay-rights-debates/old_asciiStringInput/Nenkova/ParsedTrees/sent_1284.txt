@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBG talking) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (JJ gay) (NN marriage)) (VP (VBZ is) (RB not) (ADJP (JJ synonymous) (PP (IN with) (NP (NN violence)))))))))) (. .)))

@@ -1,0 +1,34 @@
+  that   John Lennon attacked religion  , thenemocrats hate religion 
+root(ROOT-0, hate-8)
+mark(attacked-4, that-1)
+nn(Lennon-3, John-2)
+nsubj(attacked-4, Lennon-3)
+advcl(hate-8, attacked-4)
+dobj(attacked-4, religion-5)
+nsubj(hate-8, thenemocrats-7)
+dobj(hate-8, religion-9)
+
+S2 wishes modern liberalism were more like Jeffersonian liberalism .
+
+
+root(ROOT-0, wishes-2)
+nsubj(wishes-2, S2-1)
+amod(liberalism-4, modern-3)
+nsubj(more-6, liberalism-4)
+cop(more-6, were-5)
+ccomp(wishes-2, more-6)
+amod(liberalism-9, Jeffersonian-8)
+prep_like(more-6, liberalism-9)
+
+S2 wishes modern liberalism were more like Jeffersonian liberalism .
+
+
+root(ROOT-0, wishes-2)
+nsubj(wishes-2, S2-1)
+amod(liberalism-4, modern-3)
+nsubj(more-6, liberalism-4)
+cop(more-6, were-5)
+ccomp(wishes-2, more-6)
+amod(liberalism-9, Jeffersonian-8)
+prep_like(more-6, liberalism-9)
+

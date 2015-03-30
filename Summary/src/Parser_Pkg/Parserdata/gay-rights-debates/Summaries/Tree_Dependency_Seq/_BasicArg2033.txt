@@ -1,0 +1,7 @@
+root(ROOT-0, both-5)
+nsubj(both-5, S1-1)
+cc(S1-1, and-2)
+conj(S1-1, S2-3)
+cop(both-5, are-4)
+neg(surprised-7, not-6)
+amod(both-5, surprised-7)

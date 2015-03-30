@@ -1,0 +1,4 @@
+root(ROOT-0, was-2)
+nsubj(was-2, he-1)
+prep(was-2, in-3)
+pobj(in-3, error-4)

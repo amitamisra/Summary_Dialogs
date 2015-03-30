@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (ADVP (RB calmly)) (VP (VBG discussing) (NP (NP (NP (JJ gay) (NN marriage)) (CC and) (NP (NP (DT the) (NN comparison)) (PP (IN between) (NP (NP (DT the) (JJ gay) (NN community)) (CC and) (NP (JJ African) (NNPS Americans)))))) (CC and) (NP (NP (PRP$ their) (NN struggle)) (PP (IN for) (NP (JJ equal) (NNS rights))))))) (. .)))

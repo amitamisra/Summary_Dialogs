@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (NP (JJS most) (NNS Christians)) (VP (VBP do) (VP (VB oppose) (NP (NP (JJ same-sex) (NN marriage)) (, ,) (NP (JJ civil) (NNS unions)) (, ,) (NP (JJ gay) (NN adoption)) (, ,) (CC and) (NP (JJ anti-discrimination) (NNS laws)))))))) (. .)))

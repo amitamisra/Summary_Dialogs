@@ -1,0 +1,7 @@
+root(ROOT-0, religious-8)
+det(context-2, The-1)
+nsubj(religious-8, context-2)
+det(discussion-5, the-4)
+prep_of(context-2, discussion-5)
+aux(religious-8, may-6)
+cop(religious-8, be-7)

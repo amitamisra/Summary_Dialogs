@@ -1,0 +1,27 @@
+S1 believes  referring to arguments of disagreement 
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+xcomp(believes-2, referring-3)
+prep_to(referring-3, arguments-5)
+prep_of(arguments-5, disagreement-7)
+
+  that   John Lennon attacked religion  , thenemocrats hate religion 
+root(ROOT-0, hate-8)
+mark(attacked-4, that-1)
+nn(Lennon-3, John-2)
+nsubj(attacked-4, Lennon-3)
+advcl(hate-8, attacked-4)
+dobj(attacked-4, religion-5)
+nsubj(hate-8, thenemocrats-7)
+dobj(hate-8, religion-9)
+
+  that   John Lennon attacked religion  , thenemocrats hate religion 
+root(ROOT-0, hate-8)
+mark(attacked-4, that-1)
+nn(Lennon-3, John-2)
+nsubj(attacked-4, Lennon-3)
+advcl(hate-8, attacked-4)
+dobj(attacked-4, religion-5)
+nsubj(hate-8, thenemocrats-7)
+dobj(hate-8, religion-9)
+

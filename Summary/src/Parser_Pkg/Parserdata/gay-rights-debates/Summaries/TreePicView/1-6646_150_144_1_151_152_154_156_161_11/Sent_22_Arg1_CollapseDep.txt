@@ -1,0 +1,6 @@
+root(ROOT-0, spread-3)
+nsubjpass(spread-3, AIS-1)
+auxpass(spread-3, was-2)
+advmod(spread-3, primarily-4)
+amod(men-7, gay-6)
+agent(spread-3, men-7)

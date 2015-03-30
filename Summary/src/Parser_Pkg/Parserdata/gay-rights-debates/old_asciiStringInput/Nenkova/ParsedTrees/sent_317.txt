@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB then)) (VP (VBZ proclaims) (SBAR (IN that) (S (NP (PRP he)) (ADVP (RB just)) (VP (VBZ does) (RB n't) (VP (VB believe) (NP (NP (NN anything)) (SBAR (WHNP (WDT that)) (S (NP (NN S1)) (VP (VBZ is) (VP (VBG saying))))))))))) (. .)))

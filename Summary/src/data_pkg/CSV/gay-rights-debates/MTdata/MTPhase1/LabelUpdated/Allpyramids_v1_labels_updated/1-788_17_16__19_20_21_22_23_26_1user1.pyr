@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>Two people are discussing gay relationships.  S1 is in favor of these unions while S2 does not support them.  S1 compares homosexual relationships to those of men who practice multiple marriage contending homosexuals are more committed to fidelity than those who believe in multiple marriage.  S2 begs the question of how anyone can say that a man who believes in and practices multiple marriage does not love all of his wives.  S2 cites a 2003 study advising at that time, 62% of Americans were not in favor of gay unions.  S1 believes the roots are deeper than that particular poll.  S2 feels he has a Constitutional right to be opposed to gay marriage as well as gay people themselves.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 said that when it comes to the word &quot;normal&quot;, fidelity should be looked at and many gays have fidelity in their relationshipso. Isn't fidelity part of the american attitude of &quot; normal &quot;? , he said. He questioned S2's labeling of gay people as heterophobes. He asked S2 what his problem was, why he personally did not want gay marriage.</line>
+  <line></line>
+  <line>S2 quoted a CNN poll which found that many people do not want gay marriage, includingm.  He said that when people are opposed to gay marriage  they are often called a homophobe . When a person is opposed to the banning of gay marriage , they must therefore be a heterophobe . He said that he has a right be against gay marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 argues that two men in a monogamous homosexual relationship is more normative than a man in a heterosexual relationship with multiple women, citing fidelity as a normative attribute of relationships in America. In response to the poll cited by S2, S1 claims that opinions regarding homosexual marriages extend beyond political party lines.</line>
+  <line>S2 cites a Harris Interactive poll from 2003 showing that 62% of Americans did not think homosexual marriages should be recognized as legal. He claims that advocates of homosexual marriage are heterophobes trying to force homosexual marriage onto America. He claims that if people have the right to support homosexual marriage, then  other people have just as much right to oppose gay marriage due to the freedoms described in the US Constitution.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing gay marriage.  S1 states that two men in a loving, committed relationship practice fidelity, unlike the man who has one wife for each day of the week.  He questions what S1's problem with gay marriage is and why he opposes it.  S2 questions how S1 knows that the man who has 1 wife for each day of the week isn't committed to them and vice versa.  He also references polls that state that a majority of Americans and even democrats do not think that marriages between homosexuals should be legal.  He also states that heterophobes, who are the people who oppose the banning of gay marriage, want to foist gay marriage upon the rest of America.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 supports gay marriage. He states that at least two men in a committed relationship practice fidelity unlike heterosexuals with more than one wife. He believes fidelity to be part of the normal American attitude, or at least of Christians. He thinks opposition to gay marriage goes beyond party lines and wonders why people are so opposed to it. S2 believes those with more than one wife can still be committed. He gives the results of a poll in which 59 percent of Democrats are against gay marriage. He questions if Democrats are extreme Christians. He views those that favor gay marriage as forcing it upon others and believes homosexuals for gay marriage to be heterophobic as those against gay marriage are seen as homophobic.</line>
+ </text>
+ <scu uid="94" label="2003 study advising at that time, 62% of Americans were not in favor of gay unions">
+  <contributor label="S2 cites a 2003 study advising at that time, 62% of Americans were not in favor of gay unions">
+   <part label="S2 cites a 2003 study advising at that time, 62% of Americans were not in favor of gay unions" start="455" end="548"/>
+  </contributor>
+  <contributor label="S2 quoted a CNN poll which found that many people do not want gay marriage">
+   <part label="S2 quoted a CNN poll which found that many people do not want gay marriage" start="1083" end="1157"/>
+  </contributor>
+  <contributor label="S2 cites a Harris Interactive poll from 2003 showing that 62% of Americans did not think homosexual marriages should be recognized as legal">
+   <part label="S2 cites a Harris Interactive poll from 2003 showing that 62% of Americans did not think homosexual marriages should be recognized as legal" start="1782" end="1921"/>
+  </contributor>
+  <contributor label="He also references polls that state that a majority of Americans and even democrats do not think that marriages between homosexuals should be legal">
+   <part label="He also references polls that state that a majority of Americans and even democrats do not think that marriages between homosexuals should be legal" start="2631" end="2778"/>
+  </contributor>
+  <contributor label="He gives the results of a poll in which 59 percent of Democrats are against gay marriage">
+   <part label="He gives the results of a poll in which 59 percent of Democrats are against gay marriage" start="3368" end="3456"/>
+  </contributor>
+ </scu>
+ <scu uid="92" label="homosexuals are more committed to fidelity than those who believe in multiple marriage">
+  <contributor label="S1 compares homosexual relationships to those of men who practice multiple marriage...homosexuals are more committed to fidelity than those who believe in multiple marriage">
+   <part label="homosexuals are more committed to fidelity than those who believe in multiple marriage" start="231" end="317"/>
+   <part label="S1 compares homosexual relationships to those of men who practice multiple marriage" start="136" end="219"/>
+  </contributor>
+  <contributor label="S1 states that two men in a loving, committed relationship practice fidelity, unlike the man who has one wife for each day of the week">
+   <part label="S1 states that two men in a loving, committed relationship practice fidelity, unlike the man who has one wife for each day of the week" start="2298" end="2432"/>
+  </contributor>
+  <contributor label="S1 argues that two men in a monogamous homosexual relationship is more normative than a man in a heterosexual relationship with multiple women">
+   <part label="S1 argues that two men in a monogamous homosexual relationship is more normative than a man in a heterosexual relationship with multiple women" start="1439" end="1581"/>
+  </contributor>
+  <contributor label="He states that at least two men in a committed relationship practice fidelity unlike heterosexuals with more than one wife">
+   <part label="He states that at least two men in a committed relationship practice fidelity unlike heterosexuals with more than one wife" start="2980" end="3102"/>
+  </contributor>
+ </scu>
+ <scu uid="102" label="if a person is opposed to the banning of gay marriage , they must therefore be a heterophobe">
+  <contributor label="a person is opposed to the banning of gay marriage , they must therefore be a heterophobe">
+   <part label="a person is opposed to the banning of gay marriage , they must therefore be a heterophobe" start="1267" end="1356"/>
+  </contributor>
+  <contributor label="homosexuals for gay marriage to be heterophobic">
+   <part label="homosexuals for gay marriage to be heterophobic" start="3586" end="3633"/>
+  </contributor>
+  <contributor label="He claims that advocates of homosexual marriage are heterophobes trying to force homosexual marriage onto America">
+   <part label="He claims that advocates of homosexual marriage are heterophobes trying to force homosexual marriage onto America" start="1923" end="2036"/>
+  </contributor>
+  <contributor label="He also states that heterophobes, who are the people who oppose the banning of gay marriage, want to foist gay marriage">
+   <part label="He also states that heterophobes, who are the people who oppose the banning of gay marriage, want to foist gay marriage" start="2781" end="2900"/>
+  </contributor>
+ </scu>
+ <scu uid="95" label="Constitutional right to be opposed to gay marriage as well as gay people themselves">
+  <contributor label="S2 feels he has a Constitutional right to be opposed to gay marriage as well as gay people themselves">
+   <part label="S2 feels he has a Constitutional right to be opposed to gay marriage as well as gay people themselves" start="612" end="713"/>
+  </contributor>
+  <contributor label="He said that he has a right be against gay marriage">
+   <part label="He said that he has a right be against gay marriage" start="1359" end="1410"/>
+  </contributor>
+  <contributor label="He claims that if people have the right to support homosexual marriage, then  other people have just as much right to oppose gay marriage due to the freedoms described in the US Constitution">
+   <part label="He claims that if people have the right to support homosexual marriage, then  other people have just as much right to oppose gay marriage due to the freedoms described in the US Constitution" start="2038" end="2228"/>
+  </contributor>
+ </scu>
+ <scu uid="97" label="fidelity to be part of the normal American attitude">
+  <contributor label="S1 said that when it comes to the word &quot;normal&quot;, fidelity should be looked at...Isn't fidelity part of the american attitude of &quot; normal">
+   <part label="Isn't fidelity part of the american attitude of &quot; normal" start="873" end="929"/>
+   <part label="S1 said that when it comes to the word &quot;normal&quot;, fidelity should be looked at" start="742" end="819"/>
+  </contributor>
+  <contributor label="fidelity as a normative attribute of relationships in America">
+   <part label="fidelity as a normative attribute of relationships in America" start="1590" end="1651"/>
+  </contributor>
+  <contributor label="He believes fidelity to be part of the normal American attitude">
+   <part label="He believes fidelity to be part of the normal American attitude" start="3104" end="3167"/>
+  </contributor>
+ </scu>
+ <scu uid="100" label="people did not want gay marriage">
+  <contributor label="He asked S2 what his problem was, why he personally did not want gay marriage">
+   <part label="He asked S2 what his problem was, why he personally did not want gay marriage" start="1003" end="1080"/>
+  </contributor>
+  <contributor label="questions what S1's problem with gay marriage is and why he opposes it">
+   <part label="questions what S1's problem with gay marriage is and why he opposes it" start="2438" end="2508"/>
+  </contributor>
+  <contributor label="wonders why people are so opposed to it">
+   <part label="wonders why people are so opposed to it" start="3261" end="3300"/>
+  </contributor>
+ </scu>
+ <scu uid="96" label="the roots are deeper than that particular poll">
+  <contributor label="S1 believes the roots are deeper than that particular poll">
+   <part label="S1 believes the roots are deeper than that particular poll" start="551" end="609"/>
+  </contributor>
+  <contributor label="He thinks opposition to gay marriage goes beyond party lines">
+   <part label="He thinks opposition to gay marriage goes beyond party lines" start="3196" end="3256"/>
+  </contributor>
+  <contributor label="S1 claims that opinions regarding homosexual marriages extend beyond political party lines">
+   <part label="S1 claims that opinions regarding homosexual marriages extend beyond political party lines" start="1690" end="1780"/>
+  </contributor>
+ </scu>
+ <scu uid="93" label="those with more than one wife can still be committed">
+  <contributor label="S2 questions how S1 knows that the man who has 1 wife for each day of the week isn't committed to them">
+   <part label="S2 questions how S1 knows that the man who has 1 wife for each day of the week isn't committed to them" start="2511" end="2613"/>
+  </contributor>
+  <contributor label="S2 believes those with more than one wife can still be committed">
+   <part label="S2 believes those with more than one wife can still be committed" start="3302" end="3366"/>
+  </contributor>
+  <contributor label="S2 begs the question of how anyone can say that a man who believes in and practices multiple marriage does not love all of his wives">
+   <part label="S2 begs the question of how anyone can say that a man who believes in and practices multiple marriage does not love all of his wives" start="320" end="452"/>
+  </contributor>
+ </scu>
+ <scu uid="90" label="Two people are discussing gay relationships">
+  <contributor label="Two people are discussing gay relationships">
+   <part label="Two people are discussing gay relationships" start="26" end="69"/>
+  </contributor>
+  <contributor label="Two people are discussing gay marriage">
+   <part label="Two people are discussing gay marriage" start="2257" end="2295"/>
+  </contributor>
+ </scu>
+ <scu uid="107" label="when people are opposed to gay marriage they are often called a homophobe">
+  <contributor label="those against gay marriage are seen as homophobic">
+   <part label="those against gay marriage are seen as homophobic" start="3637" end="3686"/>
+  </contributor>
+  <contributor label="He said that when people are opposed to gay marriage  they are often called a homophobe">
+   <part label="He said that when people are opposed to gay marriage  they are often called a homophobe" start="1172" end="1259"/>
+  </contributor>
+ </scu>
+ <scu uid="91" label="Debate regarding unions">
+  <contributor label="S1 is in favor of these unions while S2 does not support them">
+   <part label="S1 is in favor of these unions while S2 does not support them" start="72" end="133"/>
+  </contributor>
+ </scu>
+ <scu uid="104" label="Democrats are extreme Christians">
+  <contributor label="He questions if Democrats are extreme Christians">
+   <part label="He questions if Democrats are extreme Christians" start="3458" end="3506"/>
+  </contributor>
+ </scu>
+ <scu uid="106" label="favor gay marriage as forcing it upon others">
+  <contributor label="He views those that favor gay marriage as forcing it upon others">
+   <part label="He views those that favor gay marriage as forcing it upon others" start="3508" end="3572"/>
+  </contributor>
+ </scu>
+ <scu uid="99" label="labeling of gay people as heterophobes">
+  <contributor label="He questioned S2's labeling of gay people as heterophobes">
+   <part label="He questioned S2's labeling of gay people as heterophobes" start="944" end="1001"/>
+  </contributor>
+ </scu>
+ <scu uid="98" label="many gays have fidelity in their relationshipso">
+  <contributor label="many gays have fidelity in their relationshipso">
+   <part label="many gays have fidelity in their relationshipso" start="824" end="871"/>
+  </contributor>
+ </scu>
+ <scu uid="105" label="Response to poll">
+  <contributor label="In response to the poll cited by S2">
+   <part label="In response to the poll cited by S2" start="1653" end="1688"/>
+  </contributor>
+ </scu>
+ <scu uid="103" label="supporting gay marriage">
+  <contributor label="S1 supports gay marriage">
+   <part label="S1 supports gay marriage" start="2954" end="2978"/>
+  </contributor>
+ </scu>
+</pyramid>

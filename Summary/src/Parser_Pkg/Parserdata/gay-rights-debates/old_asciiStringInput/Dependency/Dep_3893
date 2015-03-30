@@ -1,0 +1,14 @@
+   the majority votes in its favor  
+root(ROOT-0, majority-2)
+det(majority-2, the-1)
+dep(majority-2, votes-3)
+poss(favor-6, its-5)
+prep_in(votes-3, favor-6)
+
+   the majority votes in its favor  
+root(ROOT-0, majority-2)
+det(majority-2, the-1)
+dep(majority-2, votes-3)
+poss(favor-6, its-5)
+prep_in(votes-3, favor-6)
+

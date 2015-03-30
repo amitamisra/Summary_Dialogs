@@ -1,0 +1,23 @@
+   certain justices of SCOTUS already approve of gay marriage 
+root(ROOT-0, approve-6)
+amod(justices-2, certain-1)
+npadvmod(already-5, justices-2)
+prep_of(justices-2, SCOTUS-4)
+advmod(approve-6, already-5)
+amod(marriage-9, gay-8)
+prep_of(approve-6, marriage-9)
+
+  that its a good thing . 
+root(ROOT-0, that-1)
+poss(thing-5, its-2)
+det(good-4, a-3)
+amod(thing-5, good-4)
+pobj(that-1, thing-5)
+
+  that its a good thing . 
+root(ROOT-0, that-1)
+poss(thing-5, its-2)
+det(good-4, a-3)
+amod(thing-5, good-4)
+pobj(that-1, thing-5)
+

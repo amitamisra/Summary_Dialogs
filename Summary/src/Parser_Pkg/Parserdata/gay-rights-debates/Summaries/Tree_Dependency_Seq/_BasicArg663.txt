@@ -1,0 +1,7 @@
+root(ROOT-0, in-1)
+poss(society-4, our-2)
+amod(society-4, democratic-3)
+pobj(in-1, society-4)
+det(rules-8, the-6)
+nn(rules-8, majority-7)
+appos(society-4, rules-8)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ claims) (SBAR (IN that) (IN if#0#0) (S (PP (VBN given) (NP (DT the) (NN opportunity))) (, ,) (NP (PRP they)) (VP (MD would) (VP (VB express) (NP (NP (DT the) (JJ same) (NNS concerns)) (PP (IN with) (NP (NNP Biden)))) (PP (IN on) (NP (DT a) (CD one))) (PP (IN on) (NP (CD one) (NN conversation)))))))) (. .)))

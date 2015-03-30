@@ -1,0 +1,1 @@
+(ROOT (S (S (VP (VBN Broadened) (S (ADJP (NN marriage))))) (VP (VBZ is) (NP (NP (DT a) (JJ side) (NN effect)) (PP (IN of) (NP (JJ legal) (JJ gay) (NN marriage))))) (. .)))

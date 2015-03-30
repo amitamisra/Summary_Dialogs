@@ -1,0 +1,39 @@
+Roommates are single and should not have marriage benefits.
+root(ROOT-0, single-3)
+nsubj(single-3, Roommates-1)
+cop(single-3, are-2)
+cc(single-3, and-4)
+aux(have-7, should-5)
+neg(have-7, not-6)
+conj(single-3, have-7)
+nn(benefits-9, marriage-8)
+dobj(have-7, benefits-9)
+
+Roommates are single and should not have marriage benefits.
+root(ROOT-0, single-3)
+nsubj(single-3, Roommates-1)
+cop(single-3, are-2)
+cc(single-3, and-4)
+aux(have-7, should-5)
+neg(have-7, not-6)
+conj(single-3, have-7)
+nn(benefits-9, marriage-8)
+dobj(have-7, benefits-9)
+
+Roommates are single and should not have marriage benefits.
+root(ROOT-0, single-3)
+nsubj(single-3, Roommates-1)
+cop(single-3, are-2)
+cc(single-3, and-4)
+aux(have-7, should-5)
+neg(have-7, not-6)
+conj(single-3, have-7)
+nn(benefits-9, marriage-8)
+dobj(have-7, benefits-9)
+
+she hould get benefits.
+root(ROOT-0, hould-2)
+nsubj(hould-2, she-1)
+xcomp(hould-2, get-3)
+dobj(get-3, benefits-4)
+

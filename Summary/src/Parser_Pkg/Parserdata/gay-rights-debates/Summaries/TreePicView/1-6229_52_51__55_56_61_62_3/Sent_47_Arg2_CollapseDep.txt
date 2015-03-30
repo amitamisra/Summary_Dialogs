@@ -1,0 +1,4 @@
+root(ROOT-0, happens-2)
+nsubj(happens-2, it-1)
+det(way-4, that-3)
+dobj(happens-2, way-4)

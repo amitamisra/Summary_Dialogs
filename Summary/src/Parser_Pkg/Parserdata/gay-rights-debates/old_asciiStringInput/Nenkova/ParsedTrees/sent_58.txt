@@ -1,0 +1,1 @@
+(ROOT (NP (NP (NN S2) (NNS counters)) (PP (IN by) (S (VP (VBG asking) (PP (IN about) (NP (JJ artificial) (NN insemination)))))) (. .)))

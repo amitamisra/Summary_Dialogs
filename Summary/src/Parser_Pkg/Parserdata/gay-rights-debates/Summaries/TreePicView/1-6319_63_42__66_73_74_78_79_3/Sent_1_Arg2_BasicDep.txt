@@ -1,0 +1,8 @@
+root(ROOT-0, opposed-3)
+nsubjpass(opposed-3, they-1)
+auxpass(opposed-3, are-2)
+prep(opposed-3, to-4)
+pobj(to-4, them-5)
+prep(opposed-3, on-6)
+amod(principals-8, religious-7)
+pobj(on-6, principals-8)

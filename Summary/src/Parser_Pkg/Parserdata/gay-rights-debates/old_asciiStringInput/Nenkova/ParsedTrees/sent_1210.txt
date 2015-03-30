@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ says) (SBAR (S (NP (PRP we)) (VP (MD should) (VP (VB expect) (S (NP (PRP them)) (VP (TO to) (VP (VB be) (ADJP (JJ honest)) (, ,) (SBAR (IN because) (S (NP (DT that)) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (PRP we)) (VP (MD should) (VP (VB want) (PP (IN from) (NP (NNS politicians)))))))))))))))))) (. .)))

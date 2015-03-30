@@ -1,0 +1,4 @@
+root(ROOT-0, stated-2)
+nsubj(stated-2, S2-1)
+poss(belief-4, his-3)
+dobj(stated-2, belief-4)

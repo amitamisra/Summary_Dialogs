@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ feels) (SBAR (S (NP (DT these) (NNS fears)) (VP (VBP are) (VP (VBG being) (VP (VBN instilled) (PP (IN by) (NP (ADJP (`` ``) (JJ radical) (NN left) ('' '')) (NNS wingers))))))))) (. .)))

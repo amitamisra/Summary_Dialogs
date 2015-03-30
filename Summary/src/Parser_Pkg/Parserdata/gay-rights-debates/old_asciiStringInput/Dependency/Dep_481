@@ -1,0 +1,57 @@
+ this is the Christian equivalent of banning gay people by oppressing their lifestyle .
+
+
+root(ROOT-0, equivalent-5)
+nsubj(equivalent-5, this-1)
+cop(equivalent-5, is-2)
+det(equivalent-5, the-3)
+amod(equivalent-5, Christian-4)
+prepc_of(equivalent-5, banning-7)
+amod(people-9, gay-8)
+dobj(banning-7, people-9)
+prepc_by(banning-7, oppressing-11)
+poss(lifestyle-13, their-12)
+dobj(oppressing-11, lifestyle-13)
+
+S1 feels the term husband is not recognizable in a same sex relationship nor is the term wife .
+
+
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+det(husband-5, the-3)
+nn(husband-5, term-4)
+nsubj(recognizable-8, husband-5)
+cop(recognizable-8, is-6)
+neg(recognizable-8, not-7)
+ccomp(feels-2, recognizable-8)
+det(relationship-13, a-10)
+amod(relationship-13, same-11)
+nn(relationship-13, sex-12)
+prep_in(recognizable-8, relationship-13)
+cop(wife-18, is-15)
+det(wife-18, the-16)
+nn(wife-18, term-17)
+ccomp(feels-2, wife-18)
+conj_nor(recognizable-8, wife-18)
+
+S1 feels the term husband is not recognizable in a same sex relationship nor is the term wife .
+
+
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+det(husband-5, the-3)
+nn(husband-5, term-4)
+nsubj(recognizable-8, husband-5)
+cop(recognizable-8, is-6)
+neg(recognizable-8, not-7)
+ccomp(feels-2, recognizable-8)
+det(relationship-13, a-10)
+amod(relationship-13, same-11)
+nn(relationship-13, sex-12)
+prep_in(recognizable-8, relationship-13)
+cop(wife-18, is-15)
+det(wife-18, the-16)
+nn(wife-18, term-17)
+ccomp(feels-2, wife-18)
+conj_nor(recognizable-8, wife-18)
+

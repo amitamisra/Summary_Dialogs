@@ -1,0 +1,51 @@
+   that homosexuals and their advocates attempt to divert attention from this fact by tracing the origin of the disease to Africa 
+root(ROOT-0, attempt-6)
+mark(attempt-6, that-1)
+nsubj(attempt-6, homosexuals-2)
+poss(advocates-5, their-4)
+conj_and(homosexuals-2, advocates-5)
+nsubj(attempt-6, advocates-5)
+aux(divert-8, to-7)
+xcomp(attempt-6, divert-8)
+dobj(divert-8, attention-9)
+det(fact-12, this-11)
+prep_from(divert-8, fact-12)
+prepc_by(divert-8, tracing-14)
+det(origin-16, the-15)
+dobj(tracing-14, origin-16)
+det(disease-19, the-18)
+prep_of(origin-16, disease-19)
+prep_to(tracing-14, Africa-21)
+
+S1 rebuts that that goes against how the courts were designed to work .
+
+
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S1-1)
+mark(goes-5, that-3)
+nsubj(goes-5, that-4)
+ccomp(rebuts-2, goes-5)
+advmod(designed-11, how-7)
+det(courts-9, the-8)
+nsubjpass(designed-11, courts-9)
+auxpass(designed-11, were-10)
+prepc_against(goes-5, designed-11)
+aux(work-13, to-12)
+xcomp(designed-11, work-13)
+
+S1 rebuts that that goes against how the courts were designed to work .
+
+
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S1-1)
+mark(goes-5, that-3)
+nsubj(goes-5, that-4)
+ccomp(rebuts-2, goes-5)
+advmod(designed-11, how-7)
+det(courts-9, the-8)
+nsubjpass(designed-11, courts-9)
+auxpass(designed-11, were-10)
+prepc_against(goes-5, designed-11)
+aux(work-13, to-12)
+xcomp(designed-11, work-13)
+

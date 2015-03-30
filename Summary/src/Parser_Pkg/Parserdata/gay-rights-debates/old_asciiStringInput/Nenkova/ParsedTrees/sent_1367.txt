@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT This) (NN discussion)) (VP (VBZ is) (PP (IN about) (NP (NP (DT the) (NN government) (NN roll)) (PP (IN in) (NP (NN marriage))))) (, ,) (ADVP (RB specifically)) (VP (VBG pertaining) (PP (TO to) (NP (JJ homosexual) (NN marriage))))) (. .)))

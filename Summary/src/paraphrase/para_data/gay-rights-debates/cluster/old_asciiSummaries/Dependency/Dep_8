@@ -1,0 +1,12 @@
+S1 believes that the government should have no say in marriage.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+mark(have-7, that-3)
+det(government-5, the-4)
+nsubj(have-7, government-5)
+aux(have-7, should-6)
+ccomp(believes-2, have-7)
+neg(say-9, no-8)
+dobj(have-7, say-9)
+prep_in(say-9, marriage-11)
+

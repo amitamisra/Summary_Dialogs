@@ -1,0 +1,45 @@
+ that S1 's comments make him a bigot .
+
+
+root(ROOT-0, make-5)
+mark(make-5, that-1)
+poss(comments-4, S1-2)
+nsubj(make-5, comments-4)
+nsubj(bigot-8, him-6)
+det(bigot-8, a-7)
+xcomp(make-5, bigot-8)
+
+S2 feels this objection points to S1 's being in support of things such as segregation and prohibition .
+
+
+root(ROOT-0, feels-2)
+nsubj(feels-2, S2-1)
+det(points-5, this-3)
+nn(points-5, objection-4)
+dobj(feels-2, points-5)
+prep_to(feels-2, S1-7)
+possessive(S1-7, 's-8)
+vmod(S1-7, being-9)
+prep_in(being-9, support-11)
+prep_of(being-9, things-13)
+prep_such_as(things-13, segregation-16)
+prep_such_as(things-13, prohibition-18)
+conj_and(segregation-16, prohibition-18)
+
+S2 feels this objection points to S1 's being in support of things such as segregation and prohibition .
+
+
+root(ROOT-0, feels-2)
+nsubj(feels-2, S2-1)
+det(points-5, this-3)
+nn(points-5, objection-4)
+dobj(feels-2, points-5)
+prep_to(feels-2, S1-7)
+possessive(S1-7, 's-8)
+vmod(S1-7, being-9)
+prep_in(being-9, support-11)
+prep_of(being-9, things-13)
+prep_such_as(things-13, segregation-16)
+prep_such_as(things-13, prohibition-18)
+conj_and(segregation-16, prohibition-18)
+

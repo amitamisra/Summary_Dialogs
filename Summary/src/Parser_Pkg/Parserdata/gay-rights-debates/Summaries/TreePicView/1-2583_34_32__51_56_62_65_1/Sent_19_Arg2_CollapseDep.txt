@@ -1,0 +1,5 @@
+root(ROOT-0, making-1)
+det(point-3, a-2)
+dobj(making-1, point-3)
+amod(muscle-6, political-5)
+prep_about(making-1, muscle-6)

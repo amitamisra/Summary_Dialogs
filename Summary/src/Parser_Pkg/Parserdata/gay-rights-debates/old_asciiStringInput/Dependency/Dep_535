@@ -1,0 +1,41 @@
+-LRB- S2 -RRB- keeps arguing why is anestrous taboo and not gay marriage ?
+
+
+root(ROOT-0, keeps-4)
+nsubj(keeps-4, S2-2)
+xcomp(keeps-4, arguing-5)
+advmod(taboo-9, why-6)
+cop(taboo-9, is-7)
+amod(taboo-9, anestrous-8)
+advcl(arguing-5, taboo-9)
+neg(marriage-13, not-11)
+amod(marriage-13, gay-12)
+advcl(arguing-5, marriage-13)
+conj_and(taboo-9, marriage-13)
+
+  that prior to Roosevelt , society did not accept the idea of state welfare as constitutional ,   
+root(ROOT-0, accept-9)
+mark(accept-9, that-1)
+prep_prior_to(accept-9, Roosevelt-4)
+nsubj(accept-9, society-6)
+aux(accept-9, did-7)
+neg(accept-9, not-8)
+det(idea-11, the-10)
+dobj(accept-9, idea-11)
+nn(welfare-14, state-13)
+prep_of(idea-11, welfare-14)
+prep_as(accept-9, constitutional-16)
+
+  that prior to Roosevelt , society did not accept the idea of state welfare as constitutional ,   
+root(ROOT-0, accept-9)
+mark(accept-9, that-1)
+prep_prior_to(accept-9, Roosevelt-4)
+nsubj(accept-9, society-6)
+aux(accept-9, did-7)
+neg(accept-9, not-8)
+det(idea-11, the-10)
+dobj(accept-9, idea-11)
+nn(welfare-14, state-13)
+prep_of(idea-11, welfare-14)
+prep_as(accept-9, constitutional-16)
+

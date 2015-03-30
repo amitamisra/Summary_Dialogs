@@ -1,0 +1,29 @@
+ It 's about Matt 's ridiculous generalizations and comments 
+root(ROOT-0, 's-2)
+nsubj('s-2, It-1)
+poss(generalizations-7, Matt-4)
+amod(generalizations-7, ridiculous-6)
+prep_about('s-2, generalizations-7)
+prep_about('s-2, comments-9)
+conj_and(generalizations-7, comments-9)
+
+ He states decentralization was a big theme for Jefferson 
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+nsubj(theme-7, decentralization-3)
+cop(theme-7, was-4)
+det(theme-7, a-5)
+amod(theme-7, big-6)
+ccomp(states-2, theme-7)
+prep_for(theme-7, Jefferson-9)
+
+ He states decentralization was a big theme for Jefferson 
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+nsubj(theme-7, decentralization-3)
+cop(theme-7, was-4)
+det(theme-7, a-5)
+amod(theme-7, big-6)
+ccomp(states-2, theme-7)
+prep_for(theme-7, Jefferson-9)
+

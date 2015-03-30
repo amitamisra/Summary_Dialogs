@@ -1,0 +1,28 @@
+ that the public should demand honesty but not assume it .
+
+
+root(ROOT-0, demand-5)
+mark(demand-5, that-1)
+det(public-3, the-2)
+nsubj(demand-5, public-3)
+nsubj(assume-9, public-3)
+aux(demand-5, should-4)
+dobj(demand-5, honesty-6)
+neg(assume-9, not-8)
+conj_but(demand-5, assume-9)
+dobj(assume-9, it-10)
+
+ that the public should demand honesty but not assume it .
+
+
+root(ROOT-0, demand-5)
+mark(demand-5, that-1)
+det(public-3, the-2)
+nsubj(demand-5, public-3)
+nsubj(assume-9, public-3)
+aux(demand-5, should-4)
+dobj(demand-5, honesty-6)
+neg(assume-9, not-8)
+conj_but(demand-5, assume-9)
+dobj(assume-9, it-10)
+

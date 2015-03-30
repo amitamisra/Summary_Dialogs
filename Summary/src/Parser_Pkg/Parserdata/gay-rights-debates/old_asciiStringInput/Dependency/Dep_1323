@@ -1,0 +1,26 @@
+  that it is inappropriate to label disagreement as bigotry , 
+root(ROOT-0, inappropriate-4)
+mark(inappropriate-4, that-1)
+nsubj(inappropriate-4, it-2)
+cop(inappropriate-4, is-3)
+aux(label-6, to-5)
+xcomp(inappropriate-4, label-6)
+dobj(label-6, disagreement-7)
+prep_as(label-6, bigotry-9)
+
+   he is not a reliable source 
+root(ROOT-0, source-6)
+nsubj(source-6, he-1)
+cop(source-6, is-2)
+neg(source-6, not-3)
+det(source-6, a-4)
+amod(source-6, reliable-5)
+
+   he is not a reliable source 
+root(ROOT-0, source-6)
+nsubj(source-6, he-1)
+cop(source-6, is-2)
+neg(source-6, not-3)
+det(source-6, a-4)
+amod(source-6, reliable-5)
+

@@ -1,0 +1,27 @@
+She ca n't get healthcare through his job .
+
+
+root(ROOT-0, get-4)
+nsubj(get-4, She-1)
+aux(get-4, ca-2)
+neg(get-4, n't-3)
+dobj(get-4, healthcare-5)
+poss(job-8, his-7)
+prep_through(get-4, job-8)
+
+S1 believes gay marriage is about economics.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+amod(marriage-4, gay-3)
+nsubj(is-5, marriage-4)
+ccomp(believes-2, is-5)
+prep_about(is-5, economics-7)
+
+S1 believes gay marriage is about economics.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+amod(marriage-4, gay-3)
+nsubj(is-5, marriage-4)
+ccomp(believes-2, is-5)
+prep_about(is-5, economics-7)
+

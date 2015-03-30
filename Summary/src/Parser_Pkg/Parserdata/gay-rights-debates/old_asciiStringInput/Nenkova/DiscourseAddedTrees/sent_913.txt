@@ -1,0 +1,1 @@
+(ROOT (S (ADVP (RB Rather#0#Expansion)) (, ,) (NP (NN S1)) (VP (VBD presented) (NP (PRP$ his) (NNS statistics)) (S (VP (TO to) (VP (VB justify) (NP (NN opposition)) (PP (TO to) (NP (JJ gay) (NNS rights))))))) (. .)))

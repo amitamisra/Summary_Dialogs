@@ -1,0 +1,24 @@
+He/she contends that matrimonial unions were between opposite genders, even throughout history.
+root(ROOT-0, contends-2)
+nsubj(contends-2, He/she-1)
+mark(were-6, that-3)
+amod(unions-5, matrimonial-4)
+nsubj(were-6, unions-5)
+ccomp(contends-2, were-6)
+amod(genders-9, opposite-8)
+prep_between(were-6, genders-9)
+advmod(were-6, even-11)
+prep_throughout(even-11, history-13)
+
+He/she contends that matrimonial unions were between opposite genders, even throughout history.
+root(ROOT-0, contends-2)
+nsubj(contends-2, He/she-1)
+mark(were-6, that-3)
+amod(unions-5, matrimonial-4)
+nsubj(were-6, unions-5)
+ccomp(contends-2, were-6)
+amod(genders-9, opposite-8)
+prep_between(were-6, genders-9)
+advmod(were-6, even-11)
+prep_throughout(even-11, history-13)
+

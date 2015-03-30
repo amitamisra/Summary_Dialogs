@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ suggests) (SBAR (IN that) (S (SBAR (IN if) (S (NP (DT the) (NN debate)) (VP (VBZ occurs)))) (, ,) (NP (PRP he)) (VP (MD will) (VP (VB prove) (S (NP (PRP$ his) (NNS assertions)) (ADJP (JJ true)))))))) (. .)))

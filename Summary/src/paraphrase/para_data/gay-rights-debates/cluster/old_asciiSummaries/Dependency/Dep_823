@@ -1,0 +1,10 @@
+He states it can be found by Google search.
+root(ROOT-0, states-2)
+nsubj(states-2, He-1)
+nsubjpass(found-6, it-3)
+aux(found-6, can-4)
+auxpass(found-6, be-5)
+ccomp(states-2, found-6)
+nn(search-9, Google-8)
+agent(found-6, search-9)
+

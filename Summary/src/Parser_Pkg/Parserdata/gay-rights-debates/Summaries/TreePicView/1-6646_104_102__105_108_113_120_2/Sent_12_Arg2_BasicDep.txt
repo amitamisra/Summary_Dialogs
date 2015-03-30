@@ -1,0 +1,4 @@
+root(ROOT-0, ignored-4)
+nsubjpass(ignored-4, it-1)
+aux(ignored-4, should-2)
+auxpass(ignored-4, be-3)

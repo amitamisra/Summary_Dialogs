@@ -1,0 +1,41 @@
+ that what people do in their private lives is anyone elses business .
+
+
+root(ROOT-0, business-12)
+mark(business-12, that-1)
+dobj(do-4, what-2)
+nsubj(do-4, people-3)
+csubj(business-12, do-4)
+poss(lives-8, their-6)
+amod(lives-8, private-7)
+prep_in(do-4, lives-8)
+cop(business-12, is-9)
+nn(business-12, anyone-10)
+nn(business-12, elses-11)
+
+They do not see a reason for discrimination against homosexual marriage .
+
+
+root(ROOT-0, see-4)
+nsubj(see-4, They-1)
+aux(see-4, do-2)
+neg(see-4, not-3)
+det(reason-6, a-5)
+dobj(see-4, reason-6)
+prep_for(reason-6, discrimination-8)
+amod(marriage-11, homosexual-10)
+prep_against(see-4, marriage-11)
+
+They do not see a reason for discrimination against homosexual marriage .
+
+
+root(ROOT-0, see-4)
+nsubj(see-4, They-1)
+aux(see-4, do-2)
+neg(see-4, not-3)
+det(reason-6, a-5)
+dobj(see-4, reason-6)
+prep_for(reason-6, discrimination-8)
+amod(marriage-11, homosexual-10)
+prep_against(see-4, marriage-11)
+

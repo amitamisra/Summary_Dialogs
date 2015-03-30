@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (JJ modern) (NNS families)) (VP (VP (VBP are) (RB not) (NP (JJ traditional) (NNS families))) (CC and) (VP (VBP are) (ADVP (RB often)) (ADJP (JJR better) (RP off))) (PP (IN for) (NP (PRP it))))))) (. .)))

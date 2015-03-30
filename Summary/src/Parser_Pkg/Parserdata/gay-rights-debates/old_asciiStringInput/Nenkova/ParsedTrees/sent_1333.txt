@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (IN that) (S (NP (NNS Christians)) (VP (VBP are) (NP (NNS hypocrites)) (SBAR (IN because) (IN before) (S (NP (PRP they)) (VP (VBD had) (RB not) (VP (VBN complained))))))))) (. .)))

@@ -1,0 +1,3 @@
+root(ROOT-0, burned-3)
+nsubjpass(burned-3, somebody-1)
+auxpass(burned-3, gets-2)

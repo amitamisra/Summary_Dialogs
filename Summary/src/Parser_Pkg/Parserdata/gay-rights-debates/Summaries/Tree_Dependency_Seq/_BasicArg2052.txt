@@ -1,0 +1,8 @@
+root(ROOT-0, practical-4)
+nsubj(practical-4, it-1)
+cop(practical-4, is-2)
+advmod(practical-4, more-3)
+prep(practical-4, in-5)
+tmod(world-8, today-6)
+possessive(today-6, 's-7)
+pobj(in-5, world-8)

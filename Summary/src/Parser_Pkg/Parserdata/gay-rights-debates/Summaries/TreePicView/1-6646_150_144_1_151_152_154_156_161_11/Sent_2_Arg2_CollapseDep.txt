@@ -1,0 +1,6 @@
+root(ROOT-0, lies-4)
+det(blame-2, the-1)
+nsubj(lies-4, blame-2)
+advmod(lies-4, partly-3)
+nn(transfusions-7, blood-6)
+prep_with(lies-4, transfusions-7)

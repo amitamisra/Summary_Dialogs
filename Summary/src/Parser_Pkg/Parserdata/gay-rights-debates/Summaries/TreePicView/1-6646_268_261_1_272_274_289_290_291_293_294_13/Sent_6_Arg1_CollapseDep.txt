@@ -1,0 +1,5 @@
+root(ROOT-0, calling-3)
+nsubj(calling-3, he-1)
+aux(calling-3, 's-2)
+iobj(calling-3, it-4)
+dobj(calling-3, bigotry-5)

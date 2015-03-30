@@ -1,0 +1,4 @@
+root(ROOT-0, conduct-2)
+aux(conduct-2, to-1)
+amod(marriages-4, gay-3)
+dobj(conduct-2, marriages-4)

@@ -1,0 +1,7 @@
+root(ROOT-0, look-2)
+aux(look-2, must-1)
+prep(look-2, at-3)
+pobj(at-3, it-4)
+prep(look-2, as-5)
+det(whole-7, a-6)
+pobj(as-5, whole-7)

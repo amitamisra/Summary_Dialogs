@@ -1,0 +1,12 @@
+He talks about the moral behind Pauls research and how its fraudulent.
+root(ROOT-0, talks-2)
+nsubj(talks-2, He-1)
+nsubj(fraudulent-12, He-1)
+det(research-8, the-4)
+amod(research-8, moral-5)
+prep_behind(moral-5, Pauls-7)
+prep_about(talks-2, research-8)
+advmod(fraudulent-12, how-10)
+poss(fraudulent-12, its-11)
+conj_and(talks-2, fraudulent-12)
+

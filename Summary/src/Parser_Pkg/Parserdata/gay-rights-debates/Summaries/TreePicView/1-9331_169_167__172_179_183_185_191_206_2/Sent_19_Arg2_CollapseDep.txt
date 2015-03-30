@@ -1,0 +1,7 @@
+root(ROOT-0, concern-8)
+amod(relationships-2, intimate-1)
+nsubj(concern-8, relationships-2)
+cop(concern-8, are-3)
+neg(one-5, no-4)
+poss(concern-8, one-5)
+amod(one-5, else-6)

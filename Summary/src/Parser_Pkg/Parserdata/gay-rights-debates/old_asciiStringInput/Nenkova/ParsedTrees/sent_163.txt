@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (JJ gay) (NN marriage) (NNS laws)) (VP (MD will) (VP (VB be) (VP (VBN passed))))))) (. .)))

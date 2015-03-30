@@ -1,0 +1,8 @@
+root(ROOT-0, thing-6)
+nsubj(thing-6, they-1)
+cop(thing-6, are-2)
+neg(thing-6, not-3)
+det(thing-6, the-4)
+amod(thing-6, same-5)
+prep(thing-6, as-7)
+pobj(as-7, roommates-8)

@@ -1,0 +1,11 @@
+(Explanation[N][S]
+  (Attribution[S][N]
+    _!Both S1 and S2 are for gay rights , S2 is stating!_
+    (Joint[N][N]
+      _!that S1 is n't being consistent!_
+      _!and " admits " to being inconsistent ,!_))
+  (Explanation[N][S]
+    (Attribution[S][N]
+      _!while S1 is saying!_
+      _!they do n't care about the inconsistency!_)
+    _!because of the point they are trying to get across . <s>!_))

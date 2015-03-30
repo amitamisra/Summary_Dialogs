@@ -1,0 +1,1 @@
+(ROOT (NP (NP (NN S2)) (: :) (NP (NP (NNS Gay)) (SBAR (S (NP (NN marriage) (NNS supporters)) (VP (VBP want) (SBAR (S (NP (NN marriage) (NNS laws)) (VP (VBD changed) (S (VP (TO to) (VP (VB accommodate) (NP (JJ gay) (NN marriage)))))))))))) (. .)))

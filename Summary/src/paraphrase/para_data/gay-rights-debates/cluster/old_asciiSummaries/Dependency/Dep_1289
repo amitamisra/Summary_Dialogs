@@ -1,0 +1,16 @@
+S2 believes that the courts should look at individuals lives and the effect of laws on everyone.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+mark(look-7, that-3)
+det(courts-5, the-4)
+nsubj(look-7, courts-5)
+aux(look-7, should-6)
+ccomp(believes-2, look-7)
+nn(lives-10, individuals-9)
+prep_at(look-7, lives-10)
+det(effect-13, the-12)
+prep_at(look-7, effect-13)
+conj_and(lives-10, effect-13)
+prep_of(effect-13, laws-15)
+prep_on(laws-15, everyone-17)
+

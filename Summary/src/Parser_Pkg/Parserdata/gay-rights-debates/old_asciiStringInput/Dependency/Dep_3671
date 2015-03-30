@@ -1,0 +1,28 @@
+   that it will find any laws prohibiting gay marriage unconstitutional as a result 
+root(ROOT-0, find-4)
+mark(find-4, that-1)
+nsubj(find-4, it-2)
+aux(find-4, will-3)
+det(laws-6, any-5)
+nsubj(prohibiting-7, laws-6)
+dep(find-4, prohibiting-7)
+amod(marriage-9, gay-8)
+nsubj(unconstitutional-10, marriage-9)
+xcomp(prohibiting-7, unconstitutional-10)
+det(result-13, a-12)
+prep_as(unconstitutional-10, result-13)
+
+   that it will find any laws prohibiting gay marriage unconstitutional as a result 
+root(ROOT-0, find-4)
+mark(find-4, that-1)
+nsubj(find-4, it-2)
+aux(find-4, will-3)
+det(laws-6, any-5)
+nsubj(prohibiting-7, laws-6)
+dep(find-4, prohibiting-7)
+amod(marriage-9, gay-8)
+nsubj(unconstitutional-10, marriage-9)
+xcomp(prohibiting-7, unconstitutional-10)
+det(result-13, a-12)
+prep_as(unconstitutional-10, result-13)
+

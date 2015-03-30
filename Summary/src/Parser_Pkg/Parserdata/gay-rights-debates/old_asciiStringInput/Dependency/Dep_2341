@@ -1,0 +1,38 @@
+ that S1 can not produce one objective or source by theominionists themselves that states their intention .
+
+
+root(ROOT-0, produce-5)
+mark(produce-5, that-1)
+nsubj(produce-5, S1-2)
+aux(produce-5, can-3)
+neg(produce-5, not-4)
+dobj(produce-5, one-6)
+dep(one-6, objective-7)
+dobj(produce-5, source-9)
+conj_or(one-6, source-9)
+prep_by(source-9, theominionists-11)
+advmod(produce-5, themselves-12)
+mark(intention-16, that-13)
+dep(intention-16, states-14)
+poss(intention-16, their-15)
+dep(produce-5, intention-16)
+
+ that S1 can not produce one objective or source by theominionists themselves that states their intention .
+
+
+root(ROOT-0, produce-5)
+mark(produce-5, that-1)
+nsubj(produce-5, S1-2)
+aux(produce-5, can-3)
+neg(produce-5, not-4)
+dobj(produce-5, one-6)
+dep(one-6, objective-7)
+dobj(produce-5, source-9)
+conj_or(one-6, source-9)
+prep_by(source-9, theominionists-11)
+advmod(produce-5, themselves-12)
+mark(intention-16, that-13)
+dep(intention-16, states-14)
+poss(intention-16, their-15)
+dep(produce-5, intention-16)
+

@@ -1,0 +1,47 @@
+Two people are discussing diversity and gays .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+dobj(discussing-4, diversity-5)
+dobj(discussing-4, gays-7)
+conj_and(diversity-5, gays-7)
+
+ that Paul Camerons research is cited in almost every single attack on gay people in state after state legislature .
+
+
+root(ROOT-0, cited-6)
+nn(Camerons-3, Paul-2)
+prep_that(cited-6, Camerons-3)
+nsubjpass(cited-6, research-4)
+auxpass(cited-6, is-5)
+advmod(attack-11, almost-8)
+det(attack-11, every-9)
+amod(attack-11, single-10)
+prep_in(cited-6, attack-11)
+amod(people-14, gay-13)
+prep_on(attack-11, people-14)
+prep_in(people-14, state-16)
+nn(legislature-19, state-18)
+prep_after(cited-6, legislature-19)
+
+ that Paul Camerons research is cited in almost every single attack on gay people in state after state legislature .
+
+
+root(ROOT-0, cited-6)
+nn(Camerons-3, Paul-2)
+prep_that(cited-6, Camerons-3)
+nsubjpass(cited-6, research-4)
+auxpass(cited-6, is-5)
+advmod(attack-11, almost-8)
+det(attack-11, every-9)
+amod(attack-11, single-10)
+prep_in(cited-6, attack-11)
+amod(people-14, gay-13)
+prep_on(attack-11, people-14)
+prep_in(people-14, state-16)
+nn(legislature-19, state-18)
+prep_after(cited-6, legislature-19)
+

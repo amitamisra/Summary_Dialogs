@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT The) (NN law)) (VP (VP (MD would) (VP (VB bar) (NP (NP (DT the) (NN family)) (PP (IN of) (NP (NN S1)))) (PP (IN from) (NP (JJ legal) (NNS protections))))) (CC but) (VP (MD would) (RB not) (VP (VB affect) (NP (PRP her))))) (. .)))

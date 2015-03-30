@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (IN that) (S (NP (NNS politicians)) (VP (VBP lie) (PP (IN about) (NP (PRP$ their) (NN opinion) (S (VP (TO to) (VP (RB not) (VB loose) (NP (NNS votes))))))))))) (. .)))

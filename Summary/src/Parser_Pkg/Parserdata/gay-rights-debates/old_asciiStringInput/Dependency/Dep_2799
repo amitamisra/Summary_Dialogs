@@ -1,0 +1,18 @@
+He accuses S1 of hating homosexuals .
+
+
+root(ROOT-0, accuses-2)
+nsubj(accuses-2, He-1)
+dobj(accuses-2, S1-3)
+prepc_of(S1-3, hating-5)
+dobj(hating-5, homosexuals-6)
+
+He accuses S1 of hating homosexuals .
+
+
+root(ROOT-0, accuses-2)
+nsubj(accuses-2, He-1)
+dobj(accuses-2, S1-3)
+prepc_of(S1-3, hating-5)
+dobj(hating-5, homosexuals-6)
+

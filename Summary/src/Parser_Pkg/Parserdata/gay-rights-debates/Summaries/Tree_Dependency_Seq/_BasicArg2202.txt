@@ -1,0 +1,7 @@
+root(ROOT-0, approved-5)
+num(States-2, 5-1)
+nsubj(approved-5, States-2)
+aux(approved-5, had-3)
+advmod(approved-5, already-4)
+amod(marriage-7, gay-6)
+dobj(approved-5, marriage-7)

@@ -1,0 +1,25 @@
+two people cohabitate for awhile or have children.
+root(ROOT-0, cohabitate-3)
+num(people-2, two-1)
+nsubj(cohabitate-3, people-2)
+prep(cohabitate-3, for-4)
+pcomp(for-4, awhile-5)
+cc(cohabitate-3, or-6)
+conj(cohabitate-3, have-7)
+dobj(have-7, children-8)
+
+two people cohabitate for awhile or have children.
+root(ROOT-0, cohabitate-3)
+num(people-2, two-1)
+nsubj(cohabitate-3, people-2)
+prep(cohabitate-3, for-4)
+pcomp(for-4, awhile-5)
+cc(cohabitate-3, or-6)
+conj(cohabitate-3, have-7)
+dobj(have-7, children-8)
+
+He proposes concerns.
+root(ROOT-0, proposes-2)
+nsubj(proposes-2, He-1)
+dobj(proposes-2, concerns-3)
+

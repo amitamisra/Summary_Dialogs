@@ -1,0 +1,1 @@
+(ROOT (S (SBAR (IN If#1#Contingency) (S (NP (PRP she)) (VP (VBZ is) (ADJP (JJ free) (S (VP (TO to) (VP (VB do) (NP (DT this))))))))) (, ,) (NP (RB then#1#Contingency)) (ADVP (RB so#2#0)) (VP (VBZ is) (NP (NN S1))) (. .)))

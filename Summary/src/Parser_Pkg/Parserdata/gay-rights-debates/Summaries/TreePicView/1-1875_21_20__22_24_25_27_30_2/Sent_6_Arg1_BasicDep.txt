@@ -1,0 +1,8 @@
+root(ROOT-0, are-3)
+amod(people-2, gay-1)
+nsubj(are-3, people-2)
+prep(are-3, in-4)
+det(process-6, the-5)
+pobj(in-4, process-6)
+aux(overcome-8, to-7)
+vmod(process-6, overcome-8)

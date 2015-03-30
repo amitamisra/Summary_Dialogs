@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VP (VBZ is) (PP (IN against) (NP (JJ gay) (NNS rights)))) (CC and#0#0) (VP (VBZ believes) (SBAR (S (NP (PRP they)) (VP (VBD earned) (NP (NP (PRP$ their) (NN freedom)) (PP (IN of) (NP (NN speech)))) (PP (IN through) (S (VP (VBG serving) (PP (IN in) (NP (DT the) (NN military))))))))))) (. .)))

@@ -1,0 +1,21 @@
+be outlawed everywhere.
+root(ROOT-0, outlawed-2)
+auxpass(outlawed-2, be-1)
+advmod(outlawed-2, everywhere-3)
+
+be outlawed everywhere.
+root(ROOT-0, outlawed-2)
+auxpass(outlawed-2, be-1)
+advmod(outlawed-2, everywhere-3)
+
+ war can be necessary in order to maintain liberty.
+root(ROOT-0, necessary-4)
+nsubj(necessary-4, war-1)
+aux(necessary-4, can-2)
+cop(necessary-4, be-3)
+mark(maintain-8, in-5)
+dep(maintain-8, order-6)
+aux(maintain-8, to-7)
+advcl(necessary-4, maintain-8)
+dobj(maintain-8, liberty-9)
+

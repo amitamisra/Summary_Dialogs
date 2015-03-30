@@ -1,0 +1,1 @@
+(ROOT (S (VP (VBZ Argues) (SBAR (IN that) (S (NP (NNP politician/she)) (VP (VBZ is) (VP (VBG discriminating) (CC and#0#0) (VBG protecting) (NP (PRP$ her) (JJ heterosexual) (NN privilege))))))) (. .)))

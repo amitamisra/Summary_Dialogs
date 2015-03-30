@@ -1,0 +1,1 @@
+(ROOT (S (ADVP (RB Now)) (NP (DT the) (NNS religions)) (VP (VBP have) (S (VP (TO to) (VP (VB interpret) (NP (PRP it)) (SBAR (IN as#0#Temporal) (S (NP (PRP they)) (VP (MD will)))))))) (. .)))

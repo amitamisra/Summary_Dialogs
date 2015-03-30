@@ -1,0 +1,54 @@
+  that it would hurt people with a traditional view of marriage as between a man and a woman , 
+root(ROOT-0, hurt-4)
+mark(hurt-4, that-1)
+nsubj(hurt-4, it-2)
+aux(hurt-4, would-3)
+dobj(hurt-4, people-5)
+det(view-9, a-7)
+amod(view-9, traditional-8)
+prep_with(hurt-4, view-9)
+prep_of(view-9, marriage-11)
+prep(hurt-4, as-12)
+pcomp(as-12, between-13)
+det(man-15, a-14)
+pobj(between-13, man-15)
+det(woman-18, a-17)
+pobj(between-13, woman-18)
+conj_and(man-15, woman-18)
+
+ that S1 is unaware of the particular details of the study which could invalidate his argument .
+
+
+root(ROOT-0, unaware-4)
+mark(unaware-4, that-1)
+nsubj(unaware-4, S1-2)
+cop(unaware-4, is-3)
+det(details-8, the-6)
+amod(details-8, particular-7)
+prep_of(unaware-4, details-8)
+det(study-11, the-10)
+prep_of(details-8, study-11)
+nsubj(invalidate-14, which-12)
+aux(invalidate-14, could-13)
+rcmod(study-11, invalidate-14)
+poss(argument-16, his-15)
+dobj(invalidate-14, argument-16)
+
+ that S1 is unaware of the particular details of the study which could invalidate his argument .
+
+
+root(ROOT-0, unaware-4)
+mark(unaware-4, that-1)
+nsubj(unaware-4, S1-2)
+cop(unaware-4, is-3)
+det(details-8, the-6)
+amod(details-8, particular-7)
+prep_of(unaware-4, details-8)
+det(study-11, the-10)
+prep_of(details-8, study-11)
+nsubj(invalidate-14, which-12)
+aux(invalidate-14, could-13)
+rcmod(study-11, invalidate-14)
+poss(argument-16, his-15)
+dobj(invalidate-14, argument-16)
+

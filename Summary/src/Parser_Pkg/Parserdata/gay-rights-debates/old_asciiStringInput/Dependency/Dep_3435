@@ -1,0 +1,26 @@
+  , more importantly , they 're always wrong no matter what the issue . 
+root(ROOT-0, wrong-8)
+prep(wrong-8, more-2)
+pobj(more-2, importantly-3)
+nsubj(wrong-8, they-5)
+cop(wrong-8, 're-6)
+advmod(wrong-8, always-7)
+neg(matter-10, no-9)
+advmod(what-11, matter-10)
+dep(issue-13, what-11)
+det(issue-13, the-12)
+dep(wrong-8, issue-13)
+
+  , more importantly , they 're always wrong no matter what the issue . 
+root(ROOT-0, wrong-8)
+prep(wrong-8, more-2)
+pobj(more-2, importantly-3)
+nsubj(wrong-8, they-5)
+cop(wrong-8, 're-6)
+advmod(wrong-8, always-7)
+neg(matter-10, no-9)
+advmod(what-11, matter-10)
+dep(issue-13, what-11)
+det(issue-13, the-12)
+dep(wrong-8, issue-13)
+

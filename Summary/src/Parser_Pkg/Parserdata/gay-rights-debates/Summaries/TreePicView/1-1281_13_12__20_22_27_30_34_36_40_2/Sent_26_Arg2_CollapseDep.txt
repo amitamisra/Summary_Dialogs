@@ -1,0 +1,6 @@
+root(ROOT-0, done-4)
+det(ceremony-2, the-1)
+nsubjpass(done-4, ceremony-2)
+auxpass(done-4, is-3)
+det(judge-7, a-6)
+agent(done-4, judge-7)

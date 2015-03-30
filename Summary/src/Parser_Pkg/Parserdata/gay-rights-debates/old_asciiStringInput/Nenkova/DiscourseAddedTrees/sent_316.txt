@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (NN S1) (POS 's)) (NNS comments)) (VP (VBP make) (S (NP (PRP him)) (NP (DT a) (NN bigot))))))) (. .)))

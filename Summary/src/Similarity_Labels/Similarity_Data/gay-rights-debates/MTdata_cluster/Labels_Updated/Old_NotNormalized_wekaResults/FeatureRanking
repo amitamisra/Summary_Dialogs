@@ -1,0 +1,111 @@
+=== Run information ===
+
+Evaluator:    weka.attributeSelection.ReliefFAttributeEval -M -1 -D 1 -K 10
+Search:       weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Relation:     Rand_FeatureFileAllMT_Reg-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-weka.filters.unsupervised.instance.Randomize-S42
+Instances:    1000
+Attributes:   43
+              Bi_lemma_overlap_count
+              Dist_Sim_Adj
+              Dist_Sim_Noun
+              Dist_Sim_Verb
+              LIWC_Catg_Achievement
+              LIWC_Catg_Affective Processes
+              LIWC_Catg_Biological Processes
+              LIWC_Catg_Causation
+              LIWC_Catg_Certainty
+              LIWC_Catg_Cognitive Processes
+              LIWC_Catg_Discrepancy
+              LIWC_Catg_Family
+              LIWC_Catg_Hear
+              LIWC_Catg_Humans
+              LIWC_Catg_Insight
+              LIWC_Catg_Motion
+              LIWC_Catg_Negative Emotion
+              LIWC_Catg_Perceptual Processes
+              LIWC_Catg_Positive Emotion
+              LIWC_Catg_Relativity
+              LIWC_Catg_Religion
+              LIWC_Catg_See
+              LIWC_Catg_Sexual
+              LIWC_Catg_Social Processes
+              LIWC_Catg_Tentative
+              LIWC_Catg_Time
+              LIWC_Catg_Work
+              Lev_Dist
+              MeanSimLabel
+              Tri_lemma_overlap_count
+              UMBC
+              Uni_lemma_overlap_count
+              diff_len
+              noun_Path
+              rouge_1_f_score
+              rouge_2_f_score
+              rouge_3_f_score
+              rouge_4_f_score
+              rouge_l_f_score
+              rouge_s*_f_score
+              rouge_su*_f_score
+              rouge_w_1.2_f_score
+              verb_Path
+Evaluation mode:    evaluate on all training data
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+
+Attribute Evaluator (supervised, Class (numeric): 29 MeanSimLabel):
+	ReliefF Ranking Filter
+	Instances sampled: all
+	Number of nearest neighbours (k): 10
+	Equal influence nearest neighbours
+
+Ranked attributes:
+ 0.012949    3 Dist_Sim_Noun
+ 0.009857   31 UMBC
+ 0.009013   24 LIWC_Catg_Social Processes
+ 0.008951    4 Dist_Sim_Verb
+ 0.008223   14 LIWC_Catg_Humans
+ 0.007941   34 noun_Path
+ 0.007592    5 LIWC_Catg_Achievement
+ 0.007244   32 Uni_lemma_overlap_count
+ 0.007234    9 LIWC_Catg_Certainty
+ 0.005686   43 verb_Path
+ 0.005576   11 LIWC_Catg_Discrepancy
+ 0.00509     8 LIWC_Catg_Causation
+ 0.005068   10 LIWC_Catg_Cognitive Processes
+ 0.004609   20 LIWC_Catg_Relativity
+ 0.004531    1 Bi_lemma_overlap_count
+ 0.00406    18 LIWC_Catg_Perceptual Processes
+ 0.003441   15 LIWC_Catg_Insight
+ 0.002494   27 LIWC_Catg_Work
+ 0.002373   12 LIWC_Catg_Family
+ 0.002284   13 LIWC_Catg_Hear
+ 0.002179   33 diff_len
+ 0.002153   30 Tri_lemma_overlap_count
+ 0.001876   28 Lev_Dist
+ 0.001859   26 LIWC_Catg_Time
+ 0.001813   38 rouge_4_f_score
+ 0.001782   37 rouge_3_f_score
+ 0.001777   22 LIWC_Catg_See
+ 0.001287   39 rouge_l_f_score
+ 0.001139   40 rouge_s*_f_score
+ 0.00112    41 rouge_su*_f_score
+ 0.001109    2 Dist_Sim_Adj
+ 0.00106    36 rouge_2_f_score
+ 0.000982   16 LIWC_Catg_Motion
+ 0.000935   42 rouge_w_1.2_f_score
+ 0.000809   35 rouge_1_f_score
+ 0.000786   19 LIWC_Catg_Positive Emotion
+ 0.000205   25 LIWC_Catg_Tentative
+-0.000263    7 LIWC_Catg_Biological Processes
+-0.000279   17 LIWC_Catg_Negative Emotion
+-0.000359   23 LIWC_Catg_Sexual
+-0.000728    6 LIWC_Catg_Affective Processes
+-0.001138   21 LIWC_Catg_Religion
+
+Selected attributes: 3,31,24,4,14,34,5,32,9,43,11,8,10,20,1,18,15,27,12,13,33,30,28,26,38,37,22,39,40,41,2,36,16,42,35,19,25,7,17,23,6,21 : 42
+

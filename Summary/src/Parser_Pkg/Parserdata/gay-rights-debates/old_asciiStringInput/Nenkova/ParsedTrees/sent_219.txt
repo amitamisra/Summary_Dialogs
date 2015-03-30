@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (PRP$ His) (NN reasoning)) (PP (IN for) (S (VP (ADVP (RB still)) (VBG supporting) (NP (NP (DT the) (NN ban)) (PP (IN on) (NP (JJ gay) (NN marriage)))))))) (VP (VBZ has) (VP (VBN changed) (PP (IN over) (PP (TO to) (NP (ADJP (JJ moral) (CC and) (NN health) (JJ related)) (NNS concerns)))))) (. .)))

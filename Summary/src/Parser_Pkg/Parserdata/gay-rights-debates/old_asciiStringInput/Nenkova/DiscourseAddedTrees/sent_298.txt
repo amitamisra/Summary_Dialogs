@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ points) (PRT (RP out)) (SBAR (IN that) (S (NP (NP (ADJP (NP (NP (CD two)) (ADVP (RB presumably))) (JJ prominent)) (JJ African) (JJ American) (NNS figures)) (, ,) (NP (NNP Corretta) (NNP Scott) (NNP King) (CC and#0#0) (NNP Jullian) (NNP Bond)) (, ,)) (VP (VBP are) (NP (JJ pro-gay) (NN marriage)))))) (. .)))

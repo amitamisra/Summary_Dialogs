@@ -1,0 +1,20 @@
+ someemocrats wanted to spend more than Bush .
+
+
+root(ROOT-0, wanted-2)
+nsubj(wanted-2, someemocrats-1)
+aux(spend-4, to-3)
+xcomp(wanted-2, spend-4)
+dobj(spend-4, more-5)
+prep_than(spend-4, Bush-7)
+
+ someemocrats wanted to spend more than Bush .
+
+
+root(ROOT-0, wanted-2)
+nsubj(wanted-2, someemocrats-1)
+aux(spend-4, to-3)
+xcomp(wanted-2, spend-4)
+dobj(spend-4, more-5)
+prep_than(spend-4, Bush-7)
+

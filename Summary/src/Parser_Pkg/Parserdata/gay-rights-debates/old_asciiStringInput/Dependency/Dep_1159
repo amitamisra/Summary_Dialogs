@@ -1,0 +1,51 @@
+ there is a group calledomionists that care only about power and not about people .
+
+
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+det(calledomionists-5, a-3)
+nn(calledomionists-5, group-4)
+nsubj(is-2, calledomionists-5)
+nsubj(care-7, that-6)
+rcmod(calledomionists-5, care-7)
+quantmod(about-9, only-8)
+num(power-10, about-9)
+dobj(care-7, power-10)
+dobj(care-7, not-12)
+conj_and(power-10, not-12)
+prep_about(care-7, people-14)
+
+ that the majority is oppressing the LGBT community and being treated as second-class citizens .
+
+
+root(ROOT-0, oppressing-5)
+mark(oppressing-5, that-1)
+det(majority-3, the-2)
+nsubj(oppressing-5, majority-3)
+nsubjpass(treated-11, majority-3)
+aux(oppressing-5, is-4)
+det(community-8, the-6)
+nn(community-8, LGBT-7)
+dobj(oppressing-5, community-8)
+auxpass(treated-11, being-10)
+conj_and(oppressing-5, treated-11)
+amod(citizens-14, second-class-13)
+prep_as(treated-11, citizens-14)
+
+ that the majority is oppressing the LGBT community and being treated as second-class citizens .
+
+
+root(ROOT-0, oppressing-5)
+mark(oppressing-5, that-1)
+det(majority-3, the-2)
+nsubj(oppressing-5, majority-3)
+nsubjpass(treated-11, majority-3)
+aux(oppressing-5, is-4)
+det(community-8, the-6)
+nn(community-8, LGBT-7)
+dobj(oppressing-5, community-8)
+auxpass(treated-11, being-10)
+conj_and(oppressing-5, treated-11)
+amod(citizens-14, second-class-13)
+prep_as(treated-11, citizens-14)
+

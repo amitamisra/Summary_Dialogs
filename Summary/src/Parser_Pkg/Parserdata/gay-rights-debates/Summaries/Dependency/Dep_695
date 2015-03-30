@@ -1,0 +1,20 @@
+ the discussion of `` morality '' is a safe ground.
+root(ROOT-0, ground-10)
+det(discussion-2, the-1)
+nsubj(ground-10, discussion-2)
+prep(discussion-2, of-3)
+pobj(of-3, morality-5)
+cop(ground-10, is-7)
+det(ground-10, a-8)
+amod(ground-10, safe-9)
+
+ the discussion of `` morality '' is a safe ground.
+root(ROOT-0, ground-10)
+det(discussion-2, the-1)
+nsubj(ground-10, discussion-2)
+prep(discussion-2, of-3)
+pobj(of-3, morality-5)
+cop(ground-10, is-7)
+det(ground-10, a-8)
+amod(ground-10, safe-9)
+

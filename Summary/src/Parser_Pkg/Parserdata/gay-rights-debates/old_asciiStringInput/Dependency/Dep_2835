@@ -1,0 +1,38 @@
+ that it hurts people who view marriage as a sacred bond between a man and a woman .
+
+
+root(ROOT-0, hurts-3)
+mark(hurts-3, that-1)
+nsubj(hurts-3, it-2)
+dobj(hurts-3, people-4)
+nsubj(view-6, who-5)
+rcmod(people-4, view-6)
+dobj(view-6, marriage-7)
+det(bond-11, a-9)
+amod(bond-11, sacred-10)
+prep_as(view-6, bond-11)
+det(man-14, a-13)
+prep_between(bond-11, man-14)
+det(woman-17, a-16)
+prep_between(bond-11, woman-17)
+conj_and(man-14, woman-17)
+
+ that it hurts people who view marriage as a sacred bond between a man and a woman .
+
+
+root(ROOT-0, hurts-3)
+mark(hurts-3, that-1)
+nsubj(hurts-3, it-2)
+dobj(hurts-3, people-4)
+nsubj(view-6, who-5)
+rcmod(people-4, view-6)
+dobj(view-6, marriage-7)
+det(bond-11, a-9)
+amod(bond-11, sacred-10)
+prep_as(view-6, bond-11)
+det(man-14, a-13)
+prep_between(bond-11, man-14)
+det(woman-17, a-16)
+prep_between(bond-11, woman-17)
+conj_and(man-14, woman-17)
+

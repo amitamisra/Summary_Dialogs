@@ -1,0 +1,54 @@
+S2 finds it amusing that S1 believes  that he fought for the right of free speech 
+root(ROOT-0, finds-2)
+nsubj(finds-2, S2-1)
+nsubj(amusing-4, it-3)
+xcomp(finds-2, amusing-4)
+mark(believes-7, that-5)
+nsubj(believes-7, S1-6)
+ccomp(finds-2, believes-7)
+mark(fought-10, that-8)
+nsubj(fought-10, he-9)
+ccomp(believes-7, fought-10)
+det(right-13, the-12)
+prep_for(fought-10, right-13)
+amod(speech-16, free-15)
+prep_of(right-13, speech-16)
+
+ that S1 has not shown how the religious beliefs would be taken away from such a law .
+
+
+root(ROOT-0, shown-5)
+mark(shown-5, that-1)
+nsubj(shown-5, S1-2)
+aux(shown-5, has-3)
+neg(shown-5, not-4)
+advmod(taken-12, how-6)
+det(beliefs-9, the-7)
+amod(beliefs-9, religious-8)
+nsubjpass(taken-12, beliefs-9)
+aux(taken-12, would-10)
+auxpass(taken-12, be-11)
+ccomp(shown-5, taken-12)
+predet(law-17, such-15)
+det(law-17, a-16)
+prep_away_from(taken-12, law-17)
+
+ that S1 has not shown how the religious beliefs would be taken away from such a law .
+
+
+root(ROOT-0, shown-5)
+mark(shown-5, that-1)
+nsubj(shown-5, S1-2)
+aux(shown-5, has-3)
+neg(shown-5, not-4)
+advmod(taken-12, how-6)
+det(beliefs-9, the-7)
+amod(beliefs-9, religious-8)
+nsubjpass(taken-12, beliefs-9)
+aux(taken-12, would-10)
+auxpass(taken-12, be-11)
+ccomp(shown-5, taken-12)
+predet(law-17, such-15)
+det(law-17, a-16)
+prep_away_from(taken-12, law-17)
+

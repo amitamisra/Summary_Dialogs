@@ -1,0 +1,8 @@
+root(ROOT-0, screwed-4)
+nn(opinions-3, Speaker-1)
+num(opinions-3, two-2)
+nsubj(screwed-4, opinions-3)
+prt(screwed-4, over-5)
+poss(stature-10, marriage-7)
+amod(stature-10, current-9)
+prep_by(screwed-4, stature-10)

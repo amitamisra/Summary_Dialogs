@@ -1,0 +1,26 @@
+ most Christians in this country oppose civil marriages for gay rights.
+root(ROOT-0, oppose-6)
+advmod(Christians-2, most-1)
+nsubj(oppose-6, Christians-2)
+prep(oppose-6, in-3)
+det(country-5, this-4)
+pobj(in-3, country-5)
+amod(marriages-8, civil-7)
+dobj(oppose-6, marriages-8)
+prep(marriages-8, for-9)
+amod(rights-11, gay-10)
+pobj(for-9, rights-11)
+
+ most Christians in this country oppose civil marriages for gay rights.
+root(ROOT-0, oppose-6)
+advmod(Christians-2, most-1)
+nsubj(oppose-6, Christians-2)
+prep(oppose-6, in-3)
+det(country-5, this-4)
+pobj(in-3, country-5)
+amod(marriages-8, civil-7)
+dobj(oppose-6, marriages-8)
+prep(marriages-8, for-9)
+amod(rights-11, gay-10)
+pobj(for-9, rights-11)
+

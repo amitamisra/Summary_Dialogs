@@ -1,0 +1,4 @@
+root(ROOT-0, hypocrites-3)
+nsubj(hypocrites-3, Christians-1)
+cop(hypocrites-3, are-2)
+prep(hypocrites-3, because-4)

@@ -1,0 +1,36 @@
+ that S1 probably liked segregation and was most likely against women voting too .
+
+
+root(ROOT-0, liked-4)
+mark(liked-4, that-1)
+nsubj(liked-4, S1-2)
+nsubj(likely-9, S1-2)
+advmod(liked-4, probably-3)
+dobj(liked-4, segregation-5)
+cop(likely-9, was-7)
+advmod(likely-9, most-8)
+conj_and(liked-4, likely-9)
+prep_against(likely-9, women-11)
+vmod(women-11, voting-12)
+advmod(voting-12, too-13)
+
+Two people are discussing the economics of gay marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(economics-6, the-5)
+dobj(discussing-4, economics-6)
+amod(marriage-9, gay-8)
+prep_of(economics-6, marriage-9)
+
+Two people are discussing the economics of gay marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(economics-6, the-5)
+dobj(discussing-4, economics-6)
+amod(marriage-9, gay-8)
+prep_of(economics-6, marriage-9)
+

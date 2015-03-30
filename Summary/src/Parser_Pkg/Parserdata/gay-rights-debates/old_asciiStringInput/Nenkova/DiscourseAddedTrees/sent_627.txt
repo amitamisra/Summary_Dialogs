@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNS People)) (VP (VBP have) (VP (VBN been) (ADJP (VBN prejudiced) (PP (IN against) (NP (NP (NNS homosexuals)) (PP (IN for#0#0) (NP (DT a) (JJ long) (NN time)))))))) (. .)))

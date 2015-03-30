@@ -1,0 +1,6 @@
+root(ROOT-0, anti-gay-6)
+det(world-2, the-1)
+nsubj(anti-gay-6, world-2)
+cop(anti-gay-6, is-3)
+neg(anti-gay-6, not-4)
+dep(anti-gay-6, as-5)

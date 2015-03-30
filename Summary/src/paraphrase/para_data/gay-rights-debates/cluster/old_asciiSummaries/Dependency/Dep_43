@@ -1,0 +1,13 @@
+S1 believes the government getting out of marriage is not a bad idea.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+det(government-4, the-3)
+nsubj(idea-13, government-4)
+vmod(government-4, getting-5)
+prep_out_of(getting-5, marriage-8)
+cop(idea-13, is-9)
+neg(idea-13, not-10)
+det(idea-13, a-11)
+amod(idea-13, bad-12)
+ccomp(believes-2, idea-13)
+

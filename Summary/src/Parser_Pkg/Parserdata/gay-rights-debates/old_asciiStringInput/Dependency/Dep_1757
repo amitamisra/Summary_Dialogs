@@ -1,0 +1,28 @@
+   they had not complained 
+root(ROOT-0, complained-4)
+nsubj(complained-4, they-1)
+aux(complained-4, had-2)
+neg(complained-4, not-3)
+
+  marriage should not be handled by state or legislature but 
+root(ROOT-0, handled-5)
+nsubjpass(handled-5, marriage-1)
+aux(handled-5, should-2)
+neg(handled-5, not-3)
+auxpass(handled-5, be-4)
+agent(handled-5, state-7)
+agent(handled-5, legislature-9)
+conj_or(state-7, legislature-9)
+advmod(handled-5, but-10)
+
+  marriage should not be handled by state or legislature but 
+root(ROOT-0, handled-5)
+nsubjpass(handled-5, marriage-1)
+aux(handled-5, should-2)
+neg(handled-5, not-3)
+auxpass(handled-5, be-4)
+agent(handled-5, state-7)
+agent(handled-5, legislature-9)
+conj_or(state-7, legislature-9)
+advmod(handled-5, but-10)
+

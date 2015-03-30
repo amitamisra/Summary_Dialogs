@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ says) (SBAR (S (NP (NP (DT the) (NN topic)) (PP (IN of) (NP (JJ gay) (NNS rights)))) (VP (VBZ has) (VP (VBN become) (NP (DT a) (VBN poisoned) (NN topic)) (PP (IN because#0#0) (IN of) (NP (NP (NNS efforts)) (PP (IN of) (NP (NP (JJ religious) (NN right)) (CC and#1#0) (NP (JJ conservative) (NNS republicans))))))))))) (. .)))

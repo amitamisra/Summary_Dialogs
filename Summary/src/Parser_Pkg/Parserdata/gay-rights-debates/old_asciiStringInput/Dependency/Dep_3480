@@ -1,0 +1,28 @@
+These two people start referring to each others "attacks" on each other towards the end.
+root(ROOT-0, start-4)
+det(people-3, These-1)
+num(people-3, two-2)
+nsubj(start-4, people-3)
+xcomp(start-4, referring-5)
+det(others-8, each-7)
+prep_to(referring-5, others-8)
+dobj(referring-5, attacks-10)
+det(other-14, each-13)
+prep_on(attacks-10, other-14)
+det(end-17, the-16)
+prep_towards(other-14, end-17)
+
+These two people start referring to each others "attacks" on each other towards the end.
+root(ROOT-0, start-4)
+det(people-3, These-1)
+num(people-3, two-2)
+nsubj(start-4, people-3)
+xcomp(start-4, referring-5)
+det(others-8, each-7)
+prep_to(referring-5, others-8)
+dobj(referring-5, attacks-10)
+det(other-14, each-13)
+prep_on(attacks-10, other-14)
+det(end-17, the-16)
+prep_towards(other-14, end-17)
+

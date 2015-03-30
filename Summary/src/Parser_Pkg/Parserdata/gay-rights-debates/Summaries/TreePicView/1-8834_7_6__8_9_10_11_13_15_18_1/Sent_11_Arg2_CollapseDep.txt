@@ -1,0 +1,6 @@
+root(ROOT-0, acts-2)
+nsubj(acts-2, Congress-1)
+prep_to(acts-2, removeOMA-4)
+dep(removeOMA-4, efense-6)
+nn(Act-9, Marriage-8)
+prep_of(efense-6, Act-9)

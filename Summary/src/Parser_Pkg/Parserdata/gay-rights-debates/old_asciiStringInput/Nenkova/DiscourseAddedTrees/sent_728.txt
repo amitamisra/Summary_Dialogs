@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NN point)) (VP (VBZ has) (VP (VBN been) (VP (VBN made) (SBAR (IN because#0#Contingency) (S (NP (JJ different) (NNS laws)) (VP (VBP affect) (NP (JJ different) (NNS people))))))))))) (. .)))

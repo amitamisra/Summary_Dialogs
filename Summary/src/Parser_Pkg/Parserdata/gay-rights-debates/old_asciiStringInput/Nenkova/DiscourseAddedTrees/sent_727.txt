@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ does) (RB not) (VP (VB believe) (SBAR (S (NP (NN S2)) (VP (VBZ has) (VP (VBN answered) (NP (NP (PRP$ her) (NN question)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (JJ equal) (NN marriage)) (VP (VBZ hurts) (NP (DT any) (JJ heterosexual))))))))))))) (. .)))

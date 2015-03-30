@@ -1,0 +1,18 @@
+S2 argues that the religious freedom argument could be used in any format to justify any action.
+root(ROOT-0, argues-2)
+nsubj(argues-2, S2-1)
+mark(used-10, that-3)
+det(argument-7, the-4)
+amod(argument-7, religious-5)
+nn(argument-7, freedom-6)
+nsubjpass(used-10, argument-7)
+aux(used-10, could-8)
+auxpass(used-10, be-9)
+ccomp(argues-2, used-10)
+det(format-13, any-12)
+prep_in(used-10, format-13)
+aux(justify-15, to-14)
+xcomp(used-10, justify-15)
+det(action-17, any-16)
+dobj(justify-15, action-17)
+

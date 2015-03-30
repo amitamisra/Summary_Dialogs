@@ -1,0 +1,6 @@
+root(ROOT-0, represent-4)
+nsubj(represent-4, it-1)
+aux(represent-4, does-2)
+neg(represent-4, not-3)
+poss(point-6, his-5)
+dobj(represent-4, point-6)

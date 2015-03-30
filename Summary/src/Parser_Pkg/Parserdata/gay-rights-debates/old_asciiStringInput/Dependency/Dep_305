@@ -1,0 +1,35 @@
+   they first thought 
+root(ROOT-0, thought-3)
+nsubj(thought-3, they-1)
+advmod(thought-3, first-2)
+
+   S1 mentions Israel as well as the U.S. Constitution and rights of minorities versus majority rule . 
+root(ROOT-0, mentions-2)
+nsubj(mentions-2, S1-1)
+dobj(mentions-2, Israel-3)
+det(Constitution-9, the-7)
+nn(Constitution-9, U.S.-8)
+dobj(mentions-2, Constitution-9)
+conj_and(Israel-3, Constitution-9)
+dobj(mentions-2, rights-11)
+conj_and(Israel-3, rights-11)
+prep_of(rights-11, minorities-13)
+prep(minorities-13, versus-14)
+nn(rule-16, majority-15)
+pobj(versus-14, rule-16)
+
+   S1 mentions Israel as well as the U.S. Constitution and rights of minorities versus majority rule . 
+root(ROOT-0, mentions-2)
+nsubj(mentions-2, S1-1)
+dobj(mentions-2, Israel-3)
+det(Constitution-9, the-7)
+nn(Constitution-9, U.S.-8)
+dobj(mentions-2, Constitution-9)
+conj_and(Israel-3, Constitution-9)
+dobj(mentions-2, rights-11)
+conj_and(Israel-3, rights-11)
+prep_of(rights-11, minorities-13)
+prep(minorities-13, versus-14)
+nn(rule-16, majority-15)
+pobj(versus-14, rule-16)
+

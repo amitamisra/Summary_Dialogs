@@ -1,0 +1,1 @@
+(ROOT (FRAG (NP (NP (NN S2) (NNS questions)) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (JJ perverse)))))) (. .)))

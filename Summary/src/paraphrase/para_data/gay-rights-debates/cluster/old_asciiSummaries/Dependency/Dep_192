@@ -1,0 +1,9 @@
+Bowers rationale does not withstand careful analysis .
+root(ROOT-0, withstand-5)
+nn(rationale-2, Bowers-1)
+nsubj(withstand-5, rationale-2)
+aux(withstand-5, does-3)
+neg(withstand-5, not-4)
+amod(analysis-7, careful-6)
+dobj(withstand-5, analysis-7)
+

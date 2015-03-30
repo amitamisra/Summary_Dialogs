@@ -1,0 +1,27 @@
+   that love is not exclusive to gay marriages 
+root(ROOT-0, exclusive-5)
+mark(exclusive-5, that-1)
+nsubj(exclusive-5, love-2)
+cop(exclusive-5, is-3)
+neg(exclusive-5, not-4)
+amod(marriages-8, gay-7)
+prep_to(exclusive-5, marriages-8)
+
+    that the entire reason behind the debate is 
+root(ROOT-0, is-8)
+mark(is-8, that-1)
+det(reason-4, the-2)
+amod(reason-4, entire-3)
+nsubj(is-8, reason-4)
+det(debate-7, the-6)
+prep_behind(reason-4, debate-7)
+
+    that the entire reason behind the debate is 
+root(ROOT-0, is-8)
+mark(is-8, that-1)
+det(reason-4, the-2)
+amod(reason-4, entire-3)
+nsubj(is-8, reason-4)
+det(debate-7, the-6)
+prep_behind(reason-4, debate-7)
+

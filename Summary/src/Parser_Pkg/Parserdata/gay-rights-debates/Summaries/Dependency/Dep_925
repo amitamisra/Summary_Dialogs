@@ -1,0 +1,14 @@
+a better comparison is Sodom.
+root(ROOT-0, Sodom-5)
+det(comparison-3, a-1)
+amod(comparison-3, better-2)
+nsubj(Sodom-5, comparison-3)
+cop(Sodom-5, is-4)
+
+a better comparison is Sodom.
+root(ROOT-0, Sodom-5)
+det(comparison-3, a-1)
+amod(comparison-3, better-2)
+nsubj(Sodom-5, comparison-3)
+cop(Sodom-5, is-4)
+

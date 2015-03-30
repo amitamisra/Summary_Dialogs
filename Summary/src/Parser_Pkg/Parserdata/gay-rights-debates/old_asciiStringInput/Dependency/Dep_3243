@@ -1,0 +1,24 @@
+ The example of abortion comes up to try and prove inconsistency , 
+root(ROOT-0, comes-5)
+det(example-2, The-1)
+nsubj(comes-5, example-2)
+prep_of(example-2, abortion-4)
+prt(comes-5, up-6)
+aux(try-8, to-7)
+xcomp(comes-5, try-8)
+xcomp(comes-5, prove-10)
+conj_and(try-8, prove-10)
+dobj(try-8, inconsistency-11)
+
+ The example of abortion comes up to try and prove inconsistency , 
+root(ROOT-0, comes-5)
+det(example-2, The-1)
+nsubj(comes-5, example-2)
+prep_of(example-2, abortion-4)
+prt(comes-5, up-6)
+aux(try-8, to-7)
+xcomp(comes-5, try-8)
+xcomp(comes-5, prove-10)
+conj_and(try-8, prove-10)
+dobj(try-8, inconsistency-11)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, need-2)
+nsubj(need-2, they-1)
+aux(stay-4, to-3)
+xcomp(need-2, stay-4)
+det(closet-7, the-6)
+prep_in(stay-4, closet-7)

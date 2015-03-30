@@ -1,0 +1,47 @@
+ S1 is against gay rights apparently because of the biblical story of Sodom , 
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+amod(rights-5, gay-4)
+prep_against(is-2, rights-5)
+advmod(is-2, apparently-6)
+det(story-11, the-9)
+amod(story-11, biblical-10)
+prep_because_of(is-2, story-11)
+prep_of(story-11, Sodom-13)
+
+ gay people have the same rights as heterosexuals and does not view marriage as a right .
+
+
+root(ROOT-0, have-3)
+amod(people-2, gay-1)
+nsubj(have-3, people-2)
+nsubj(view-12, people-2)
+det(rights-6, the-4)
+amod(rights-6, same-5)
+dobj(have-3, rights-6)
+prep_as(rights-6, heterosexuals-8)
+aux(view-12, does-10)
+neg(view-12, not-11)
+conj_and(have-3, view-12)
+dobj(view-12, marriage-13)
+det(right-16, a-15)
+prep_as(view-12, right-16)
+
+ gay people have the same rights as heterosexuals and does not view marriage as a right .
+
+
+root(ROOT-0, have-3)
+amod(people-2, gay-1)
+nsubj(have-3, people-2)
+nsubj(view-12, people-2)
+det(rights-6, the-4)
+amod(rights-6, same-5)
+dobj(have-3, rights-6)
+prep_as(rights-6, heterosexuals-8)
+aux(view-12, does-10)
+neg(view-12, not-11)
+conj_and(have-3, view-12)
+dobj(view-12, marriage-13)
+det(right-16, a-15)
+prep_as(view-12, right-16)
+

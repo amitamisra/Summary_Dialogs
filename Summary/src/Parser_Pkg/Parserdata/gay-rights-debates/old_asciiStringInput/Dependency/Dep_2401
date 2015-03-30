@@ -1,0 +1,28 @@
+ that AIS became an epidemic in the US through the gay community .
+
+
+root(ROOT-0, epidemic-5)
+mark(epidemic-5, that-1)
+nsubj(epidemic-5, AIS-2)
+cop(epidemic-5, became-3)
+det(epidemic-5, an-4)
+det(US-8, the-7)
+prep_in(epidemic-5, US-8)
+det(community-12, the-10)
+amod(community-12, gay-11)
+prep_through(epidemic-5, community-12)
+
+ that AIS became an epidemic in the US through the gay community .
+
+
+root(ROOT-0, epidemic-5)
+mark(epidemic-5, that-1)
+nsubj(epidemic-5, AIS-2)
+cop(epidemic-5, became-3)
+det(epidemic-5, an-4)
+det(US-8, the-7)
+prep_in(epidemic-5, US-8)
+det(community-12, the-10)
+amod(community-12, gay-11)
+prep_through(epidemic-5, community-12)
+

@@ -1,0 +1,17 @@
+S2 believes the courts should take individuals' into consideration and rule on each instead of as a whole.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+det(courts-4, the-3)
+nsubj(take-6, courts-4)
+aux(take-6, should-5)
+ccomp(believes-2, take-6)
+dobj(take-6, individuals-7)
+prep_into(take-6, consideration-10)
+prep_into(take-6, rule-12)
+conj_and(consideration-10, rule-12)
+prep_on(consideration-10, each-14)
+advmod(each-14, instead-15)
+prepc_as_of(each-14, as-17)
+det(whole-19, a-18)
+pobj(each-14, whole-19)
+

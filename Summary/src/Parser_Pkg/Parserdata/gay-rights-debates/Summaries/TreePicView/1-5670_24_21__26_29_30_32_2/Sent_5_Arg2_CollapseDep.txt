@@ -1,0 +1,7 @@
+root(ROOT-0, identify-7)
+amod(people-2, most-1)
+nsubj(identify-7, people-2)
+det(country-5, the-4)
+prep_in(people-2, country-5)
+aux(identify-7, may-6)
+prep_as(identify-7, Christian-9)

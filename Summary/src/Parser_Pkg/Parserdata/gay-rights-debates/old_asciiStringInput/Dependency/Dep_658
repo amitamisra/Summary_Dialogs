@@ -1,0 +1,33 @@
+ ,   they must share the beliefs of that person 
+root(ROOT-0, share-4)
+nsubj(share-4, they-2)
+aux(share-4, must-3)
+det(beliefs-6, the-5)
+dobj(share-4, beliefs-6)
+det(person-9, that-8)
+prep_of(beliefs-6, person-9)
+
+He also advises liberalism is not based on the same theory.
+root(ROOT-0, advises-3)
+nsubj(advises-3, He-1)
+advmod(advises-3, also-2)
+nsubjpass(based-7, liberalism-4)
+auxpass(based-7, is-5)
+neg(based-7, not-6)
+ccomp(advises-3, based-7)
+det(theory-11, the-9)
+amod(theory-11, same-10)
+prep_on(based-7, theory-11)
+
+He also advises liberalism is not based on the same theory.
+root(ROOT-0, advises-3)
+nsubj(advises-3, He-1)
+advmod(advises-3, also-2)
+nsubjpass(based-7, liberalism-4)
+auxpass(based-7, is-5)
+neg(based-7, not-6)
+ccomp(advises-3, based-7)
+det(theory-11, the-9)
+amod(theory-11, same-10)
+prep_on(based-7, theory-11)
+

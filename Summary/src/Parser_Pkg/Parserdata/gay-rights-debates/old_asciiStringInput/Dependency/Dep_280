@@ -1,0 +1,21 @@
+   someone wants to 
+root(ROOT-0, wants-2)
+nsubj(wants-2, someone-1)
+prep(wants-2, to-3)
+
+He also challenged S1's earthquake argument.
+root(ROOT-0, challenged-3)
+nsubj(challenged-3, He-1)
+advmod(challenged-3, also-2)
+poss(argument-7, S1-4)
+nn(argument-7, earthquake-6)
+dobj(challenged-3, argument-7)
+
+He also challenged S1's earthquake argument.
+root(ROOT-0, challenged-3)
+nsubj(challenged-3, He-1)
+advmod(challenged-3, also-2)
+poss(argument-7, S1-4)
+nn(argument-7, earthquake-6)
+dobj(challenged-3, argument-7)
+

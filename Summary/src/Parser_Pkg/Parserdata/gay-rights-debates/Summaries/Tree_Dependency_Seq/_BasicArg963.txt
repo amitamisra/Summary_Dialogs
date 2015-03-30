@@ -1,0 +1,8 @@
+root(ROOT-0, use-1)
+nsubj(impose-4, them-2)
+aux(impose-4, to-3)
+xcomp(use-1, impose-4)
+nn(views-6, ones-5)
+dobj(impose-4, views-6)
+prep(impose-4, on-7)
+pobj(on-7, another-8)

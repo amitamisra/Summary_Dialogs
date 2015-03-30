@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 claims that because healthcare is generally extended to spouses, homosexuals will not be eligible to receive healthcare through their partner because same-sex marriages are not recognized in Virginia. He likens this situations to a heterosexual male with a girlfriend who would not receive his healthcare benefits. He presents his opinion that homosexuals should move out of Virginia and his hope that same-sex marriages will be made illegal everywhere.</line>
+  <line>S2 argues that the cases presented by S1 are not equivalent because the heterosexual male has the right to marry his girlfriend if he chooses, at which point she would be eligible for his benefits. He also points out that after cohabitating for a certain period of time, the woman would be eligible under common law marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 says that healthcare applies to spouses, so if it is illegal for gay people to get married in VA they can't share healthcare. He goes on to say it works the same way if a straight man has a girlfriend. She can't get healthcare through his job. He hopes gay people upset by VA leave and that gay marriage gets outlawed everywhere so he doesn't have to hear gay people complain anymore. S1 corrects S2's grammar when he types common law. S2 states that a straight man can marry his girlfriend and she can get healthcare, but gay people are prohibited from getting married. He believes that if two people cohabitate for awhile or have children they should get healthcare because of Common law.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two subjects are discussing Virginia's unwillingness to allow gay couples to marry.  S1 is using the basis that the request for legalizing gay marriage is mostly based on the want and need for healthcare benefits one's spouse in entitled to using the example that if a gentleman and his girlfriend are not married, the girlfriend would not be eligible for healthcare under the boyfriend either.  S2 contends this is not a singular subject and is more based on rights as the heterosexual couple S1 uses as an example has the right to get married if they choose, while a gay couple does not have the option to make that same choice to.  S1 holds hope that gay marriage will be banned everywhere.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1:1 started his comments by talking about the fact that typically only spouses are eligible for health care and that if it is illegal for gays to marry in VA then of course there would be no health care coverage for them in VA. He then compared this to what happens with the girlfriend of a straight guy who cannot get his healthcare benefits. He then said that he hopes that gay marriage stay out of VA so there will not be trouble and that gay marriage will be outlawed everywhere so that gays will stop complaining about the lack of healthcare. </line>
+  <line>S2 pointed out the fact that the straight guy can marry or have a common law relationship so his girlfriend can get benefits.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two people are discussing marriage benefits.  S1 states that healthcare usually applies to spouses, so in order to get the benefits of any health care provided by a spouses job the requirement is marriage.  Since gays can't get married, they cannot share in each other's health care, and he hopes that gay marriages will be sorted out so he doesn't have to hear them complain about health care. He then uses an example of a straight guy who has a girlfriend who can't get any health care because they're not married, and he asks S2 if she hould get benefits.   S2 contends that legally if they cohabitate for a prescribed period of time or have children, by common law they can.</line>
+ </text>
+ <scu uid="213" label="S1 uses the example of a heterosexual male with a girlfriend who would not receive his healthcare benefits">
+  <contributor label="He likens this situations to a heterosexual male with a girlfriend who would not receive his healthcare benefits">
+   <part label="He likens this situations to a heterosexual male with a girlfriend who would not receive his healthcare benefits" start="230" end="342"/>
+  </contributor>
+  <contributor label="He goes on to say it works the same way if a straight man has a girlfriend...She can't get healthcare through his job">
+   <part label="He goes on to say it works the same way if a straight man has a girlfriend" start="965" end="1039"/>
+   <part label="She can't get healthcare through his job" start="1041" end="1081"/>
+  </contributor>
+  <contributor label="if a gentleman and his girlfriend are not married, the girlfriend would not be eligible for healthcare under the boyfriend">
+   <part label="if a gentleman and his girlfriend are not married, the girlfriend would not be eligible for healthcare under the boyfriend" start="1821" end="1943"/>
+  </contributor>
+  <contributor label="He then compared this to what happens with the girlfriend of a straight guy who cannot get his healthcare benefits">
+   <part label="He then compared this to what happens with the girlfriend of a straight guy who cannot get his healthcare benefits" start="2507" end="2621"/>
+  </contributor>
+  <contributor label="He then uses an example of a straight guy who has a girlfriend who can't get any health care because they're not married">
+   <part label="He then uses an example of a straight guy who has a girlfriend who can't get any health care because they're not married" start="3376" end="3496"/>
+  </contributor>
+ </scu>
+ <scu uid="215" label=" S1 said that  hopes that gay marriage stay out of VA">
+  <contributor label="He then said that he hopes that gay marriage stay out of VA so there will not be trouble">
+   <part label="He then said that he hopes that gay marriage stay out of VA so there will not be trouble" start="2623" end="2711"/>
+  </contributor>
+  <contributor label="He presents his opinion that homosexuals should move out of Virginia">
+   <part label="He presents his opinion that homosexuals should move out of Virginia" start="344" end="412"/>
+  </contributor>
+  <contributor label="He hopes gay people upset by VA leave">
+   <part label="He hopes gay people upset by VA leave" start="1083" end="1120"/>
+  </contributor>
+  <contributor label="he hopes that gay marriages will be sorted out">
+   <part label="he hopes that gay marriages will be sorted out" start="3269" end="3315"/>
+  </contributor>
+ </scu>
+ <scu uid="216" label="S1 hopes that same-sex marriages will be made illegal everywhere">
+  <contributor label="his hope that same-sex marriages will be made illegal everywhere">
+   <part label="his hope that same-sex marriages will be made illegal everywhere" start="417" end="481"/>
+  </contributor>
+  <contributor label="gay marriage gets outlawed everywhere">
+   <part label="gay marriage gets outlawed everywhere" start="1130" end="1167"/>
+  </contributor>
+  <contributor label="S1 holds hope that gay marriage will be banned everywhere">
+   <part label="S1 holds hope that gay marriage will be banned everywhere" start="2192" end="2249"/>
+  </contributor>
+  <contributor label="gay marriage will be outlawed everywhere">
+   <part label="gay marriage will be outlawed everywhere" start="2721" end="2761"/>
+  </contributor>
+ </scu>
+ <scu uid="212" label="S1 states homosexuals will not be eligible to receive healthcare through their partner because same-sex marriages are not recognized in Virginia">
+  <contributor label="homosexuals will not be eligible to receive healthcare through their partner because same-sex marriages are not recognized in Virginia">
+   <part label="homosexuals will not be eligible to receive healthcare through their partner because same-sex marriages are not recognized in Virginia" start="94" end="228"/>
+  </contributor>
+  <contributor label="if it is illegal for gay people to get married in VA they can't share healthcare">
+   <part label="if it is illegal for gay people to get married in VA they can't share healthcare" start="883" end="963"/>
+  </contributor>
+  <contributor label="if it is illegal for gays to marry in VA then of course there would be no health care coverage for them in VA">
+   <part label="if it is illegal for gays to marry in VA then of course there would be no health care coverage for them in VA" start="2396" end="2505"/>
+  </contributor>
+  <contributor label="Since gays can't get married, they cannot share in each other's health care">
+   <part label="Since gays can't get married, they cannot share in each other's health care" start="3188" end="3263"/>
+  </contributor>
+ </scu>
+ <scu uid="211" label="S1 states that healthcare usually applies to spouses">
+  <contributor label="S1 states that healthcare usually applies to spouses">
+   <part label="S1 states that healthcare usually applies to spouses" start="3027" end="3079"/>
+  </contributor>
+  <contributor label="S1 says that healthcare applies to spouses">
+   <part label="S1 says that healthcare applies to spouses" start="836" end="878"/>
+  </contributor>
+  <contributor label="S1 claims that because healthcare is generally extended to spouses">
+   <part label="S1 claims that because healthcare is generally extended to spouses" start="26" end="92"/>
+  </contributor>
+  <contributor label="S1:1 started his comments by talking about the fact that typically only spouses are eligible for health care">
+   <part label="S1:1 started his comments by talking about the fact that typically only spouses are eligible for health care" start="2278" end="2386"/>
+  </contributor>
+ </scu>
+ <scu uid="214" label="S2 pointed out the fact that the straight guy can marry or have a common law relationship so his girlfriend can get benefits">
+  <contributor label="S2 pointed out the fact that the straight guy can marry or have a common law relationship so his girlfriend can get benefits">
+   <part label="S2 pointed out the fact that the straight guy can marry or have a common law relationship so his girlfriend can get benefits" start="2828" end="2952"/>
+  </contributor>
+  <contributor label="S2 contends that legally if they cohabitate for a prescribed period of time or have children, by common law they can">
+   <part label="S2 contends that legally if they cohabitate for a prescribed period of time or have children, by common law they can" start="3542" end="3658"/>
+  </contributor>
+  <contributor label="He believes that if two people cohabitate for awhile or have children they should get healthcare because of Common law">
+   <part label="He believes that if two people cohabitate for awhile or have children they should get healthcare because of Common law" start="1410" end="1528"/>
+  </contributor>
+  <contributor label="He also points out that after cohabitating for a certain period of time, the woman would be eligible under common law marriage">
+   <part label="He also points out that after cohabitating for a certain period of time, the woman would be eligible under common law marriage" start="681" end="807"/>
+  </contributor>
+ </scu>
+ <scu uid="219" label="S2 argues that the cases presented by S1 are not equivalent because the heterosexual male has the right to marry his girlfriend if he chooses">
+  <contributor label="S2 argues that the cases presented by S1 are not equivalent because the heterosexual male has the right to marry his girlfriend if he chooses">
+   <part label="S2 argues that the cases presented by S1 are not equivalent because the heterosexual male has the right to marry his girlfriend if he chooses" start="483" end="624"/>
+  </contributor>
+  <contributor label="S2 states that a straight man can marry his girlfriend and she can get healthcare">
+   <part label="S2 states that a straight man can marry his girlfriend and she can get healthcare" start="1275" end="1356"/>
+  </contributor>
+  <contributor label="S2 contends this is not a singular subject and is more based on rights as the heterosexual couple S1 uses as an example has the right to get married if they choose">
+   <part label="S2 contends this is not a singular subject and is more based on rights as the heterosexual couple S1 uses as an example has the right to get married if they choose" start="1953" end="2116"/>
+  </contributor>
+ </scu>
+ <scu uid="217" label="S1 hopes he doesn't have to hear gay people complain anymore">
+  <contributor label="so he doesn't have to hear gay people complain anymore">
+   <part label="so he doesn't have to hear gay people complain anymore" start="1168" end="1222"/>
+  </contributor>
+  <contributor label="so that gays will stop complaining about the lack of healthcare">
+   <part label="so that gays will stop complaining about the lack of healthcare" start="2762" end="2825"/>
+  </contributor>
+  <contributor label="so he doesn't have to hear them complain about health care">
+   <part label="so he doesn't have to hear them complain about health care" start="3316" end="3374"/>
+  </contributor>
+ </scu>
+ <scu uid="220" label="S1 says a gay couple does not have the option to make that same choice to">
+  <contributor label="gay people are prohibited from getting married">
+   <part label="gay people are prohibited from getting married" start="1362" end="1408"/>
+  </contributor>
+  <contributor label="gay couple does not have the option">
+   <part label="gay couple does not have the option" start="2126" end="2161"/>
+  </contributor>
+ </scu>
+ <scu uid="225" label="he asks S2 if she hould get benefits">
+  <contributor label="he asks S2 if she hould get benefits">
+   <part label="he asks S2 if she hould get benefits" start="3502" end="3538"/>
+  </contributor>
+ </scu>
+ <scu uid="224" label="in order to get the benefits of any health care provided by a spouses job the requirement is marriage">
+  <contributor label="in order to get the benefits of any health care provided by a spouses job the requirement is marriage">
+   <part label="in order to get the benefits of any health care provided by a spouses job the requirement is marriage" start="3084" end="3185"/>
+  </contributor>
+ </scu>
+ <scu uid="221" label="S1 corrects S2's grammar when he types common law">
+  <contributor label="S1 corrects S2's grammar when he types common law">
+   <part label="S1 corrects S2's grammar when he types common law" start="1224" end="1273"/>
+  </contributor>
+ </scu>
+ <scu uid="226" label="S1 is using the basis that the request for legalizing gay marriage is mostly based on the want and need for healthcare benefits one's spouse in entitled to">
+  <contributor label="S1 is using the basis that the request for legalizing gay marriage is mostly based on the want and need for healthcare benefits one's spouse in entitled to">
+   <part label="S1 is using the basis that the request for legalizing gay marriage is mostly based on the want and need for healthcare benefits one's spouse in entitled to" start="1642" end="1797"/>
+  </contributor>
+ </scu>
+ <scu uid="222" label="Two people are discussing marriage benefits">
+  <contributor label="Two people are discussing marriage benefits">
+   <part label="Two people are discussing marriage benefits" start="2981" end="3024"/>
+  </contributor>
+ </scu>
+ <scu uid="223" label="Two subjects are discussing Virginia's unwillingness to allow gay couples to marry">
+  <contributor label="Two subjects are discussing Virginia's unwillingness to allow gay couples to marry">
+   <part label="Two subjects are discussing Virginia's unwillingness to allow gay couples to marry" start="1557" end="1639"/>
+  </contributor>
+ </scu>
+</pyramid>

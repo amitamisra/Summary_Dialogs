@@ -1,0 +1,3 @@
+root(ROOT-0, can-3)
+advmod(can-3, legally-1)
+nsubj(can-3, they-2)

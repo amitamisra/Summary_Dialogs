@@ -1,0 +1,6 @@
+root(ROOT-0, will-4)
+det(Coast-3, the-1)
+nn(Coast-3, West-2)
+nsubj(will-4, Coast-3)
+advmod(well-6, as-5)
+advmod(will-4, well-6)

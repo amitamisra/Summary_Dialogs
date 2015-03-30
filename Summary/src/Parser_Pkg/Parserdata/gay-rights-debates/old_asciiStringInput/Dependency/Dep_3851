@@ -1,0 +1,24 @@
+ they would be happy  to accept the title Civil Union 
+root(ROOT-0, happy-4)
+nsubj(happy-4, they-1)
+aux(happy-4, would-2)
+cop(happy-4, be-3)
+aux(accept-6, to-5)
+xcomp(happy-4, accept-6)
+det(Union-10, the-7)
+nn(Union-10, title-8)
+nn(Union-10, Civil-9)
+dobj(accept-6, Union-10)
+
+ they would be happy  to accept the title Civil Union 
+root(ROOT-0, happy-4)
+nsubj(happy-4, they-1)
+aux(happy-4, would-2)
+cop(happy-4, be-3)
+aux(accept-6, to-5)
+xcomp(happy-4, accept-6)
+det(Union-10, the-7)
+nn(Union-10, title-8)
+nn(Union-10, Civil-9)
+dobj(accept-6, Union-10)
+

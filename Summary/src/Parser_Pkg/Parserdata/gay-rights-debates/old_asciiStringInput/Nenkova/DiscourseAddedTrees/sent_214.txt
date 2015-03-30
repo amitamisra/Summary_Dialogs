@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VP (VBZ concedes) (SBAR (IN that) (S (NP (EX there)) (VP (MD would) (VP (VB be) (NP (NP (JJ little) (JJ financial) (NN impact)) (PP (IN on) (NP (NP (NN support)) (PP (IN for#2#0) (NP (JJ homosexual) (NN marriage))))))))))) (, ,) (CC and#1#0) (VP (MD would)) (PP (IN in#0#0) (NP (NP (NN fact#0#0) (NN supply)) (NP (DT a) (NN surplus))))) (. .)))

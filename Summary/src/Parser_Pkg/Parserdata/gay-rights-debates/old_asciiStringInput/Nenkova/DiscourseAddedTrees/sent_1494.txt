@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ states) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ has) (VP (VP (VBN served) (NP (NNP Uncle) (NNP Sam))) (CC and#0#0) (VP (VBN fought) (PP (IN for#1#0) (NP (PRP$ his) (NN freedom) (NNS rights))))))))) (. .)))

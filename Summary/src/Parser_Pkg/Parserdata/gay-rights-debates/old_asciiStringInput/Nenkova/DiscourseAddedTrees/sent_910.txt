@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ challenges) (NP (NN S2)) (S (VP (TO to) (VP (VB refute) (NP (PRP$ his) (NN assertion)) (PP (IN with) (NP (NN proof))))))) (. .)))

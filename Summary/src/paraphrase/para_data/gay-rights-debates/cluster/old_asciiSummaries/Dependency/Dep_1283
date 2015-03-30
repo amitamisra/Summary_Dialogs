@@ -1,0 +1,13 @@
+S1 believes that the majority rules no matter what the minority thinks.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+det(rules-6, the-4)
+nn(rules-6, majority-5)
+prep_that(believes-2, rules-6)
+neg(matter-8, no-7)
+advmod(thinks-12, matter-8)
+dobj(thinks-12, what-9)
+det(minority-11, the-10)
+nsubj(thinks-12, minority-11)
+ccomp(believes-2, thinks-12)
+

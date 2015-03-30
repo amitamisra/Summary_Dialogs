@@ -1,0 +1,26 @@
+ no one really knows  how AIS originally arrived in the United States 
+root(ROOT-0, knows-4)
+neg(one-2, no-1)
+nsubj(knows-4, one-2)
+advmod(knows-4, really-3)
+advmod(arrived-8, how-5)
+nsubj(arrived-8, AIS-6)
+advmod(arrived-8, originally-7)
+ccomp(knows-4, arrived-8)
+det(States-12, the-10)
+nn(States-12, United-11)
+prep_in(arrived-8, States-12)
+
+ no one really knows  how AIS originally arrived in the United States 
+root(ROOT-0, knows-4)
+neg(one-2, no-1)
+nsubj(knows-4, one-2)
+advmod(knows-4, really-3)
+advmod(arrived-8, how-5)
+nsubj(arrived-8, AIS-6)
+advmod(arrived-8, originally-7)
+ccomp(knows-4, arrived-8)
+det(States-12, the-10)
+nn(States-12, United-11)
+prep_in(arrived-8, States-12)
+

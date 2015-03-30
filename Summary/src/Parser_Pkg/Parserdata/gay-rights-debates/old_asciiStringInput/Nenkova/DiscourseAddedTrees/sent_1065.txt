@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NNP Homosexuality)) (PP (IN in) (NP (PRP$ his) (NN opinion)))) (VP (VP (VBZ is) (NP (NP (DT a) (NN deviation)) (PP (IN from) (NP (DT the) (NN norm))))) (CC and#0#0) (VP (VBZ is) (ADJP (JJ perverse)))) (. .)))

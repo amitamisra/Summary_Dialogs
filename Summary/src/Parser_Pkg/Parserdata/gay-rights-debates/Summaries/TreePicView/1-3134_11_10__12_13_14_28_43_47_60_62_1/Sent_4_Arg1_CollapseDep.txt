@@ -1,0 +1,8 @@
+root(ROOT-0, practicing-5)
+det(places-3, these-2)
+prep_in(practicing-5, places-3)
+aux(practicing-5, are-4)
+amod(sex-7, unprotected-6)
+dobj(practicing-5, sex-7)
+prep_on(practicing-5, one-9)
+nsubj(practicing-5, another-10)

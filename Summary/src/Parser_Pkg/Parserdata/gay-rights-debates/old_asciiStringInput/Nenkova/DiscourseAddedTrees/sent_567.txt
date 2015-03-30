@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S2) (NNS states)) (SBAR (WHNP (WDT that)) (S (PP (IN since#0#0) (NP (DT the) (NNS specifics))) (VP (VBP are) (ADJP (JJ unknown)) (, ,) (S (VP (VBG questioning) (NP (PRP them)))))))) (VP (MD would) (ADVP (RB just)) (VP (VB be) (VP (VBG making) (PRT (RP up)) (NP (NNS objections)) (PP (IN without) (NP (JJ factual) (NN evidence)))))) (. .)))

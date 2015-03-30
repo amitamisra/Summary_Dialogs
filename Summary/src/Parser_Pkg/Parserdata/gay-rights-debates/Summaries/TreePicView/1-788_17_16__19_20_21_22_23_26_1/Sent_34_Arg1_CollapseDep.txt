@@ -1,0 +1,5 @@
+root(ROOT-0, comes-2)
+nsubj(comes-2, it-1)
+det(word-5, the-4)
+prep_to(comes-2, word-5)
+amod(word-5, normal-7)

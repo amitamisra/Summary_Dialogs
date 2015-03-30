@@ -1,0 +1,24 @@
+Two people are discussing gay marriage and its possible consequences.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+poss(consequences-10, its-8)
+amod(consequences-10, possible-9)
+dobj(discussing-4, consequences-10)
+conj_and(marriage-6, consequences-10)
+
+Two people are discussing gay marriage and its possible consequences.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+poss(consequences-10, its-8)
+amod(consequences-10, possible-9)
+dobj(discussing-4, consequences-10)
+conj_and(marriage-6, consequences-10)
+

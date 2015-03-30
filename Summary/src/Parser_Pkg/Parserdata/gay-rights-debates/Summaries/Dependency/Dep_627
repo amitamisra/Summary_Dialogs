@@ -1,0 +1,37 @@
+same sex marriage has never been legally recognizes is a big problem.
+root(ROOT-0, legally-7)
+amod(marriage-3, same-1)
+nn(marriage-3, sex-2)
+nsubj(legally-7, marriage-3)
+aux(legally-7, has-4)
+neg(legally-7, never-5)
+cop(legally-7, been-6)
+ccomp(legally-7, recognizes-8)
+cop(problem-12, is-9)
+det(problem-12, a-10)
+amod(problem-12, big-11)
+ccomp(recognizes-8, problem-12)
+
+same sex marriage has never been legally recognizes is a big problem.
+root(ROOT-0, legally-7)
+amod(marriage-3, same-1)
+nn(marriage-3, sex-2)
+nsubj(legally-7, marriage-3)
+aux(legally-7, has-4)
+neg(legally-7, never-5)
+cop(legally-7, been-6)
+ccomp(legally-7, recognizes-8)
+cop(problem-12, is-9)
+det(problem-12, a-10)
+amod(problem-12, big-11)
+ccomp(recognizes-8, problem-12)
+
+Those against gay marriage use logical fallacies.
+root(ROOT-0, Those-1)
+prep(Those-1, against-2)
+amod(fallacies-7, gay-3)
+nn(fallacies-7, marriage-4)
+nn(fallacies-7, use-5)
+amod(fallacies-7, logical-6)
+pobj(against-2, fallacies-7)
+

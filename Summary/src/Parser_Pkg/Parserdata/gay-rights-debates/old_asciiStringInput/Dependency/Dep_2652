@@ -1,0 +1,16 @@
+Two people are arguing gay marriage.
+root(ROOT-0, arguing-4)
+num(people-2, Two-1)
+nsubj(arguing-4, people-2)
+aux(arguing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(arguing-4, marriage-6)
+
+Two people are arguing gay marriage.
+root(ROOT-0, arguing-4)
+num(people-2, Two-1)
+nsubj(arguing-4, people-2)
+aux(arguing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(arguing-4, marriage-6)
+

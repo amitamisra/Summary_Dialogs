@@ -1,0 +1,30 @@
+Those against gay marriage use logical fallacies .
+
+
+root(ROOT-0, Those-1)
+amod(fallacies-7, gay-3)
+nn(fallacies-7, marriage-4)
+nn(fallacies-7, use-5)
+amod(fallacies-7, logical-6)
+prep_against(Those-1, fallacies-7)
+
+   homosexual marriage can and will be legally recognized  
+root(ROOT-0, recognized-8)
+amod(marriage-2, homosexual-1)
+nsubjpass(recognized-8, marriage-2)
+aux(recognized-8, can-3)
+cc(recognized-8, and-4)
+aux(recognized-8, will-5)
+auxpass(recognized-8, be-6)
+advmod(recognized-8, legally-7)
+
+   homosexual marriage can and will be legally recognized  
+root(ROOT-0, recognized-8)
+amod(marriage-2, homosexual-1)
+nsubjpass(recognized-8, marriage-2)
+aux(recognized-8, can-3)
+cc(recognized-8, and-4)
+aux(recognized-8, will-5)
+auxpass(recognized-8, be-6)
+advmod(recognized-8, legally-7)
+

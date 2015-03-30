@@ -1,0 +1,42 @@
+He rejects the requirement that he should provide proof for his claims by citing S1 's failure to do so .
+
+
+root(ROOT-0, rejects-2)
+nsubj(rejects-2, He-1)
+det(requirement-4, the-3)
+dobj(rejects-2, requirement-4)
+mark(provide-8, that-5)
+nsubj(provide-8, he-6)
+aux(provide-8, should-7)
+ccomp(rejects-2, provide-8)
+dobj(provide-8, proof-9)
+poss(claims-12, his-11)
+prep_for(proof-9, claims-12)
+prepc_by(provide-8, citing-14)
+poss(failure-17, S1-15)
+dobj(citing-14, failure-17)
+aux(do-19, to-18)
+vmod(failure-17, do-19)
+advmod(do-19, so-20)
+
+He rejects the requirement that he should provide proof for his claims by citing S1 's failure to do so .
+
+
+root(ROOT-0, rejects-2)
+nsubj(rejects-2, He-1)
+det(requirement-4, the-3)
+dobj(rejects-2, requirement-4)
+mark(provide-8, that-5)
+nsubj(provide-8, he-6)
+aux(provide-8, should-7)
+ccomp(rejects-2, provide-8)
+dobj(provide-8, proof-9)
+poss(claims-12, his-11)
+prep_for(proof-9, claims-12)
+prepc_by(provide-8, citing-14)
+poss(failure-17, S1-15)
+dobj(citing-14, failure-17)
+aux(do-19, to-18)
+vmod(failure-17, do-19)
+advmod(do-19, so-20)
+

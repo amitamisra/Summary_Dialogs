@@ -1,0 +1,6 @@
+root(ROOT-0, marry-4)
+amod(people-2, gay-1)
+nsubj(marry-4, people-2)
+aux(marry-4, should-3)
+det(woman-6, a-5)
+dobj(marry-4, woman-6)

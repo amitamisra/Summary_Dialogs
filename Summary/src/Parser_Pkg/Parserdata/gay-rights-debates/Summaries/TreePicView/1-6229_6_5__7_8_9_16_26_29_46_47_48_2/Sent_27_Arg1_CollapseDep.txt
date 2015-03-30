@@ -1,0 +1,8 @@
+root(ROOT-0, trying-3)
+nsubj(trying-3, She-1)
+aux(trying-3, is-2)
+aux(keep-5, to-4)
+xcomp(trying-3, keep-5)
+amod(people-7, gay-6)
+dobj(keep-5, people-7)
+prep_out_of(keep-5, marriage-10)

@@ -1,0 +1,26 @@
+S1 and S2 start arguing about marriage benefits between single people and married.
+root(ROOT-0, start-4)
+nsubj(start-4, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(start-4, S2-3)
+dep(start-4, arguing-5)
+nn(benefits-8, marriage-7)
+prep_about(arguing-5, benefits-8)
+amod(people-11, single-10)
+prep_between(benefits-8, people-11)
+dep(start-4, married-13)
+conj_and(arguing-5, married-13)
+
+S1 and S2 start arguing about marriage benefits between single people and married.
+root(ROOT-0, start-4)
+nsubj(start-4, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(start-4, S2-3)
+dep(start-4, arguing-5)
+nn(benefits-8, marriage-7)
+prep_about(arguing-5, benefits-8)
+amod(people-11, single-10)
+prep_between(benefits-8, people-11)
+dep(start-4, married-13)
+conj_and(arguing-5, married-13)
+

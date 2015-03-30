@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (NNS courts)) (VP (MD will) (VP (VB rely) (PP (IN upon) (NP (NP (NN choice)) (PP (IN of) (NP (NP (NN law) (NN doctrine)) (PP (IN for#0#0) (NP (NN guidance)))))))))))) (. .)))

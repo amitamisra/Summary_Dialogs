@@ -1,0 +1,12 @@
+S2 retorts by stating.
+root(ROOT-0, retorts-2)
+nn(retorts-2, S2-1)
+prep(retorts-2, by-3)
+pcomp(by-3, stating-4)
+
+S2 retorts by stating.
+root(ROOT-0, retorts-2)
+nn(retorts-2, S2-1)
+prep(retorts-2, by-3)
+pcomp(by-3, stating-4)
+

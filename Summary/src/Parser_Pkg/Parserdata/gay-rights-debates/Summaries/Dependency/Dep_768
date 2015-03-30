@@ -1,0 +1,28 @@
+S2 advises Jefferson believed liberty would be threatened by a centralized government.
+root(ROOT-0, advises-2)
+nsubj(advises-2, S2-1)
+dobj(advises-2, Jefferson-3)
+vmod(Jefferson-3, believed-4)
+nsubjpass(threatened-8, liberty-5)
+aux(threatened-8, would-6)
+auxpass(threatened-8, be-7)
+ccomp(believed-4, threatened-8)
+prep(threatened-8, by-9)
+det(government-12, a-10)
+amod(government-12, centralized-11)
+pobj(by-9, government-12)
+
+S2 advises Jefferson believed liberty would be threatened by a centralized government.
+root(ROOT-0, advises-2)
+nsubj(advises-2, S2-1)
+dobj(advises-2, Jefferson-3)
+vmod(Jefferson-3, believed-4)
+nsubjpass(threatened-8, liberty-5)
+aux(threatened-8, would-6)
+auxpass(threatened-8, be-7)
+ccomp(believed-4, threatened-8)
+prep(threatened-8, by-9)
+det(government-12, a-10)
+amod(government-12, centralized-11)
+pobj(by-9, government-12)
+

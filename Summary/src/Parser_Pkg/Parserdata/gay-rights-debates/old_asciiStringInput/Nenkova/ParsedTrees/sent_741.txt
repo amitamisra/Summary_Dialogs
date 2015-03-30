@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (DT This) (NN law)) (VP (VBZ limits) (NP (NP (JJ legal) (NN protection)) (PP (IN of) (NP (JJ gay) (NNS couples)))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (RB not) (VP (VB use) (S (VP (TO to) (VP (VB protect) (NP (NP (NN marriage)) (PP (CC but) (NP (JJ heterosexual) (NN privilege)))))))))) (. .)))

@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VP (VBZ talks) (PP (IN about) (NP (DT the) (ADJP (JJ moral) (PP (IN behind) (NP (NNP Pauls)))) (NN research)))) (CC and) (VP (ADVP (WRB how)) (NP (PRP$ its) (JJ fraudulent)))) (. .)))

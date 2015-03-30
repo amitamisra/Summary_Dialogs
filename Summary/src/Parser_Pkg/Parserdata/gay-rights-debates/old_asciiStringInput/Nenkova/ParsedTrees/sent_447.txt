@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (S (NP (NNS conservatives)) (VP (VP (VBP are) (ADJP (JJ heartless))) (CC and) (VP (VBP do) (RB n't) (VP (VB care) (SBAR (IN if) (S (NP (NNS people)) (VP (VBP suffer)))))))))) (. .)))

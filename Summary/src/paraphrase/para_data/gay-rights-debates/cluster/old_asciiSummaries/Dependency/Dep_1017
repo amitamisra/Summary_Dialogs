@@ -1,0 +1,18 @@
+S1 argues that this information is clear evidence that the frequency of earthquakes is increasing over time.
+root(ROOT-0, argues-2)
+nsubj(argues-2, S1-1)
+mark(evidence-8, that-3)
+det(information-5, this-4)
+nsubj(evidence-8, information-5)
+cop(evidence-8, is-6)
+amod(evidence-8, clear-7)
+ccomp(argues-2, evidence-8)
+mark(increasing-15, that-9)
+det(frequency-11, the-10)
+nsubj(increasing-15, frequency-11)
+prep_of(frequency-11, earthquakes-13)
+aux(increasing-15, is-14)
+ccomp(evidence-8, increasing-15)
+prt(increasing-15, over-16)
+dobj(increasing-15, time-17)
+

@@ -1,0 +1,30 @@
+You can not justify an anti-gay agenda on morals or religion .
+
+
+root(ROOT-0, justify-4)
+nsubj(justify-4, You-1)
+aux(justify-4, can-2)
+neg(justify-4, not-3)
+det(agenda-7, an-5)
+amod(agenda-7, anti-gay-6)
+dobj(justify-4, agenda-7)
+prep_on(justify-4, morals-9)
+prep_on(justify-4, religion-11)
+conj_or(morals-9, religion-11)
+
+Two people are discussing gay rights.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(rights-6, gay-5)
+dobj(discussing-4, rights-6)
+
+Two people are discussing gay rights.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(rights-6, gay-5)
+dobj(discussing-4, rights-6)
+

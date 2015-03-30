@@ -1,0 +1,28 @@
+S2 used the example of kids being taught about gay marriage in school as a threat.
+root(ROOT-0, used-2)
+nsubj(used-2, S2-1)
+det(example-4, the-3)
+dobj(used-2, example-4)
+prep_of(example-4, kids-6)
+auxpass(taught-8, being-7)
+vmod(kids-6, taught-8)
+amod(marriage-11, gay-10)
+prep_about(taught-8, marriage-11)
+prep_in(marriage-11, school-13)
+det(threat-16, a-15)
+prep_as(taught-8, threat-16)
+
+S2 used the example of kids being taught about gay marriage in school as a threat.
+root(ROOT-0, used-2)
+nsubj(used-2, S2-1)
+det(example-4, the-3)
+dobj(used-2, example-4)
+prep_of(example-4, kids-6)
+auxpass(taught-8, being-7)
+vmod(kids-6, taught-8)
+amod(marriage-11, gay-10)
+prep_about(taught-8, marriage-11)
+prep_in(marriage-11, school-13)
+det(threat-16, a-15)
+prep_as(taught-8, threat-16)
+

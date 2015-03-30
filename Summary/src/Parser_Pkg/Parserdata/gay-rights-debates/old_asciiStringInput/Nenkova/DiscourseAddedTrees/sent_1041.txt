@@ -1,0 +1,1 @@
+(ROOT (NP (NP (RB Particularly) (DT the) (NN label)) (PP (IN of) (NP (NN perversion))) (. .)))

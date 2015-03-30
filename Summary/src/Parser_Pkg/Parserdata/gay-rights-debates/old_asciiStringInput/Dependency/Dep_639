@@ -1,0 +1,32 @@
+  that violating a state constitution has nothing to do with the federal one 
+root(ROOT-0, has-6)
+mark(has-6, that-1)
+csubj(has-6, violating-2)
+det(constitution-5, a-3)
+nn(constitution-5, state-4)
+dobj(violating-2, constitution-5)
+dobj(has-6, nothing-7)
+aux(do-9, to-8)
+vmod(nothing-7, do-9)
+det(one-13, the-11)
+amod(one-13, federal-12)
+prep_with(do-9, one-13)
+
+S2 suggests  that he would be liberal 
+root(ROOT-0, suggests-2)
+nsubj(suggests-2, S2-1)
+mark(liberal-7, that-3)
+nsubj(liberal-7, he-4)
+aux(liberal-7, would-5)
+cop(liberal-7, be-6)
+ccomp(suggests-2, liberal-7)
+
+S2 suggests  that he would be liberal 
+root(ROOT-0, suggests-2)
+nsubj(suggests-2, S2-1)
+mark(liberal-7, that-3)
+nsubj(liberal-7, he-4)
+aux(liberal-7, would-5)
+cop(liberal-7, be-6)
+ccomp(suggests-2, liberal-7)
+

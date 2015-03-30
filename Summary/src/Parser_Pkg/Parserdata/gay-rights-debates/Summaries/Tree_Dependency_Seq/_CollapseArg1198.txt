@@ -1,0 +1,6 @@
+root(ROOT-0, notes-2)
+nsubj(notes-2, S1-1)
+det(provision-4, a-3)
+dobj(notes-2, provision-4)
+prep_in(provision-4, law-6)
+rcmod(law-6, that-7)

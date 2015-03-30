@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ tells) (NP (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP he)) (VP (VBZ does) (RB not) (VP (VB understand) (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN inconsistency))))))))))))) (. .)))

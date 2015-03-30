@@ -1,0 +1,15 @@
+He thinks one can learn about this group by looking at Jerry Falwell or Pat Robertson.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(learn-5, one-3)
+aux(learn-5, can-4)
+ccomp(thinks-2, learn-5)
+det(group-8, this-7)
+prep_about(learn-5, group-8)
+prepc_by(learn-5, looking-10)
+nn(Falwell-13, Jerry-12)
+prep_at(looking-10, Falwell-13)
+nn(Robertson-16, Pat-15)
+prep_at(looking-10, Robertson-16)
+conj_or(Falwell-13, Robertson-16)
+

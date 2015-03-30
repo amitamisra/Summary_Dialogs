@@ -1,0 +1,7 @@
+root(ROOT-0, describes-2)
+nsubj(describes-2, S1-1)
+dobj(describes-2, himself-3)
+prep(describes-2, as-4)
+det(Liberal-7, a-5)
+nn(Liberal-7, Jeffersonian-6)
+pobj(as-4, Liberal-7)

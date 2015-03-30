@@ -1,0 +1,8 @@
+root(ROOT-0, have-5)
+det(argument-2, This-1)
+nsubj(have-5, argument-2)
+aux(have-5, does-3)
+neg(have-5, not-4)
+det(topic-8, a-6)
+amod(topic-8, set-7)
+dobj(have-5, topic-8)

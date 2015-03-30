@@ -1,0 +1,4 @@
+TEXT  in marriage with couples who can not have children , it 's not for a family unit either.
+
+1ARG:    can not have children
+2ARG:    in marriage with couples , it 's not for a family unit either .

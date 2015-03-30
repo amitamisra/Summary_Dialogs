@@ -1,0 +1,18 @@
+They refute S1's argument by pointing out that heterosexual marriages still end in divorce around 50% of the time.
+root(ROOT-0, refute-2)
+nsubj(refute-2, They-1)
+poss(argument-5, S1-3)
+dobj(refute-2, argument-5)
+prepc_by(refute-2, pointing-7)
+prt(pointing-7, out-8)
+mark(end-13, that-9)
+amod(marriages-11, heterosexual-10)
+nsubj(end-13, marriages-11)
+advmod(end-13, still-12)
+ccomp(pointing-7, end-13)
+prep_in(end-13, divorce-15)
+num(%-18, 50-17)
+prep_around(end-13, %-18)
+det(time-21, the-20)
+prep_of(%-18, time-21)
+

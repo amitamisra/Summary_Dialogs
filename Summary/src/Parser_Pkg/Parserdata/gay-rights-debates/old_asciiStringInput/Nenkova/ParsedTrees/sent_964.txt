@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ clarifies) (SBAR (IN that) (S (SBAR (RB now) (S (NP (DT that) (NN AIS)) (VP (VBZ does) (VP (VB exist))))) (, ,) (NP (PRP he)) (VP (VBZ does) (RB not) (VP (VB advocate) (S (VP (VBG ignoring) (NP (NNP AIS) (NN research))))))))) (. .)))

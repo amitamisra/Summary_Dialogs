@@ -1,0 +1,42 @@
+S1 is anti-marriage redefinition.
+root(ROOT-0, redefinition-4)
+nsubj(redefinition-4, S1-1)
+cop(redefinition-4, is-2)
+amod(redefinition-4, anti-marriage-3)
+
+S1 is anti-marriage redefinition.
+root(ROOT-0, redefinition-4)
+nsubj(redefinition-4, S1-1)
+cop(redefinition-4, is-2)
+amod(redefinition-4, anti-marriage-3)
+
+S1 is anti-marriage redefinition.
+root(ROOT-0, redefinition-4)
+nsubj(redefinition-4, S1-1)
+cop(redefinition-4, is-2)
+amod(redefinition-4, anti-marriage-3)
+
+S1 is anti-marriage redefinition.
+root(ROOT-0, redefinition-4)
+nsubj(redefinition-4, S1-1)
+cop(redefinition-4, is-2)
+amod(redefinition-4, anti-marriage-3)
+
+S1 is against gay marriage due to the effects such a law will have on society.
+root(ROOT-0, have-14)
+nsubj(due-6, S1-1)
+cop(due-6, is-2)
+prep(due-6, against-3)
+amod(marriage-5, gay-4)
+pobj(against-3, marriage-5)
+dep(have-14, due-6)
+prep(due-6, to-7)
+det(effects-9, the-8)
+pobj(to-7, effects-9)
+predet(law-12, such-10)
+det(law-12, a-11)
+nsubj(have-14, law-12)
+aux(have-14, will-13)
+prep(have-14, on-15)
+pobj(on-15, society-16)
+

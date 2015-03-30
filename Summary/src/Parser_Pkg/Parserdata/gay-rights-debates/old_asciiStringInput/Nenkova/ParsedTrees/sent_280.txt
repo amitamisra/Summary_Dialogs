@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (ADVP (RB also)) (VP (VBZ advises) (SBAR (S (NP (NN he/she)) (VP (VBZ has) (VP (VBN given) (NP (DT this) (NN website) (NN example)) (NP (NP (QP (JJ several) (NNS times))) (PP (IN in) (NP (DT the) (NN past))))))))) (. .)))

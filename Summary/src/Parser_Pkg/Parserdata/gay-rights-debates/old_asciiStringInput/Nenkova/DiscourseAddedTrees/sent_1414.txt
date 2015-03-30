@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-)) (ADVP (RB then#0#0))) (VP (VBZ states) (SBAR (IN that) (S (NP (DT the) (JJ 9th)) (VP (VBZ is) (PP (IN about) (NP (NP (NN hoe)) (SBAR (S (NP (DT the) (NNP FEERAL) (NNP CONSTITUTION)) (VP (VBZ applies) (PP (TO to) (NP (JJ gay) (NN marriage)))))))))))) (. .)))

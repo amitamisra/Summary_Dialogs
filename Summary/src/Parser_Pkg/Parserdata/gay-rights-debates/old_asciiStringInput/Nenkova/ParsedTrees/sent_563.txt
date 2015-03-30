@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (ADVP (RB also)) (VP (VBZ feels) (SBAR (IN that) (S (NP (DT the) (NNS issues)) (VP (VBP are) (VP (VBG being) (VP (VBN dismissed) (PP (IN by) (NP (NN S1))) (PP (RB instead) (IN of) (S (VP (VBG being) (VP (VBN met) (PP (IN by) (S (VP (VBG providing) (NP (DT a) (JJ valid) (NN argument))))))))))))))) (. .)))

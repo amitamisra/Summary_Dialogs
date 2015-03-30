@@ -1,0 +1,26 @@
+He then states that marriage freedom shouldn't trump religious freedom.
+root(ROOT-0, states-3)
+nsubj(states-3, He-1)
+advmod(states-3, then-2)
+mark(trump-9, that-4)
+nn(freedom-6, marriage-5)
+nsubj(trump-9, freedom-6)
+aux(trump-9, should-7)
+neg(trump-9, n't-8)
+ccomp(states-3, trump-9)
+amod(freedom-11, religious-10)
+dobj(trump-9, freedom-11)
+
+He then states that marriage freedom shouldn't trump religious freedom.
+root(ROOT-0, states-3)
+nsubj(states-3, He-1)
+advmod(states-3, then-2)
+mark(trump-9, that-4)
+nn(freedom-6, marriage-5)
+nsubj(trump-9, freedom-6)
+aux(trump-9, should-7)
+neg(trump-9, n't-8)
+ccomp(states-3, trump-9)
+amod(freedom-11, religious-10)
+dobj(trump-9, freedom-11)
+

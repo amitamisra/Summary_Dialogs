@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG talking) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (NN marriage)) (VP (VBZ means) (PP (TO to) (NP (DT the) (NN government))))))))) (. .)))

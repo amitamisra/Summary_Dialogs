@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG discussing) (NP (JJ gay) (NN marriage)) (PP (IN in) (NP (NP (DT the) (NN context)) (PP (IN of) (NP (DT an) (JJ unknown))))) (SBAR (S (NP (PRP she) (DT that)) (VP (VBZ is) (VP (VBG pushing) (NP (DT a) (NN law) (S (VP (TO to) (VP (VB ban) (NP (JJ gay) (NN marriage)))))))))))) (. .)))

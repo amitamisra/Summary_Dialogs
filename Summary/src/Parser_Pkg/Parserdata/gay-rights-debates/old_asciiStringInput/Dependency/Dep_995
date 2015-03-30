@@ -1,0 +1,38 @@
+She is trying to keep gay people out of marriage .
+
+
+root(ROOT-0, trying-3)
+nsubj(trying-3, She-1)
+aux(trying-3, is-2)
+aux(keep-5, to-4)
+xcomp(trying-3, keep-5)
+amod(people-7, gay-6)
+dobj(keep-5, people-7)
+prep_out_of(keep-5, marriage-10)
+
+ that the GUEST has blown the whole conversation out of proportion .
+
+
+root(ROOT-0, blown-5)
+mark(blown-5, that-1)
+det(GUEST-3, the-2)
+nsubj(blown-5, GUEST-3)
+aux(blown-5, has-4)
+det(conversation-8, the-6)
+amod(conversation-8, whole-7)
+dobj(blown-5, conversation-8)
+prep_out_of(blown-5, proportion-11)
+
+ that the GUEST has blown the whole conversation out of proportion .
+
+
+root(ROOT-0, blown-5)
+mark(blown-5, that-1)
+det(GUEST-3, the-2)
+nsubj(blown-5, GUEST-3)
+aux(blown-5, has-4)
+det(conversation-8, the-6)
+amod(conversation-8, whole-7)
+dobj(blown-5, conversation-8)
+prep_out_of(blown-5, proportion-11)
+

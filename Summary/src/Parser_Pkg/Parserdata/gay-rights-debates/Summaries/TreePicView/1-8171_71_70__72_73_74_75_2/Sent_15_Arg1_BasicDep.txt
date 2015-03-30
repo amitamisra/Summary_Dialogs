@@ -1,0 +1,5 @@
+root(ROOT-0, consistent-5)
+poss(opinion-3, Biden-1)
+possessive(Biden-1, 's-2)
+nsubj(consistent-5, opinion-3)
+cop(consistent-5, is-4)

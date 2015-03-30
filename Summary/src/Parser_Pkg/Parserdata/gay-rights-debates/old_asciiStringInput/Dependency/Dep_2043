@@ -1,0 +1,22 @@
+ Attr_0}   it conflicts with their conscience , religion , or beliefs 
+root(ROOT-0, Attr_0-1)
+dobj(Attr_0-1, it-3)
+npadvmod(Attr_0-1, conflicts-4)
+poss(conscience-7, their-6)
+prep_with(Attr_0-1, conscience-7)
+prep_with(Attr_0-1, religion-9)
+conj_or(conscience-7, religion-9)
+prep_with(Attr_0-1, beliefs-12)
+conj_or(conscience-7, beliefs-12)
+
+ Attr_0}   it conflicts with their conscience , religion , or beliefs 
+root(ROOT-0, Attr_0-1)
+dobj(Attr_0-1, it-3)
+npadvmod(Attr_0-1, conflicts-4)
+poss(conscience-7, their-6)
+prep_with(Attr_0-1, conscience-7)
+prep_with(Attr_0-1, religion-9)
+conj_or(conscience-7, religion-9)
+prep_with(Attr_0-1, beliefs-12)
+conj_or(conscience-7, beliefs-12)
+

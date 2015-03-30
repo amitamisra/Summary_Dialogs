@@ -1,0 +1,16 @@
+ love is present in all marriage.
+root(ROOT-0, present-3)
+nsubj(present-3, love-1)
+cop(present-3, is-2)
+prep(present-3, in-4)
+det(marriage-6, all-5)
+pobj(in-4, marriage-6)
+
+ love is present in all marriage.
+root(ROOT-0, present-3)
+nsubj(present-3, love-1)
+cop(present-3, is-2)
+prep(present-3, in-4)
+det(marriage-6, all-5)
+pobj(in-4, marriage-6)
+

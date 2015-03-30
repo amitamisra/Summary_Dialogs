@@ -1,0 +1,56 @@
+   speaker two does not support equal rights for homosexuals 
+root(ROOT-0, support-5)
+nsubj(support-5, speaker-1)
+num(speaker-1, two-2)
+aux(support-5, does-3)
+neg(support-5, not-4)
+amod(rights-7, equal-6)
+dobj(support-5, rights-7)
+prep_for(support-5, homosexuals-9)
+
+ that there is a lot of attention given to trying to make Christianity look bad through generalization , irrelevant studies and misinterpretations .
+
+
+root(ROOT-0, is-3)
+mark(is-3, that-1)
+expl(is-3, there-2)
+det(lot-5, a-4)
+nsubj(is-3, lot-5)
+prep_of(lot-5, attention-7)
+prep(attention-7, given-8)
+pcomp(given-8, to-9)
+pcomp(to-9, trying-10)
+aux(make-12, to-11)
+xcomp(trying-10, make-12)
+nsubj(look-14, Christianity-13)
+ccomp(make-12, look-14)
+acomp(look-14, bad-15)
+prep_through(bad-15, generalization-17)
+amod(studies-20, irrelevant-19)
+appos(generalization-17, studies-20)
+appos(generalization-17, misinterpretations-22)
+conj_and(studies-20, misinterpretations-22)
+
+ that there is a lot of attention given to trying to make Christianity look bad through generalization , irrelevant studies and misinterpretations .
+
+
+root(ROOT-0, is-3)
+mark(is-3, that-1)
+expl(is-3, there-2)
+det(lot-5, a-4)
+nsubj(is-3, lot-5)
+prep_of(lot-5, attention-7)
+prep(attention-7, given-8)
+pcomp(given-8, to-9)
+pcomp(to-9, trying-10)
+aux(make-12, to-11)
+xcomp(trying-10, make-12)
+nsubj(look-14, Christianity-13)
+ccomp(make-12, look-14)
+acomp(look-14, bad-15)
+prep_through(bad-15, generalization-17)
+amod(studies-20, irrelevant-19)
+appos(generalization-17, studies-20)
+appos(generalization-17, misinterpretations-22)
+conj_and(studies-20, misinterpretations-22)
+

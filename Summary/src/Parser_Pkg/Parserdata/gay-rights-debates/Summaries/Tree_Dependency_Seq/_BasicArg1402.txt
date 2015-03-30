@@ -1,0 +1,8 @@
+root(ROOT-0, arrived-4)
+advmod(arrived-4, how-1)
+nsubj(arrived-4, AIS-2)
+advmod(arrived-4, originally-3)
+prep(arrived-4, in-5)
+det(States-8, the-6)
+nn(States-8, United-7)
+pobj(in-5, States-8)

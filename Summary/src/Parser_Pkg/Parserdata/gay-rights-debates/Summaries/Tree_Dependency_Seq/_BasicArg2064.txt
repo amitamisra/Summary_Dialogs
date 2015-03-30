@@ -1,0 +1,6 @@
+root(ROOT-0, married-3)
+nsubjpass(married-3, someone-1)
+auxpass(married-3, is-2)
+prep(married-3, in-4)
+nn(York-6, New-5)
+pobj(in-4, York-6)

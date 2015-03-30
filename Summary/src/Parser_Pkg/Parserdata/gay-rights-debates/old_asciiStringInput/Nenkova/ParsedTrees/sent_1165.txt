@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NP (NNS advocates)) (PP (IN of) (NP (JJ homosexual) (NN marriage)))) (VP (VBP are) (NP (NP (NNS heterophobes)) (VP (VBG trying) (S (VP (TO to) (VP (VB force) (NP (JJ homosexual) (NN marriage)) (PP (IN onto) (NP (NNP America)))))))))))) (. .)))

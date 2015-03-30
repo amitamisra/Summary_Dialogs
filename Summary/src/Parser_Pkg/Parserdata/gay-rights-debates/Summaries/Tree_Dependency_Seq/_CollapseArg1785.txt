@@ -1,0 +1,4 @@
+root(ROOT-0, lie-4)
+nsubj(lie-4, politicians-1)
+advmod(lie-4, sometimes-2)
+aux(lie-4, may-3)

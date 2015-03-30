@@ -1,0 +1,37 @@
+   they will win the right to marry and to have healthcare as well . 
+root(ROOT-0, win-3)
+nsubj(win-3, they-1)
+aux(win-3, will-2)
+det(right-5, the-4)
+dobj(win-3, right-5)
+aux(marry-7, to-6)
+dep(right-5, marry-7)
+aux(have-10, to-9)
+dep(right-5, have-10)
+conj_and(marry-7, have-10)
+dobj(have-10, healthcare-11)
+advmod(well-13, as-12)
+advmod(have-10, well-13)
+
+Roommates are single and should not have marriage benefits.
+root(ROOT-0, single-3)
+nsubj(single-3, Roommates-1)
+nsubj(have-7, Roommates-1)
+cop(single-3, are-2)
+aux(have-7, should-5)
+neg(have-7, not-6)
+conj_and(single-3, have-7)
+nn(benefits-9, marriage-8)
+dobj(have-7, benefits-9)
+
+Roommates are single and should not have marriage benefits.
+root(ROOT-0, single-3)
+nsubj(single-3, Roommates-1)
+nsubj(have-7, Roommates-1)
+cop(single-3, are-2)
+aux(have-7, should-5)
+neg(have-7, not-6)
+conj_and(single-3, have-7)
+nn(benefits-9, marriage-8)
+dobj(have-7, benefits-9)
+

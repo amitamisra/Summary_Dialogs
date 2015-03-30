@@ -1,0 +1,66 @@
+browser()
+options( stringsAsFactors=F ) 
+library(NLP,lib.loc="/Users/amita/software/Rpackage") 
+library(SnowballC,lib.loc="/Users/amita/software/Rpackage")
+library(tm,lib.loc="/Users/amita/software/Rpackage") #load text mining library
+library(MASS,lib.loc="/Users/amita/software/Rpackage")
+library(stringi,lib.loc="/Users/amita/software/Rpackage")
+library(lsa,lib.loc="/Users/amita/software/Rpackage")
+
+sumfunction <- function(id1,id2,df_tfidf){
+  tfidf_id1<-df_tfidf[id1,]
+  vec_tfidf_1<-as.vector(t(tfidf_id1))
+  
+  tfidf_id2<-df_tfidf[id2,]
+  vec_tfidf_2<-as.vector(t(tfidf_id2))
+  
+  return (vec_tfidf_1 %*% vec_tfidf_2)
+  
+  
+}
+cosfunction <- function(id1,id2,df_tfidf){
+  attributes(df_tfidf)
+  id1
+  tfidf_id1<-df_tfidf[id1,]
+  tfidf_id1
+  vec_tfidf_1<-as.vector(t(tfidf_id1))
+  id2
+  tfidf_id2<-df_tfidf[id2,]
+  vec_tfidf_2<-as.vector(t(tfidf_id2))
+  vec_tfidf_1
+  vec_tfidf_2
+  result<- cosine(vec_tfidf_1,vec_tfidf_2)
+  result
+  #print (result)
+  return (result)
+ 
+}
+setwd("~/git/summary_repo/Summary/src/paraphrase/data/gay-rights-debates/") #sets R's working directory to near where my files are
+FileList=list.files("TDM_Dir/TDM_TFIDF")
+FileList
+for (inputfile in FileList)
+{ 
+  
+  Inpfile_TfIdf=paste("TDM_Dir/TDM_TFIDF/",inputfile, sep="")
+  Inpfile_TfIdf
+  Inpfile_BalPair=paste("Balanced_Pairs/",inputfile, sep="")
+  Inpfile_BalPair
+  df_tfidf<-read.csv(file=Inpfile_TfIdf,head=TRUE,sep=",", row.names = 1)
+  #df_tfidf[1]
+  #rownames<-row.names(df_tfidf)
+  df_BalPair<-read.csv(file=Inpfile_BalPair,head=TRUE,sep=",")   
+  df_BalPair$id1
+  df_BalPair$id2
+  #df_BalPair$cosine<- cosfunction(df_BalPair$id1,df_BalPair$id2,df_tfidf)
+  df_BalPair$cosine <- mapply(cosfunction,df_BalPair$id1,df_BalPair$id2,MoreArgs=list(df_tfidf=df_tfidf))
+  df_BalPair$cosine
+  df_BalPair$sum<- mapply(sumfunction ,df_BalPair$id1,df_BalPair$id2,MoreArgs=list(df_tfidf=df_tfidf))
+  str(df_BalPair)  
+  
+  outfile_cosine=paste("TDM_Dir/TDM_Cosine/",inputfile, sep="")
+  write.csv(df_BalPair, outfile_cosine)
+    
+  }
+  
+  
+

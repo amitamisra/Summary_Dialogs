@@ -1,0 +1,47 @@
+ that allot of medical resources that could be spent curing cancer and other diseases are being wasted because of the promiscuity of the gay community .
+
+
+root(ROOT-0, wasted-17)
+mark(wasted-17, that-1)
+nsubjpass(wasted-17, allot-2)
+amod(resources-5, medical-4)
+prep_of(allot-2, resources-5)
+nsubjpass(spent-9, that-6)
+aux(spent-9, could-7)
+auxpass(spent-9, be-8)
+rcmod(resources-5, spent-9)
+xcomp(spent-9, curing-10)
+nn(diseases-14, cancer-11)
+conj_and(cancer-11, other-13)
+nn(diseases-14, other-13)
+dobj(curing-10, diseases-14)
+aux(wasted-17, are-15)
+auxpass(wasted-17, being-16)
+det(promiscuity-21, the-20)
+prep_because_of(wasted-17, promiscuity-21)
+det(community-25, the-23)
+amod(community-25, gay-24)
+prep_of(promiscuity-21, community-25)
+
+Two people are discussing gay marriage and the Ccnstitution.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+det(Ccnstitution-9, the-8)
+dobj(discussing-4, Ccnstitution-9)
+conj_and(marriage-6, Ccnstitution-9)
+
+Two people are discussing gay marriage and the Ccnstitution.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(marriage-6, gay-5)
+dobj(discussing-4, marriage-6)
+det(Ccnstitution-9, the-8)
+dobj(discussing-4, Ccnstitution-9)
+conj_and(marriage-6, Ccnstitution-9)
+

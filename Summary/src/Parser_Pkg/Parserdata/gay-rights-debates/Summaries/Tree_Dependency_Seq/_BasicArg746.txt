@@ -1,0 +1,6 @@
+root(ROOT-0, unconstitutional-6)
+csubj(unconstitutional-6, disallowing-1)
+amod(marriage-4, same-2)
+nn(marriage-4, sex-3)
+dobj(disallowing-1, marriage-4)
+cop(unconstitutional-6, is-5)

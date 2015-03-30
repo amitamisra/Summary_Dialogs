@@ -1,0 +1,8 @@
+root(ROOT-0, reactionary-9)
+csubj(reactionary-9, dismissing-1)
+dobj(dismissing-1, results-2)
+cc(dismissing-1, rather-4)
+mwe(rather-4, than-5)
+conj(dismissing-1, checking-6)
+dobj(checking-6, validity-7)
+cop(reactionary-9, is-8)

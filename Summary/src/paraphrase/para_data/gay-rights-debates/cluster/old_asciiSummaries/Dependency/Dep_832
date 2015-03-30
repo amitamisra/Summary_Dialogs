@@ -1,0 +1,18 @@
+S1 thinks that the government should stay out of marriage and that it should be left to religious institutions.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S1-1)
+mark(stay-7, that-3)
+det(government-5, the-4)
+nsubj(stay-7, government-5)
+aux(stay-7, should-6)
+ccomp(thinks-2, stay-7)
+prep_out_of(stay-7, marriage-10)
+mark(left-16, that-12)
+nsubjpass(left-16, it-13)
+aux(left-16, should-14)
+auxpass(left-16, be-15)
+ccomp(thinks-2, left-16)
+conj_and(stay-7, left-16)
+amod(institutions-19, religious-18)
+prep_to(left-16, institutions-19)
+

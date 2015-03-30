@@ -1,0 +1,28 @@
+ gay marriage laws will be passed .
+
+
+root(ROOT-0, passed-6)
+amod(laws-3, gay-1)
+nn(laws-3, marriage-2)
+nsubjpass(passed-6, laws-3)
+aux(passed-6, will-4)
+auxpass(passed-6, be-5)
+
+ that same sex couples are not single 
+root(ROOT-0, single-7)
+det(couples-4, that-1)
+amod(couples-4, same-2)
+nn(couples-4, sex-3)
+nsubj(single-7, couples-4)
+cop(single-7, are-5)
+neg(single-7, not-6)
+
+ that same sex couples are not single 
+root(ROOT-0, single-7)
+det(couples-4, that-1)
+amod(couples-4, same-2)
+nn(couples-4, sex-3)
+nsubj(single-7, couples-4)
+cop(single-7, are-5)
+neg(single-7, not-6)
+

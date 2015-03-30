@@ -1,0 +1,1134 @@
+PREPROCESSING :STEMMING, cosine Distance, num_cluster=30,Nouns_AdJMetric0.0803507058659
+
+ NEW CLUSTER  0
+
+
+
+S2 states that there is a Congo tribe in which warriors marry other warriors because being with a woman may make them less feared
+key  1-1281_13_12__20_22_27_30_34_36_40_2user1.pyr
+
+S2 states that S1 is taking statistics from one source without critical thought an accepting it as fact
+key  1-1281_472_466_1_476_486_577_586_628_11user1.pyr
+
+S1 believes that the United States Government is ruled by the majority until it violates the constitution
+key  1-1281_472_466_1_476_486_577_586_628_11user1.pyr
+
+S1 states that healthcare usually applies to spouses
+key  1-1875_13_11__14_16_31_39_1user1.pyr
+
+S1 feels the terms husband and wife are not recognizable in a same sex relationship
+key  1-2583_34_32__51_56_62_65_1user1.pyr
+
+S2 states that its comments like these that characterizes a homophobic bigot
+key  1-3134_11_10__12_13_14_28_43_47_60_62_1user1.pyr
+
+S2 argues that the majority of self-identified Christians in the United States do oppose civil unions for homosexual citizens
+key  1-35_148_147__149_151_152_155_156_1user1.pyr
+
+the bulk of the arguments were based on state constitutions which mirror the federal constitution
+key  1-5320_25_16__33_34_35_36_1_user6.pyr
+
+Many state constitutions guarantee rights that aren't in the federal constitution
+key  1-5320_25_16__33_34_35_36_1_user6.pyr
+
+S1 believes that the Dominionists exists
+key  1-6493_297_295__300_306_311_315_2_user6
+
+He states that S1 cannot produce one objective or source by the Dominionists themselves that states their intention
+key  1-6493_297_295__300_306_311_315_2_user6
+
+Statistics regarding AIDs in Africa show that is is not a homosexual disease.
+key  1-6646_104_102__105_108_113_120_2_user5.pyr
+
+Existence of AIDs in Africa has nothing to do with AIDs in the US.
+key  1-6646_104_102__105_108_113_120_2_user5.pyr
+
+S2 states that no one knows how AIDS got to the US
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+that the spread of AIDS was caused by unclean needles
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+that the spread of AIDS was caused by...contaminated blood transfusions
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+that the spread of AIDS was caused by...unprotected sex
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+S1 challenges S2 to debate the cause of the spread of AIDS in the United States
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+AIDs was initially spread in the United States primarily by homosexuals.
+key  1-6646_150_144_1_151_152_154_156_161_11_user5.pyr
+
+Resources spent on fighting AIDs could have been spent on curing other diseases, such as cancer.
+key  1-6646_150_144_1_151_152_154_156_161_11_user5.pyr
+
+Early spread of AIDs was due to blood transfusions rather than sexual contact.
+key  1-6646_150_144_1_151_152_154_156_161_11_user5.pyr
+
+No one argues the point that AIDs was spread in the United States by homosexuals.
+key  1-6646_150_144_1_151_152_154_156_161_11_user5.pyr
+
+S1 is making it seem like AIDs is less important to cure than other diseases.
+key  1-6646_150_144_1_151_152_154_156_161_11_user5.pyr
+
+S2 believes that Jesus is not against polygamy
+key  1-788_12_9__15_31_35_40_2user1.pyr
+
+S2 states that Jesus referred to a single wife
+key  1-788_12_9__15_31_35_40_2user1.pyr
+
+S1 states King David was able to have multiple wives
+key  1-788_12_9__15_31_35_40_2user1.pyr
+
+S2 believes those with more than one wife can still be committed
+key  1-788_17_16__19_20_21_22_23_26_1user1.pyr
+
+S1 states that he would be happy with civil union laws
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+
+ NEW CLUSTER  1
+
+
+
+It is fallacious to believe that love will lead to a slippery slope
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+(S1) says that (S2) is generalizing
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+
+ NEW CLUSTER  2
+
+
+
+S2 claims that marriage is defined as a family unit based on a heterosexual contract
+key  1-1281_12_11__15_21_23_25_26_28_6_user1.pyr
+
+citing a number of countries which recognize same-sex marriage
+key  1-1281_12_11__15_21_23_25_26_28_6_user1.pyr
+
+S2 believes that gay marriage is unlikely to be recognized in future
+key  1-1281_12_11__15_21_23_25_26_28_6_user1.pyr
+
+S2 believes there are many married heterosexual couples who either choose not to have children or can't
+key  1-1281_12_11__15_21_23_25_26_28_6_user1.pyr
+
+S2 feels that the issue of gay rights is more political
+key  1-1281_12_11__15_21_23_25_26_28_6_user1.pyr
+
+S1 believes marriage is defined as a family unit based on natural heterosexual contact
+key  1-1281_13_12__20_22_27_30_34_36_40_2user1.pyr
+
+S2 questions the religious basis of a civil ceremony like marriage
+key  1-1281_13_12__20_22_27_30_34_36_40_2user1.pyr
+
+S1 believes homosexuals are attempting to force their morals on others by legalizing same-sex marriage
+key  1-1281_13_12__20_22_27_30_34_36_40_2user1.pyr
+
+S2 believes banning gay marriage is forcing one set of believes onto others and is discrimination
+key  1-1281_13_12__20_22_27_30_34_36_40_2user1.pyr
+
+S1 claims that the issue of same-sex marriage is an economic issue
+key  1-1281_294_292__295_296_297_298_299_300_4_user1.pyr
+
+S1 states that gay marriage poses a tremendous new tax on the economy as it would create a new dependent class
+key  1-1281_294_292__295_296_297_298_299_300_4_user1.pyr
+
+S2 suggests that homosexual partners would not be a burden on the mentioned systems
+key  1-1281_294_292__295_296_297_298_299_300_4_user1.pyr
+
+S1 believes that the majority of Americans are against gay marriage
+key  1-1281_294_292__295_296_297_298_299_300_4_user1.pyr
+
+S1 compares same-sex marriage to single couple roommates and states that if it isn't in the definition of marriage, it isn't marriage
+key  1-1281_294_292__295_296_297_298_299_300_4_user1.pyr
+
+S2 says that without gay marriage, the state has to support the dependent spouse
+key  1-1281_294_292__295_296_297_298_299_300_4_user1.pyr
+
+S1 uses the example of a heterosexual male with a girlfriend who would not receive his healthcare benefits
+key  1-1875_13_11__14_16_31_39_1user1.pyr
+
+ S1 said that  hopes that gay marriage stay out of VA
+key  1-1875_13_11__14_16_31_39_1user1.pyr
+
+S1 hopes that same-sex marriages will be made illegal everywhere
+key  1-1875_13_11__14_16_31_39_1user1.pyr
+
+S1 states homosexuals will not be eligible to receive healthcare through their partner because same-sex marriages are not recognized in Virginia
+key  1-1875_13_11__14_16_31_39_1user1.pyr
+
+S2 argues that the cases presented by S1 are not equivalent because the heterosexual male has the right to marry his girlfriend if he chooses
+key  1-1875_13_11__14_16_31_39_1user1.pyr
+
+S1 hopes he doesn't have to hear gay people complain anymore
+key  1-1875_13_11__14_16_31_39_1user1.pyr
+
+S1 suggests that homosexuals have all the same rights as heterosexuals
+key  1-1875_21_20__22_24_25_27_30_2user1.pyr
+
+S2 accuses S1 of accepting that some people should not receive the basic right to marry the person they love
+key  1-1875_21_20__22_24_25_27_30_2user1.pyr
+
+S2 believes gay marriage laws will be passed
+key  1-1875_21_20__22_24_25_27_30_2user1.pyr
+
+S1 said that there never will be a federal law allowing gay marriage in the United States
+key  1-1875_21_20__22_24_25_27_30_2user1.pyr
+
+S2 believes gay marriage is not legally recognized
+key  1-2583_34_32__51_56_62_65_1user1.pyr
+
+S2 asks why a homosexual union is not legally recognized
+key  1-2583_34_32__51_56_62_65_1user1.pyr
+
+S2 does not see a reason for discrimination against homosexual marriage
+key  1-2583_34_32__51_56_62_65_1user1.pyr
+
+He suggests that it would be useful to discuss the ways same-sex marriage could benefit society
+key  1-2583_84_74__97_104_106_107_108_3user1.pyr
+
+S1 concedes that there would be little financial impact on support for homosexual marriage
+key  1-2583_84_74__97_104_106_107_108_3user1.pyr
+
+S2 further claims that the current Democratic party is anti-religion, over-regulatory, and controlled by the gay lobby
+key  1-2844_35_33__36_37_38_39_41_2user1.pyr
+
+S2 states that he supports equal opportunity for people regardless of sexual behavior, but not the redefinition of marriage
+key  1-2844_35_33__36_37_38_39_41_2user1.pyr
+
+S1 believes that S2 is hypocritical about supporting Jeffersonian values on "making sure there is fairness" and "honest advocacy" for the people while opposing gay marriage
+key  1-2844_35_33__36_37_38_39_41_2user1.pyr
+
+S1 doesn't want people to compare a race of people's fight for equal rights to a class of people determined by their sexual orientation
+key  1-3124_9_8__11_12_15_16_19_25_1user1.pyr
+
+s1 wonders how Martin Luther King felt about the issue of gay marriage
+key  1-3124_9_8__11_12_15_16_19_25_1user1.pyr
+
+S2 points out that two presumably prominent African American figures, Corretta Scott King and Jullian Bond, are pro-gay marriage
+key  1-3124_9_8__11_12_15_16_19_25_1user1.pyr
+
+S1 asks for references of Coretta Scott King and Julian Bond being for gay marriage and is surprised to get them
+key  1-3124_9_8__11_12_15_16_19_25_1user1.pyr
+
+S1 says that Martin Luther Kings opinion would mean more than either of the examples cited by S2 which also included Jullian Bond
+key  1-3124_9_8__11_12_15_16_19_25_1user1.pyr
+
+S1 argues that 100 men in a daisy chain performing unprotected sex on one another would be in comparison to Sodom
+key  1-3134_11_10__12_13_14_28_43_47_60_62_1user1.pyr
+
+S1 compares gays to Sodom
+key  1-3134_11_10__12_13_14_28_43_47_60_62_1user1.pyr
+
+S2 believes the bath houses are going to be open by the gay community for the sexual activity
+key  1-3134_11_10__12_13_14_28_43_47_60_62_1user1.pyr
+
+S1 believes that the divorce rate in the United States is blown out of proportion by the rate of very young people who get divorced
+key  1-3358_14_11__16_18_19_24_26_28_32_36_45_1user1.pyr
+
+They also believe that homosexuals are more promiscuous than heterosexuals
+key  1-3358_14_11__16_18_19_24_26_28_32_36_45_1user1.pyr
+
+S1 states that the percentage of people who have been married over five years drops dramatically
+key  1-3358_14_11__16_18_19_24_26_28_32_36_45_1user1.pyr
+
+They don't believe that homosexual relationships should compare to heterosexual marriages because only heterosexuals are legally allowed to marry
+key  1-3358_14_11__16_18_19_24_26_28_32_36_45_1user1.pyr
+
+S1 does not believe that most Christians are trying to ban homosexual unions
+key  1-35_148_147__149_151_152_155_156_1user1.pyr
+
+S2 points out that the state constitutional amendments being passed are intended to preclude same-sex marriage and civil unions
+key  1-35_148_147__149_151_152_155_156_1user1.pyr
+
+S1 believes gay lobbyists are actively attempting to attack evangelical Christiandom falsely in order to justify their arguments
+key  1-35_148_147__149_151_152_155_156_1user1.pyr
+
+S1 believes gay lobbyists have crossed the line with attacking Christians
+key  1-35_148_147__149_151_152_155_156_1user1.pyr
+
+debating whether gay marriage will open opportunities for other "taboos"
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+S1 says this is a scare tactic to turn people away
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+in opening this opportunity for gay marriage, the definition of marriage will change
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+Marriage has nothing to do with the bible
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+S1 specifically points out the comparison of gay marriage to incest or polygamy
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+(S1) says that love is not exceptionally for gay people but also others
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+S1 disagrees with how courts were designed to work.
+key  1-5176_12_7__15_16_17_18_20_1_user5.pyr
+
+S1 is a heterosexual.
+key  1-5176_12_7__15_16_17_18_20_1_user5.pyr
+
+S2 believes the law segregates the gay community from the heterosexual community.
+key  1-5176_12_7__15_16_17_18_20_1_user5.pyr
+
+S1 cites that eight of nine supreme courts have contended same sex marriage to be unconstitutional
+key  1-5320_25_16__33_34_35_36_1_user6.pyr
+
+He recognized the difficulty imposed by the fact that marriage is both a legal contract and a religious ceremony
+key  1-5320_25_16__33_34_35_36_1_user6.pyr
+
+Paul is frequently referenced as an expert on the issue of gay marriage and rights
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+Most attacks on gay rights have cited Paul Cameron
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+No republican in leadership would call for the extermination of gays
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+S1 argues that questioning a study is appropriate, especially if it vilifies a group of people.
+key  1-5670_24_21__26_29_30_32_2_user5.pyr
+
+S1 believes that the divorce rate of Christians has nothing to do with gay marriage.
+key  1-5670_24_21__26_29_30_32_2_user5.pyr
+
+S1 claims that the problem with an unmentioned study is that majority of people identify as Christians.
+key  1-5670_24_21__26_29_30_32_2_user5.pyr
+
+the stance against homosexuality...not prejudice
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+In 1909, being homosexual was morally wrong
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+little historical evidence ... that people in 1909 believed that it was "right" or "good" to oppress black people or women
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+S2 contends that it was once moral to have racial and gender inequality based on prejudice
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+the issue in 1909 was understood behaviorally and therefore morally
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+Homosexuality was not understood as a social identity
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+Two people are discussing a the perception of homosexuality in 1909
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+There was prejudice against gays in 1909 just as there is now
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+there was no "gay lifestyle" to be prejudiced against
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+Sodomy was criminalized, not being gay
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+The immorality of homosexuality in 1909 is based on ignorance
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+Free to be gay as long as they weren't openly gay
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+S2 states that people hatefully used the term "Sodomite" to refer to gays
+key  1-5811_33_29__35_38_40_41_43_2_user6.pyr
+
+S1 believes it is prejudice as opposed to religious or moral beliefs which fuel the anti-gay agenda;
+key  1-5811_79_77__80_84_87_91_92_95_96_1_user6.pyr
+
+It is religious belief - not prejudice - that makes one take an anti-gay stance
+key  1-5811_79_77__80_84_87_91_92_95_96_1_user6.pyr
+
+when people claim religion in doing prejudice they are actually abandoning their morals
+key  1-5811_79_77__80_84_87_91_92_95_96_1_user6.pyr
+
+You cannot justify an anti-gay agenda on morals or religion
+key  1-5811_79_77__80_84_87_91_92_95_96_1_user6.pyr
+
+S1 advises there is no issue with people who do not try to push their views on others
+key  1-5811_79_77__80_84_87_91_92_95_96_1_user6.pyr
+
+Gay couples are interested in the rights and benefits associated with marriage.
+key  1-6124_36_32__38_42_51_55_1_user5.pyr
+
+S1 believes the government should not be involved in marriage and marriage should be left to religious institutions.
+key  1-6124_36_32__38_42_51_55_1_user5.pyr
+
+S2 believes gay people should be able to marry a person of their choice and get equal rights.
+key  1-6124_36_32__38_42_51_55_1_user5.pyr
+
+Discussion on the civil benefits of marriage and the rights of marriage.
+key  1-6124_36_32__38_42_51_55_1_user5.pyr
+
+Gay couples are unable to get any benefits that married people do.
+key  1-6124_36_32__38_42_51_55_1_user5.pyr
+
+S1 argues that there should be a better system for marriage benefits.
+key  1-6124_36_32__38_42_51_55_1_user5.pyr
+
+Religious ceremonies are not what gay people want.
+key  1-6124_36_32__38_42_51_55_1_user5.pyr
+
+Single people are the ones that are harmed the most by marriage laws.
+key  1-6124_36_32__38_42_51_55_1_user5.pyr
+
+S1 believes that because this lady is not in favor of gay marriage, the lady is anti-gay
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+S1 is only towards the rights of gay people
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+S1 does not believe S2 has answered her question of how equal marriage hurts any heterosexual
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+S1 thinks that the majority of people is enslaving their people
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+(S2) says that there are laws that hurt all kinds of peoples
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+He also argues that not accepting gay marriage is punishment to him, his family and others
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+the majority of people control what is normal in our society
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+S1's religious view of marriage is based on two people's love for each other
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+S2 doesnt believe that S1s religious freedom is being persecuted
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+gay marriage laws would not affect marriage for anyone
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+law affects peoples ability to marry if they are gay
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+marriage should be between a heterosexual couple
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+The woman is just trying..to preserve her heterosexual privilege
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+religious freedom is being persecuted
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+S1 cites a key statement in the same-sex marriage legislation
+key  1-6319_4_3__5_8_9_12_2_user6.pyr
+
+allows marriage officers the right not to perform a same-sex marriage if it conflicts with their conscience, religion, or beliefs
+key  1-6319_4_3__5_8_9_12_2_user6.pyr
+
+if a public official did not want to marry him in a heterosexual marriage he would want to go elsewhere rather than force him to do it
+key  1-6319_4_3__5_8_9_12_2_user6.pyr
+
+Religious freedom allows people to do whatever they want.
+key  1-6319_63_42__66_73_74_78_79_3_user5.pyr
+
+S1 doesn't believe people should pick and choose what they want equal rights on.
+key  1-6319_63_42__66_73_74_78_79_3_user5.pyr
+
+Service is a requirement to express the freedom people have.
+key  1-6319_63_42__66_73_74_78_79_3_user5.pyr
+
+opponents of homosexual marriage tend to argue that a change to marriage law would make it too open ended
+key  1-6331_5_4__7_9_12_13_15_20_32_34_37_38_1_user6.pyr
+
+current marriage benefit laws are set up for two adults running a household
+key  1-6331_5_4__7_9_12_13_15_20_32_34_37_38_1_user6.pyr
+
+Broadened marriage is a side effect of legal gay marriage
+key  1-6331_5_4__7_9_12_13_15_20_32_34_37_38_1_user6.pyr
+
+Gay marriage supporters want marriage laws changed to accommodate gay marriage
+key  1-6331_5_4__7_9_12_13_15_20_32_34_37_38_1_user6.pyr
+
+Broadened marriage could change the current traditional marriage laws
+key  1-6331_5_4__7_9_12_13_15_20_32_34_37_38_1_user6.pyr
+
+recognising group marriages is a huge task
+key  1-6331_5_4__7_9_12_13_15_20_32_34_37_38_1_user6.pyr
+
+S2 believes there is no such group as Domnionists
+key  1-6493_297_295__300_306_311_315_2_user6
+
+a group invented by left wing groups to make people fear Christianity
+key  1-6493_297_295__300_306_311_315_2_user6
+
+S1 believes that the gay community is the cause of the AIDs epidemic in the US.
+key  1-6646_104_102__105_108_113_120_2_user5.pyr
+
+The topic of AIDS in U.S being spread by gays is avoided by changing the topic to how AIDs orginated in Africa.
+key  1-6646_104_102__105_108_113_120_2_user5.pyr
+
+Only if homosexual minority had not spread AIDs to the heterosexual majority.
+key  1-6646_150_144_1_151_152_154_156_161_11_user5.pyr
+
+S1 believes that homosexuals are less important that heterosexuals.
+key  1-6646_150_144_1_151_152_154_156_161_11_user5.pyr
+
+S2 believes S1's statement of gays spreading AIDs is bigotted.
+key  1-6646_150_144_1_151_152_154_156_161_11_user5.pyr
+
+Gay marriage, polygamy, and polyandry has been pervasive in many cultures including places such as Greece, Rome, and China.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+Marriage has always been a union between a man and a woman.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+Same-sex marriage has never been commonplace or accepted.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+Gay marriage and polygamy is not a new concept.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+Homosexual unions were present in history they were not actually thought of as marriages.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+Idea of marriage being between a man and a woman is a recent development.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+S1 proves websites which outline the history of gay marriage in a few different cultures.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+Homosexual acts were present at times.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+Homosexual liaisons were regarded as unions for a particular purpose, rather than as marriage.
+key  1-6646_188_186__190_191_219_220_6_user5.pyr
+
+S1 believes that it is inappropriate to label disagreement on gay marriage as bigotry.
+key  1-6646_268_261_1_272_274_289_290_291_293_294_13_user5.pyr
+
+Many people would be against any group wanting to alter their traditional view of marriage.
+key  1-6646_268_261_1_272_274_289_290_291_293_294_13_user5.pyr
+
+Many peoples opinions are based on their view of marriage and not their dislike of homosexuals.
+key  1-6646_268_261_1_272_274_289_290_291_293_294_13_user5.pyr
+
+S2 believes that arguments to exclude gay marriage are bigotry because that's what they are.
+key  1-6646_268_261_1_272_274_289_290_291_293_294_13_user5.pyr
+
+Opponents of gay marriage are not protecting traditional marriage, but are discriminating against homosexuals.
+key  1-6646_268_261_1_272_274_289_290_291_293_294_13_user5.pyr
+
+Whenever gays are involved a group of people always opposes.
+key  1-6646_268_261_1_272_274_289_290_291_293_294_13_user5.pyr
+
+He calls gays a perversity
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+He clarifies that he doesn't hate gays
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+he simply doesn't believe that the definition of marriage should be changed to include homosexual unions
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+He accuses S1 of hating homosexuals
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+S1 believes the benefits of marriage can be gained by homosexuals without redefining marriage.
+key  1-6646_318_316__319_320_325_326_331_335_1_user5.pyr
+
+Majority of people do not want to grant same-sex couples the same rights and benefits as heterosexual couples.
+key  1-6646_318_316__319_320_325_326_331_335_1_user5.pyr
+
+Redefining marriage would hurt people with a traditional view of marriage as between a man and a woman.
+key  1-6646_318_316__319_320_325_326_331_335_1_user5.pyr
+
+S2 believes offending the sensibilities of people does not constitute harm.
+key  1-6646_318_316__319_320_325_326_331_335_1_user5.pyr
+
+Having separate rules for straight and gay marriage may allow the gay minority to be disenfranchised.
+key  1-6646_318_316__319_320_325_326_331_335_1_user5.pyr
+
+Preventing gay marriage is simply faith based hate.
+key  1-6646_318_316__319_320_325_326_331_335_1_user5.pyr
+
+S2 believes redefining marriage does not hurt anyone.
+key  1-6646_318_316__319_320_325_326_331_335_1_user5.pyr
+
+S1 believes that allowing gays to marry will open up the door to legalize other types of marriage such as polygamy
+key  1-788_12_9__15_31_35_40_2user1.pyr
+
+S1 states that many laws against gay marriage also outlaw polygamy
+key  1-788_12_9__15_31_35_40_2user1.pyr
+
+S1 believes that the Right Wing was against both gay marriage and polygamy while the left wing was for it
+key  1-788_12_9__15_31_35_40_2user1.pyr
+
+S2 believes if a person is opposed to the banning of gay marriage , they must therefore be a heterophobe
+key  1-788_17_16__19_20_21_22_23_26_1user1.pyr
+
+S1 argues that homosexuals are more committed to fidelity than those who believe in multiple marriage
+key  1-788_17_16__19_20_21_22_23_26_1user1.pyr
+
+S1 questions what S2's problem is and why people did not want gay marriage
+key  1-788_17_16__19_20_21_22_23_26_1user1.pyr
+
+S2 feels he has a Constitutional right to be opposed to gay marriage as well as gay people themselves
+key  1-788_17_16__19_20_21_22_23_26_1user1.pyr
+
+Democratic Vice President Joe Biden stated he was against gay marriage
+key  1-8171_3_2__4_5_7_11_1_user6.pyr
+
+Democrats have been trying to progress gay rights but are afraid to loose their political position
+key  1-8171_3_2__4_5_7_11_1_user6.pyr
+
+S1 says the topic of gay rights has become a poisoned topic
+key  1-8171_3_2__4_5_7_11_1_user6.pyr
+
+S1 thinks that S2 would be troubled by Bidens position on gay marriage
+key  1-8171_71_70__72_73_74_75_2_user6.pyr
+
+S1 says they were referring to namecalling and violence from the original post that was opposing gay rights
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+These two people start referring to each others "attacks"
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+This is about the use of arguments of violence towards gay-marriage
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+S2 mentions someone named Archie who posts include a variety of slurs towards gay people
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+(S1) says that there is an anti-gay rhetoric and inflated statements to scare people
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+S1 and S2 are talking about the views of gay marriage in our culture
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+S1 and S2 are debating the topic of what marriage should mean to our government
+key  1-8376_58_41__59_68_69_70_71_73_1_user6.pyr
+
+S1 believes that the government should have no say in marriage
+key  1-8376_58_41__59_68_69_70_71_73_1_user6.pyr
+
+S2 believes that government should have a say in marriage because it is more practical in todays world
+key  1-8376_58_41__59_68_69_70_71_73_1_user6.pyr
+
+S2 talks about marriage being...one of the foundations for social stability
+key  1-8376_58_41__59_68_69_70_71_73_1_user6.pyr
+
+Legal issues would need separate contracts without...marriage
+key  1-8376_58_41__59_68_69_70_71_73_1_user6.pyr
+
+S1 and S2 start arguing about marriage benefits between single people and married
+key  1-8376_58_41__59_68_69_70_71_73_1_user6.pyr
+
+Both S1 and S2 have had experience with marriage
+key  1-8376_58_41__59_68_69_70_71_73_1_user6.pyr
+
+S1 believes that new England and New York will have gay marriage within the next few years
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+S1 posits that States on... West Coasts will have gay marriage laws
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+S1 states that in the next 20 years the wave of gay marriage legalization will be over
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+mosts states will be able to prevent them with laws of their own which define marriage as between a man and a woman
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+S2 believes that a federal recognition of gay marriage will be soon coming
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+S2 states that each Justice will vote to side with gay marriage
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+S1 questions why the Court doesn't find DOMA unconstitutional
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+Legally, it is complicated to legalize gay marriage in all states
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+The choice of law doctrine trumps the FFC clause in cases of marriage contract
+key  1-8834_7_6__8_9_10_11_13_15_18_1_user6.pyr
+
+S2 says that in saying people who want to get rid of gay marriage may have wanted to prevent inter religious marriage
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+S2 says that in saying people who want to get rid of gay marriage may have wanted to prevent inter-racial marriage
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+S1 has posted news of the DC Council voting to authorize gay marriage
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+people in support of marriage equality is growing
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+Five states have already legalized gay marriage
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+S2 believes once brought to a public vote, marriage equality will not be passed
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+Anti-gay marriage supporters will support civil unions in lieu of gay marriage
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+the current public perception of gay men is that they are promiscuous and lead a "gay lifestyle" that is offensive
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+five states have passed gay marriage legislation on the grounds that it was not done via the voters
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+each of them agree that the gay community has a PR problem
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+S2 retorts that gays lose every time gay marriage is put to a vote in a ballot
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+S1...believed they have earned their right to have freedom of speech
+key  1-9989_18_14__25_26_27_29_30_32_33_2_user6.pyr
+
+S2 believes everyone has the freedom of speech
+key  1-9989_18_14__25_26_27_29_30_32_33_2_user6.pyr
+
+gays...unable...due to prejudice...that keep gay people from being open about their sexuality
+key  1-9989_18_14__25_26_27_29_30_32_33_2_user6.pyr
+
+He says that gays can serve but they need to stay in the closet
+key  1-9989_18_14__25_26_27_29_30_32_33_2_user6.pyr
+
+S1 believes S2 is being prejudice against religious-minded people
+key  1-9989_18_14__25_26_27_29_30_32_33_2_user6.pyr
+
+
+ NEW CLUSTER  3
+
+
+
+S1 contends that evangelical Christians are rarely united for anything
+key  1-35_148_147__149_151_152_155_156_1user1.pyr
+
+S2 points out that Evangelical Christians in Spain are not actively opposed to civil unions
+key  1-35_148_147__149_151_152_155_156_1user1.pyr
+
+Forums tend to make Christianity look bad through generalization, irrelevant studies and misinterpretations.
+key  1-5670_24_21__26_29_30_32_2_user5.pyr
+
+S2 believes that S1 dismissed the results of the study without checking validity.
+key  1-5670_24_21__26_29_30_32_2_user5.pyr
+
+S2 is arguing that S1's point is not very valid
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+
+ NEW CLUSTER  4
+
+
+
+Assertion...the Republicans creating another Holocaust
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+Makes it seem as if...Paul Cameron...is the voice of the Republicans
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+Talks about Paul Cameron
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+S1 says many Democrats were bigger spenders than the Republicans
+key  1-788_12_9__15_31_35_40_2user1.pyr
+
+
+ NEW CLUSTER  5
+
+
+
+this person still desires a debate on moral and health concerns of the issue
+key  1-2583_84_74__97_104_106_107_108_3user1.pyr
+
+S2 cites Jefferson's beliefs that war can be necessary in order to maintain liberty and that centralized government is a threat
+key  1-2844_35_33__36_37_38_39_41_2user1.pyr
+
+S2 believes the society is oppressing people and law is unjust if it effects even one person.
+key  1-5176_12_7__15_16_17_18_20_1_user5.pyr
+
+One person who sides with a specific party doesn't represent the party
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+A person can claim a moral or religious stance without having one
+key  1-5811_79_77__80_84_87_91_92_95_96_1_user6.pyr
+
+the person may be arguing for what they believe to be greater for society
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+S1 defends and respects the personal religious beliefs
+key  1-6319_4_3__5_8_9_12_2_user6.pyr
+
+S2 believes it is inappropriate for public officials to be able to deny services based on their personal religious beliefs
+key  1-6319_4_3__5_8_9_12_2_user6.pyr
+
+Acceptable for him to refuse to serve a boy scout based on the fact they conflict with his/her religious beliefs.
+key  1-6319_63_42__66_73_74_78_79_3_user5.pyr
+
+He claims that S2's beliefs do not make him correct
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+S2 does not agree with over intrusion by the government.
+key  1-6949_18_17__19_20_21_22_29_1_user5.pyr
+
+S2 explains his goal is too preach to the public and not to any specific person
+key  1-9989_18_14__25_26_27_29_30_32_33_2_user6.pyr
+
+
+ NEW CLUSTER  6
+
+
+
+S1 thinks it is the heterosexual nature of the relationship that is important, not how the children are conceived within the relationship
+key  1-1281_13_12__20_22_27_30_34_36_40_2user1.pyr
+
+S2 pointed out the fact that the straight guy can marry or have a common law relationship so his girlfriend can get benefits
+key  1-1875_13_11__14_16_31_39_1user1.pyr
+
+S1 says we benefit from families with adopted children, step children, or families with no children at all
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+(S2) brings up the question of what is socially accepted and the types of taboo relationship and legality
+key  1-4350_46_31__54_59_66_69_1_user6.pyr
+
+law would bar the family of S1 from legal protections
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+S1 points out that his heteronormative family represents the norm
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+S1 that type of discourse is not logically accurate
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+
+ NEW CLUSTER  7
+
+
+
+S1 served in the military
+key  1-9989_18_14__25_26_27_29_30_32_33_2_user6.pyr
+
+
+ NEW CLUSTER  8
+
+
+
+The study's arguments are relevant by citing the protection of the sanctity.
+key  1-5670_24_21__26_29_30_32_2_user5.pyr
+
+S2 believes that S1's argument is not a legitimate viewpoint
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+Someone may be motivated by something other than bigotry in an argument.
+key  1-6646_268_261_1_272_274_289_290_291_293_294_13_user5.pyr
+
+S1 is saying they don't care about the inconsistency 
+key  1-8171_71_70__72_73_74_75_2_user6.pyr
+
+The example of abortion comes up to try and prove inconsistency
+key  1-8171_71_70__72_73_74_75_2_user6.pyr
+
+they are discussing the inconsistency of each other's arguments
+key  1-8171_71_70__72_73_74_75_2_user6.pyr
+
+(S2) says that he does not sees any inconsistency
+key  1-8171_71_70__72_73_74_75_2_user6.pyr
+
+S1 and S2 begin arguing about the meaning of inconsistent
+key  1-8171_71_70__72_73_74_75_2_user6.pyr
+
+(S1) also says that its funny how violence is used to end an argument against religion
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+S2 goes back to saying how S1's arguments are flawed
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+
+ NEW CLUSTER  9
+
+
+
+Homosexuality in his opinion is a deviation from the norm
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+S2 suggests that deviation from the norm is simply a form of diversity
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+S2 suggests that deviation...is not necessarily perverse
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+
+ NEW CLUSTER  10
+
+
+
+S2 provides several cites several websites which show most divorces of hetero couples are due to adultery
+key  1-3358_14_11__16_18_19_24_26_28_32_36_45_1user1.pyr
+
+S1 citing Jerry Falwell and Pat Robertson as his sources
+key  1-6493_297_295__300_306_311_315_2_user6
+
+
+ NEW CLUSTER  11
+
+
+
+potentially starting a new debate on abortion
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+This debate is about the 9th
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+
+ NEW CLUSTER  12
+
+
+
+European countries have many laws different than the US
+key  1-1281_12_11__15_21_23_25_26_28_6_user1.pyr
+
+S1 and S2 are discussing about how majority rule can change a law.
+key  1-5176_12_7__15_16_17_18_20_1_user5.pyr
+
+S2 believes that laws that a majority favors that are unjust in an individuals life must be overruled.
+key  1-5176_12_7__15_16_17_18_20_1_user5.pyr
+
+S2 believes that the court should look at how laws effect all individuals.
+key  1-5176_12_7__15_16_17_18_20_1_user5.pyr
+
+S1 and S2 are talking about how Democracy is based on majority rule
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+S1 seems to believe that someone is making religion into law
+key  1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user6.pyr
+
+S2 cites a 2003 study advising at that time, 62% of Americans were not in favor of gay unions
+key  1-788_17_16__19_20_21_22_23_26_1user1.pyr
+
+S1 believes fidelity to be part of the normal American attitude
+key  1-788_17_16__19_20_21_22_23_26_1user1.pyr
+
+S2 says we should expect politicians to be honest
+key  1-8171_3_2__4_5_7_11_1_user6.pyr
+
+S1 believes politicians sometimes may lie as long as its what is the majority
+key  1-8171_3_2__4_5_7_11_1_user6.pyr
+
+it is only a matter of time before the majority votes in its favor
+key  1-9522_9_1__12_13_32_36_49_52_53_1_user6.pyr
+
+
+ NEW CLUSTER  13
+
+
+
+S1 contends that there has been 20 large earthquakes in the latter half of this century, compared to about 15 for the first half and about 7 in the entire 19th century
+key  1-1281_472_466_1_476_486_577_586_628_11user1.pyr
+
+S1 claims that the number of earthquakes occurring outside of Israel has increased in the last hundred years
+key  1-1281_472_466_1_476_486_577_586_628_11user1.pyr
+
+S2 refutes S1 claim of increasing earthquake frequency
+key  1-1281_472_466_1_476_486_577_586_628_11user1.pyr
+
+S1 argues that this information is clear evidence that the frequency of earthquakes is increasing over time
+key  1-1281_472_466_1_476_486_577_586_628_11user1.pyr
+
+S1 takes this point into consideration, but claims that the evidence still supports his original claim
+key  1-1281_472_466_1_476_486_577_586_628_11user1.pyr
+
+S2 retorts that S1 is relying on rumors and misinformation, and since he doesn't have proof of the claim he shouldn't make it
+key  1-3134_11_10__12_13_14_28_43_47_60_62_1user1.pyr
+
+S2 believes that S1 is making up objections without factual evidence.
+key  1-5670_24_21__26_29_30_32_2_user5.pyr
+
+He quotes S1 as evidence of his hypocrisy in requesting evidence when he offers none
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+S1 rebuts, asking S2 to provide evidence to back up his claim
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+encourages S2 to attempt to challenge his claims with proof that they are untrue
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+He views calling something perverse ad evidence of this hate
+key  1-6646_280_267__281_288_324_348_351_8_user6.pyr
+
+
+ NEW CLUSTER  14
+
+
+
+S1  thinks that everyone has their own values
+key  1-1281_13_12__20_22_27_30_34_36_40_2user1.pyr
+
+Massachusetts ruling was based on a provision prohibiting discrimination based on sexual preference
+key  1-5320_25_16__33_34_35_36_1_user6.pyr
+
+it violates the First amendment rights
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+The world changed when Massachusetts legislature ratified a court decision for equal rights regarding homosexuals.
+key  1-6949_18_17__19_20_21_22_29_1_user5.pyr
+
+Equal rights by the Massachusetts legislature is seen as a step against bigotry and the world becoming less anti-gay.
+key  1-6949_18_17__19_20_21_22_29_1_user5.pyr
+
+believing in the bible should not be a reason to dictate everyone else's rights
+key  1-9989_18_14__25_26_27_29_30_32_33_2_user6.pyr
+
+
+ NEW CLUSTER  15
+
+
+
+S2 thinks S1 is ignoring him
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+
+ NEW CLUSTER  16
+
+
+
+S1 believes ...Joe Biden... was lying to attract votes
+key  1-8171_3_2__4_5_7_11_1_user6.pyr
+
+
+ NEW CLUSTER  17
+
+
+
+They go back to talking trash to each other
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+
+ NEW CLUSTER  18
+
+
+
+S2 believes modern liberalism and Jeffersonian liberalism are nothing alike
+key  1-2844_35_33__36_37_38_39_41_2user1.pyr
+
+S2 was unable to locate any information on the group other than articles by liberals
+key  1-6493_297_295__300_306_311_315_2_user6
+
+S2 says he could post an article stating that Democrats are really Satan Worshipers but that would not make it true
+key  1-6493_297_295__300_306_311_315_2_user6
+
+
+ NEW CLUSTER  19
+
+
+
+incidents in the past like slavery and concentration camps
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+
+ NEW CLUSTER  20
+
+
+
+S1 and S2 are discussing Domionists
+key  1-6493_297_295__300_306_311_315_2_user6
+
+Domionists are focused only on gaining power
+key  1-6493_297_295__300_306_311_315_2_user6
+
+
+ NEW CLUSTER  21
+
+
+
+S1 believes the roots are deeper than that particular poll
+key  1-788_17_16__19_20_21_22_23_26_1user1.pyr
+
+
+ NEW CLUSTER  22
+
+
+
+S1 advises while he is a defender of the Constitution, he does feel society should decide
+key  1-2583_84_74__97_104_106_107_108_3user1.pyr
+
+they are invested in defending their ideals
+key  1-8228_94_93__95_96_97_101_103_105_1_user6.pyr
+
+
+ NEW CLUSTER  23
+
+
+
+S1 is taking an aggressive approach by saying they will talk to bible churches
+key  1-6229_52_51__55_56_61_62_3_user6.pyr
+
+
+ NEW CLUSTER  24
+
+
+
+(S1) begins talking about the death of a child either by natural or in the hands of a doctor
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+
+ NEW CLUSTER  25
+
+
+
+He wishes to debate S2
+key  1-6646_124_123_1_126_128_130_131_134_136_137_10_user6.pyr
+
+
+ NEW CLUSTER  26
+
+
+
+He states that the discussion of "morality" is a safe ground because morality is relative and subjective
+key  1-2583_84_74__97_104_106_107_108_3user1.pyr
+
+He ends the discussion with S1
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+
+ NEW CLUSTER  27
+
+
+
+if one cannot do the job then he should look for another job
+key  1-6319_4_3__5_8_9_12_2_user6.pyr
+
+
+ NEW CLUSTER  28
+
+
+
+S1 uses the example that a cat cannot be called a dog just because someone wants to
+key  1-2583_34_32__51_56_62_65_1user1.pyr
+
+John Lennon as an example of this not being a proper way to generalize
+key  1-5342_11_8__13_16_21_22_1_user6.pyr
+
+S1 brings...Prop 8 from California as example
+key  1-9331_169_167__172_179_183_185_191_206_2_user6.pyr
+
+
+ NEW CLUSTER  29
+
+
+
+S1 believes it is the responsibility of the public to decipher political language
+key  1-8171_3_2__4_5_7_11_1_user6.pyr
+
+S2 is more concerned with the honesty of the candidates
+key  1-8171_3_2__4_5_7_11_1_user6.pyr
+
+political cynicism is no excuse to not put expectation on their candidates to be honest
+key  1-8171_3_2__4_5_7_11_1_user6.pyr

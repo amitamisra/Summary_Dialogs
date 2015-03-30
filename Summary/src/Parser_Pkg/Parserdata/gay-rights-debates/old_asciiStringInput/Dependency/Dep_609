@@ -1,0 +1,19 @@
+He cites slavery as an example .
+
+
+root(ROOT-0, cites-2)
+nsubj(cites-2, He-1)
+dobj(cites-2, slavery-3)
+det(example-6, an-5)
+prep_as(cites-2, example-6)
+
+   they first thought 
+root(ROOT-0, thought-3)
+nsubj(thought-3, they-1)
+advmod(thought-3, first-2)
+
+   they first thought 
+root(ROOT-0, thought-3)
+nsubj(thought-3, they-1)
+advmod(thought-3, first-2)
+

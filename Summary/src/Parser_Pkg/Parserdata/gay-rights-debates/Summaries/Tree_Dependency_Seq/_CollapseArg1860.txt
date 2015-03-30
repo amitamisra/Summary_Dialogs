@@ -1,0 +1,6 @@
+root(ROOT-0, possible-7)
+nn(position-3, ones-2)
+prep_for(possible-7, position-3)
+nsubj(possible-7, it-4)
+aux(possible-7, may-5)
+cop(possible-7, be-6)

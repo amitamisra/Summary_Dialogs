@@ -1,0 +1,18 @@
+Talks about the Healthy Marriage Initiative and how some mean-spirited hypocrites want the government out for the wrong reasons.
+root(ROOT-0, Talks-1)
+det(Initiative-6, the-3)
+amod(Initiative-6, Healthy-4)
+nn(Initiative-6, Marriage-5)
+prep_about(Talks-1, Initiative-6)
+advmod(want-12, how-8)
+det(hypocrites-11, some-9)
+amod(hypocrites-11, mean-spirited-10)
+nsubj(want-12, hypocrites-11)
+conj_and(Talks-1, want-12)
+det(government-14, the-13)
+dobj(want-12, government-14)
+prt(want-12, out-15)
+det(reasons-19, the-17)
+amod(reasons-19, wrong-18)
+prep_for(want-12, reasons-19)
+

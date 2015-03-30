@@ -1,0 +1,5 @@
+root(ROOT-0, caved-4)
+nsubj(caved-4, they-2)
+advmod(caved-4, eventually-3)
+poss(ideas-7, his-6)
+prep_to(caved-4, ideas-7)

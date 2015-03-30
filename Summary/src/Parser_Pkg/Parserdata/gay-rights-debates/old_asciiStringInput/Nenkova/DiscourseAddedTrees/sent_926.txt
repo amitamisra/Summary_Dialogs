@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NN disease)) (VP (VBD was) (VP (VBN made) (PP (IN into) (NP (DT a) (JJ huge) (NN health) (NN concern))) (PP (IN as#0#0) (NP (NP (DT the) (NN result)) (PP (IN of) (NP (DT the) (JJ homosexual) (NN community)))))))))) (. .)))

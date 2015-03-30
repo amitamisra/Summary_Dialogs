@@ -1,0 +1,5 @@
+root(ROOT-0, share-4)
+nsubj(share-4, they-1)
+aux(share-4, ca-2)
+neg(share-4, n't-3)
+dobj(share-4, healthcare-5)

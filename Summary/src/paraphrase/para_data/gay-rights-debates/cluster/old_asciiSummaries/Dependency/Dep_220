@@ -1,0 +1,14 @@
+S2 believes posting something on the internet does not make it be true.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+csubj(make-10, posting-3)
+dobj(posting-3, something-4)
+det(internet-7, the-6)
+prep_on(posting-3, internet-7)
+aux(make-10, does-8)
+neg(make-10, not-9)
+ccomp(believes-2, make-10)
+nsubj(true-13, it-11)
+cop(true-13, be-12)
+ccomp(make-10, true-13)
+

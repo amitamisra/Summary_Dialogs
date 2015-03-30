@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 does not believe that most Christians are trying to ban homosexual unions, and that those accusing them of doing so are doing so falsely. They believe that homosexual lobbyists have gone beyond being defensive and are actively attempting to attack evangelical Christiandom falsely in order to justify their arguments.</line>
+  <line>S2 believes that the majority of self-identified Christians in the United States in fact, do oppose civil unions for homosexual citizens. However, they point out that in other countries such as Spain, they might not, but in general, the belief is the same globally. They refute S1's claims that they are not trying to ban homosexual unions by pointing out that the state constitutional amendments being passed are intended to preclude same-sex marriage and civil unions.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 claims that most Christians are not actively attempting to ban homosexuality and supports this claim by citing the fact that Evangelical Christendom as a whole is rarely ever united on anything, so they could not all be opposed to homosexuality. He proposes that gay lobbyists have crossed the line from counter-attacking to simply attacking Christians. S2 argues that most Christians do oppose same-sex marriage, civil unions, gay adoption, and anti-discrimination laws. To support this point, he cites the various state constitutional amendments that ban same-sex marriage and civil unions. He also suggests that this opinion on the topic of homosexuality is unique to America, claiming that Evangelical Christians in Spain are not actively opposed to civil unions despite sharing the same religious belief systems.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two people are discussing gay marriage.  S2 feels Christians are trying to, in a sense, ban gay people by banning all activities pertaining to gays such as marriage, civil unions, and gay adoption.  S1 feels this is not the case and that most Christians don't treat gay people in this fashion.  S1 also feels the issue at hand is not being discussed as the forum began with speaking about the gay pride industry.  S2 supports his theory by citing the constitutional amendment to ban both gay marriage and same sex civil unions.  He feels this is the Christian equivalent of banning gay people by oppressing their lifestyle.  S1 feels this is a weak argument which gay lobbyists have overused.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing whether or not Christians want to ban gay people.  S1 contends that most Christians are not trying to ban the decriminalization of same-sex, it was just an accusation made.  He contends that evangelicals are rarely united for anything, let alone banning gay people.  He also states that gay lobbyists have long stepped over the line of simply counter-attacking with their defense.  S2 retorts by stating that a majority of self-identified Christians in the U.S. oppose civil marriage for gay people, among other things such as civil unions, gay adoptions and anti-discrimination laws.  He states that in Spain, they don't do that, and he points out a state constitutional amendment trying to prevent same-sex marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S2 thinks that most Christians in this country oppose civil marriages for gay rights. Evangelical Christians have been opposed and do speak out against gay marriage. They go on to announce that a state constitutional amendment is being passed to preclude same sex marriage and civil unions. That means that same sex couples will be seen in the same light as straight couples. S1 defends the Christians by stating that they do not try to discriminate on gay marriages, and says that they aren't trying to ban gay marriage. the GUEST thinks it is laughable to think that they are that united in one particular event or fight together for good. They think that the GUEST has blown the whole conversation out of proportion.</line>
+ </text>
+ <scu uid="51" label="majority of self-identified Christians in the United States do oppose civil unions for homosexual citizens">
+  <contributor label="S2 believes that the majority of self-identified Christians in the United States in fact, do oppose civil unions for homosexual citizens">
+   <part label="S2 believes that the majority of self-identified Christians in the United States in fact, do oppose civil unions for homosexual citizens" start="347" end="483"/>
+  </contributor>
+  <contributor label="S2 argues that most Christians do oppose same-sex marriage, civil unions, gay adoption, and anti-discrimination laws">
+   <part label="S2 argues that most Christians do oppose same-sex marriage, civil unions, gay adoption, and anti-discrimination laws" start="1202" end="1318"/>
+  </contributor>
+  <contributor label="S2 feels Christians are trying to, in a sense, ban gay people by banning all activities pertaining to gays such as marriage, civil unions, and gay adoption">
+   <part label="S2 feels Christians are trying to, in a sense, ban gay people by banning all activities pertaining to gays such as marriage, civil unions, and gay adoption" start="1734" end="1889"/>
+  </contributor>
+  <contributor label="S2 retorts by stating that a majority of self-identified Christians in the U.S. oppose civil marriage for gay people, among other things such as civil unions, gay adoptions and anti-discrimination laws">
+   <part label="S2 retorts by stating that a majority of self-identified Christians in the U.S. oppose civil marriage for gay people, among other things such as civil unions, gay adoptions and anti-discrimination laws" start="2821" end="3022"/>
+  </contributor>
+  <contributor label="S2 thinks that most Christians in this country oppose civil marriages for gay rights. Evangelical Christians have been opposed and do speak out against gay marriage">
+   <part label="S2 thinks that most Christians in this country oppose civil marriages for gay rights. Evangelical Christians have been opposed and do speak out against gay marriage" start="3185" end="3349"/>
+  </contributor>
+ </scu>
+ <scu uid="47" label="most Christians are trying to ban homosexual unions">
+  <contributor label="S1 does not believe that most Christians are trying to ban homosexual unions">
+   <part label="S1 does not believe that most Christians are trying to ban homosexual unions" start="26" end="102"/>
+  </contributor>
+  <contributor label="S1 claims that most Christians are not actively attempting to ban homosexuality">
+   <part label="S1 claims that most Christians are not actively attempting to ban homosexuality" start="845" end="924"/>
+  </contributor>
+  <contributor label="S1 feels this is not the case and that most Christians don't treat gay people in this fashion">
+   <part label="S1 feels this is not the case and that most Christians don't treat gay people in this fashion" start="1892" end="1985"/>
+  </contributor>
+  <contributor label="S1 contends that most Christians are not trying to ban the decriminalization of same-sex">
+   <part label="S1 contends that most Christians are not trying to ban the decriminalization of same-sex" start="2490" end="2578"/>
+  </contributor>
+  <contributor label="S1 defends the Christians by stating that they do not try to discriminate on gay marriages...they aren't trying to ban gay marriage">
+   <part label="they aren't trying to ban gay marriage" start="3667" end="3705"/>
+   <part label="S1 defends the Christians by stating that they do not try to discriminate on gay marriages" start="3561" end="3651"/>
+  </contributor>
+ </scu>
+ <scu uid="54" label="state constitutional amendments being passed are intended to preclude same-sex marriage and civil unions">
+  <contributor label="the state constitutional amendments being passed are intended to preclude same-sex marriage and civil unions">
+   <part label="the state constitutional amendments being passed are intended to preclude same-sex marriage and civil unions" start="708" end="816"/>
+  </contributor>
+  <contributor label="he cites the various state constitutional amendments that ban same-sex marriage and civil unions">
+   <part label="he cites the various state constitutional amendments that ban same-sex marriage and civil unions" start="1343" end="1439"/>
+  </contributor>
+  <contributor label="S2 supports his theory by citing the constitutional amendment to ban both gay marriage and same sex civil unions">
+   <part label="S2 supports his theory by citing the constitutional amendment to ban both gay marriage and same sex civil unions" start="2107" end="2219"/>
+  </contributor>
+  <contributor label="he points out a state constitutional amendment trying to prevent same-sex marriage">
+   <part label="he points out a state constitutional amendment trying to prevent same-sex marriage" start="3074" end="3156"/>
+  </contributor>
+  <contributor label="They go on to announce that a state constitutional amendment is being passed to preclude same sex marriage and civil unions">
+   <part label="They go on to announce that a state constitutional amendment is being passed to preclude same sex marriage and civil unions" start="3351" end="3474"/>
+  </contributor>
+ </scu>
+ <scu uid="58" label="evangelical Christians are rarely united for anything">
+  <contributor label="He contends that evangelicals are rarely united for anything, let alone banning gay people">
+   <part label="He contends that evangelicals are rarely united for anything, let alone banning gay people" start="2613" end="2703"/>
+  </contributor>
+  <contributor label="it is laughable to think that they are that united in one particular event">
+   <part label="it is laughable to think that they are that united in one particular event" start="3724" end="3798"/>
+  </contributor>
+  <contributor label="supports this claim by citing the fact that Evangelical Christendom as a whole is rarely ever united on anything, so they could not all be opposed to homosexuality">
+   <part label="supports this claim by citing the fact that Evangelical Christendom as a whole is rarely ever united on anything, so they could not all be opposed to homosexuality" start="929" end="1092"/>
+  </contributor>
+ </scu>
+ <scu uid="52" label="Evangelical Christians in Spain are not actively opposed to civil unions">
+  <contributor label="Evangelical Christians in Spain are not actively opposed to civil unions despite sharing the same religious belief systems">
+   <part label="Evangelical Christians in Spain are not actively opposed to civil unions despite sharing the same religious belief systems" start="1542" end="1664"/>
+  </contributor>
+  <contributor label="they point out that in other countries such as Spain, they might not, but in general, the belief is the same globally">
+   <part label="they point out that in other countries such as Spain, they might not, but in general, the belief is the same globally" start="494" end="611"/>
+  </contributor>
+  <contributor label="He states that in Spain, they don't do that">
+   <part label="He states that in Spain, they don't do that" start="3025" end="3068"/>
+  </contributor>
+ </scu>
+ <scu uid="50" label="gay lobbyists are actively attempting to attack evangelical Christiandom falsely in order to justify their arguments">
+  <contributor label="actively attempting to attack evangelical Christiandom falsely in order to justify their arguments">
+   <part label="actively attempting to attack evangelical Christiandom falsely in order to justify their arguments" start="247" end="345"/>
+  </contributor>
+  <contributor label="counter-attacking to simply attacking Christians">
+   <part label="counter-attacking to simply attacking Christians" start="1152" end="1200"/>
+  </contributor>
+  <contributor label="simply counter-attacking with their defense">
+   <part label="simply counter-attacking with their defense" start="2775" end="2818"/>
+  </contributor>
+ </scu>
+ <scu uid="49" label="gay lobbyists have crossed the line with attacking Christians">
+  <contributor label="They believe that homosexual lobbyists have gone beyond being defensive">
+   <part label="They believe that homosexual lobbyists have gone beyond being defensive" start="167" end="238"/>
+  </contributor>
+  <contributor label="He proposes that gay lobbyists have crossed the line">
+   <part label="He proposes that gay lobbyists have crossed the line" start="1094" end="1146"/>
+  </contributor>
+  <contributor label="He also states that gay lobbyists have long stepped over the line">
+   <part label="He also states that gay lobbyists have long stepped over the line" start="2706" end="2771"/>
+  </contributor>
+ </scu>
+ <scu uid="48" label="Those accusing Christians of wanting to ban gay marriage of doing so are doing so falsely">
+  <contributor label="those accusing them of doing so are doing so falsely">
+   <part label="those accusing them of doing so are doing so falsely" start="113" end="165"/>
+  </contributor>
+  <contributor label="it was just an accusation made">
+   <part label="it was just an accusation made" start="2580" end="2610"/>
+  </contributor>
+ </scu>
+ <scu uid="46" label="Two people are discussing gay marriage">
+  <contributor label="Two people are discussing gay marriage">
+   <part label="Two people are discussing gay marriage" start="1693" end="1731"/>
+  </contributor>
+  <contributor label="Two people are discussing whether or not Christians want to ban gay people">
+   <part label="Two people are discussing whether or not Christians want to ban gay people" start="2413" end="2487"/>
+  </contributor>
+ </scu>
+ <scu uid="65" label="Christian equivalent of banning gay people by oppressing their lifestyle">
+  <contributor label="He feels this is the Christian equivalent of banning gay people by oppressing their lifestyle">
+   <part label="He feels this is the Christian equivalent of banning gay people by oppressing their lifestyle" start="2222" end="2315"/>
+  </contributor>
+ </scu>
+ <scu uid="64" label="fight together for good">
+  <contributor label="fight together for good">
+   <part label="fight together for good" start="3802" end="3825"/>
+  </contributor>
+ </scu>
+ <scu uid="56" label="not trying to ban homosexual unions">
+  <contributor label="They refute S1's claims that they are not trying to ban homosexual unions">
+   <part label="They refute S1's claims that they are not trying to ban homosexual unions" start="613" end="686"/>
+  </contributor>
+ </scu>
+ <scu uid="63" label="same sex couples will be seen in the same light as straight couples">
+  <contributor label="same sex couples will be seen in the same light as straight couples">
+   <part label="same sex couples will be seen in the same light as straight couples" start="3492" end="3559"/>
+  </contributor>
+ </scu>
+ <scu uid="57" label="the forum began with speaking about the gay pride industry">
+  <contributor label="the forum began with speaking about the gay pride industry">
+   <part label="the forum began with speaking about the gay pride industry" start="2046" end="2104"/>
+  </contributor>
+ </scu>
+ <scu uid="62" label="the issue at hand is not being discussed">
+  <contributor label="S1 also feels the issue at hand is not being discussed">
+   <part label="S1 also feels the issue at hand is not being discussed" start="1988" end="2042"/>
+  </contributor>
+ </scu>
+ <scu uid="61" label="This is a weak argument which gay lobbyists have overused">
+  <contributor label="S1 feels this is a weak argument which gay lobbyists have overused">
+   <part label="S1 feels this is a weak argument which gay lobbyists have overused" start="2318" end="2384"/>
+  </contributor>
+ </scu>
+ <scu uid="66" label="this opinion on the topic of homosexuality is unique to America">
+  <contributor label="He also suggests that this opinion on the topic of homosexuality is unique to America">
+   <part label="He also suggests that this opinion on the topic of homosexuality is unique to America" start="1441" end="1526"/>
+  </contributor>
+ </scu>
+ <scu uid="59" label="whole conversation blown out of proportion">
+  <contributor label="the GUEST has blown the whole conversation out of proportion">
+   <part label="the GUEST has blown the whole conversation out of proportion" start="3843" end="3903"/>
+  </contributor>
+ </scu>
+</pyramid>

@@ -1,0 +1,6 @@
+root(ROOT-0, allow-4)
+det(countries-3, some-1)
+amod(countries-3, European-2)
+nsubj(allow-4, countries-3)
+amod(marriage-6, gay-5)
+dobj(allow-4, marriage-6)

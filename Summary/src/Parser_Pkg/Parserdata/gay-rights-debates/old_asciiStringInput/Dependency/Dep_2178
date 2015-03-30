@@ -1,0 +1,26 @@
+S1 acknowledges that he considers such religious objections to be evil.
+root(ROOT-0, acknowledges-2)
+nsubj(acknowledges-2, S1-1)
+mark(considers-5, that-3)
+nsubj(considers-5, he-4)
+ccomp(acknowledges-2, considers-5)
+amod(objections-8, such-6)
+amod(objections-8, religious-7)
+dobj(considers-5, objections-8)
+aux(evil-11, to-9)
+cop(evil-11, be-10)
+vmod(considers-5, evil-11)
+
+S1 acknowledges that he considers such religious objections to be evil.
+root(ROOT-0, acknowledges-2)
+nsubj(acknowledges-2, S1-1)
+mark(considers-5, that-3)
+nsubj(considers-5, he-4)
+ccomp(acknowledges-2, considers-5)
+amod(objections-8, such-6)
+amod(objections-8, religious-7)
+dobj(considers-5, objections-8)
+aux(evil-11, to-9)
+cop(evil-11, be-10)
+vmod(considers-5, evil-11)
+

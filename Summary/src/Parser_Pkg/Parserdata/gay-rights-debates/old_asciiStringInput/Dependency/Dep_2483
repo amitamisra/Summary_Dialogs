@@ -1,0 +1,16 @@
+   S2 accepts his challenge to a debate .   
+root(ROOT-0, accepts-2)
+nsubj(accepts-2, S2-1)
+poss(challenge-4, his-3)
+dobj(accepts-2, challenge-4)
+det(debate-7, a-6)
+prep_to(accepts-2, debate-7)
+
+   S2 accepts his challenge to a debate .   
+root(ROOT-0, accepts-2)
+nsubj(accepts-2, S2-1)
+poss(challenge-4, his-3)
+dobj(accepts-2, challenge-4)
+det(debate-7, a-6)
+prep_to(accepts-2, debate-7)
+

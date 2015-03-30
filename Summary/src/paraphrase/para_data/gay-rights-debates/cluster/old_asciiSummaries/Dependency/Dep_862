@@ -1,0 +1,9 @@
+She can't get healthcare through his job.
+root(ROOT-0, get-4)
+nsubj(get-4, She-1)
+aux(get-4, ca-2)
+neg(get-4, n't-3)
+dobj(get-4, healthcare-5)
+poss(job-8, his-7)
+prep_through(get-4, job-8)
+

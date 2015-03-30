@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (S (NP (JJ gay) (NNS rights)) (VP (VBP are) (NP (NP (DT a) (JJ real) (NN test)) (PP (IN of) (NP (DT the) (JJ constitutional) (NN system)))))))) (. .)))

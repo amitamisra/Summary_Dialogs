@@ -1,0 +1,6 @@
+root(ROOT-0, wanted-3)
+amod(people-2, enough-1)
+nsubj(wanted-3, people-2)
+amod(marriage-6, legal-4)
+amod(marriage-6, polygamous-5)
+dobj(wanted-3, marriage-6)

@@ -1,0 +1,13 @@
+This person thinks that dismissing results, rather than checking validity is reactionary.
+root(ROOT-0, thinks-3)
+det(person-2, This-1)
+nsubj(thinks-3, person-2)
+mark(reactionary-13, that-4)
+csubj(reactionary-13, dismissing-5)
+dobj(dismissing-5, results-6)
+conj_negcc(dismissing-5, checking-10)
+csubj(reactionary-13, checking-10)
+dobj(checking-10, validity-11)
+cop(reactionary-13, is-12)
+ccomp(thinks-3, reactionary-13)
+

@@ -1,0 +1,5 @@
+root(ROOT-0, taboos-4)
+nsubj(taboos-4, they-1)
+cop(taboos-4, are-2)
+det(taboos-4, all-3)
+prep_of(taboos-4, society-6)

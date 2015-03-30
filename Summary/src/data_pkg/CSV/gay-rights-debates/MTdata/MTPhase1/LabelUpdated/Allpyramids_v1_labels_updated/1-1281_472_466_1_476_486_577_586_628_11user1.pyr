@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 claims that the number of earthquakes occurring outside of Israel has increased in the last hundred years, comparing 20 large earthquakes in the latter half of the 20th century to only 15 large earthquakes in the first half of the 20th century, and only 7 large earthquakes in the entire 19th century. S1 argues that this information is clear evidence that the frequency of earthquakes is increasing over time. S2 refutes S1 claim of increasing earthquake frequency, suggesting that the greater number of earthquakes detected could be a matter of increases in our ability to detect earthquakes rather than an actual increase in the number of earthquakes occurring. S1 takes this point into consideration, but claims that the evidence still supports his original claim.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 argues that the number of earthquakes has been increasing in recent times, citing statistics for larger earthquakes suggesting the frequency of large earthquakes increased five fold from the 19tyh to 20th centuries.  The context of the discussion may be religious as S1 mentions Israel as well as the U.S. Constitution and rights of minorities versus majority rule.  S2 seems exasperated with S1's comments here and in prior posts and suggests that advances in detection technology and increases in recording practices could explain any seeming increase in the frequency of earthquakes, and that S1 is merely looking at statistics unscientifically to support the assertion.  S1 is confident she accounted for the variables mentioned by S2 by limiting her argument to large earthquakes.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two people are discussing the increase in frequency of earthquakes.  S1 contends that the amount of earthquakes in the last century is increasing exponentially.  He contends that there has been 20 large earthquakes in the latter half of this century, compared to about 15 for the first half and about 7 in the entire 19th century. S2 retorts that the method used to detect and record earthquakes have been taking exponential leaps forward, and he states that S1 is taking statistics from one source without critical thought an accepting it as fact.  S1 rebuts stating that the new methods detect minimal or localized earthquakes and that major ones can be detected without a seismograph.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 discussed the increase in earthquakes outside of Israel in the last 100 years and said it is &quot;love waxing cold.&quot;  He noted that there have been 20 large earthquakes just in this part of the century that were easy to detect even without a seismograph . He said he did other research which showed the same results even when that was taken into account. He said that he knows that he differs with S2 as he believes that the majority rules in the United States  unless it violates the constitution . S2  said that he felt like shaking something at S2 and then asked S1 about the advances in the recording of the earthquakes and challenged his source and his statistics. He also challenged S1's earthquake argument.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 notes that the number of earthquakes outside Israel has increased I the last one hundred years exponentially. He or she quotes the lists of &quot;World's Most Dangerous Earthquakes and Selected Earthquakes in the United States&quot; from the Citizen's Guide to Geologic Hazards. He or she notes about twenty large earthquakes globally in the latter half of the century compared to about fifteen for the first half of this century and only seven large earthquakes recorded in the entire nineteenth century. They believe that the United States Government is ruled by the majority until it violates the constitution. </line>
+  <line>S2 refutes this by stating that technological advances in earthquake tremor detection has improved greatly since the nineteenth century, and that S1's argument purposefully excludes this fact.</line>
+ </text>
+ <scu uid="199" label="20 large earthquakes in the latter half of this century, compared to about 15 for the first half and about 7 in the entire 19th century">
+  <contributor label="He contends that there has been 20 large earthquakes in the latter half of this century, compared to about 15 for the first half and about 7 in the entire 19th century">
+   <part label="He contends that there has been 20 large earthquakes in the latter half of this century, compared to about 15 for the first half and about 7 in the entire 19th century" start="1803" end="1970"/>
+  </contributor>
+  <contributor label="comparing 20 large earthquakes in the latter half of the 20th century to only 15 large earthquakes in the first half of the 20th century...only 7 large earthquakes in the entire 19th century">
+   <part label="comparing 20 large earthquakes in the latter half of the 20th century to only 15 large earthquakes in the first half of the 20th century" start="136" end="272"/>
+   <part label="only 7 large earthquakes in the entire 19th century" start="278" end="329"/>
+  </contributor>
+  <contributor label="citing statistics for larger earthquakes suggesting the frequency of large earthquakes increased five fold from the 19tyh to 20th centuries">
+   <part label="citing statistics for larger earthquakes suggesting the frequency of large earthquakes increased five fold from the 19tyh to 20th centuries" start="903" end="1042"/>
+  </contributor>
+  <contributor label="He noted that there have been 20 large earthquakes just in this part of the century that were easy to detect even without a seismograph">
+   <part label="He noted that there have been 20 large earthquakes just in this part of the century that were easy to detect even without a seismograph" start="2473" end="2608"/>
+  </contributor>
+  <contributor label="He or she notes about twenty large earthquakes globally in the latter half of the century compared to about fifteen for the first half of this century...only seven large earthquakes recorded in the entire nineteenth century">
+   <part label="He or she notes about twenty large earthquakes globally in the latter half of the century compared to about fifteen for the first half of this century" start="3369" end="3519"/>
+   <part label="only seven large earthquakes recorded in the entire nineteenth century" start="3524" end="3594"/>
+  </contributor>
+ </scu>
+ <scu uid="198" label="claim of increasing earthquake frequency">
+  <contributor label="S2 refutes S1 claim of increasing earthquake frequency">
+   <part label="S2 refutes S1 claim of increasing earthquake frequency" start="440" end="494"/>
+  </contributor>
+  <contributor label="S2 seems exasperated with S1's comments here">
+   <part label="S2 seems exasperated with S1's comments here" start="1195" end="1239"/>
+  </contributor>
+  <contributor label="S2 retorts that the method used to detect and record earthquakes have been taking exponential leaps forward">
+   <part label="S2 retorts that the method used to detect and record earthquakes have been taking exponential leaps forward" start="1972" end="2079"/>
+  </contributor>
+  <contributor label="He also challenged S1's earthquake argument">
+   <part label="He also challenged S1's earthquake argument" start="3025" end="3068"/>
+  </contributor>
+  <contributor label="S2 refutes this by stating that technological advances in earthquake tremor detection has improved greatly since the nineteenth century">
+   <part label="S2 refutes this by stating that technological advances in earthquake tremor detection has improved greatly since the nineteenth century" start="3705" end="3840"/>
+  </contributor>
+ </scu>
+ <scu uid="197" label="number of earthquakes occurring outside of Israel has increased in the last hundred years">
+  <contributor label="S1 claims that the number of earthquakes occurring outside of Israel has increased in the last hundred years">
+   <part label="S1 claims that the number of earthquakes occurring outside of Israel has increased in the last hundred years" start="26" end="134"/>
+  </contributor>
+  <contributor label="S1 argues that the number of earthquakes has been increasing in recent times">
+   <part label="S1 argues that the number of earthquakes has been increasing in recent times" start="825" end="901"/>
+  </contributor>
+  <contributor label="S1 contends that the amount of earthquakes in the last century is increasing exponentially">
+   <part label="S1 contends that the amount of earthquakes in the last century is increasing exponentially" start="1710" end="1800"/>
+  </contributor>
+  <contributor label="S1 discussed the increase in earthquakes outside of Israel in the last 100 years">
+   <part label="S1 discussed the increase in earthquakes outside of Israel in the last 100 years" start="2356" end="2436"/>
+  </contributor>
+  <contributor label="S1 notes that the number of earthquakes outside Israel has increased I the last one hundred years exponentially">
+   <part label="S1 notes that the number of earthquakes outside Israel has increased I the last one hundred years exponentially" start="3097" end="3208"/>
+  </contributor>
+ </scu>
+ <scu uid="202" label="clear evidence that the frequency of earthquakes is increasing over time">
+  <contributor label="S1 argues that this information is clear evidence that the frequency of earthquakes is increasing over time">
+   <part label="S1 argues that this information is clear evidence that the frequency of earthquakes is increasing over time" start="331" end="438"/>
+  </contributor>
+  <contributor label="advances in detection technology and increases in recording practices could explain any seeming increase in the frequency of earthquakes">
+   <part label="advances in detection technology and increases in recording practices could explain any seeming increase in the frequency of earthquakes" start="1277" end="1413"/>
+  </contributor>
+  <contributor label="S1 rebuts stating that the new methods detect minimal or localized earthquakes and that major ones can be detected without a seismograph">
+   <part label="S1 rebuts stating that the new methods detect minimal or localized earthquakes and that major ones can be detected without a seismograph" start="2191" end="2327"/>
+  </contributor>
+  <contributor label="He said he did other research which showed the same results even when that was taken into account">
+   <part label="He said he did other research which showed the same results even when that was taken into account" start="2611" end="2708"/>
+  </contributor>
+ </scu>
+ <scu uid="205" label="taking statistics from one source without critical thought and accepting it as fact">
+  <contributor label="he states that S1 is taking statistics from one source without critical thought an accepting it as fact">
+   <part label="he states that S1 is taking statistics from one source without critical thought an accepting it as fact" start="2085" end="2188"/>
+  </contributor>
+  <contributor label="S2  said that he felt like shaking something at S2 and then asked S1 about the advances in the recording of the earthquakes and challenged his source and his statistics">
+   <part label="S2  said that he felt like shaking something at S2 and then asked S1 about the advances in the recording of the earthquakes and challenged his source and his statistics" start="2855" end="3023"/>
+  </contributor>
+  <contributor label="S1 is merely looking at statistics unscientifically to support the assertion">
+   <part label="S1 is merely looking at statistics unscientifically to support the assertion" start="1424" end="1500"/>
+  </contributor>
+ </scu>
+ <scu uid="200" label="United States Government is ruled by the majority until it violates the constitution">
+  <contributor label="They believe that the United States Government is ruled by the majority until it violates the constitution">
+   <part label="They believe that the United States Government is ruled by the majority until it violates the constitution" start="3596" end="3702"/>
+  </contributor>
+  <contributor label="he believes that the majority rules in the United States  unless it violates the constitution">
+   <part label="he believes that the majority rules in the United States  unless it violates the constitution" start="2759" end="2852"/>
+  </contributor>
+  <contributor label="S1 mentions Israel as well as the U.S. Constitution and rights of minorities versus majority rule">
+   <part label="S1 mentions Israel as well as the U.S. Constitution and rights of minorities versus majority rule" start="1095" end="1192"/>
+  </contributor>
+ </scu>
+ <scu uid="203" label="Variables accounted for by limiting argument to large earthquakes">
+  <contributor label="S1 takes this point into consideration, but claims that the evidence still supports his original claim">
+   <part label="S1 takes this point into consideration, but claims that the evidence still supports his original claim" start="694" end="796"/>
+  </contributor>
+  <contributor label="S1's argument purposefully excludes this fact">
+   <part label="S1's argument purposefully excludes this fact" start="3851" end="3896"/>
+  </contributor>
+  <contributor label="S1 is confident she accounted for the variables mentioned by S2 by limiting her argument to large earthquakes">
+   <part label="S1 is confident she accounted for the variables mentioned by S2 by limiting her argument to large earthquakes" start="1503" end="1612"/>
+  </contributor>
+ </scu>
+ <scu uid="207" label="&quot;World's Most Dangerous Earthquakes and Selected Earthquakes in the United States&quot; from the Citizen's Guide to Geologic Hazards">
+  <contributor label="He or she quotes the lists of &quot;World's Most Dangerous Earthquakes and Selected Earthquakes in the United States&quot; from the Citizen's Guide to Geologic Hazards">
+   <part label="He or she quotes the lists of &quot;World's Most Dangerous Earthquakes and Selected Earthquakes in the United States&quot; from the Citizen's Guide to Geologic Hazards" start="3210" end="3367"/>
+  </contributor>
+ </scu>
+ <scu uid="208" label="it is &quot;love waxing cold.&quot;">
+  <contributor label="it is &quot;love waxing cold.&quot;">
+   <part label="it is &quot;love waxing cold.&quot;" start="2446" end="2471"/>
+  </contributor>
+ </scu>
+ <scu uid="204" label="The context of the discussion may be religious">
+  <contributor label="The context of the discussion may be religious">
+   <part label="The context of the discussion may be religious" start="1045" end="1091"/>
+  </contributor>
+ </scu>
+ <scu uid="209" label="the greater number of earthquakes detected could be a matter of increases in our ability to detect earthquakes rather than an actual increase in the number of earthquakes occurring">
+  <contributor label="the greater number of earthquakes detected could be a matter of increases in our ability to detect earthquakes rather than an actual increase in the number of earthquakes occurring">
+   <part label="the greater number of earthquakes detected could be a matter of increases in our ability to detect earthquakes rather than an actual increase in the number of earthquakes occurring" start="512" end="692"/>
+  </contributor>
+ </scu>
+ <scu uid="201" label="Two people are discussing the increase in frequency of earthquakes">
+  <contributor label="Two people are discussing the increase in frequency of earthquakes">
+   <part label="Two people are discussing the increase in frequency of earthquakes" start="1641" end="1707"/>
+  </contributor>
+ </scu>
+ <scu uid="206" label="Two people differ ">
+  <contributor label="He said that he knows that he differs with S2">
+   <part label="He said that he knows that he differs with S2" start="2710" end="2755"/>
+  </contributor>
+ </scu>
+</pyramid>

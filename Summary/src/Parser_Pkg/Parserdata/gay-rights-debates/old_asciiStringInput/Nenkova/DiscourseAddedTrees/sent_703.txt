@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VP (VBZ is) (ADVP (RB only)) (VP (VBN concerned) (PP (IN with) (NP (JJ gay) (NNS rights))))) (CC and#0#0) (VP (MD will) (VP (VB talk) (NP (NNS people)) (ADVP (IN out) (PP (IN of) (S (VP (VBG attending) (NP (JJ bible) (NNS churches))))))))) (. .)))

@@ -1,0 +1,22 @@
+S2 goes back to saying  how S1 's arguments are flawed 
+root(ROOT-0, goes-2)
+nsubj(goes-2, S2-1)
+advmod(goes-2, back-3)
+prepc_to(back-3, saying-5)
+advmod(flawed-11, how-6)
+poss(arguments-9, S1-7)
+nsubjpass(flawed-11, arguments-9)
+auxpass(flawed-11, are-10)
+ccomp(saying-5, flawed-11)
+
+S2 goes back to saying  how S1 's arguments are flawed 
+root(ROOT-0, goes-2)
+nsubj(goes-2, S2-1)
+advmod(goes-2, back-3)
+prepc_to(back-3, saying-5)
+advmod(flawed-11, how-6)
+poss(arguments-9, S1-7)
+nsubjpass(flawed-11, arguments-9)
+auxpass(flawed-11, are-10)
+ccomp(saying-5, flawed-11)
+

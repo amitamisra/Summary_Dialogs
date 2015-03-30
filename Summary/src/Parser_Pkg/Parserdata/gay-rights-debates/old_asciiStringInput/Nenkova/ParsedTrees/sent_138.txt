@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBD pointed) (PRT (RP out)) (NP (DT the) (NN fact)) (SBAR (IN that) (S (NP (DT the) (JJ straight) (NN guy)) (VP (MD can) (VP (VP (VB marry)) (CC or) (VP (VB have) (NP (DT a) (JJ common) (NN law) (NN relationship)) (SBAR (IN so) (S (NP (PRP$ his) (NN girlfriend)) (VP (MD can) (VP (VB get) (NP (NNS benefits)))))))))))) (. .)))

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ contends) (SBAR (IN that) (S (NP (NN S1)) (VP (VP (VBZ hates) (NP (NNS gays))) (CC and#0#0) (VP (VBZ is) (NP (NP (RB basically) (NN prejudice)) (PP (IN toward) (NP (JJ gay) (NNS people)))) (VP (VBN based) (PP (IN upon) (NP (NP (DT some) (NNS remarks)) (VP (VBG being) (VP (VBN made))))))))))) (. .)))

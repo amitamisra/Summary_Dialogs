@@ -1,0 +1,15 @@
+(Attribution[S][N]
+  _!( S2 ) says!_
+  (Elaboration[N][S]
+    _!that his fight is not directly or only with ( S1 )!_
+    (Elaboration[N][S]
+      _!but with others!_
+      (Attribution[S][N]
+        _!who think!_
+        (Background[N][S]
+          _!that they can tell people!_
+          (Enablement[N][S]
+            _!how they need!_
+            (Elaboration[N][S]
+              _!to live their lives!_
+              _!based on religious beliefs . <s>!_)))))))

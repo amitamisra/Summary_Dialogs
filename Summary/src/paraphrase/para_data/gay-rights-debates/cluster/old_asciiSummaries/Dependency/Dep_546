@@ -1,0 +1,17 @@
+S2 believes the morality of the era was based on ignorance and prejudice as it is today.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+det(morality-4, the-3)
+nsubjpass(based-9, morality-4)
+det(era-7, the-6)
+prep_of(morality-4, era-7)
+auxpass(based-9, was-8)
+ccomp(believes-2, based-9)
+prep_on(based-9, ignorance-11)
+prep_on(based-9, prejudice-13)
+conj_and(ignorance-11, prejudice-13)
+mark(is-16, as-14)
+nsubj(is-16, it-15)
+advcl(based-9, is-16)
+tmod(is-16, today-17)
+

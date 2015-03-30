@@ -1,0 +1,7 @@
+root(ROOT-0, people-7)
+nsubj(people-7, it-1)
+cop(people-7, is-2)
+det(people-7, all-3)
+amod(people-7, single-5)
+nsubj(get-9, that-8)
+rcmod(people-7, get-9)

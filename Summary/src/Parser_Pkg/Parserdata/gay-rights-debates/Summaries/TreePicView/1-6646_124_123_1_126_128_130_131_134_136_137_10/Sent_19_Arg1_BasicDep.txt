@@ -1,0 +1,7 @@
+root(ROOT-0, owns-2)
+nsubj(owns-2, S1-1)
+prt(owns-2, up-3)
+prep(owns-2, to-4)
+poss(requirements-7, his-5)
+amod(requirements-7, own-6)
+pobj(to-4, requirements-7)

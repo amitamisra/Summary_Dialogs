@@ -1,0 +1,38 @@
+  the two gay people living together should not expect healthcare 
+root(ROOT-0, expect-9)
+det(people-4, the-1)
+num(people-4, two-2)
+amod(people-4, gay-3)
+nsubj(expect-9, people-4)
+vmod(people-4, living-5)
+advmod(living-5, together-6)
+aux(expect-9, should-7)
+neg(expect-9, not-8)
+dobj(expect-9, healthcare-10)
+
+ that a federal marriage amendment to the constitution is a long shot .  
+root(ROOT-0, shot-12)
+mark(shot-12, that-1)
+det(amendment-5, a-2)
+amod(amendment-5, federal-3)
+nn(amendment-5, marriage-4)
+nsubj(shot-12, amendment-5)
+det(constitution-8, the-7)
+prep_to(amendment-5, constitution-8)
+cop(shot-12, is-9)
+det(shot-12, a-10)
+amod(shot-12, long-11)
+
+ that a federal marriage amendment to the constitution is a long shot .  
+root(ROOT-0, shot-12)
+mark(shot-12, that-1)
+det(amendment-5, a-2)
+amod(amendment-5, federal-3)
+nn(amendment-5, marriage-4)
+nsubj(shot-12, amendment-5)
+det(constitution-8, the-7)
+prep_to(amendment-5, constitution-8)
+cop(shot-12, is-9)
+det(shot-12, a-10)
+amod(shot-12, long-11)
+

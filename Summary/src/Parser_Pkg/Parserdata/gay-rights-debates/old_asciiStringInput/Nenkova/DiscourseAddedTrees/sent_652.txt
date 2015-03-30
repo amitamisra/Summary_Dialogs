@@ -1,0 +1,1 @@
+(ROOT (FRAG (NP (NN S2)) (: :) (S (NP (NNP Prejudice)) (VP (VBZ is) (NP (NP (DT a) (NN fact)) (PP (IN of) (NP (JJ human) (NN existence)))))) (. .)))

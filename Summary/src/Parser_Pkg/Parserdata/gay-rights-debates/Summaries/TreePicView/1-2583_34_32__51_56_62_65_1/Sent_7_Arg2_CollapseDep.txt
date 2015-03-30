@@ -1,0 +1,6 @@
+root(ROOT-0, chooses-2)
+nsubj(chooses-2, one-1)
+aux(call-4, to-3)
+xcomp(chooses-2, call-4)
+dobj(call-4, it-5)
+advmod(call-4, so-6)

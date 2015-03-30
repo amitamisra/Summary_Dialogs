@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ feels) (SBAR (S (NP (PRP he)) (VP (VBZ has) (NP (DT a) (NNP Constitutional) (NN right) (S (VP (TO to) (VP (VB be) (VP (VBN opposed) (PP (TO to) (NP (NP (JJ gay) (ADJP (NN marriage) (CONJP (RB as#0#0) (RB well#0#0) (IN as#1#0)) (JJ gay)) (NNS people)) (ADVP (PRP themselves))))))))))))) (. .)))

@@ -1,0 +1,9 @@
+S2 thinks this is rumors and misinformation.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S2-1)
+nsubj(rumors-5, this-3)
+cop(rumors-5, is-4)
+ccomp(thinks-2, rumors-5)
+ccomp(thinks-2, misinformation-7)
+conj_and(rumors-5, misinformation-7)
+

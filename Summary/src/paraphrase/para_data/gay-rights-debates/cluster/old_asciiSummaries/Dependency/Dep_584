@@ -1,0 +1,13 @@
+(S2) says that Pauls research is present in the debate over gay marriage.
+root(ROOT-0, says-4)
+nsubj(says-4, S2-2)
+mark(present-9, that-5)
+nn(research-7, Pauls-6)
+nsubj(present-9, research-7)
+cop(present-9, is-8)
+ccomp(says-4, present-9)
+det(debate-12, the-11)
+prep_in(present-9, debate-12)
+amod(marriage-15, gay-14)
+prep_over(debate-12, marriage-15)
+

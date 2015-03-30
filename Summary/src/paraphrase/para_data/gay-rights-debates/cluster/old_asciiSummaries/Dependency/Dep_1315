@@ -1,0 +1,16 @@
+He/she advises citing feelings or wants is not providing proof but deflecting the topic.
+root(ROOT-0, is-7)
+nsubj(is-7, He/she-1)
+rcmod(He/she-1, advises-2)
+xcomp(advises-2, citing-3)
+dobj(citing-3, feelings-4)
+rcmod(He/she-1, wants-6)
+conj_or(advises-2, wants-6)
+neg(is-7, not-8)
+ccomp(is-7, providing-9)
+dobj(providing-9, proof-10)
+ccomp(is-7, deflecting-12)
+conj_but(providing-9, deflecting-12)
+det(topic-14, the-13)
+dobj(deflecting-12, topic-14)
+

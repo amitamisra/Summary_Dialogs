@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP She)) (ADVP (RB then)) (VP (VBZ asks) (SBAR (S (NP (IN for) (DT a)) (VP (VBP cite) (NP (NP (NN link)) (SBAR (WHNP (WDT that)) (S (VP (VBZ says) (SBAR (S (NP (NNP African) (NNPS Americans)) (VP (VBP are) (PP (IN for) (NP (JJ gay) (NN marriage)))))))))))))) (. .)))

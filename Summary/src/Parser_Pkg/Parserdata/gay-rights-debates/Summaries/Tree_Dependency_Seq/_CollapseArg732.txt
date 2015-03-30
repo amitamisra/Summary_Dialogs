@@ -1,0 +1,7 @@
+root(ROOT-0, do-4)
+amod(religions-2, different-1)
+nsubj(do-4, religions-2)
+aux(do-4, may-3)
+mark(wish-7, as-5)
+nsubj(wish-7, they-6)
+advcl(do-4, wish-7)

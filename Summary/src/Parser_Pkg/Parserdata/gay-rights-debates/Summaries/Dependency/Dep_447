@@ -1,0 +1,29 @@
+ healthcare applies to spouses.
+root(ROOT-0, applies-2)
+nsubj(applies-2, healthcare-1)
+prep(applies-2, to-3)
+pobj(to-3, spouses-4)
+
+ healthcare applies to spouses.
+root(ROOT-0, applies-2)
+nsubj(applies-2, healthcare-1)
+prep(applies-2, to-3)
+pobj(to-3, spouses-4)
+
+ two presumably prominent African American figures , Corretta Scott King and Jullian Bond , are pro-gay marriage.
+root(ROOT-0, marriage-17)
+nsubj(marriage-17, two-1)
+advmod(marriage-17, presumably-2)
+amod(figures-6, prominent-3)
+amod(figures-6, African-4)
+amod(figures-6, American-5)
+nsubj(marriage-17, figures-6)
+nn(King-10, Corretta-8)
+nn(King-10, Scott-9)
+appos(figures-6, King-10)
+cc(King-10, and-11)
+nn(Bond-13, Jullian-12)
+conj(King-10, Bond-13)
+cop(marriage-17, are-15)
+amod(marriage-17, pro-gay-16)
+

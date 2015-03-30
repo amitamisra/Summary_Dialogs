@@ -1,0 +1,30 @@
+ that it is easy for S2 to be unsympathetic because S2 dislikes religion .
+
+
+root(ROOT-0, easy-4)
+mark(easy-4, that-1)
+nsubj(easy-4, it-2)
+cop(easy-4, is-3)
+prep_for(easy-4, S2-6)
+aux(unsympathetic-9, to-7)
+cop(unsympathetic-9, be-8)
+xcomp(easy-4, unsympathetic-9)
+nn(religion-13, S2-11)
+nn(religion-13, dislikes-12)
+prep_because(unsympathetic-9, religion-13)
+
+ that it is easy for S2 to be unsympathetic because S2 dislikes religion .
+
+
+root(ROOT-0, easy-4)
+mark(easy-4, that-1)
+nsubj(easy-4, it-2)
+cop(easy-4, is-3)
+prep_for(easy-4, S2-6)
+aux(unsympathetic-9, to-7)
+cop(unsympathetic-9, be-8)
+xcomp(easy-4, unsympathetic-9)
+nn(religion-13, S2-11)
+nn(religion-13, dislikes-12)
+prep_because(unsympathetic-9, religion-13)
+

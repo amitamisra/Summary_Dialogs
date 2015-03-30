@@ -1,0 +1,1 @@
+(ROOT (S (NP (CD Two) (NNS people)) (VP (VBP are) (VP (VBG discussing) (SBAR (IN whether) (S (NP (NP (DT a) (JJ radical) (JJ Christian) (NN group)) (VP (VBN called) (NP (NNS theominionists)))) (VP (VBP exist)))))) (. .)))

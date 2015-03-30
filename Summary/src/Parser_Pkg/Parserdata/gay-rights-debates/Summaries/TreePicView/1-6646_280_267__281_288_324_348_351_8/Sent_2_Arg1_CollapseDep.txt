@@ -1,0 +1,5 @@
+root(ROOT-0, believe-3)
+nsubj(believe-3, S2-1)
+aux(believe-3, may-2)
+prep_as(believe-3, wishes-5)
+advmod(believe-3, even-6)

@@ -1,0 +1,31 @@
+ Gay people can serve and say whatever they want , 
+root(ROOT-0, serve-4)
+nn(people-2, Gay-1)
+nsubj(serve-4, people-2)
+nsubj(say-6, people-2)
+aux(serve-4, can-3)
+conj_and(serve-4, say-6)
+dobj(want-9, whatever-7)
+nsubj(want-9, they-8)
+ccomp(serve-4, want-9)
+
+She is trying to keep gay people out of marriage.
+root(ROOT-0, trying-3)
+nsubj(trying-3, She-1)
+aux(trying-3, is-2)
+aux(keep-5, to-4)
+xcomp(trying-3, keep-5)
+amod(people-7, gay-6)
+dobj(keep-5, people-7)
+prep_out_of(keep-5, marriage-10)
+
+She is trying to keep gay people out of marriage.
+root(ROOT-0, trying-3)
+nsubj(trying-3, She-1)
+aux(trying-3, is-2)
+aux(keep-5, to-4)
+xcomp(trying-3, keep-5)
+amod(people-7, gay-6)
+dobj(keep-5, people-7)
+prep_out_of(keep-5, marriage-10)
+

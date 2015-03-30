@@ -1,0 +1,27 @@
+ that the legalization of gay marriage would lead to polygamists getting the right  to marry    many laws against gay marriage  outlaw polygamy  .  
+root(ROOT-0, lead-8)
+mark(lead-8, that-1)
+det(legalization-3, the-2)
+nsubj(lead-8, legalization-3)
+amod(marriage-6, gay-5)
+prep_of(legalization-3, marriage-6)
+aux(lead-8, would-7)
+prep_to(lead-8, polygamists-10)
+vmod(polygamists-10, getting-11)
+det(right-13, the-12)
+dobj(getting-11, right-13)
+aux(marry-15, to-14)
+vmod(right-13, marry-15)
+amod(laws-17, many-16)
+dobj(marry-15, laws-17)
+amod(polygamy-22, gay-19)
+nn(polygamy-22, marriage-20)
+nn(polygamy-22, outlaw-21)
+prep_against(marry-15, polygamy-22)
+
+   morally .  
+root(ROOT-0, morally-1)
+
+   morally .  
+root(ROOT-0, morally-1)
+

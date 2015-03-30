@@ -1,0 +1,7 @@
+root(ROOT-0, really-5)
+det(two-2, These-1)
+nsubj(really-5, two-2)
+cop(really-5, are-3)
+neg(really-5, n't-4)
+amod(positions/beliefs-8, opposite-7)
+prep_in(really-5, positions/beliefs-8)

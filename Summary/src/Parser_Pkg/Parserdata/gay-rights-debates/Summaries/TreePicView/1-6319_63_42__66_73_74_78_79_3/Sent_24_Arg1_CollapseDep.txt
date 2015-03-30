@@ -1,0 +1,8 @@
+root(ROOT-0, considers-2)
+nsubj(considers-2, he-1)
+amod(objections-5, such-3)
+amod(objections-5, religious-4)
+dobj(considers-2, objections-5)
+aux(evil-8, to-6)
+cop(evil-8, be-7)
+vmod(considers-2, evil-8)

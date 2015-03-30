@@ -1,0 +1,24 @@
+ S1 is fine with gay  serving in the military    they stay in closet  
+root(ROOT-0, fine-3)
+nsubj(fine-3, S1-1)
+cop(fine-3, is-2)
+prep_with(fine-3, gay-5)
+vmod(gay-5, serving-6)
+det(military-9, the-8)
+prep_in(serving-6, military-9)
+nsubj(stay-11, they-10)
+rcmod(military-9, stay-11)
+prep_in(stay-11, closet-13)
+
+ S1 is fine with gay  serving in the military    they stay in closet  
+root(ROOT-0, fine-3)
+nsubj(fine-3, S1-1)
+cop(fine-3, is-2)
+prep_with(fine-3, gay-5)
+vmod(gay-5, serving-6)
+det(military-9, the-8)
+prep_in(serving-6, military-9)
+nsubj(stay-11, they-10)
+rcmod(military-9, stay-11)
+prep_in(stay-11, closet-13)
+

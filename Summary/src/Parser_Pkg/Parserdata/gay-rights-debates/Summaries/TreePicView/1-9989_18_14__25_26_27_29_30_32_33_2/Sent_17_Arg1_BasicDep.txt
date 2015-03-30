@@ -1,0 +1,7 @@
+root(ROOT-0, said-3)
+nsubj(said-3, he-1)
+neg(said-3, never-2)
+nsubj(was-5, he-4)
+ccomp(said-3, was-5)
+prep(was-5, in-6)
+pobj(in-6, denial-7)

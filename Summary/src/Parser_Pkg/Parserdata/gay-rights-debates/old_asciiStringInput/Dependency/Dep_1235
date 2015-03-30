@@ -1,0 +1,30 @@
+  that he would not debate S1 
+root(ROOT-0, debate-5)
+mark(debate-5, that-1)
+nsubj(debate-5, he-2)
+aux(debate-5, would-3)
+neg(debate-5, not-4)
+dobj(debate-5, S1-6)
+
+    they found  that it violated their State constitutions alone   
+root(ROOT-0, found-2)
+nsubj(found-2, they-1)
+mark(violated-5, that-3)
+nsubj(violated-5, it-4)
+ccomp(found-2, violated-5)
+poss(constitutions-8, their-6)
+nn(constitutions-8, State-7)
+dobj(violated-5, constitutions-8)
+advmod(violated-5, alone-9)
+
+    they found  that it violated their State constitutions alone   
+root(ROOT-0, found-2)
+nsubj(found-2, they-1)
+mark(violated-5, that-3)
+nsubj(violated-5, it-4)
+ccomp(found-2, violated-5)
+poss(constitutions-8, their-6)
+nn(constitutions-8, State-7)
+dobj(violated-5, constitutions-8)
+advmod(violated-5, alone-9)
+

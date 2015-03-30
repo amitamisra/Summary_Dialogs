@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ holds) (PP (TO to) (NP (DT the) (NN idea))) (SBAR (IN that) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (VP (VBN passed) (CC and) (VBN passed) (ADVP (RB soon)))))))) (. .)))

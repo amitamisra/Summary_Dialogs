@@ -1,0 +1,34 @@
+   S2 is for gay marriage 
+root(ROOT-0, is-2)
+nsubj(is-2, S2-1)
+amod(marriage-5, gay-4)
+prep_for(is-2, marriage-5)
+
+ S1 seems inclined to grant her leeway based on such a religious objection , 
+root(ROOT-0, inclined-3)
+nsubjpass(inclined-3, S1-1)
+auxpass(inclined-3, seems-2)
+aux(grant-5, to-4)
+xcomp(inclined-3, grant-5)
+poss(leeway-7, her-6)
+dobj(grant-5, leeway-7)
+prepc_based_on(grant-5, on-9)
+predet(objection-13, such-10)
+det(objection-13, a-11)
+amod(objection-13, religious-12)
+pobj(grant-5, objection-13)
+
+ S1 seems inclined to grant her leeway based on such a religious objection , 
+root(ROOT-0, inclined-3)
+nsubjpass(inclined-3, S1-1)
+auxpass(inclined-3, seems-2)
+aux(grant-5, to-4)
+xcomp(inclined-3, grant-5)
+poss(leeway-7, her-6)
+dobj(grant-5, leeway-7)
+prepc_based_on(grant-5, on-9)
+predet(objection-13, such-10)
+det(objection-13, a-11)
+amod(objection-13, religious-12)
+pobj(grant-5, objection-13)
+

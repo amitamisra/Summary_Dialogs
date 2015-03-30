@@ -1,0 +1,14 @@
+   that 's what it is 
+root(ROOT-0, 's-2)
+nsubj('s-2, that-1)
+dobj(is-5, what-3)
+nsubj(is-5, it-4)
+ccomp('s-2, is-5)
+
+   that 's what it is 
+root(ROOT-0, 's-2)
+nsubj('s-2, that-1)
+dobj(is-5, what-3)
+nsubj(is-5, it-4)
+ccomp('s-2, is-5)
+

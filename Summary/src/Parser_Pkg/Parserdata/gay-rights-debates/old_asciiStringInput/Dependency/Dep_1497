@@ -1,0 +1,35 @@
+  ,   that the left wing are n't against deficits ,    numerousemocrats want to spend more than Bush  . 
+root(ROOT-0, want-12)
+mark(are-6, that-2)
+det(wing-5, the-3)
+amod(wing-5, left-4)
+nsubj(are-6, wing-5)
+advcl(want-12, are-6)
+neg(are-6, n't-7)
+prep_against(are-6, deficits-9)
+nsubj(want-12, numerousemocrats-11)
+aux(spend-14, to-13)
+xcomp(want-12, spend-14)
+dobj(spend-14, more-15)
+prep_than(spend-14, Bush-17)
+
+S1 :  In 1909 , being homosexual was morally wrong , 
+root(ROOT-0, S1-1)
+amod(1909-4, In-3)
+dep(S1-1, 1909-4)
+cop(homosexual-7, being-6)
+dep(1909-4, homosexual-7)
+cop(wrong-10, was-8)
+advmod(wrong-10, morally-9)
+rcmod(homosexual-7, wrong-10)
+
+S1 :  In 1909 , being homosexual was morally wrong , 
+root(ROOT-0, S1-1)
+amod(1909-4, In-3)
+dep(S1-1, 1909-4)
+cop(homosexual-7, being-6)
+dep(1909-4, homosexual-7)
+cop(wrong-10, was-8)
+advmod(wrong-10, morally-9)
+rcmod(homosexual-7, wrong-10)
+

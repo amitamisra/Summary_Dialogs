@@ -1,0 +1,4 @@
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S2-1)
+nsubj(unfair-4, this-3)
+xcomp(thinks-2, unfair-4)

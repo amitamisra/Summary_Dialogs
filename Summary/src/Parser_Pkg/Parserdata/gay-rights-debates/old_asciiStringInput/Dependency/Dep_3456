@@ -1,0 +1,20 @@
+S1 agrees that gays shouldnt experience violence and name-calling.
+root(ROOT-0, agrees-2)
+nsubj(agrees-2, S1-1)
+prep_that(agrees-2, gays-4)
+amod(violence-7, shouldnt-5)
+nn(violence-7, experience-6)
+dobj(agrees-2, violence-7)
+dobj(agrees-2, name-calling-9)
+conj_and(violence-7, name-calling-9)
+
+S1 agrees that gays shouldnt experience violence and name-calling.
+root(ROOT-0, agrees-2)
+nsubj(agrees-2, S1-1)
+prep_that(agrees-2, gays-4)
+amod(violence-7, shouldnt-5)
+nn(violence-7, experience-6)
+dobj(agrees-2, violence-7)
+dobj(agrees-2, name-calling-9)
+conj_and(violence-7, name-calling-9)
+

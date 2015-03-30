@@ -1,0 +1,35 @@
+  that its a good thing . 
+root(ROOT-0, that-1)
+poss(thing-5, its-2)
+det(good-4, a-3)
+amod(thing-5, good-4)
+pobj(that-1, thing-5)
+
+  that young people and young marriages are n't really the same thing , 
+root(ROOT-0, thing-12)
+mark(thing-12, that-1)
+amod(people-3, young-2)
+nsubj(thing-12, people-3)
+amod(marriages-6, young-5)
+conj_and(people-3, marriages-6)
+nsubj(thing-12, marriages-6)
+cop(thing-12, are-7)
+neg(thing-12, n't-8)
+advmod(thing-12, really-9)
+det(thing-12, the-10)
+amod(thing-12, same-11)
+
+  that young people and young marriages are n't really the same thing , 
+root(ROOT-0, thing-12)
+mark(thing-12, that-1)
+amod(people-3, young-2)
+nsubj(thing-12, people-3)
+amod(marriages-6, young-5)
+conj_and(people-3, marriages-6)
+nsubj(thing-12, marriages-6)
+cop(thing-12, are-7)
+neg(thing-12, n't-8)
+advmod(thing-12, really-9)
+det(thing-12, the-10)
+amod(thing-12, same-11)
+

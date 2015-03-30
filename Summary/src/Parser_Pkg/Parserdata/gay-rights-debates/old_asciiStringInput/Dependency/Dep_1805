@@ -1,0 +1,47 @@
+This discussion is about the government roll in marriage , specifically pertaining to homosexual marriage .
+
+
+root(ROOT-0, pertaining-12)
+det(discussion-2, This-1)
+nsubj(pertaining-12, discussion-2)
+aux(pertaining-12, is-3)
+det(roll-7, the-5)
+nn(roll-7, government-6)
+prep_about(pertaining-12, roll-7)
+prep_in(roll-7, marriage-9)
+advmod(pertaining-12, specifically-11)
+amod(marriage-15, homosexual-14)
+prep_to(pertaining-12, marriage-15)
+
+ that S1 is only concerned with the rights of gay and the anti-gay Christianity .
+
+
+root(ROOT-0, concerned-5)
+mark(concerned-5, that-1)
+nsubjpass(concerned-5, S1-2)
+auxpass(concerned-5, is-3)
+advmod(concerned-5, only-4)
+det(rights-8, the-7)
+prep_with(concerned-5, rights-8)
+prep_of(rights-8, gay-10)
+det(Christianity-14, the-12)
+amod(Christianity-14, anti-gay-13)
+prep_of(rights-8, Christianity-14)
+conj_and(gay-10, Christianity-14)
+
+ that S1 is only concerned with the rights of gay and the anti-gay Christianity .
+
+
+root(ROOT-0, concerned-5)
+mark(concerned-5, that-1)
+nsubjpass(concerned-5, S1-2)
+auxpass(concerned-5, is-3)
+advmod(concerned-5, only-4)
+det(rights-8, the-7)
+prep_with(concerned-5, rights-8)
+prep_of(rights-8, gay-10)
+det(Christianity-14, the-12)
+amod(Christianity-14, anti-gay-13)
+prep_of(rights-8, Christianity-14)
+conj_and(gay-10, Christianity-14)
+

@@ -1,0 +1,15 @@
+He claims that we already practice serial polygamy because of America's liberal divorce laws.
+root(ROOT-0, claims-2)
+nsubj(claims-2, He-1)
+mark(practice-6, that-3)
+nsubj(practice-6, we-4)
+advmod(practice-6, already-5)
+ccomp(claims-2, practice-6)
+amod(polygamy-8, serial-7)
+dobj(practice-6, polygamy-8)
+prepc_because_of(practice-6, of-10)
+poss(laws-15, America-11)
+amod(laws-15, liberal-13)
+nn(laws-15, divorce-14)
+pobj(practice-6, laws-15)
+

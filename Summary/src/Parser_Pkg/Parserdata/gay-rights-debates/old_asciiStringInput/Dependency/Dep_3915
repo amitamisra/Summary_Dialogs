@@ -1,0 +1,22 @@
+S2 :  Councils and legislatures may vote in favor of gay marriage , 
+root(ROOT-0, S2-1)
+nsubj(vote-7, Councils-3)
+conj_and(Councils-3, legislatures-5)
+nsubj(vote-7, legislatures-5)
+aux(vote-7, may-6)
+dep(S2-1, vote-7)
+prep_in(vote-7, favor-9)
+amod(marriage-12, gay-11)
+prep_of(favor-9, marriage-12)
+
+S2 :  Councils and legislatures may vote in favor of gay marriage , 
+root(ROOT-0, S2-1)
+nsubj(vote-7, Councils-3)
+conj_and(Councils-3, legislatures-5)
+nsubj(vote-7, legislatures-5)
+aux(vote-7, may-6)
+dep(S2-1, vote-7)
+prep_in(vote-7, favor-9)
+amod(marriage-12, gay-11)
+prep_of(favor-9, marriage-12)
+

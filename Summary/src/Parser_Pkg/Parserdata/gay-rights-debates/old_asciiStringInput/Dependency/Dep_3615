@@ -1,0 +1,16 @@
+   it is more practical in todays world 
+root(ROOT-0, practical-4)
+nsubj(practical-4, it-1)
+cop(practical-4, is-2)
+advmod(practical-4, more-3)
+nn(world-7, todays-6)
+prep_in(practical-4, world-7)
+
+   it is more practical in todays world 
+root(ROOT-0, practical-4)
+nsubj(practical-4, it-1)
+cop(practical-4, is-2)
+advmod(practical-4, more-3)
+nn(world-7, todays-6)
+prep_in(practical-4, world-7)
+

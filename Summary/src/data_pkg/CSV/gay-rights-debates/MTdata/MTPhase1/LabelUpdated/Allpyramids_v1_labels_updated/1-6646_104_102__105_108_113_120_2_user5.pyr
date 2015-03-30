@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 claims that the gay community is the cause of the AIDs epidemic in the US and that homosexuals and their advocates attempt to divert attention from this fact by tracing the origin of the disease to Africa. He believes that the existence of AIDs in Africa has nothing to do with AIDs in the US and that it should be ignored.</line>
+  <line>S2 argues that discussing AIDs in Africa is relevant to AIDs in the US and point out how AIDs is used as a justification for those who oppose gay rights. He suggests that the statistics regarding AIDs in Africa show that it is not simply a homosexual disease and that AIDs should therefore not be used as a justification to make gay marriage illegal.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 feels the topic of AIDS in the U.S. being spread by the gay community is avoiding by returning to the argument that AIDS originated in Africa.  S1 requests factual proof that his groups' statements are untrue.  He/she advises citing feelings or wants is not providing proof but deflecting the topic.</line>
+  <line></line>
+  <line>S2 argues that by blaming the gay community for AIDS' spreading in America, S1's group is opening the door for the argument that the disease originated elsewhere.  S2 feels the opposing group is using the spread of AIDS as a basis for banning gay marriage. He/she feels doing so is like saying if a bus hit a group of people in Africa, then buses should be banned in New York.  </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two people are discussing the spread of AIDS in the US as part of a discussion on gay marriage in the USA. S1 states that location is relevant, as the way AIDS spread in Africa is different from how it spreads in the US. He continues to state that AIDS spread in the US because of the gay community, and the gay community continually tries to deflect the argument and include Africa in the discussion instead of providing real facts.  S2 argues that bringing up the topic of AIDS is solely as a weapon against gays, and that the location of the AIDS epidemic is irrelevant to the discussion. He then states that Africa is included in order to refute the opposing logic.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 believes that those who defend homosexual activity deflect the question of an AIDS epidemic in the United States by bringing up statistics for it in Africa. They believe that such arguments have no place in an argument about homosexual marriage and are blatant attempts to sidetrack the argument. They believe that AIDS became an epidemic in the United States through the homosexual male community, and that all evidence should be contained and localized in the United States when arguing a point.</line>
+  <line>S2 refutes this by stating that statistics in Africa are brought up to counter arguments that blame the homosexual community for the United States epidemic. They believe that if one broaches the topic of AIDS one must also look at it as a whole. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 asserts that AIDS became an epidemic in the US through the gay community. He accuses S2 of changing the topic to AIDs in Africa to deflect attention from the topic of AIDs in the US. He challenges S2 to refute his assertion with proof. S1 said that he is not a bigot, but that he is just presenting a fact of how AIDs became an epidemic in the US through the gay community. S2 asserts that S1 did not present his statistics as a discussion about the progression of AIDS in the US. Rather, S1 presented his statistics to justify opposition to gay rights. S2 brought out AIDs in Africa because location is irrelevant in refuting S1's logic.</line>
+ </text>
+ <scu uid="1" label="gay community is the cause of the AIDs epidemic in the US.">
+  <contributor label="S1 feels the topic of AIDS in the U.S. being spread by the gay community...S2 argues that by blaming the gay community for AIDS' spreading in America">
+   <part label="S1 feels the topic of AIDS in the U.S. being spread by the gay community" start="731" end="803"/>
+   <part label="S2 argues that by blaming the gay community for AIDS' spreading in America" start="1035" end="1109"/>
+  </contributor>
+  <contributor label="Two people are discussing the spread of AIDS in the US as part of a discussion on gay marriage in the USA...He continues to state that AIDS spread in the US because of the gay community">
+   <part label="Two people are discussing the spread of AIDS in the US as part of a discussion on gay marriage in the USA" start="1441" end="1546"/>
+   <part label="He continues to state that AIDS spread in the US because of the gay community" start="1662" end="1739"/>
+  </contributor>
+  <contributor label="S1 asserts that AIDS became an epidemic in the US through the gay community...AIDs became an epidemic in the US through the gay community">
+   <part label="AIDs became an epidemic in the US through the gay community" start="3229" end="3288"/>
+   <part label="S1 asserts that AIDS became an epidemic in the US through the gay community" start="2913" end="2988"/>
+  </contributor>
+  <contributor label="S1 claims that the gay community is the cause of the AIDs epidemic in the US">
+   <part label="S1 claims that the gay community is the cause of the AIDs epidemic in the US" start="26" end="102"/>
+  </contributor>
+  <contributor label="They believe that AIDS became an epidemic in the United States through the homosexual male community">
+   <part label="They believe that AIDS became an epidemic in the United States through the homosexual male community" start="2438" end="2538"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="The topic of AIDS in U.S being spread by gays is avoided by changing the topic to how AIDs orginated in Africa.">
+  <contributor label="divert attention from this fact by tracing the origin of the disease to Africa">
+   <part label="divert attention from this fact by tracing the origin of the disease to Africa" start="155" end="233"/>
+  </contributor>
+  <contributor label="avoiding by returning to the argument that AIDS originated in Africa...He/she advises citing feelings or wants is not providing proof but deflecting the topic">
+   <part label="avoiding by returning to the argument that AIDS originated in Africa" start="807" end="875"/>
+   <part label="He/she advises citing feelings or wants is not providing proof but deflecting the topic" start="945" end="1032"/>
+  </contributor>
+  <contributor label="gay community continually tries to deflect the argument and include Africa...He then states that Africa is included in order to refute the opposing logic">
+   <part label="gay community continually tries to deflect the argument and include Africa" start="1749" end="1823"/>
+   <part label="He then states that Africa is included in order to refute the opposing logic" start="2033" end="2109"/>
+  </contributor>
+  <contributor label="deflect the question of an AIDS epidemic in the United States by bringing up statistics for it in Africa">
+   <part label="deflect the question of an AIDS epidemic in the United States by bringing up statistics for it in Africa" start="2192" end="2296"/>
+  </contributor>
+  <contributor label="He accuses S2 of changing the topic to AIDs in Africa to deflect attention from the topic of AIDs in the US">
+   <part label="He accuses S2 of changing the topic to AIDs in Africa to deflect attention from the topic of AIDs in the US" start="2990" end="3097"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="Statistics regarding AIDs in Africa show that is is not a homosexual disease.">
+  <contributor label="He suggests that the statistics regarding AIDs in Africa show that it is not simply a homosexual disease and">
+   <part label="He suggests that the statistics regarding AIDs in Africa show that it is not simply a homosexual disease and" start="507" end="615"/>
+  </contributor>
+  <contributor label="S2 argues that bringing up the topic of AIDS is solely as a weapon against gays">
+   <part label="S2 argues that bringing up the topic of AIDS is solely as a weapon against gays" start="1876" end="1955"/>
+  </contributor>
+  <contributor label="S2 refutes this by stating that statistics in Africa are brought up to counter arguments that blame the homosexual community for the United States epidemic">
+   <part label="S2 refutes this by stating that statistics in Africa are brought up to counter arguments that blame the homosexual community for the United States epidemic" start="2639" end="2794"/>
+  </contributor>
+  <contributor label="S1 presented his statistics to justify opposition to gay rights">
+   <part label="S1 presented his statistics to justify opposition to gay rights" start="3405" end="3468"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="Existence of AIDs in Africa has nothing to do with AIDs in the US.">
+  <contributor label="S1 states that location is relevant, as the way AIDS spread in Africa is different from how it spreads in the US...location of the AIDS epidemic is irrelevant to the discussion">
+   <part label="location of the AIDS epidemic is irrelevant to the discussion" start="1970" end="2031"/>
+   <part label="S1 states that location is relevant, as the way AIDS spread in Africa is different from how it spreads in the US" start="1548" end="1660"/>
+  </contributor>
+  <contributor label="He believes that the existence of AIDs in Africa has nothing to do with AIDs in the US and that it should be ignored">
+   <part label="He believes that the existence of AIDs in Africa has nothing to do with AIDs in the US and that it should be ignored" start="235" end="351"/>
+  </contributor>
+  <contributor label="S2 brought out AIDs in Africa because location is irrelevant in refuting S1's logic">
+   <part label="S2 brought out AIDs in Africa because location is irrelevant in refuting S1's logic" start="3470" end="3553"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="AIDs in Africa is relevant to AIDs in the US.">
+  <contributor label="S2 argues that discussing AIDs in Africa is relevant to AIDs in the US">
+   <part label="S2 argues that discussing AIDs in Africa is relevant to AIDs in the US" start="353" end="423"/>
+  </contributor>
+  <contributor label="S1's group is opening the door for the argument that the disease originated elsewhere">
+   <part label="S1's group is opening the door for the argument that the disease originated elsewhere" start="1111" end="1196"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="AIDs is used as a justification for those who oppose gay rights.">
+  <contributor label="AIDs is used as a justification for those who oppose gay rights">
+   <part label="AIDs is used as a justification for those who oppose gay rights" start="442" end="505"/>
+  </contributor>
+  <contributor label="S2 feels the opposing group is using the spread of AIDS as a basis for banning gay marriage">
+   <part label="S2 feels the opposing group is using the spread of AIDS as a basis for banning gay marriage" start="1199" end="1290"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="AIDs should not be used as a justification to make gay marriage illegal.">
+  <contributor label="AIDs should therefore not be used as a justification to make gay marriage illegal">
+   <part label="AIDs should therefore not be used as a justification to make gay marriage illegal" start="621" end="702"/>
+  </contributor>
+  <contributor label="They believe that such arguments have no place in an argument about homosexual marriage">
+   <part label="They believe that such arguments have no place in an argument about homosexual marriage" start="2298" end="2385"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="all evidence should be contained and localized in the United States when arguing a point">
+  <contributor label="all evidence should be contained and localized in the United States when arguing a point">
+   <part label="all evidence should be contained and localized in the United States when arguing a point" start="2549" end="2637"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="blatant attempts to sidetrack the argument">
+  <contributor label="blatant attempts to sidetrack the argument">
+   <part label="blatant attempts to sidetrack the argument" start="2394" end="2436"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="discussion instead of providing real facts">
+  <contributor label="discussion instead of providing real facts">
+   <part label="discussion instead of providing real facts" start="1831" end="1873"/>
+  </contributor>
+ </scu>
+ <scu uid="77" label="factual proof that his groups' statements are untrue">
+  <contributor label="S1 requests factual proof that his groups' statements are untrue">
+   <part label="S1 requests factual proof that his groups' statements are untrue" start="878" end="942"/>
+  </contributor>
+ </scu>
+ <scu uid="83" label="if a bus hit a group of people in Africa, then buses should be banned in New York">
+  <contributor label="He/she feels doing so is like saying if a bus hit a group of people in Africa, then buses should be banned in New York">
+   <part label="He/she feels doing so is like saying if a bus hit a group of people in Africa, then buses should be banned in New York" start="1292" end="1410"/>
+  </contributor>
+ </scu>
+ <scu uid="84" label="if one broaches the topic of AIDS one must also look at it as a whole">
+  <contributor label="They believe that if one broaches the topic of AIDS one must also look at it as a whole">
+   <part label="They believe that if one broaches the topic of AIDS one must also look at it as a whole" start="2796" end="2883"/>
+  </contributor>
+ </scu>
+ <scu uid="80" label="Presenting a fact">
+  <contributor label="S1 said that he is not a bigot, but that he is just presenting a fact">
+   <part label="S1 said that he is not a bigot, but that he is just presenting a fact" start="3152" end="3221"/>
+  </contributor>
+ </scu>
+ <scu uid="82" label="Refuting assertions without proof">
+  <contributor label="He challenges S2 to refute his assertion with proof">
+   <part label="He challenges S2 to refute his assertion with proof" start="3099" end="3150"/>
+  </contributor>
+ </scu>
+ <scu uid="81" label="statistics not presented as a discussion about the progression of AIDS in the US">
+  <contributor label="S2 asserts that S1 did not present his statistics as a discussion about the progression of AIDS in the US">
+   <part label="S2 asserts that S1 did not present his statistics as a discussion about the progression of AIDS in the US" start="3290" end="3395"/>
+  </contributor>
+ </scu>
+ <scu uid="79" label="those who defend homosexual activity deflect">
+  <contributor label="S1 believes that those who defend homosexual activity">
+   <part label="S1 believes that those who defend homosexual activity" start="2138" end="2191"/>
+  </contributor>
+ </scu>
+</pyramid>

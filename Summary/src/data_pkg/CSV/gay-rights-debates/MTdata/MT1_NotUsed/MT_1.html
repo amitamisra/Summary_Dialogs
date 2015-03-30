@@ -1,0 +1,114 @@
+<h1 style="text-align: center;">&nbsp; &nbsp; Instructions</h1>
+
+<p>In this task, you will carefully read three&nbsp;short dialogues where two people are discussing a political topic, such as gay marriage, the death penalty, universal health care etc.
+ Then you will produce a summary using only 100 words.</p>
+<p><strong>We will be keeping track of worker reliability. HITs will be rejected for workers that write too short summaries which do not express 
+the content in these dialogs hence please adhere to the word limit.</strong> <p>&nbsp;</p>
+<script language= "javascript">
+//Alter this variable depending on how many words you want to limit the textarea to.  
+var maxword1 = 100;  
+//var maxword2 = 250;  
+  
+function check_length(obj, cnt, rem,maxwords)  
+{  
+    var ary = obj.value.split(" ");  
+    var len = ary.length;  
+    cnt.innerHTML = len;  
+    rem.innerHTML = maxwords - len;  
+    if (len > maxwords) {  
+        alert("Message in '" + obj.name + "' limited to " + maxwords + " words.");  
+        ary = ary.slice(0,maxwords-1);  
+        obj.value = ary.join(" ");  
+        cnt.innerHTML = maxwords;  
+        rem.innerHTML = 0;  
+        return false;  
+    }  
+    return true;  
+} 
+</script>
+
+<hr />
+<h1 style="text-align: center;">Task 1</h1>
+
+<p style="text-align: center;"><strong>Read the dialogs given below and provide a summary in 100 words </strong></p>
+
+<p>S1 and S2 indicate the different writers of these typed debates. The Turn numbers indicate turns of each writer.</p>
+
+<p>TURN&nbsp;1: S1 indicates the first turn by Writer 1, and TURN&nbsp;1: S2 indicates the first turn by Writer 2.</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><strong>IMPORTANT: Make sure that you scroll all the way to the right to summarize all three dialogs!</strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<th>dialog 1</th>
+			<th>dialog 2</th>
+			<th>dialog 3</th>
+            
+		</tr>
+		<tr>
+			<td>${Dialogtext1}</td>
+			<td>${Dialogtext2}</td>
+			<td>${Dialogtext3}</td>
+            
+		</tr>
+		<tr>
+			<td>
+			<p>In 100 words, summarize <strong>dialog 1.</strong></p>
+			<strong><textarea name="Dialog1_Summary" onkeypress=" return check_length(this, document.getElementById('count_number_words'), document.getElementById('show_remaining_words'),maxword1);" style="width: 500px; height: 100px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>			
+			</td>
+			
+			<td>
+			<p>In  100words, summarize <strong>dialog 2.</strong></p>
+			<strong><textarea name="Dialog2_Summary" onkeypress=" return check_length(this, document.getElementById('count_number_words'), document.getElementById('show_remaining_words'),maxword1);" style="width: 500px; height: 100px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>			
+			</td>
+			<td>						
+            <p>In 100 words, summarize <strong>dialog 3.</strong></p>
+			<strong><textarea name="Dialog3_Summary" onkeypress=" return check_length(this, document.getElementById('count_number_words'), document.getElementById('show_remaining_words'),maxword1);" style="width: 500px; height: 100px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>
+		
+						
+		</tr>
+	</tbody>
+</table>
+<p><font color="black">Word count:</font><font color="red"> <span id="count_number_words">0</span> </font><br />
+<font color="black">Words remaining: </font><font color="red"> <span id="show_remaining_words">100</span> </font></p>
+
+<p>&nbsp;</p>
+
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>&nbsp;</strong></p>
+
+<hr />
+<p><strong>Please provide any feedback that you have regarding this task. Thank you!</strong></p>
+
+<p><strong><textarea cols="80" name="comment" rows="3"></textarea></strong></p>
+
+<p><strong>&nbsp;</strong></p>
+
+<p><strong>
+<style type="text/css"><!--
+.highlight-box { border:solid 0px #98BE10; background:#FCF9CE; color:#222222; padding:4px; text-align:left; font-size: smaller;}
+-->
+</style>
+</strong></p>
+
+<p><strong>&nbsp;</strong></p>

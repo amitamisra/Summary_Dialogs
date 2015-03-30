@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S2)) (VP (VBZ cites) (NP (NP (DT a) (CD 2003) (NN study)) (VP (VBG advising) (PP (IN at) (NP (DT that) (NN time))))))) (, ,) (NP (NP (CD 62) (NN %)) (PP (IN of) (NP (NNPS Americans)))) (VP (VBD were) (RB not) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (JJ gay) (NNS unions)))))) (. .)))

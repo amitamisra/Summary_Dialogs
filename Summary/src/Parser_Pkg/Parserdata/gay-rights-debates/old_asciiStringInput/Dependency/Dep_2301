@@ -1,0 +1,22 @@
+   this has been made up to promote fear of Christianity . 
+root(ROOT-0, made-4)
+nsubjpass(made-4, this-1)
+aux(made-4, has-2)
+auxpass(made-4, been-3)
+prt(made-4, up-5)
+aux(promote-7, to-6)
+xcomp(made-4, promote-7)
+dobj(promote-7, fear-8)
+prep_of(fear-8, Christianity-10)
+
+   this has been made up to promote fear of Christianity . 
+root(ROOT-0, made-4)
+nsubjpass(made-4, this-1)
+aux(made-4, has-2)
+auxpass(made-4, been-3)
+prt(made-4, up-5)
+aux(promote-7, to-6)
+xcomp(made-4, promote-7)
+dobj(promote-7, fear-8)
+prep_of(fear-8, Christianity-10)
+

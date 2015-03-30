@@ -1,0 +1,4 @@
+root(ROOT-0, expressed-2)
+nsubj(expressed-2, S1-1)
+poss(opinion-4, his-3)
+dobj(expressed-2, opinion-4)

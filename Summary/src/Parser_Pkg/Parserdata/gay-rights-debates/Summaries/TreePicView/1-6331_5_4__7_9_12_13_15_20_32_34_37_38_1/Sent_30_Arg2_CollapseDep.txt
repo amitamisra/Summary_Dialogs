@@ -1,0 +1,6 @@
+root(ROOT-0, case-6)
+csubj(case-6, allowing-1)
+amod(marriage-3, homosexual-2)
+dobj(allowing-1, marriage-3)
+cop(case-6, is-4)
+det(case-6, a-5)

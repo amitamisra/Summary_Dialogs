@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ equates) (S (NP (DT the) (NN word)) (ADJP (JJ perverse) (PP (IN with) (NP (NN diversity)))))) (. .)))

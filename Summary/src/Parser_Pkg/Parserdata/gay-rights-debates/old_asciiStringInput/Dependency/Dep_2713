@@ -1,0 +1,22 @@
+  the issue is not always about excluding gays from different things 
+root(ROOT-0, is-3)
+det(issue-2, the-1)
+nsubj(is-3, issue-2)
+neg(is-3, not-4)
+advmod(is-3, always-5)
+prepc_about(is-3, excluding-7)
+dobj(excluding-7, gays-8)
+amod(things-11, different-10)
+prep_from(excluding-7, things-11)
+
+  the issue is not always about excluding gays from different things 
+root(ROOT-0, is-3)
+det(issue-2, the-1)
+nsubj(is-3, issue-2)
+neg(is-3, not-4)
+advmod(is-3, always-5)
+prepc_about(is-3, excluding-7)
+dobj(excluding-7, gays-8)
+amod(things-11, different-10)
+prep_from(excluding-7, things-11)
+

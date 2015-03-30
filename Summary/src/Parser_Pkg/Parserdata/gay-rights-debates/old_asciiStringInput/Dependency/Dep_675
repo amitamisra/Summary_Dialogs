@@ -1,0 +1,56 @@
+Matt is pulling some wild point out of his hat ,  saying that 
+root(ROOT-0, pulling-3)
+nsubj(pulling-3, Matt-1)
+aux(pulling-3, is-2)
+det(point-6, some-4)
+amod(point-6, wild-5)
+dobj(pulling-3, point-6)
+poss(hat-10, his-9)
+prep_out_of(pulling-3, hat-10)
+vmod(pulling-3, saying-12)
+advmod(saying-12, that-13)
+
+ that S2 thinks marriage is only for heterosexuals that wish to reproduce and only uses religiously approved positions .
+
+
+root(ROOT-0, is-5)
+mark(thinks-3, that-1)
+nsubj(thinks-3, S2-2)
+csubj(is-5, thinks-3)
+dobj(thinks-3, marriage-4)
+advmod(is-5, only-6)
+prep_for(is-5, heterosexuals-8)
+nsubj(wish-10, that-9)
+nsubj(uses-15, that-9)
+rcmod(heterosexuals-8, wish-10)
+aux(reproduce-12, to-11)
+xcomp(wish-10, reproduce-12)
+advmod(uses-15, only-14)
+rcmod(heterosexuals-8, uses-15)
+conj_and(wish-10, uses-15)
+advmod(approved-17, religiously-16)
+amod(positions-18, approved-17)
+dobj(uses-15, positions-18)
+
+ that S2 thinks marriage is only for heterosexuals that wish to reproduce and only uses religiously approved positions .
+
+
+root(ROOT-0, is-5)
+mark(thinks-3, that-1)
+nsubj(thinks-3, S2-2)
+csubj(is-5, thinks-3)
+dobj(thinks-3, marriage-4)
+advmod(is-5, only-6)
+prep_for(is-5, heterosexuals-8)
+nsubj(wish-10, that-9)
+nsubj(uses-15, that-9)
+rcmod(heterosexuals-8, wish-10)
+aux(reproduce-12, to-11)
+xcomp(wish-10, reproduce-12)
+advmod(uses-15, only-14)
+rcmod(heterosexuals-8, uses-15)
+conj_and(wish-10, uses-15)
+advmod(approved-17, religiously-16)
+amod(positions-18, approved-17)
+dobj(uses-15, positions-18)
+

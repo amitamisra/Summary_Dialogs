@@ -1,0 +1,33 @@
+   using morals or religion as reasons for doing so 
+root(ROOT-0, using-1)
+dobj(using-1, morals-2)
+dobj(using-1, religion-4)
+conj_or(morals-2, religion-4)
+prep_as(using-1, reasons-6)
+prepc_for(reasons-6, doing-8)
+advmod(doing-8, so-9)
+
+He believes one should have proof of any claims they make.
+root(ROOT-0, make-11)
+nsubj(believes-2, He-1)
+dep(make-11, believes-2)
+nsubj(have-5, one-3)
+aux(have-5, should-4)
+ccomp(believes-2, have-5)
+dobj(have-5, proof-6)
+det(claims-9, any-8)
+prep_of(proof-6, claims-9)
+nsubj(make-11, they-10)
+
+He believes one should have proof of any claims they make.
+root(ROOT-0, make-11)
+nsubj(believes-2, He-1)
+dep(make-11, believes-2)
+nsubj(have-5, one-3)
+aux(have-5, should-4)
+ccomp(believes-2, have-5)
+dobj(have-5, proof-6)
+det(claims-9, any-8)
+prep_of(proof-6, claims-9)
+nsubj(make-11, they-10)
+

@@ -1,0 +1,35 @@
+S1 and S2 are discussing gay marriage and S2 's opposition to it .
+
+
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(discussing-5, S2-3)
+aux(discussing-5, are-4)
+amod(marriage-7, gay-6)
+dobj(discussing-5, marriage-7)
+poss(opposition-11, S2-9)
+dobj(discussing-5, opposition-11)
+conj_and(marriage-7, opposition-11)
+prep_to(discussing-5, it-13)
+
+  , slavery and women 's rights are bad comparisons . 
+root(ROOT-0, slavery-2)
+prep(slavery-2, and-3)
+pobj(and-3, women-4)
+possessive(women-4, 's-5)
+nsubj(comparisons-9, rights-6)
+cop(comparisons-9, are-7)
+amod(comparisons-9, bad-8)
+rcmod(women-4, comparisons-9)
+
+  , slavery and women 's rights are bad comparisons . 
+root(ROOT-0, slavery-2)
+prep(slavery-2, and-3)
+pobj(and-3, women-4)
+possessive(women-4, 's-5)
+nsubj(comparisons-9, rights-6)
+cop(comparisons-9, are-7)
+amod(comparisons-9, bad-8)
+rcmod(women-4, comparisons-9)
+

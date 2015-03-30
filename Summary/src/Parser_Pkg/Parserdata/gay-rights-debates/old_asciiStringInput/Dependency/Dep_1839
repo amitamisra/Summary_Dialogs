@@ -1,0 +1,34 @@
+   the FFC clause does not apply ? 
+root(ROOT-0, apply-6)
+det(clause-3, the-1)
+nn(clause-3, FFC-2)
+nsubj(apply-6, clause-3)
+aux(apply-6, does-4)
+neg(apply-6, not-5)
+
+ -LRB- S1 -RRB-  gives the example that not just because majority rules it means 
+root(ROOT-0, gives-4)
+dep(gives-4, S1-2)
+det(example-6, the-5)
+dobj(gives-4, example-6)
+mark(means-14, that-7)
+neg(means-14, not-8)
+advmod(means-14, just-9)
+nn(rules-12, majority-11)
+prep_because(means-14, rules-12)
+nsubj(means-14, it-13)
+dep(example-6, means-14)
+
+ -LRB- S1 -RRB-  gives the example that not just because majority rules it means 
+root(ROOT-0, gives-4)
+dep(gives-4, S1-2)
+det(example-6, the-5)
+dobj(gives-4, example-6)
+mark(means-14, that-7)
+neg(means-14, not-8)
+advmod(means-14, just-9)
+nn(rules-12, majority-11)
+prep_because(means-14, rules-12)
+nsubj(means-14, it-13)
+dep(example-6, means-14)
+

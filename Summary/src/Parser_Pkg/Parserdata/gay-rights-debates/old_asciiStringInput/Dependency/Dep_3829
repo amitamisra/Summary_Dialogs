@@ -1,0 +1,22 @@
+ S1 states that people in support of marriage equality is growing , 
+root(ROOT-0, states-2)
+nn(states-2, S1-1)
+dobj(growing-11, that-3)
+nsubj(growing-11, people-4)
+prep_in(people-4, support-6)
+nn(equality-9, marriage-8)
+prep_of(support-6, equality-9)
+cop(growing-11, is-10)
+dep(states-2, growing-11)
+
+ S1 states that people in support of marriage equality is growing , 
+root(ROOT-0, states-2)
+nn(states-2, S1-1)
+dobj(growing-11, that-3)
+nsubj(growing-11, people-4)
+prep_in(people-4, support-6)
+nn(equality-9, marriage-8)
+prep_of(support-6, equality-9)
+cop(growing-11, is-10)
+dep(states-2, growing-11)
+

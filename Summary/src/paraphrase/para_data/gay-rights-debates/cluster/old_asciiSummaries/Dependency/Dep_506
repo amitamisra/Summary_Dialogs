@@ -1,0 +1,12 @@
+S2 also feels the issue of gay rights is more political.
+root(ROOT-0, feels-3)
+nsubj(feels-3, S2-1)
+advmod(feels-3, also-2)
+det(issue-5, the-4)
+nsubj(political-11, issue-5)
+amod(rights-8, gay-7)
+prep_of(issue-5, rights-8)
+cop(political-11, is-9)
+advmod(political-11, more-10)
+ccomp(feels-3, political-11)
+

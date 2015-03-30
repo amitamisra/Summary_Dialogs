@@ -1,0 +1,8 @@
+root(ROOT-0, legal-7)
+det(nature-2, the-1)
+nsubj(legal-7, nature-2)
+nsubj(religious-9, nature-2)
+prep_of(nature-2, marriage-4)
+cop(legal-7, is-5)
+advmod(legal-7, both-6)
+conj_and(legal-7, religious-9)

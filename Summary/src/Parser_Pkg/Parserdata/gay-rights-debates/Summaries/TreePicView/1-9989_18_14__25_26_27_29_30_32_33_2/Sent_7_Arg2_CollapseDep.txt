@@ -1,0 +1,8 @@
+root(ROOT-0, take-4)
+dep(take-4, requests-1)
+dobj(take-4, that-2)
+nsubj(take-4, S2-3)
+poss(comments-6, his-5)
+dobj(take-4, comments-6)
+prep(take-4, up-7)
+prep_with(up-7, Obama-9)

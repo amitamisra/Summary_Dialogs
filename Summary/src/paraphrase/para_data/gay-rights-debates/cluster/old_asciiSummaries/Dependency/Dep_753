@@ -1,0 +1,13 @@
+There's consequences on earth and in the hereafter for the stiff-necked crowd .
+root(ROOT-0, 's-2)
+expl('s-2, There-1)
+nsubj('s-2, consequences-3)
+nsubj('s-2, consequences-3)
+conj_and(consequences-3, consequences-3)
+prep_on(consequences-3, earth-5)
+prep_in(consequences-3, the-8)
+advmod(the-8, hereafter-9)
+det(crowd-13, the-11)
+amod(crowd-13, stiff-necked-12)
+prep_for(the-8, crowd-13)
+

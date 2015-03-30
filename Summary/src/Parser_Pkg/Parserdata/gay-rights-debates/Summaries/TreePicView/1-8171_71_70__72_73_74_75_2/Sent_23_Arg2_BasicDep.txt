@@ -1,0 +1,7 @@
+root(ROOT-0, care-4)
+nsubj(care-4, they-1)
+aux(care-4, do-2)
+neg(care-4, n't-3)
+prep(care-4, about-5)
+det(inconsistency-7, the-6)
+pobj(about-5, inconsistency-7)

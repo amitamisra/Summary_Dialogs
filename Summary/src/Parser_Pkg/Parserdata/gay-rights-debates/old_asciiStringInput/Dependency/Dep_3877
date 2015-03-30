@@ -1,0 +1,20 @@
+ no electorate would vote for gay marriage .
+
+
+root(ROOT-0, vote-4)
+neg(electorate-2, no-1)
+nsubj(vote-4, electorate-2)
+aux(vote-4, would-3)
+amod(marriage-7, gay-6)
+prep_for(vote-4, marriage-7)
+
+ no electorate would vote for gay marriage .
+
+
+root(ROOT-0, vote-4)
+neg(electorate-2, no-1)
+nsubj(vote-4, electorate-2)
+aux(vote-4, would-3)
+amod(marriage-7, gay-6)
+prep_for(vote-4, marriage-7)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+dobj(discussing-4, diversity-5)
+dobj(discussing-4, gays-7)
+conj_and(diversity-5, gays-7)

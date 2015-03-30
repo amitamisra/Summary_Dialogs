@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ advises) (S (NP (DT some) (NNS cultures)) (VP (ADVP (RB still#0#0)) (VB practice) (NP (NP (NN polygamy)) (CC and#1#0) (NP (NP (CD one)) (PP (IN in) (NP (NP (NNP Nigeria) (RB even) (NNS practices)) (NP (NN polyandry))))))))) (. .)))

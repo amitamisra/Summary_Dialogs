@@ -1,0 +1,2 @@
+root(ROOT-0, words-1)
+prep_of(words-1, politicians-3)

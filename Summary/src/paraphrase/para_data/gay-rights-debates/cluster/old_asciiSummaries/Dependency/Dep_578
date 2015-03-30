@@ -1,0 +1,16 @@
+He talks about Paul Cameron a psychologist having nothing to do with politicians ideas or decisions.
+root(ROOT-0, talks-2)
+nsubj(talks-2, He-1)
+nn(Cameron-5, Paul-4)
+prep_about(talks-2, Cameron-5)
+det(psychologist-7, a-6)
+dobj(talks-2, psychologist-7)
+vmod(psychologist-7, having-8)
+dobj(having-8, nothing-9)
+aux(do-11, to-10)
+vmod(having-8, do-11)
+nn(ideas-14, politicians-13)
+prep_with(do-11, ideas-14)
+prep_with(do-11, decisions-16)
+conj_or(ideas-14, decisions-16)
+

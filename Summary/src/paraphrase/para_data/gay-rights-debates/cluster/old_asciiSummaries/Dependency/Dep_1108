@@ -1,0 +1,14 @@
+S1 and S2 seem to get annoyed with each other by the end of dialog.
+root(ROOT-0, seem-4)
+nsubj(seem-4, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(seem-4, S2-3)
+aux(annoyed-7, to-5)
+auxpass(annoyed-7, get-6)
+xcomp(seem-4, annoyed-7)
+det(other-10, each-9)
+prep_with(annoyed-7, other-10)
+det(end-13, the-12)
+agent(annoyed-7, end-13)
+prep_of(end-13, dialog-15)
+

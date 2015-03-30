@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (NP (NP (DT the) (JJ opposite)) (VP (VBG stating) (NP (DT the) (NN opinion)) (SBAR (IN that) (S (NP (DT the) (NN group)) (VP (VBZ believes) (PP (IN in) (NP (NP (NN fairness)) (PP (IN for) (NP (DT all))))) (, ,) (PP (IN except) (NP (DT the) (JJ gay) (NN community))))))))) (. .)))

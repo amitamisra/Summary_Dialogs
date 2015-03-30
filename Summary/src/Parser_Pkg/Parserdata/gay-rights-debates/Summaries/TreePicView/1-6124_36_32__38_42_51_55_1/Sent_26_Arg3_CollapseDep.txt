@@ -1,0 +1,4 @@
+root(ROOT-0, is-4)
+det(issue-2, The-1)
+nsubj(is-4, issue-2)
+advmod(is-4, here-3)

@@ -1,0 +1,6 @@
+root(ROOT-0, important-3)
+nsubj(important-3, it-1)
+cop(important-3, is-2)
+aux(figure-5, to-4)
+xcomp(important-3, figure-5)
+prt(figure-5, out-6)

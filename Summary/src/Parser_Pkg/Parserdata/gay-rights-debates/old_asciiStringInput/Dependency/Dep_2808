@@ -1,0 +1,22 @@
+S1 thinks he and his family represents what is normal.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S1-1)
+dobj(thinks-2, he-3)
+poss(family-6, his-5)
+nsubj(represents-7, family-6)
+conj_and(thinks-2, represents-7)
+nsubj(normal-10, what-8)
+cop(normal-10, is-9)
+ccomp(represents-7, normal-10)
+
+S1 thinks he and his family represents what is normal.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S1-1)
+dobj(thinks-2, he-3)
+poss(family-6, his-5)
+nsubj(represents-7, family-6)
+conj_and(thinks-2, represents-7)
+nsubj(normal-10, what-8)
+cop(normal-10, is-9)
+ccomp(represents-7, normal-10)
+

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (NP (JJS most) (NNS Christians)) (PP (IN in) (NP (DT this) (NN country)))) (VP (VBP oppose) (NP (NP (JJ civil) (NNS marriages)) (PP (IN for) (NP (JJ gay) (NNS rights)))))))) (. .)))

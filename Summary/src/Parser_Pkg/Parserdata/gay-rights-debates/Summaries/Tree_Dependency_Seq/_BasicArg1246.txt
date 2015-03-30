@@ -1,0 +1,5 @@
+root(ROOT-0, alright-3)
+nsubj(alright-3, this-1)
+cop(alright-3, is-2)
+aux(do-5, to-4)
+xcomp(alright-3, do-5)

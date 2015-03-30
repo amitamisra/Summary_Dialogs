@@ -1,0 +1,17 @@
+He argues that Bidens opinion is consistent and Biden is not lying about what he believes.
+root(ROOT-0, argues-2)
+nsubj(argues-2, He-1)
+mark(consistent-7, that-3)
+nsubj(consistent-7, Bidens-4)
+dep(Bidens-4, opinion-5)
+cop(consistent-7, is-6)
+ccomp(argues-2, consistent-7)
+nsubj(lying-12, Biden-9)
+aux(lying-12, is-10)
+neg(lying-12, not-11)
+ccomp(argues-2, lying-12)
+conj_and(consistent-7, lying-12)
+dobj(believes-16, what-14)
+nsubj(believes-16, he-15)
+prepc_about(lying-12, believes-16)
+

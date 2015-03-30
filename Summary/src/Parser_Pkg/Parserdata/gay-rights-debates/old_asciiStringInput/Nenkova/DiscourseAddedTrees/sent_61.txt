@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (IN that) (S (NP (DT the) (NNP US)) (VP (VBZ has) (VP (VBN been) (VP (VBG dealing) (PP (IN with) (NP (NP (NN polygamy)) (PP (IN for#0#0) (NP (NNS years))) (, ,) (PP (IN with) (NP (ADJP (RB very) (JJ few)) (NNS prosecutions))))))))))) (. .)))

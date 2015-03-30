@@ -1,0 +1,45 @@
+This person voices a displeasure in those  who would press their own personal biases upon others , especially 
+root(ROOT-0, voices-3)
+det(voices-3, This-1)
+nn(voices-3, person-2)
+det(displeasure-5, a-4)
+dep(voices-3, displeasure-5)
+prep_in(voices-3, those-7)
+nsubj(press-10, who-8)
+aux(press-10, would-9)
+dep(voices-3, press-10)
+poss(biases-14, their-11)
+amod(biases-14, own-12)
+amod(biases-14, personal-13)
+dobj(press-10, biases-14)
+prep_upon(press-10, others-16)
+advmod(press-10, especially-18)
+
+He believes one should have proof of any claims they make .
+
+
+root(ROOT-0, make-11)
+nsubj(believes-2, He-1)
+dep(make-11, believes-2)
+nsubj(have-5, one-3)
+aux(have-5, should-4)
+ccomp(believes-2, have-5)
+dobj(have-5, proof-6)
+det(claims-9, any-8)
+prep_of(proof-6, claims-9)
+nsubj(make-11, they-10)
+
+He believes one should have proof of any claims they make .
+
+
+root(ROOT-0, make-11)
+nsubj(believes-2, He-1)
+dep(make-11, believes-2)
+nsubj(have-5, one-3)
+aux(have-5, should-4)
+ccomp(believes-2, have-5)
+dobj(have-5, proof-6)
+det(claims-9, any-8)
+prep_of(proof-6, claims-9)
+nsubj(make-11, they-10)
+

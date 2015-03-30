@@ -1,0 +1,26 @@
+S2 contends that modern liberalism has strayed from what Jefferson believed.
+root(ROOT-0, contends-2)
+nsubj(contends-2, S2-1)
+mark(strayed-7, that-3)
+amod(liberalism-5, modern-4)
+nsubj(strayed-7, liberalism-5)
+aux(strayed-7, has-6)
+ccomp(contends-2, strayed-7)
+prep(strayed-7, from-8)
+dobj(believed-11, what-9)
+nsubj(believed-11, Jefferson-10)
+pcomp(from-8, believed-11)
+
+S2 contends that modern liberalism has strayed from what Jefferson believed.
+root(ROOT-0, contends-2)
+nsubj(contends-2, S2-1)
+mark(strayed-7, that-3)
+amod(liberalism-5, modern-4)
+nsubj(strayed-7, liberalism-5)
+aux(strayed-7, has-6)
+ccomp(contends-2, strayed-7)
+prep(strayed-7, from-8)
+dobj(believed-11, what-9)
+nsubj(believed-11, Jefferson-10)
+pcomp(from-8, believed-11)
+

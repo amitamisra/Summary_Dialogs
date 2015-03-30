@@ -1,0 +1,47 @@
+  the divorce rate of Christians is very important to the issue 
+root(ROOT-0, important-8)
+det(rate-3, the-1)
+nn(rate-3, divorce-2)
+nsubj(important-8, rate-3)
+prep_of(rate-3, Christians-5)
+cop(important-8, is-6)
+advmod(important-8, very-7)
+det(issue-11, the-10)
+prep_to(important-8, issue-11)
+
+S2 retorts by saying that Coretta Scott King and Julian Bond are both for gay marriage .
+
+
+root(ROOT-0, retorts-2)
+nn(retorts-2, S2-1)
+prepc_by(retorts-2, saying-4)
+mark(are-12, that-5)
+nn(King-8, Coretta-6)
+nn(King-8, Scott-7)
+nsubj(are-12, King-8)
+nn(Bond-11, Julian-10)
+conj_and(King-8, Bond-11)
+nsubj(are-12, Bond-11)
+ccomp(saying-4, are-12)
+dep(are-12, both-13)
+amod(marriage-16, gay-15)
+prep_for(are-12, marriage-16)
+
+S2 retorts by saying that Coretta Scott King and Julian Bond are both for gay marriage .
+
+
+root(ROOT-0, retorts-2)
+nn(retorts-2, S2-1)
+prepc_by(retorts-2, saying-4)
+mark(are-12, that-5)
+nn(King-8, Coretta-6)
+nn(King-8, Scott-7)
+nsubj(are-12, King-8)
+nn(Bond-11, Julian-10)
+conj_and(King-8, Bond-11)
+nsubj(are-12, Bond-11)
+ccomp(saying-4, are-12)
+dep(are-12, both-13)
+amod(marriage-16, gay-15)
+prep_for(are-12, marriage-16)
+

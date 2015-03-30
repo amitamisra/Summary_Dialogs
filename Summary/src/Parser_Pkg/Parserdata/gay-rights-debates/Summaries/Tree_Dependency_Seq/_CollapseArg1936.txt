@@ -1,0 +1,4 @@
+root(ROOT-0, means-5)
+nsubj(means-5, that-2)
+amod(marriage-4, gay-3)
+pobj(that-2, marriage-4)

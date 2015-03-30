@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ holds) (ADVP (IN that)) (ADVP (CC either)) (SBAR (IN if) (S (NP (DT either) (JJ religious) (NN belief)) (VP (VBD were) (VP (VBN put) (PP (IN into) (NP (NN law))) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB infringe) (PP (IN on) (NP (DT the) (NNS others) (NNS beliefs)))))))))))) (. .)))

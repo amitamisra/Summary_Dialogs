@@ -1,0 +1,4 @@
+root(ROOT-0, composed-4)
+advmod(composed-4, how-1)
+nsubjpass(composed-4, it-2)
+auxpass(composed-4, is-3)

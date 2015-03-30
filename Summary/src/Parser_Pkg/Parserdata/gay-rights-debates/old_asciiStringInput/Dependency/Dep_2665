@@ -1,0 +1,20 @@
+S1 refutes that by  saying its all about motivation , 
+root(ROOT-0, refutes-2)
+nsubj(refutes-2, S1-1)
+mark(by-4, that-3)
+dep(refutes-2, by-4)
+pcomp(by-4, saying-5)
+dobj(saying-5, its-6)
+dep(saying-5, all-7)
+prep_about(saying-5, motivation-9)
+
+S1 refutes that by  saying its all about motivation , 
+root(ROOT-0, refutes-2)
+nsubj(refutes-2, S1-1)
+mark(by-4, that-3)
+dep(refutes-2, by-4)
+pcomp(by-4, saying-5)
+dobj(saying-5, its-6)
+dep(saying-5, all-7)
+prep_about(saying-5, motivation-9)
+

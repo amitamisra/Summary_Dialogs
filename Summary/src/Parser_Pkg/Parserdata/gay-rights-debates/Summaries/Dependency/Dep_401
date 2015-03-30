@@ -1,0 +1,27 @@
+his girlfriend can get benefits.
+root(ROOT-0, get-4)
+poss(girlfriend-2, his-1)
+nsubj(get-4, girlfriend-2)
+aux(get-4, can-3)
+dobj(get-4, benefits-5)
+
+his girlfriend can get benefits.
+root(ROOT-0, get-4)
+poss(girlfriend-2, his-1)
+nsubj(get-4, girlfriend-2)
+aux(get-4, can-3)
+dobj(get-4, benefits-5)
+
+he agrees with taking care of the elderly , fairness , and freedom.
+root(ROOT-0, agrees-2)
+nsubj(agrees-2, he-1)
+prep(agrees-2, with-3)
+pcomp(with-3, taking-4)
+dobj(taking-4, care-5)
+prep(care-5, of-6)
+det(elderly-8, the-7)
+pobj(of-6, elderly-8)
+conj(elderly-8, fairness-10)
+cc(elderly-8, and-12)
+conj(elderly-8, freedom-13)
+

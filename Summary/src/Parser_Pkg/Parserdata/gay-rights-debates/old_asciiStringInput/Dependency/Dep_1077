@@ -1,0 +1,38 @@
+To contradict ,  that only serious religious views are taken into account .
+
+
+root(ROOT-0, contradict-2)
+aux(contradict-2, To-1)
+mark(taken-10, that-4)
+advmod(views-8, only-5)
+amod(views-8, serious-6)
+amod(views-8, religious-7)
+nsubjpass(taken-10, views-8)
+auxpass(taken-10, are-9)
+ccomp(contradict-2, taken-10)
+prep_into(taken-10, account-12)
+
+ that marriage has nothing to do with the bible .
+
+
+root(ROOT-0, has-3)
+mark(has-3, that-1)
+nsubj(has-3, marriage-2)
+dobj(has-3, nothing-4)
+aux(do-6, to-5)
+vmod(nothing-4, do-6)
+det(bible-9, the-8)
+prep_with(do-6, bible-9)
+
+ that marriage has nothing to do with the bible .
+
+
+root(ROOT-0, has-3)
+mark(has-3, that-1)
+nsubj(has-3, marriage-2)
+dobj(has-3, nothing-4)
+aux(do-6, to-5)
+vmod(nothing-4, do-6)
+det(bible-9, the-8)
+prep_with(do-6, bible-9)
+

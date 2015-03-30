@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ rejects) (NP (DT the) (NN requirement)) (SBAR (IN that) (S (NP (PRP he)) (VP (MD should) (VP (VB provide) (NP (NP (NN proof)) (PP (IN for#0#0) (NP (PRP$ his) (NNS claims)))) (PP (IN by) (S (VP (VBG citing) (NP (NP (NN S1) (POS 's)) (NN failure) (S (VP (TO to) (VP (VB do) (ADVP (RB so#1#0)))))))))))))) (. .)))

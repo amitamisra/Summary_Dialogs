@@ -1,0 +1,47 @@
+S1 and S2 are pondering the future of gay marriage laws in the United States .
+
+
+root(ROOT-0, pondering-5)
+nsubj(pondering-5, S1-1)
+conj_and(S1-1, S2-3)
+nsubj(pondering-5, S2-3)
+aux(pondering-5, are-4)
+det(future-7, the-6)
+dobj(pondering-5, future-7)
+amod(laws-11, gay-9)
+nn(laws-11, marriage-10)
+prep_of(future-7, laws-11)
+det(States-15, the-13)
+nn(States-15, United-14)
+prep_in(laws-11, States-15)
+
+-LRB- S1 -RRB- states how can gay marriage hurt politicians or anyone else ?
+
+
+root(ROOT-0, can-6)
+nsubj(states-4, S1-2)
+dep(can-6, states-4)
+dobj(states-4, how-5)
+amod(politicians-10, gay-7)
+dep(hurt-9, marriage-8)
+amod(politicians-10, hurt-9)
+nsubj(can-6, politicians-10)
+nsubj(can-6, anyone-12)
+conj_or(politicians-10, anyone-12)
+advmod(anyone-12, else-13)
+
+-LRB- S1 -RRB- states how can gay marriage hurt politicians or anyone else ?
+
+
+root(ROOT-0, can-6)
+nsubj(states-4, S1-2)
+dep(can-6, states-4)
+dobj(states-4, how-5)
+amod(politicians-10, gay-7)
+dep(hurt-9, marriage-8)
+amod(politicians-10, hurt-9)
+nsubj(can-6, politicians-10)
+nsubj(can-6, anyone-12)
+conj_or(politicians-10, anyone-12)
+advmod(anyone-12, else-13)
+

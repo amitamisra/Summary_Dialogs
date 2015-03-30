@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ compares) (NP (NP (DT this)) (PP (TO to) (S (VP (VP (VBG quoting) (NP (NP (NN singer) (NNP John) (NNP Lennon)) (PP (IN against) (NP (NN religion))))) (CC and) (VP (VBG attributing) (NP (PRP it)) (PP (TO to) (NP (DT the) (JJ entireemocratic) (NNP Party))))))))) (. .)))

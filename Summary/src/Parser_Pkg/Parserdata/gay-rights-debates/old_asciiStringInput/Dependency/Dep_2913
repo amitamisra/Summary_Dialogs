@@ -1,0 +1,22 @@
+   the Mass. legislature ratified a court decision for equal rights 
+root(ROOT-0, ratified-4)
+det(legislature-3, the-1)
+nn(legislature-3, Mass.-2)
+nsubj(ratified-4, legislature-3)
+det(decision-7, a-5)
+nn(decision-7, court-6)
+dobj(ratified-4, decision-7)
+amod(rights-10, equal-9)
+prep_for(ratified-4, rights-10)
+
+   the Mass. legislature ratified a court decision for equal rights 
+root(ROOT-0, ratified-4)
+det(legislature-3, the-1)
+nn(legislature-3, Mass.-2)
+nsubj(ratified-4, legislature-3)
+det(decision-7, a-5)
+nn(decision-7, court-6)
+dobj(ratified-4, decision-7)
+amod(rights-10, equal-9)
+prep_for(ratified-4, rights-10)
+

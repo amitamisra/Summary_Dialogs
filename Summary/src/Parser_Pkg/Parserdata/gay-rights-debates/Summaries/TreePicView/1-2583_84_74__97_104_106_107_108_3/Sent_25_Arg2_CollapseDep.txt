@@ -1,0 +1,8 @@
+root(ROOT-0, defend-3)
+nsubj(defend-3, they-1)
+advmod(defend-3, vocally-2)
+det(Constitution-7, the-4)
+nn(Constitution-7, United-5)
+nn(Constitution-7, States-6)
+dobj(defend-3, Constitution-7)
+prep_as(defend-3, written-9)

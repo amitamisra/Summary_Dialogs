@@ -1,0 +1,8 @@
+root(ROOT-0, believe-2)
+nsubj(believe-2, they-1)
+det(two-4, the-3)
+nsubj(related-8, two-4)
+aux(related-8, to-5)
+cop(related-8, be-6)
+advmod(related-8, somewhat-7)
+xcomp(believe-2, related-8)

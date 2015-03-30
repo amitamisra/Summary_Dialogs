@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ points) (PRT (RP out)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (RB not) (ADVP (RB just)) (PP (IN about) (NP (NP (JJ heterosexual) (NN contact)) (PP (IN in) (NP (JJ many) (NNS countries))))))))) (. .)))

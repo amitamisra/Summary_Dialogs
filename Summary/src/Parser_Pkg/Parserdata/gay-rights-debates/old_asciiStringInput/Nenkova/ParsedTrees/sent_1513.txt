@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (RB Not) (NN everyone)) (VP (VBZ believes) (S (NP (NNS S1s)) (NP (JJ religious) (NN book))))) (, ,) (CC and) (S (PP (IN as) (NP (JJ such))) (, ,) (NP (RB not) (NN everyone)) (VP (VBZ feels) (VP (VBN obligated) (S (VP (TO to) (VP (VB abide) (PP (IN by) (NP (DT that) (NN book))))))))) (. .)))

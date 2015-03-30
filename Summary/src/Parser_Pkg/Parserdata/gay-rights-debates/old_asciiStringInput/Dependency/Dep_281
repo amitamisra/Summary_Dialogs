@@ -1,0 +1,55 @@
+  , that there is a possibility that gay unions might eventually be recognized with the same rights as heterosexual unions .  
+root(ROOT-0, is-4)
+nsubj(is-4, that-2)
+pobj(that-2, there-3)
+det(possibility-6, a-5)
+dep(is-4, possibility-6)
+mark(recognized-13, that-7)
+amod(unions-9, gay-8)
+nsubjpass(recognized-13, unions-9)
+aux(recognized-13, might-10)
+advmod(recognized-13, eventually-11)
+auxpass(recognized-13, be-12)
+ccomp(is-4, recognized-13)
+det(rights-17, the-15)
+amod(rights-17, same-16)
+prep_with(recognized-13, rights-17)
+amod(unions-20, heterosexual-19)
+prep_as(rights-17, unions-20)
+
+ that this information is clear evidence that the frequency of earthquakes is increasing over time .
+
+
+root(ROOT-0, evidence-6)
+mark(evidence-6, that-1)
+det(information-3, this-2)
+nsubj(evidence-6, information-3)
+cop(evidence-6, is-4)
+amod(evidence-6, clear-5)
+mark(increasing-13, that-7)
+det(frequency-9, the-8)
+nsubj(increasing-13, frequency-9)
+prep_of(frequency-9, earthquakes-11)
+aux(increasing-13, is-12)
+ccomp(evidence-6, increasing-13)
+prt(increasing-13, over-14)
+dobj(increasing-13, time-15)
+
+ that this information is clear evidence that the frequency of earthquakes is increasing over time .
+
+
+root(ROOT-0, evidence-6)
+mark(evidence-6, that-1)
+det(information-3, this-2)
+nsubj(evidence-6, information-3)
+cop(evidence-6, is-4)
+amod(evidence-6, clear-5)
+mark(increasing-13, that-7)
+det(frequency-9, the-8)
+nsubj(increasing-13, frequency-9)
+prep_of(frequency-9, earthquakes-11)
+aux(increasing-13, is-12)
+ccomp(evidence-6, increasing-13)
+prt(increasing-13, over-14)
+dobj(increasing-13, time-15)
+

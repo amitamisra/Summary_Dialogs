@@ -1,0 +1,41 @@
+ it is laughable to think that they are that united in one particular event or fight together for good .
+
+
+root(ROOT-0, laughable-3)
+nsubj(laughable-3, it-1)
+cop(laughable-3, is-2)
+aux(think-5, to-4)
+xcomp(laughable-3, think-5)
+mark(united-10, that-6)
+nsubjpass(united-10, they-7)
+auxpass(united-10, are-8)
+advmod(united-10, that-9)
+ccomp(think-5, united-10)
+num(event-14, one-12)
+amod(event-14, particular-13)
+prep_in(united-10, event-14)
+xcomp(laughable-3, fight-16)
+conj_or(think-5, fight-16)
+advmod(fight-16, together-17)
+prep_for(fight-16, good-19)
+
+Two people are discussing the legal definition of marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(definition-7, the-5)
+amod(definition-7, legal-6)
+dobj(discussing-4, definition-7)
+prep_of(definition-7, marriage-9)
+
+Two people are discussing the legal definition of marriage.
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(definition-7, the-5)
+amod(definition-7, legal-6)
+dobj(discussing-4, definition-7)
+prep_of(definition-7, marriage-9)
+

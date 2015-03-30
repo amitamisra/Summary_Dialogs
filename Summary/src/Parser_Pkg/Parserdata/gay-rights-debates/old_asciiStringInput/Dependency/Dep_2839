@@ -1,0 +1,24 @@
+   that the benefits of marriage can be gained by homosexuals without redefining marriage 
+root(ROOT-0, gained-8)
+mark(gained-8, that-1)
+det(benefits-3, the-2)
+nsubjpass(gained-8, benefits-3)
+prep_of(benefits-3, marriage-5)
+aux(gained-8, can-6)
+auxpass(gained-8, be-7)
+agent(gained-8, homosexuals-10)
+prepc_without(gained-8, redefining-12)
+dobj(redefining-12, marriage-13)
+
+   that the benefits of marriage can be gained by homosexuals without redefining marriage 
+root(ROOT-0, gained-8)
+mark(gained-8, that-1)
+det(benefits-3, the-2)
+nsubjpass(gained-8, benefits-3)
+prep_of(benefits-3, marriage-5)
+aux(gained-8, can-6)
+auxpass(gained-8, be-7)
+agent(gained-8, homosexuals-10)
+prepc_without(gained-8, redefining-12)
+dobj(redefining-12, marriage-13)
+

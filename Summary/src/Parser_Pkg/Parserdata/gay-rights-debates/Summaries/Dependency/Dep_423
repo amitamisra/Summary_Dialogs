@@ -1,0 +1,29 @@
+they 're not married.
+root(ROOT-0, married-4)
+nsubjpass(married-4, they-1)
+auxpass(married-4, 're-2)
+neg(married-4, not-3)
+
+they 're not married.
+root(ROOT-0, married-4)
+nsubjpass(married-4, they-1)
+auxpass(married-4, 're-2)
+neg(married-4, not-3)
+
+it is an insult to all of African American society to compare these two plights.
+root(ROOT-0, insult-4)
+nsubj(insult-4, it-1)
+cop(insult-4, is-2)
+det(insult-4, an-3)
+prep(insult-4, to-5)
+pobj(to-5, all-6)
+prep(all-6, of-7)
+amod(society-10, African-8)
+amod(society-10, American-9)
+pobj(of-7, society-10)
+aux(compare-12, to-11)
+vmod(insult-4, compare-12)
+det(plights-15, these-13)
+num(plights-15, two-14)
+dobj(compare-12, plights-15)
+

@@ -1,0 +1,4 @@
+root(ROOT-0, closed-3)
+nsubjpass(closed-3, they-1)
+auxpass(closed-3, were-2)
+advmod(closed-3, down-4)

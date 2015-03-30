@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ ends) (NP (DT the) (NN discussion)) (PP (IN with) (NP (NN S1))) (SBAR (IN until) (S (NP (NN S1)) (VP (MD can) (VP (VB embrace) (NP (NP (DT an) (ADJP (ADVP (RB honestly)) (JJ open)) (NN discussion)) (PP (IN on) (NP (DT the) (NN topic))))))))) (. .)))

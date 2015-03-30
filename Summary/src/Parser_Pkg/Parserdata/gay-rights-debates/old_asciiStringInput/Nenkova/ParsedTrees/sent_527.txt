@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NN S2)) (VP (VBZ is) (VP (VBG making) (NP (JJ ridiculous) (NNS generalizations))))))) (. .)))

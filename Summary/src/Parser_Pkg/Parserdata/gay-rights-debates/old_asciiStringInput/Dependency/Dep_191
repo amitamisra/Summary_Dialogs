@@ -1,0 +1,24 @@
+   a straight man has a girlfriend 
+root(ROOT-0, has-4)
+det(man-3, a-1)
+amod(man-3, straight-2)
+nsubj(has-4, man-3)
+det(girlfriend-6, a-5)
+dobj(has-4, girlfriend-6)
+
+ gay marriage is about economics .
+
+
+root(ROOT-0, is-3)
+amod(marriage-2, gay-1)
+nsubj(is-3, marriage-2)
+prep_about(is-3, economics-5)
+
+ gay marriage is about economics .
+
+
+root(ROOT-0, is-3)
+amod(marriage-2, gay-1)
+nsubj(is-3, marriage-2)
+prep_about(is-3, economics-5)
+

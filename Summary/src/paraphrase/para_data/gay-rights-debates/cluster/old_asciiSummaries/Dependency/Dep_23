@@ -1,0 +1,16 @@
+(S2) Questions why is it in societies interest in preventing the government to be involved in marriage.
+root(ROOT-0, Questions-4)
+appos(Questions-4, S2-2)
+advmod(it-7, why-5)
+cop(it-7, is-6)
+rcmod(Questions-4, it-7)
+nn(interest-10, societies-9)
+prep_in(Questions-4, interest-10)
+prepc_in(Questions-4, preventing-12)
+det(government-14, the-13)
+dobj(preventing-12, government-14)
+aux(involved-17, to-15)
+auxpass(involved-17, be-16)
+vmod(government-14, involved-17)
+prep_in(involved-17, marriage-19)
+

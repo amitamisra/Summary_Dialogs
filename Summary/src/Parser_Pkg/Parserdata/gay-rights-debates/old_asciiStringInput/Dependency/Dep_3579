@@ -1,0 +1,30 @@
+S1 mentions the Healthy Marriage Initiative and how it isnt necessary .
+
+
+root(ROOT-0, mentions-2)
+nsubj(mentions-2, S1-1)
+det(Initiative-6, the-3)
+amod(Initiative-6, Healthy-4)
+nn(Initiative-6, Marriage-5)
+dobj(mentions-2, Initiative-6)
+advmod(necessary-11, how-8)
+npadvmod(isnt-10, it-9)
+dep(how-8, isnt-10)
+dobj(mentions-2, necessary-11)
+conj_and(Initiative-6, necessary-11)
+
+S1 mentions the Healthy Marriage Initiative and how it isnt necessary .
+
+
+root(ROOT-0, mentions-2)
+nsubj(mentions-2, S1-1)
+det(Initiative-6, the-3)
+amod(Initiative-6, Healthy-4)
+nn(Initiative-6, Marriage-5)
+dobj(mentions-2, Initiative-6)
+advmod(necessary-11, how-8)
+npadvmod(isnt-10, it-9)
+dep(how-8, isnt-10)
+dobj(mentions-2, necessary-11)
+conj_and(Initiative-6, necessary-11)
+

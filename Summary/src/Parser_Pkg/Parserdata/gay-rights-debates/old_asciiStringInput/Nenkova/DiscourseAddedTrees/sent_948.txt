@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ claims) (SBAR (SBAR (IN that) (S (NP (NNP AIS)) (VP (VBD was) (ADVP (RB initially)) (VP (VBN spread) (PP (IN in) (NP (DT the) (NNP US))) (S (ADVP (RB primarily)) (VP (VB be) (NP (NNS homosexuals)))))))) (CC and#0#Expansion) (SBAR (IN that) (S (NP (DT no) (NN one)) (VP (VBZ argues) (PP (IN with) (NP (DT this) (NN fact)))))))) (. .)))

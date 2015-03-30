@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ accuses) (NP (NP (NN S2)) (PP (IN of) (S (VP (VP (VP (VBG attempting) (S (VP (TO to) (VP (VB change) (NP (DT the) (NN debate)))))) (CC and#1#0) (VP (VBG making) (NP (JJ personal) (NNS attacks)))) (CONJP (RB rather#0#0) (IN than)) (VP (VBG addressing) (NP (DT the) (NN question)) (PP (IN at) (NP (NN hand))))))))) (. .)))

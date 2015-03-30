@@ -1,0 +1,35 @@
+ S2 believes this 
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+dobj(believes-2, this-3)
+
+He thinks conservatives are heartless and don't care if people suffer.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(heartless-5, conservatives-3)
+nsubj(care-9, conservatives-3)
+cop(heartless-5, are-4)
+ccomp(thinks-2, heartless-5)
+aux(care-9, do-7)
+neg(care-9, n't-8)
+ccomp(thinks-2, care-9)
+conj_and(heartless-5, care-9)
+mark(suffer-12, if-10)
+nsubj(suffer-12, people-11)
+advcl(care-9, suffer-12)
+
+He thinks conservatives are heartless and don't care if people suffer.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(heartless-5, conservatives-3)
+nsubj(care-9, conservatives-3)
+cop(heartless-5, are-4)
+ccomp(thinks-2, heartless-5)
+aux(care-9, do-7)
+neg(care-9, n't-8)
+ccomp(thinks-2, care-9)
+conj_and(heartless-5, care-9)
+mark(suffer-12, if-10)
+nsubj(suffer-12, people-11)
+advcl(care-9, suffer-12)
+

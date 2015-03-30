@@ -1,0 +1,162 @@
+<h1 style="text-align: center;">Instructions</h1>
+
+<p>In this task, which is broken into two parts, you will carefully read three&nbsp;short dialogues where two people are discussing a political topic, such as gay marriage, the death penalty, universal health care etc. Then you will produce two summaries: one using only 100 words, and the other using 250 words.</p>
+
+<p>&nbsp;</p>
+<script language= "javascript">
+//Alter this variable depending on how many words you want to limit the textarea to.  
+var maxword1 = 100;  
+var maxword2 = 250;  
+  
+function check_length(obj, cnt, rem,maxwords)  
+{  
+    var ary = obj.value.split(" ");  
+    var len = ary.length;  
+    cnt.innerHTML = len;  
+    rem.innerHTML = maxwords - len;  
+    if (len > maxwords) {  
+        alert("Message in '" + obj.name + "' limited to " + maxwords + " words.");  
+        ary = ary.slice(0,maxwords-1);  
+        obj.value = ary.join(" ");  
+        cnt.innerHTML = maxwords;  
+        rem.innerHTML = 0;  
+        return false;  
+    }  
+    return true;  
+} 
+</script>
+
+<hr />
+<h1 style="text-align: center;">Task 1</h1>
+
+<p style="text-align: center;"><strong>Read the dialogs given below and provide a summary in 100 words </strong></p>
+
+<p>S1 and S2 indicate the different writers of these typed debates. The Turn numbers indicate turns of each writer.</p>
+
+<p>TURN&nbsp;1: S1 indicates the first turn by Writer 1, and TURN&nbsp;1: S2 indicates the first turn by Writer 2.GUEST&nbsp;is a reference to a person other than S1 and S2.</p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><strong>IMPORTANT: Make sure that you scroll all the way to the right to summarize dialog 3!</strong></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<th>dialog 1</th>
+			<th>dialog 2</th>
+			<th>dialog 3</th>
+		</tr>
+		<tr>
+			<td>${dialog3}</td>
+			<td>${dialog14}</td>
+			<td>${dialog5}</td>
+		</tr>
+		<tr>
+			<td>
+			<p>In 100 words, summarize <strong>diaolg 1.</strong></p>
+			<strong><textarea name="Summary1_Dialog1" onkeypress=" return check_length(this, document.getElementById('count_number_words'), document.getElementById('show_remaining_words'),maxword1);" style="width: 500px; height: 150px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<strong> </strong></td>
+			<td>
+			<p>&nbsp;</p>
+
+			<p>In 100 words, summarize <strong>diaolg 2.</strong></p>
+			<strong><textarea name="summary1_Dialog2" onkeypress=" return check_length(this, document.getElementById('count_number_words'), document.getElementById('show_remaining_words'),maxword1);" style="width: 500px; height: 150px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<strong> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<strong> </strong></td>
+			<td>
+			<p>In 100 words, summarize <strong>diaolg 3.</strong></p>
+			<strong><textarea name="summary1_Dialog3" onkeypress=" return check_length(this, document.getElementById('count_number_words'), document.getElementById('show_remaining_words'),maxword1);" style="width: 500px; height: 150px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<strong> </strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><font color="black">Word count:</font><font color="red"> <span id="count_number_words">0</span> </font><br />
+<font color="black">Words remaining: </font><font color="red"> <span id="show_remaining_words">100</span> </font></p>
+
+<p>&nbsp;</p>
+
+<hr />
+<h1 style="text-align: center;">Task 2</h1>
+
+<p style="text-align: center;"><strong><strong>Read the dialogs given below and provide a summary in 250 words</strong></strong></p>
+
+<p>S1 and S2 indicate the different writers of these typed debates. The Turn numbers indicate turns of each writer.</p>
+
+<p>TURN&nbsp;1: S1 indicates the first turn by Writer 1, and TURN1: S2 indicates the first turn by Writer 2.GUEST&nbsp;is a reference to a person other than S1 and S2.</p>
+
+<p><strong>&nbsp;</strong></p>
+
+<p style="text-align: center;"><strong><strong>IMPORTANT: Make sure that you scroll all the way to the right to summarize dialog 3!</strong></strong></p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<th><strong>dialog1</strong></th>
+			<th><strong>dialog2</strong></th>
+			<th><strong>dialog3</strong></th>
+		</tr>
+		<tr>
+			<td><strong>${dialog3}</strong></td>
+			<td><strong>${dialog14}</strong></td>
+			<td><strong>${dialog5}</strong></td>
+		</tr>
+		<tr>
+			<td>
+			<p><strong>&nbsp;</strong></p>
+
+			<p><strong>In 250 words, summarize <strong>diaolg 1</strong></strong></p>
+			<strong><strong><textarea name="summary2_Dialog1" onkeypress=" return check_length(this, document.getElementById('count_number_words1'), document.getElementById('show_remaining_words1'),maxword2);" style="width: 600px; height: 250px;"></textarea> </strong></strong>
+
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>
+			<td>
+			<p><strong>&nbsp;</strong></p>
+
+			<p><strong>In 250 words, summarize <strong>diaolg 2</strong></strong></p>
+			<strong><strong><textarea name="summary2_Dialog2" onkeypress=" return check_length(this, document.getElementById('count_number_words1'), document.getElementById('show_remaining_words1'),maxword2);" style="width: 600px; height: 250px;"></textarea> </strong></strong>
+
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>
+			<td>
+			<p><strong>&nbsp;</strong></p>
+
+			<p><strong>In 250 words, summarize <strong>diaolg 3</strong></strong></p>
+			<strong><strong><textarea name="summary2_Dialog3" onkeypress=" return check_length(this, document.getElementById('count_number_words1'), document.getElementById('show_remaining_words1'),maxword2);" style="width: 600px; height: 250px;"></textarea> </strong></strong>
+
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><strong><font color="black">Word count:</font><font color="red"> <span id="count_number_words1">0</span> </font><br />
+<font color="black">Words remaining: </font><font color="red"> <span id="show_remaining_words1">250</span> </font> </strong></p>
+
+<p><strong>&nbsp;</strong></p>
+
+<hr />
+<p><strong>Please provide any feedback that you have regarding this task. Thank you!</strong></p>
+
+<p><strong><textarea cols="80" name="comment" rows="3"></textarea></strong></p>
+
+<p><strong>&nbsp;</strong></p>
+
+<p><strong>
+<style type="text/css"><!--
+.highlight-box { border:solid 0px #98BE10; background:#FCF9CE; color:#222222; padding:4px; text-align:left; font-size: smaller;}
+-->
+</style>
+</strong></p>
+
+<p><strong>&nbsp;</strong></p>

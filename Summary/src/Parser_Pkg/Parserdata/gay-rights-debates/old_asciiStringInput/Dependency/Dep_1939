@@ -1,0 +1,44 @@
+ no electorate would vote for gay marriage .
+
+
+root(ROOT-0, vote-4)
+neg(electorate-2, no-1)
+nsubj(vote-4, electorate-2)
+aux(vote-4, would-3)
+amod(marriage-7, gay-6)
+prep_for(vote-4, marriage-7)
+
+S1 is angered  that the religious freedom of another person will go into law and bar her from marriage 
+root(ROOT-0, angered-3)
+nsubjpass(angered-3, S1-1)
+auxpass(angered-3, is-2)
+mark(go-12, that-4)
+det(freedom-7, the-5)
+amod(freedom-7, religious-6)
+nsubj(go-12, freedom-7)
+det(person-10, another-9)
+prep_of(freedom-7, person-10)
+aux(go-12, will-11)
+ccomp(angered-3, go-12)
+prep_into(go-12, law-14)
+conj_and(angered-3, bar-16)
+dobj(bar-16, her-17)
+prep_from(bar-16, marriage-19)
+
+S1 is angered  that the religious freedom of another person will go into law and bar her from marriage 
+root(ROOT-0, angered-3)
+nsubjpass(angered-3, S1-1)
+auxpass(angered-3, is-2)
+mark(go-12, that-4)
+det(freedom-7, the-5)
+amod(freedom-7, religious-6)
+nsubj(go-12, freedom-7)
+det(person-10, another-9)
+prep_of(freedom-7, person-10)
+aux(go-12, will-11)
+ccomp(angered-3, go-12)
+prep_into(go-12, law-14)
+conj_and(angered-3, bar-16)
+dobj(bar-16, her-17)
+prep_from(bar-16, marriage-19)
+

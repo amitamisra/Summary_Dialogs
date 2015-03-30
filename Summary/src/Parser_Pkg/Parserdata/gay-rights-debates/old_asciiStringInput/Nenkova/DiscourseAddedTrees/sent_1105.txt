@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS states)) (PP (IN that) (NP (DT the) (NN world)))) (VP (VBD changed) (SBAR (WHADVP (WRB when#0#Temporal)) (S (NP (DT the) (NNP Mass.) (NN legislature)) (VP (VBD ratified) (NP (DT a) (NN court) (NN decision)) (PP (IN for#1#0) (NP (JJ equal) (NNS rights))))))) (. .)))

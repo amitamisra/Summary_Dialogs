@@ -1,0 +1,17 @@
+S1 notes that the number of earthquakes outside Israel has increased I the last one hundred years exponentially.
+root(ROOT-0, increased-11)
+nn(notes-2, S1-1)
+nsubj(increased-11, notes-2)
+det(number-5, the-4)
+prep_that(notes-2, number-5)
+prep_of(number-5, earthquakes-7)
+prep_outside(earthquakes-7, Israel-9)
+aux(increased-11, has-10)
+iobj(increased-11, I-12)
+det(years-17, the-13)
+amod(years-17, last-14)
+num(years-17, one-15)
+num(years-17, hundred-16)
+dobj(increased-11, years-17)
+advmod(years-17, exponentially-18)
+

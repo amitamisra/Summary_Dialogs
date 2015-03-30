@@ -1,0 +1,12 @@
+who get married and.
+root(ROOT-0, get-2)
+nsubj(get-2, who-1)
+dep(get-2, married-3)
+advmod(married-3, and-4)
+
+who get married and.
+root(ROOT-0, get-2)
+nsubj(get-2, who-1)
+dep(get-2, married-3)
+advmod(married-3, and-4)
+

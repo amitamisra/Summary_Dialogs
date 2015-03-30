@@ -1,0 +1,7 @@
+(same-unit[N][N]
+  _!( S1 )!_
+  (Joint[N][N]
+    _!talks about the desire of the voters!_
+    (Elaboration[N][S]
+      _!and so brings up the decision!_
+      _!made in California . <s>!_)))

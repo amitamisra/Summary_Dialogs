@@ -1,0 +1,7 @@
+root(ROOT-0, questioned-2)
+nsubj(questioned-2, He-1)
+poss(labeling-5, S2-3)
+dobj(questioned-2, labeling-5)
+amod(people-8, gay-7)
+prep_of(labeling-5, people-8)
+prep_as(questioned-2, heterophobes-10)

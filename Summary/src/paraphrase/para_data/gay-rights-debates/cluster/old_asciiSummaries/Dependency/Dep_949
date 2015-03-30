@@ -1,0 +1,15 @@
+S2 responds by commenting thatemocratic Vice President Joe Biden stated he was against gay marriage.
+root(ROOT-0, responds-2)
+nsubj(responds-2, S2-1)
+prepc_by(responds-2, commenting-4)
+amod(Biden-9, thatemocratic-5)
+nn(Biden-9, Vice-6)
+nn(Biden-9, President-7)
+nn(Biden-9, Joe-8)
+nsubj(stated-10, Biden-9)
+ccomp(commenting-4, stated-10)
+nsubj(was-12, he-11)
+ccomp(stated-10, was-12)
+amod(marriage-15, gay-14)
+prep_against(was-12, marriage-15)
+

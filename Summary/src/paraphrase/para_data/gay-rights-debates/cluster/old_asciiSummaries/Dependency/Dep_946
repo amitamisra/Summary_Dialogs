@@ -1,0 +1,17 @@
+They argue about politicians lying through discussing when politicians are asked questions and how they answer them.
+root(ROOT-0, argue-2)
+nsubj(argue-2, They-1)
+prep_about(argue-2, politicians-4)
+vmod(politicians-4, lying-5)
+prepc_through(lying-5, discussing-7)
+advmod(asked-11, when-8)
+nsubjpass(asked-11, politicians-9)
+auxpass(asked-11, are-10)
+advcl(discussing-7, asked-11)
+dobj(asked-11, questions-12)
+advmod(answer-16, how-14)
+nsubj(answer-16, they-15)
+advcl(discussing-7, answer-16)
+conj_and(asked-11, answer-16)
+dobj(answer-16, them-17)
+

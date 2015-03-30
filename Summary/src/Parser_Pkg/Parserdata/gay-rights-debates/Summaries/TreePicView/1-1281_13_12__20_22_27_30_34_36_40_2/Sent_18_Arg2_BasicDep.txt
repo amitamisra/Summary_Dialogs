@@ -1,0 +1,6 @@
+root(ROOT-0, performed-3)
+nsubjpass(performed-3, it-1)
+auxpass(performed-3, is-2)
+prep(performed-3, by-4)
+det(judge-6, a-5)
+pobj(by-4, judge-6)

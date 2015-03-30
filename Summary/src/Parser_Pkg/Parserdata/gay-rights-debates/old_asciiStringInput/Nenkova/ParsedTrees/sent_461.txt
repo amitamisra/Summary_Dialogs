@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VP (VBZ supports) (NP (NP (DT the) (NN nation) (POS 's)) (NN ability) (S (VP (TO to) (VP (VB vote) (PP (IN on) (NP (JJ such) (NNS issues)))))))) (CC and) (VP (VBZ supports) (S (NP (DT the) (`` ``) (NN majority) (NNS rules) ('' '') (NN philosophy))))) (. .)))

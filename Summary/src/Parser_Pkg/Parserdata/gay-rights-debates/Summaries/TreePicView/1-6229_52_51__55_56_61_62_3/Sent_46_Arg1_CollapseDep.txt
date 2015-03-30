@@ -1,0 +1,8 @@
+root(ROOT-0, talk-3)
+nsubj(talk-3, they-1)
+nsubj(disrupt-8, they-1)
+aux(talk-3, will-2)
+amod(churches-6, bible-5)
+prep_to(talk-3, churches-6)
+conj_and(talk-3, disrupt-8)
+dobj(disrupt-8, them-9)

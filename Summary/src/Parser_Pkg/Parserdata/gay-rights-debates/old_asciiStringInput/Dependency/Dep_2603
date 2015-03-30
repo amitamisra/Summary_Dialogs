@@ -1,0 +1,16 @@
+   that homosexual liaisons were special cases 
+root(ROOT-0, cases-6)
+mark(cases-6, that-1)
+amod(liaisons-3, homosexual-2)
+nsubj(cases-6, liaisons-3)
+cop(cases-6, were-4)
+amod(cases-6, special-5)
+
+   that homosexual liaisons were special cases 
+root(ROOT-0, cases-6)
+mark(cases-6, that-1)
+amod(liaisons-3, homosexual-2)
+nsubj(cases-6, liaisons-3)
+cop(cases-6, were-4)
+amod(cases-6, special-5)
+

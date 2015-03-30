@@ -1,0 +1,29 @@
+ They go back to talking trash to each other 
+root(ROOT-0, go-2)
+nsubj(go-2, They-1)
+advmod(go-2, back-3)
+prepc_to(back-3, talking-5)
+dobj(talking-5, trash-6)
+det(other-9, each-8)
+prep_to(talking-5, other-9)
+
+   she feels like she has no place in society 
+root(ROOT-0, feels-2)
+nsubj(feels-2, she-1)
+mark(has-5, like-3)
+nsubj(has-5, she-4)
+advcl(feels-2, has-5)
+neg(place-7, no-6)
+dobj(has-5, place-7)
+prep_in(place-7, society-9)
+
+   she feels like she has no place in society 
+root(ROOT-0, feels-2)
+nsubj(feels-2, she-1)
+mark(has-5, like-3)
+nsubj(has-5, she-4)
+advcl(feels-2, has-5)
+neg(place-7, no-6)
+dobj(has-5, place-7)
+prep_in(place-7, society-9)
+

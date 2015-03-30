@@ -1,0 +1,9 @@
+(Elaboration[N][S]
+  _!S2 provides an example of his/her!_
+  (Elaboration[N][S]
+    _!managing a restaurant!_
+    (Condition[N][S]
+      _!asking if it would be acceptable!_
+      (Elaboration[N][S]
+        _!for him to refuse to serve a boy scout based on the fact!_
+        _!they conflict with his/her religious beliefs . <s>!_))))

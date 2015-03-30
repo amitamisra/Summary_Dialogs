@@ -1,0 +1,30 @@
+ S1 's objection to gays and the family 's they would make is prejudice .
+
+
+root(ROOT-0, prejudice-14)
+poss(objection-3, S1-1)
+nsubj(prejudice-14, objection-3)
+prep_to(objection-3, gays-5)
+det(family-8, the-7)
+prep_to(objection-3, family-8)
+conj_and(gays-5, family-8)
+nsubj(make-12, they-10)
+aux(make-12, would-11)
+rcmod(gays-5, make-12)
+cop(prejudice-14, is-13)
+
+ S1 's objection to gays and the family 's they would make is prejudice .
+
+
+root(ROOT-0, prejudice-14)
+poss(objection-3, S1-1)
+nsubj(prejudice-14, objection-3)
+prep_to(objection-3, gays-5)
+det(family-8, the-7)
+prep_to(objection-3, family-8)
+conj_and(gays-5, family-8)
+nsubj(make-12, they-10)
+aux(make-12, would-11)
+rcmod(gays-5, make-12)
+cop(prejudice-14, is-13)
+

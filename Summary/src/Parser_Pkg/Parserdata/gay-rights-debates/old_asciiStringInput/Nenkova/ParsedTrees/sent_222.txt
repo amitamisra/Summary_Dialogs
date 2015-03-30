@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S1)) (VP (VBZ advises) (SBAR (IN while) (S (NP (PRP he)) (VP (VBZ is) (NP (NP (DT a) (NN defender)) (PP (IN of) (NP (DT the) (NNP Constitution))))))))) (, ,) (NP (PRP he)) (VP (VBZ does) (S (VP (VB feel) (SBAR (S (NP (NN society)) (VP (MD should) (VP (VB decide)))))))) (. .)))

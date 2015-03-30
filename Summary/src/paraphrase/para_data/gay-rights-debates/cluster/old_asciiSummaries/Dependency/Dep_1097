@@ -1,0 +1,18 @@
+S2 thinks S1 is not understanding the overall perspectives and just focusing on their own needs.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S2-1)
+nsubj(understanding-6, S1-3)
+nsubj(focusing-12, S1-3)
+aux(understanding-6, is-4)
+neg(understanding-6, not-5)
+ccomp(thinks-2, understanding-6)
+det(perspectives-9, the-7)
+amod(perspectives-9, overall-8)
+dobj(understanding-6, perspectives-9)
+advmod(focusing-12, just-11)
+ccomp(thinks-2, focusing-12)
+conj_and(understanding-6, focusing-12)
+poss(needs-16, their-14)
+amod(needs-16, own-15)
+prep_on(focusing-12, needs-16)
+

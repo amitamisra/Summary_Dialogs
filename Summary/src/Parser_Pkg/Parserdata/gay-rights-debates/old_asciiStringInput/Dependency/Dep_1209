@@ -1,0 +1,36 @@
+   location is irrelevant in refuting S1 's logic . 
+root(ROOT-0, irrelevant-3)
+nsubj(irrelevant-3, location-1)
+cop(irrelevant-3, is-2)
+prepc_in(irrelevant-3, refuting-5)
+poss(logic-8, S1-6)
+dobj(refuting-5, logic-8)
+
+ that the majority rules no matter what the minority thinks .
+
+
+root(ROOT-0, rules-4)
+mark(rules-4, that-1)
+det(rules-4, the-2)
+nn(rules-4, majority-3)
+neg(matter-6, no-5)
+advmod(what-7, matter-6)
+dobj(thinks-10, what-7)
+det(minority-9, the-8)
+nsubj(thinks-10, minority-9)
+rcmod(rules-4, thinks-10)
+
+ that the majority rules no matter what the minority thinks .
+
+
+root(ROOT-0, rules-4)
+mark(rules-4, that-1)
+det(rules-4, the-2)
+nn(rules-4, majority-3)
+neg(matter-6, no-5)
+advmod(what-7, matter-6)
+dobj(thinks-10, what-7)
+det(minority-9, the-8)
+nsubj(thinks-10, minority-9)
+rcmod(rules-4, thinks-10)
+

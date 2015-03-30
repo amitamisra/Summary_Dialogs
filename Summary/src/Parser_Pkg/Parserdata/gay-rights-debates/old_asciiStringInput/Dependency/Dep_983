@@ -1,0 +1,45 @@
+-LRB- S2 -RRB- questions how -LRB- S1 -RRB- religious rights are taken away or harmed .
+
+
+root(ROOT-0, taken-12)
+nn(questions-4, S2-2)
+dep(taken-12, questions-4)
+advmod(taken-12, how-5)
+dep(taken-12, S1-7)
+amod(rights-10, religious-9)
+nsubjpass(taken-12, rights-10)
+nsubjpass(harmed-15, rights-10)
+auxpass(taken-12, are-11)
+prt(taken-12, away-13)
+conj_or(taken-12, harmed-15)
+
+Evangelical Christians have been opposed and do speak out against gay marriage .
+
+
+root(ROOT-0, opposed-5)
+amod(Christians-2, Evangelical-1)
+nsubjpass(opposed-5, Christians-2)
+nsubj(speak-8, Christians-2)
+aux(opposed-5, have-3)
+auxpass(opposed-5, been-4)
+aux(speak-8, do-7)
+conj_and(opposed-5, speak-8)
+prt(speak-8, out-9)
+amod(marriage-12, gay-11)
+prep_against(speak-8, marriage-12)
+
+Evangelical Christians have been opposed and do speak out against gay marriage .
+
+
+root(ROOT-0, opposed-5)
+amod(Christians-2, Evangelical-1)
+nsubjpass(opposed-5, Christians-2)
+nsubj(speak-8, Christians-2)
+aux(opposed-5, have-3)
+auxpass(opposed-5, been-4)
+aux(speak-8, do-7)
+conj_and(opposed-5, speak-8)
+prt(speak-8, out-9)
+amod(marriage-12, gay-11)
+prep_against(speak-8, marriage-12)
+

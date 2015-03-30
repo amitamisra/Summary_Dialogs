@@ -1,0 +1,15 @@
+S1 thinks the results are professional and S1 is just uncomfortable with the results.
+root(ROOT-0, uncomfortable-11)
+nsubj(uncomfortable-11, S1-1)
+rcmod(S1-1, thinks-2)
+det(results-4, the-3)
+nsubj(professional-6, results-4)
+cop(professional-6, are-5)
+ccomp(thinks-2, professional-6)
+ccomp(thinks-2, S1-8)
+conj_and(professional-6, S1-8)
+cop(uncomfortable-11, is-9)
+advmod(uncomfortable-11, just-10)
+det(results-14, the-13)
+prep_with(uncomfortable-11, results-14)
+

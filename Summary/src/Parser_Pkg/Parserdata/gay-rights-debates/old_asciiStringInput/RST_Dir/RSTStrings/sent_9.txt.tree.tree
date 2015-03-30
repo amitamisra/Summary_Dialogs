@@ -1,0 +1,15 @@
+(same-unit[N][N]
+  (same-unit[N][N]
+    (Elaboration[N][S] _!( Elaboration!_ _!( N )!_)
+    _!( S )!_)
+  (Attribution[S][N]
+    _!_ !!_
+    (Condition[S][N]
+      (same-unit[N][N]
+        (Elaboration[N][S]
+          _!He disputes S1 's comparison between gay marriage and polygamy ,!_
+          (Elaboration[N][S]
+            (same-unit[N][N] _!! _!_ _!( Elaboration ( N )!_)
+            _!( S )!_))
+        _!_ !!_)
+      _!which he fees could be the next thing ! _ _ ! allowed should gay marriage become commonplace . <s>!_)))

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ explains) (SBAR (S (NP (PRP$ his) (NN goal)) (VP (VBZ is) (ADJP (RB too) (SBAR (S (VP (VBP preach) (PP (PP (TO to) (NP (DT the) (JJ public))) (CC and#0#0) (RB not) (PP (TO to) (NP (DT any) (JJ specific) (NN person)))))))))))) (. .)))

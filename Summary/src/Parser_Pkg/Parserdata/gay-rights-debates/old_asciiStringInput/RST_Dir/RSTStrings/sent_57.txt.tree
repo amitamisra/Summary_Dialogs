@@ -1,0 +1,9 @@
+(Elaboration[N][S]
+  _!S2 questions the religious basis of a civil ceremony like marriage ,!_
+  (Attribution[S][N]
+    _!suggesting!_
+    (same-unit[N][N]
+      (Elaboration[N][S]
+        _!that the stipulations!_
+        _!based on religious reasons would vary!_)
+      _!depending on the chosen religion . <s>!_)))

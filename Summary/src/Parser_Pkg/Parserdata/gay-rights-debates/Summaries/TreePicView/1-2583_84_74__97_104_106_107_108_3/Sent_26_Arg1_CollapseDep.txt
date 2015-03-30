@@ -1,0 +1,5 @@
+root(ROOT-0, hide-2)
+aux(hide-2, to-1)
+poss(grounds-6, their-4)
+amod(grounds-6, moral-5)
+prep_behind(hide-2, grounds-6)

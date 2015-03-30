@@ -1,0 +1,3 @@
+root(ROOT-0, occurs-3)
+det(debate-2, the-1)
+nsubj(occurs-3, debate-2)

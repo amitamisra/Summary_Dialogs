@@ -1,0 +1,20 @@
+   it has not been decided upon by SCOTUS  
+root(ROOT-0, decided-5)
+nsubjpass(decided-5, it-1)
+aux(decided-5, has-2)
+neg(decided-5, not-3)
+auxpass(decided-5, been-4)
+prep(decided-5, upon-6)
+pcomp(upon-6, by-7)
+pobj(by-7, SCOTUS-8)
+
+   it has not been decided upon by SCOTUS  
+root(ROOT-0, decided-5)
+nsubjpass(decided-5, it-1)
+aux(decided-5, has-2)
+neg(decided-5, not-3)
+auxpass(decided-5, been-4)
+prep(decided-5, upon-6)
+pcomp(upon-6, by-7)
+pobj(by-7, SCOTUS-8)
+

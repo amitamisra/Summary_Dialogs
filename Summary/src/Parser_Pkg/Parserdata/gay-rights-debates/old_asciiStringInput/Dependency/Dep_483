@@ -1,0 +1,43 @@
+Two people are discussing whether or not Christians want to ban gay people .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+mark(want-9, whether-5)
+ccomp(discussing-4, not-7)
+conj_or(want-9, not-7)
+nsubj(want-9, Christians-8)
+ccomp(discussing-4, want-9)
+aux(ban-11, to-10)
+xcomp(want-9, ban-11)
+amod(people-13, gay-12)
+dobj(ban-11, people-13)
+
+S2 feels the only reason these terms are not recognized  is 
+root(ROOT-0, feels-2)
+nsubj(feels-2, S2-1)
+det(reason-5, the-3)
+amod(reason-5, only-4)
+dobj(feels-2, reason-5)
+det(terms-7, these-6)
+nsubjpass(recognized-10, terms-7)
+auxpass(recognized-10, are-8)
+neg(recognized-10, not-9)
+rcmod(reason-5, recognized-10)
+ccomp(recognized-10, is-11)
+
+S2 feels the only reason these terms are not recognized  is 
+root(ROOT-0, feels-2)
+nsubj(feels-2, S2-1)
+det(reason-5, the-3)
+amod(reason-5, only-4)
+dobj(feels-2, reason-5)
+det(terms-7, these-6)
+nsubjpass(recognized-10, terms-7)
+auxpass(recognized-10, are-8)
+neg(recognized-10, not-9)
+rcmod(reason-5, recognized-10)
+ccomp(recognized-10, is-11)
+

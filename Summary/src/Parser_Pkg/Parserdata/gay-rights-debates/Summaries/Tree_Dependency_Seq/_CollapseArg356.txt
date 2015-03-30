@@ -1,0 +1,6 @@
+root(ROOT-0, continue-2)
+nsubj(continue-2, we-1)
+aux(do-4, to-3)
+xcomp(continue-2, do-4)
+dobj(do-4, this-5)
+prep_with(this-5, civility-7)

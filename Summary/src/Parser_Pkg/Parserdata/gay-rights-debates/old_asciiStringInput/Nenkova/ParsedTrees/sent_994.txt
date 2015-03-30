@@ -1,0 +1,1 @@
+(ROOT (S (NP (DT The) (NNPS Greeks)) (VP (VBD had) (NP (NP (JJ homosexual) (NNS liaisons)) (, ,) (NP (NP (DT some)) (PP (IN from) (NP (NN desire)))) (, ,) (NP (DT some))) (PP (IN for) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NN mentoring) (NNS reasons)))))) (. .)))

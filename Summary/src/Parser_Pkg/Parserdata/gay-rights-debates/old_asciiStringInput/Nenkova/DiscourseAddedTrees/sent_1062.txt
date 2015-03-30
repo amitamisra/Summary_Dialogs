@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ accuses) (NP (NP (NN S1)) (PP (IN of) (S (VP (VBG hating) (NP (NNS homosexuals))))))) (. .)))

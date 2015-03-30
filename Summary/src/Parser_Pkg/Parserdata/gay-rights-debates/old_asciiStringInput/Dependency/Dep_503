@@ -1,0 +1,39 @@
+ that gay lobbyists have crossed the line from counter-attacking to simply attacking Christians .
+
+
+root(ROOT-0, crossed-5)
+mark(crossed-5, that-1)
+amod(lobbyists-3, gay-2)
+nsubj(crossed-5, lobbyists-3)
+aux(crossed-5, have-4)
+det(line-7, the-6)
+dobj(crossed-5, line-7)
+prepc_from(crossed-5, counter-attacking-9)
+advmod(attacking-12, simply-11)
+prepc_to(counter-attacking-9, attacking-12)
+dobj(attacking-12, Christians-13)
+
+   marriage , legally , to them , is only between one man and one woman 
+root(ROOT-0, is-8)
+nsubj(is-8, marriage-1)
+advmod(marriage-1, legally-3)
+prep_to(marriage-1, them-6)
+advmod(is-8, only-9)
+num(man-12, one-11)
+prep_between(is-8, man-12)
+num(woman-15, one-14)
+prep_between(is-8, woman-15)
+conj_and(man-12, woman-15)
+
+   marriage , legally , to them , is only between one man and one woman 
+root(ROOT-0, is-8)
+nsubj(is-8, marriage-1)
+advmod(marriage-1, legally-3)
+prep_to(marriage-1, them-6)
+advmod(is-8, only-9)
+num(man-12, one-11)
+prep_between(is-8, man-12)
+num(woman-15, one-14)
+prep_between(is-8, woman-15)
+conj_and(man-12, woman-15)
+

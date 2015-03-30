@@ -1,0 +1,22 @@
+S1 feels courts will rely upon choice of law doctrine for guidance.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+nsubj(rely-5, courts-3)
+aux(rely-5, will-4)
+ccomp(feels-2, rely-5)
+prep_upon(rely-5, choice-7)
+nn(doctrine-10, law-9)
+prep_of(choice-7, doctrine-10)
+prep_for(doctrine-10, guidance-12)
+
+S1 feels courts will rely upon choice of law doctrine for guidance.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+nsubj(rely-5, courts-3)
+aux(rely-5, will-4)
+ccomp(feels-2, rely-5)
+prep_upon(rely-5, choice-7)
+nn(doctrine-10, law-9)
+prep_of(choice-7, doctrine-10)
+prep_for(doctrine-10, guidance-12)
+

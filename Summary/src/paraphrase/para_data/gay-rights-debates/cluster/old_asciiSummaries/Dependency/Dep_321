@@ -1,0 +1,10 @@
+People have been prejudiced against homosexuals for a long time.
+root(ROOT-0, prejudiced-4)
+nsubjpass(prejudiced-4, People-1)
+aux(prejudiced-4, have-2)
+auxpass(prejudiced-4, been-3)
+prep_against(prejudiced-4, homosexuals-6)
+det(time-10, a-8)
+amod(time-10, long-9)
+prep_for(homosexuals-6, time-10)
+

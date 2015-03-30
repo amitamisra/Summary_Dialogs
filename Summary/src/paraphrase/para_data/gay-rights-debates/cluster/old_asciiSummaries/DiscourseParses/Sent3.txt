@@ -1,0 +1,2 @@
+{Exp_0_Arg1 S1 brings up that Exp_0_Arg1} {Exp_0_conn_Cause because Exp_0_conn} {Exp_0_Arg2 several people are against the government due to gay marriage and not {Exp_1_conn_Cause because Exp_1_conn} {Exp_1_Arg2 it 's just marriage altogether , Exp_1_Arg2} {Exp_1_Arg1 it does n't mean its not a bad idea to remove government intervention Exp_1_Arg1} . Exp_0_Arg2}
+

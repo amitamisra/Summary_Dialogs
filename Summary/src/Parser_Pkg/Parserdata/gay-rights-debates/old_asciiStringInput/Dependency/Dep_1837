@@ -1,0 +1,67 @@
+The choice of law doctrine must be considered andOMA could be found to be unconstitutional by vote of the SCOTUS .
+
+
+root(ROOT-0, considered-8)
+det(choice-2, The-1)
+nsubjpass(considered-8, choice-2)
+nn(doctrine-5, law-4)
+prep_of(choice-2, doctrine-5)
+aux(considered-8, must-6)
+auxpass(considered-8, be-7)
+nsubjpass(found-12, andOMA-9)
+aux(found-12, could-10)
+auxpass(found-12, be-11)
+ccomp(considered-8, found-12)
+aux(unconstitutional-15, to-13)
+cop(unconstitutional-15, be-14)
+xcomp(found-12, unconstitutional-15)
+prep_by(unconstitutional-15, vote-17)
+det(SCOTUS-20, the-19)
+prep_of(vote-17, SCOTUS-20)
+
+Is a gay person is allowed to have the freedom , so does he who and others who may not agree .
+
+
+root(ROOT-0, does-13)
+cop(person-4, Is-1)
+det(person-4, a-2)
+amod(person-4, gay-3)
+ccomp(does-13, person-4)
+auxpass(allowed-6, is-5)
+rcmod(person-4, allowed-6)
+aux(have-8, to-7)
+xcomp(allowed-6, have-8)
+det(freedom-10, the-9)
+dobj(have-8, freedom-10)
+advmod(does-13, so-12)
+dobj(does-13, he-14)
+rcmod(he-14, who-15)
+conj_and(he-14, others-17)
+nsubj(agree-21, who-18)
+aux(agree-21, may-19)
+neg(agree-21, not-20)
+rcmod(others-17, agree-21)
+
+Is a gay person is allowed to have the freedom , so does he who and others who may not agree .
+
+
+root(ROOT-0, does-13)
+cop(person-4, Is-1)
+det(person-4, a-2)
+amod(person-4, gay-3)
+ccomp(does-13, person-4)
+auxpass(allowed-6, is-5)
+rcmod(person-4, allowed-6)
+aux(have-8, to-7)
+xcomp(allowed-6, have-8)
+det(freedom-10, the-9)
+dobj(have-8, freedom-10)
+advmod(does-13, so-12)
+dobj(does-13, he-14)
+rcmod(he-14, who-15)
+conj_and(he-14, others-17)
+nsubj(agree-21, who-18)
+aux(agree-21, may-19)
+neg(agree-21, not-20)
+rcmod(others-17, agree-21)
+

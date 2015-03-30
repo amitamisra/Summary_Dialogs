@@ -1,0 +1,48 @@
+ marriage is recognizing a family unit based on natural heterosexual contact .
+
+
+root(ROOT-0, recognizing-3)
+nsubj(recognizing-3, marriage-1)
+aux(recognizing-3, is-2)
+det(unit-6, a-4)
+nn(unit-6, family-5)
+dobj(recognizing-3, unit-6)
+prepc_based_on(recognizing-3, on-8)
+amod(contact-11, natural-9)
+amod(contact-11, heterosexual-10)
+pobj(recognizing-3, contact-11)
+
+S2 holds to the idea that it will be passed and passed soon .
+
+
+root(ROOT-0, holds-2)
+nsubj(holds-2, S2-1)
+det(idea-5, the-4)
+prep_to(holds-2, idea-5)
+mark(passed-10, that-6)
+nsubjpass(passed-10, it-7)
+nsubjpass(passed-12, it-7)
+aux(passed-10, will-8)
+auxpass(passed-10, be-9)
+ccomp(holds-2, passed-10)
+ccomp(holds-2, passed-12)
+conj_and(passed-10, passed-12)
+advmod(passed-10, soon-13)
+
+S2 holds to the idea that it will be passed and passed soon .
+
+
+root(ROOT-0, holds-2)
+nsubj(holds-2, S2-1)
+det(idea-5, the-4)
+prep_to(holds-2, idea-5)
+mark(passed-10, that-6)
+nsubjpass(passed-10, it-7)
+nsubjpass(passed-12, it-7)
+aux(passed-10, will-8)
+auxpass(passed-10, be-9)
+ccomp(holds-2, passed-10)
+ccomp(holds-2, passed-12)
+conj_and(passed-10, passed-12)
+advmod(passed-10, soon-13)
+

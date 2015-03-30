@@ -1,0 +1,7 @@
+Everyone else should condemn it.
+root(ROOT-0, condemn-4)
+nsubj(condemn-4, Everyone-1)
+advmod(Everyone-1, else-2)
+aux(condemn-4, should-3)
+dobj(condemn-4, it-5)
+

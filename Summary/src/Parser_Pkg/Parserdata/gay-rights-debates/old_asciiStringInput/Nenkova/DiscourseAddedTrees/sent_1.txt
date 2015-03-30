@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NN marriage)) (VP (VBZ is) (VP (VBN defined) (PP (IN as#0#0) (NP (DT a) (NN family) (NN unit))) (PP (VBN based) (PP (IN on) (NP (DT a) (JJ heterosexual) (NN contract))))))))) (. .)))

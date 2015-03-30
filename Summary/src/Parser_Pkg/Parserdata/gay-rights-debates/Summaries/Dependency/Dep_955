@@ -1,0 +1,16 @@
+it is homophobic , but , a fact.
+root(ROOT-0, homophobic-3)
+nsubj(homophobic-3, it-1)
+cop(homophobic-3, is-2)
+cc(homophobic-3, but-5)
+det(fact-8, a-7)
+conj(homophobic-3, fact-8)
+
+it is homophobic , but , a fact.
+root(ROOT-0, homophobic-3)
+nsubj(homophobic-3, it-1)
+cop(homophobic-3, is-2)
+cc(homophobic-3, but-5)
+det(fact-8, a-7)
+conj(homophobic-3, fact-8)
+

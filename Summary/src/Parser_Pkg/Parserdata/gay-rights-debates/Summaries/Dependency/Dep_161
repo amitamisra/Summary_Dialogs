@@ -1,0 +1,33 @@
+ polygamy would n't count.
+root(ROOT-0, count-4)
+nsubj(count-4, polygamy-1)
+aux(count-4, would-2)
+neg(count-4, n't-3)
+
+ polygamy would n't count.
+root(ROOT-0, count-4)
+nsubj(count-4, polygamy-1)
+aux(count-4, would-2)
+neg(count-4, n't-3)
+
+ polygamy would n't count.
+root(ROOT-0, count-4)
+nsubj(count-4, polygamy-1)
+aux(count-4, would-2)
+neg(count-4, n't-3)
+
+ polygamy would n't count.
+root(ROOT-0, count-4)
+nsubj(count-4, polygamy-1)
+aux(count-4, would-2)
+neg(count-4, n't-3)
+
+ S1 's argument purposefully excludes this fact.
+root(ROOT-0, excludes-5)
+poss(argument-3, S1-1)
+possessive(S1-1, 's-2)
+nsubj(excludes-5, argument-3)
+advmod(excludes-5, purposefully-4)
+det(fact-7, this-6)
+dobj(excludes-5, fact-7)
+

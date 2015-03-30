@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ contends) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (JJ such) (NN piece)) (PP (TO to) (NP (DT the) (NNP Massachusetts) (NN constitution)))))))) (. .)))

@@ -1,0 +1,38 @@
+ allowing gays to marry will open up the door to legalize other types of marriage such as polygamy .
+
+
+root(ROOT-0, open-6)
+csubj(open-6, allowing-1)
+dobj(allowing-1, gays-2)
+aux(marry-4, to-3)
+xcomp(allowing-1, marry-4)
+aux(open-6, will-5)
+prt(open-6, up-7)
+det(door-9, the-8)
+dobj(open-6, door-9)
+aux(legalize-11, to-10)
+vmod(door-9, legalize-11)
+amod(types-13, other-12)
+dobj(legalize-11, types-13)
+prep_of(types-13, marriage-15)
+prep_such_as(marriage-15, polygamy-18)
+
+ allowing gays to marry will open up the door to legalize other types of marriage such as polygamy .
+
+
+root(ROOT-0, open-6)
+csubj(open-6, allowing-1)
+dobj(allowing-1, gays-2)
+aux(marry-4, to-3)
+xcomp(allowing-1, marry-4)
+aux(open-6, will-5)
+prt(open-6, up-7)
+det(door-9, the-8)
+dobj(open-6, door-9)
+aux(legalize-11, to-10)
+vmod(door-9, legalize-11)
+amod(types-13, other-12)
+dobj(legalize-11, types-13)
+prep_of(types-13, marriage-15)
+prep_such_as(marriage-15, polygamy-18)
+

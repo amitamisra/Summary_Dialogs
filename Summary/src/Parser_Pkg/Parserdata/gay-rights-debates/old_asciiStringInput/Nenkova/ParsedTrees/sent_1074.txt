@@ -1,0 +1,1 @@
+(ROOT (S (SBAR (IN If) (FRAG (NP (RB not)))) (, ,) (NP (NP (DT the) (NNS rights) (CC and) (NNS benefits)) (VP (VBN granted) (PP (TO to) (NP (NNS gays))))) (VP (MD will) (RB not) (VP (VB be) (VP (VBN guaranteed)))) (. .)))

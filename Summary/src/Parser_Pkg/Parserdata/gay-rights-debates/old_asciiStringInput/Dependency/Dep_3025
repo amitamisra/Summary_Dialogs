@@ -1,0 +1,32 @@
+ that practice was of the Old Testament and is no longer considered commonplace .
+
+
+root(ROOT-0, was-3)
+mark(was-3, that-1)
+nsubj(was-3, practice-2)
+nsubjpass(considered-12, practice-2)
+det(Testament-7, the-5)
+nn(Testament-7, Old-6)
+prep_of(was-3, Testament-7)
+auxpass(considered-12, is-9)
+neg(longer-11, no-10)
+advmod(considered-12, longer-11)
+conj_and(was-3, considered-12)
+dobj(considered-12, commonplace-13)
+
+ that practice was of the Old Testament and is no longer considered commonplace .
+
+
+root(ROOT-0, was-3)
+mark(was-3, that-1)
+nsubj(was-3, practice-2)
+nsubjpass(considered-12, practice-2)
+det(Testament-7, the-5)
+nn(Testament-7, Old-6)
+prep_of(was-3, Testament-7)
+auxpass(considered-12, is-9)
+neg(longer-11, no-10)
+advmod(considered-12, longer-11)
+conj_and(was-3, considered-12)
+dobj(considered-12, commonplace-13)
+

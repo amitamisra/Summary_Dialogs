@@ -1,0 +1,26 @@
+S2 points out that free speech is inherently protected through the constitution.
+root(ROOT-0, points-2)
+nsubj(points-2, S2-1)
+prt(points-2, out-3)
+mark(protected-9, that-4)
+amod(speech-6, free-5)
+nsubjpass(protected-9, speech-6)
+auxpass(protected-9, is-7)
+advmod(protected-9, inherently-8)
+ccomp(points-2, protected-9)
+det(constitution-12, the-11)
+prep_through(protected-9, constitution-12)
+
+S2 points out that free speech is inherently protected through the constitution.
+root(ROOT-0, points-2)
+nsubj(points-2, S2-1)
+prt(points-2, out-3)
+mark(protected-9, that-4)
+amod(speech-6, free-5)
+nsubjpass(protected-9, speech-6)
+auxpass(protected-9, is-7)
+advmod(protected-9, inherently-8)
+ccomp(points-2, protected-9)
+det(constitution-12, the-11)
+prep_through(protected-9, constitution-12)
+

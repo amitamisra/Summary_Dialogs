@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ presents) (NP (DT the) (NN idea)) (SBAR (IN that) (S (NP (JJ gay) (NN marriage)) (VP (VBZ has) (VP (VBN been) (ADJP (JJ pervasive) (PP (IN in) (NP (JJ many) (NNS cultures)))) (, ,) (PP (VBG including) (NP (NP (DT the) (NNPS Romans)) (, ,) (NP (NNPS Greeks)) (, ,) (NP (NNPS Celts)) (, ,) (CC and#0#0) (NP (JJ American) (NNPS Indians))))))))) (. .)))

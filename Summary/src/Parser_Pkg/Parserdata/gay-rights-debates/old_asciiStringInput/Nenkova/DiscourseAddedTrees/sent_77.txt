@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2) (NNS questions)) (SBAR (WHADVP (WRB why)) (S (NP (NP (JJ gay) (NNS citizens)) (SBAR (WHNP (WP who)) (S (VP (VBP pay) (PP (IN into) (NP (DT the) (JJ economic) (NN system))))))) (VP (MD should) (ADVP (RB also#0#Expansion)) (RB not) (VP (VB benefit) (PP (IN from) (NP (PRP them))))))) (. .)))

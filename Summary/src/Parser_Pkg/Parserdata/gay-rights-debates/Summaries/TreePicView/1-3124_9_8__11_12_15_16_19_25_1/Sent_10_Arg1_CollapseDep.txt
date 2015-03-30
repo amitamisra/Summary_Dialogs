@@ -1,0 +1,8 @@
+root(ROOT-0, come-4)
+nsubj(come-4, S2-1)
+aux(come-4, ca-2)
+neg(come-4, n't-3)
+prt(come-4, up-5)
+det(link-9, a-7)
+nn(link-9, reference-8)
+prep_with(come-4, link-9)

@@ -1,0 +1,14 @@
+Instead he should have linked someone in the Republican leadership saying those things.
+root(ROOT-0, linked-5)
+advmod(linked-5, Instead-1)
+nsubj(linked-5, he-2)
+aux(linked-5, should-3)
+aux(linked-5, have-4)
+dobj(linked-5, someone-6)
+det(leadership-10, the-8)
+amod(leadership-10, Republican-9)
+prep_in(linked-5, leadership-10)
+vmod(leadership-10, saying-11)
+det(things-13, those-12)
+dobj(saying-11, things-13)
+

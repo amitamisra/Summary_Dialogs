@@ -1,0 +1,7 @@
+root(ROOT-0, rely-3)
+nsubj(rely-3, courts-1)
+aux(rely-3, will-2)
+prep_upon(rely-3, choice-5)
+nn(doctrine-8, law-7)
+prep_of(choice-5, doctrine-8)
+prep_for(doctrine-8, guidance-10)

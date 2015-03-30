@@ -1,0 +1,8 @@
+root(ROOT-0, opposed-4)
+det(person-2, a-1)
+nsubjpass(opposed-4, person-2)
+auxpass(opposed-4, is-3)
+prep_to(opposed-4, the-6)
+amod(the-6, banning-7)
+amod(marriage-10, gay-9)
+prep_of(the-6, marriage-10)

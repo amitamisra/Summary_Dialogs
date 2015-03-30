@@ -1,0 +1,6 @@
+root(ROOT-0, know-2)
+nsubj(know-2, he-1)
+mark(is-5, that-3)
+expl(is-5, there-4)
+ccomp(know-2, is-5)
+nsubj(is-5, inconsistency-6)

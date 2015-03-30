@@ -1,0 +1,6 @@
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S2-1)
+nsubj(ignoring-5, S1-3)
+aux(ignoring-5, is-4)
+ccomp(thinks-2, ignoring-5)
+dobj(ignoring-5, him-6)

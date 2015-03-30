@@ -1,0 +1,8 @@
+root(ROOT-0, feels-2)
+nsubj(feels-2, she-1)
+mark(has-5, like-3)
+nsubj(has-5, she-4)
+advcl(feels-2, has-5)
+neg(place-7, no-6)
+dobj(has-5, place-7)
+prep_in(place-7, society-9)

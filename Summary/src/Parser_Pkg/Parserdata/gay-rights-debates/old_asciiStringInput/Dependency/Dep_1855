@@ -1,0 +1,52 @@
+S2 continues to discuss the necessity of drawing boundaries in reason and the importance staying on track .
+
+
+root(ROOT-0, continues-2)
+nsubj(continues-2, S2-1)
+aux(discuss-4, to-3)
+xcomp(continues-2, discuss-4)
+det(necessity-6, the-5)
+dobj(discuss-4, necessity-6)
+amod(boundaries-9, drawing-8)
+prep_of(necessity-6, boundaries-9)
+prep_in(boundaries-9, reason-11)
+det(importance-14, the-13)
+prep_of(necessity-6, importance-14)
+conj_and(boundaries-9, importance-14)
+vmod(importance-14, staying-15)
+prep_on(staying-15, track-17)
+
+S1 is only concerned with gay rights and will talk people out of attending bible churches .
+
+
+root(ROOT-0, concerned-4)
+nsubjpass(concerned-4, S1-1)
+nsubj(talk-10, S1-1)
+auxpass(concerned-4, is-2)
+advmod(concerned-4, only-3)
+amod(rights-7, gay-6)
+prep_with(concerned-4, rights-7)
+aux(talk-10, will-9)
+conj_and(concerned-4, talk-10)
+dobj(talk-10, people-11)
+prepc_out_of(talk-10, attending-14)
+amod(churches-16, bible-15)
+dobj(attending-14, churches-16)
+
+S1 is only concerned with gay rights and will talk people out of attending bible churches .
+
+
+root(ROOT-0, concerned-4)
+nsubjpass(concerned-4, S1-1)
+nsubj(talk-10, S1-1)
+auxpass(concerned-4, is-2)
+advmod(concerned-4, only-3)
+amod(rights-7, gay-6)
+prep_with(concerned-4, rights-7)
+aux(talk-10, will-9)
+conj_and(concerned-4, talk-10)
+dobj(talk-10, people-11)
+prepc_out_of(talk-10, attending-14)
+amod(churches-16, bible-15)
+dobj(attending-14, churches-16)
+

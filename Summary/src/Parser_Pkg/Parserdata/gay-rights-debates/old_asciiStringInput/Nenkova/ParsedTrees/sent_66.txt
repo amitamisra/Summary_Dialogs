@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (PRP He)) (VP (VBZ accepts) (SBAR (IN that) (S (NP (NN everyone)) (VP (VBZ has) (NP (PRP$ their) (JJ own) (NNS values))))))) (CC but) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ unreasonable) (S (VP (TO to) (VP (VB expect) (SBAR (IN that) (S (NP (DT all) (NNS values)) (VP (VBP are) (ADJP (RB socially) (JJ acceptable))))))))))) (. .)))

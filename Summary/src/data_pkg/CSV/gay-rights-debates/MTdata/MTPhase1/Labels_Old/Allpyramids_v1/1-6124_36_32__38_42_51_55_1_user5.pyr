@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 and S2 discuss the civil benefits of marriage and how they could or could not be extended to single people and gay people.  S1 is initially against government being involved in the equation, but after S2 describes many of the legal rights and benefits associated with marriage, such as automatic inheritance and hospital visitation rights, S1 is then able to relate to the issues by considering the case of his life-long bachelor uncle, suggesting that it is single people who are discriminated against by being excluded from the marriage benefits.  S2 suggests that if a single person desires the benefits of marriage, they should marry, but that they should be able to marry a person of either gender as they see fit.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 thinks that the government should stay out of marriage and that it should be left to religious institutions. He thinks there needs to be a better system and that single people are the ones that are harmed the most by marriage laws because they are unable to get any of the benefits that married people do even if they want them, or it is important to their situation. S2 says religious ceremonies aren't what gay people want because they already can have them via churches. They want the rights and to keep the government out would be to give up those rights. If single people want those rights they should get married, but he thinks you should be free to marry who you wish.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>The issue here is whether government or religion should decides the principles of marriage, and who is allowed to get married.</line>
+  <line></line>
+  <line>Speaker one believes that leaving it up to religions groups does not satisfy what gays are looking for. They are searching for the civil benefits that come with a marriage and would like to be treated equally in that respect. The speaker believes gay should be able to marry a person of their choice and get equal rights.</line>
+  <line></line>
+  <line>Speaker two opinions that there should indeed be a better system for marriage benefits and that it is all &quot;single&quot; people that get screwed over by marriage's current stature. Speaker two believes that gay people should marry a woman if they want the same rights.</line>
+  <line></line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing the right to marry.  S1 states that marriage should be left to a religious institution where it would mean something.  S2 states that it is not the ceremonies that gays are looking for, it is all the civil benefits. S1 retorts that there should be a better system, that even allows single people with best friends access to the same benefits.  S2 retorts saying that gays are not single people, and single people can always get married.  S1 contradicts by saying that gay people should just marry the opposite sex, to which S2 states that gay people are seeking the right to marry a person of their choosing, not to just marry anyone for benefits.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two subjects are discussing gay marriage.  S1 believes marriage should not be handled by state or legislature but instead be dealt with on a religious level.  S2 believes the religious aspect is not what gay couples are trying to be a part of.  He/she feels gay couples are more interested in the rights and benefits heterosexual couples are afforded such as insurance and in cases where the relationships dissolve, custody and visitation.  S1 contends he/she feels not there should be a ban on gay marriage but a better system to handle the types of situations which S1 describes.  S2 believes each person should be free to marry whoever he/she chooses as despite the reasoning for the marriage, it is commitment.</line>
+ </text>
+ <scu uid="39" label="Gay couples are interested in the rights and benefits associated with marriage.">
+  <contributor label="S2 states that...it is all the civil benefits">
+   <part label="it is all the civil benefits" start="2436" end="2464"/>
+   <part label="S2 states that" start="2369" end="2383"/>
+  </contributor>
+  <contributor label="He/she feels gay couples are more interested in the rights and benefits heterosexual couples are afforded">
+   <part label="He/she feels gay couples are more interested in the rights and benefits heterosexual couples are afforded" start="3170" end="3275"/>
+  </contributor>
+  <contributor label="They are searching for the civil benefits that come with a marriage and would like to be treated equally in that respect">
+   <part label="They are searching for the civil benefits that come with a marriage and would like to be treated equally in that respect" start="1714" end="1834"/>
+  </contributor>
+  <contributor label="They want the rights and to keep the government out would be to give up those rights">
+   <part label="They want the rights and to keep the government out would be to give up those rights" start="1253" end="1337"/>
+  </contributor>
+  <contributor label="S2 describes many of the legal rights and benefits associated with marriage">
+   <part label="S2 describes many of the legal rights and benefits associated with marriage" start="230" end="305"/>
+  </contributor>
+ </scu>
+ <scu uid="36" label="S1 believes the government should not be involved in marriage and marriage should be left to religious institutions.">
+  <contributor label="S1 is initially against government being involved in the equation">
+   <part label="S1 is initially against government being involved in the equation" start="153" end="218"/>
+  </contributor>
+  <contributor label="S1 thinks that the government should stay out of marriage and that it should be left to religious institutions">
+   <part label="S1 thinks that the government should stay out of marriage and that it should be left to religious institutions" start="776" end="886"/>
+  </contributor>
+  <contributor label="S1 believes marriage should not be handled by state or legislature but instead be dealt with on a religious level">
+   <part label="S1 believes marriage should not be handled by state or legislature but instead be dealt with on a religious level" start="2968" end="3081"/>
+  </contributor>
+  <contributor label="Speaker one believes that leaving it up to religions groups does not satisfy what gays are looking for">
+   <part label="Speaker one believes that leaving it up to religions groups does not satisfy what gays are looking for" start="1610" end="1712"/>
+  </contributor>
+  <contributor label="S1 states that marriage should be left to a religious institution where it would mean something">
+   <part label="S1 states that marriage should be left to a religious institution where it would mean something" start="2271" end="2366"/>
+  </contributor>
+ </scu>
+ <scu uid="42" label="S2 believes gay people should be able to marry a person of their choice and get equal rights.">
+  <contributor label="S2 retorts saying that gays are not single people, and single people can always get married...S2 states that gay people are seeking the right to marry a person of their choosing, not to just marry anyone for benefits">
+   <part label="S2 retorts saying that gays are not single people, and single people can always get married" start="2594" end="2685"/>
+   <part label="S2 states that gay people are seeking the right to marry a person of their choosing, not to just marry anyone for benefits" start="2774" end="2896"/>
+  </contributor>
+  <contributor label="S2 suggests that if a single person desires the benefits of marriage, they should marry...should be able to marry a person of either gender">
+   <part label="should be able to marry a person of either gender" start="682" end="731"/>
+   <part label="S2 suggests that if a single person desires the benefits of marriage, they should marry" start="579" end="666"/>
+  </contributor>
+  <contributor label="The speaker believes gay should be able to marry a person of their choice and get equal rights">
+   <part label="The speaker believes gay should be able to marry a person of their choice and get equal rights" start="1836" end="1930"/>
+  </contributor>
+  <contributor label="S2 believes each person should be free to marry whoever he/she chooses as despite the reasoning for the marriage, it is commitment">
+   <part label="S2 believes each person should be free to marry whoever he/she chooses as despite the reasoning for the marriage, it is commitment" start="3508" end="3638"/>
+  </contributor>
+  <contributor label="If single people want those rights they should get married, but he thinks you should be free to marry who you wish">
+   <part label="If single people want those rights they should get married, but he thinks you should be free to marry who you wish" start="1339" end="1453"/>
+  </contributor>
+ </scu>
+ <scu uid="37" label="Discussion on the civil benefits of marriage and the rights of marriage.">
+  <contributor label="Two subjects are discussing gay marriage">
+   <part label="Two subjects are discussing gay marriage" start="2925" end="2965"/>
+  </contributor>
+  <contributor label="The issue here is whether government or religion should decides the principles of marriage, and who is allowed to get married">
+   <part label="The issue here is whether government or religion should decides the principles of marriage, and who is allowed to get married" start="1482" end="1607"/>
+  </contributor>
+  <contributor label="S1 and S2 discuss the civil benefits of marriage and how they could or could not be extended to single people and gay people">
+   <part label="S1 and S2 discuss the civil benefits of marriage and how they could or could not be extended to single people and gay people" start="26" end="150"/>
+  </contributor>
+  <contributor label="Two people are discussing the right to marry">
+   <part label="Two people are discussing the right to marry" start="2224" end="2268"/>
+  </contributor>
+ </scu>
+ <scu uid="41" label="Gay couples are unable to get any benefits that married people do.">
+  <contributor label="they are unable to get any of the benefits that married people do even if they want them">
+   <part label="they are unable to get any of the benefits that married people do even if they want them" start="1018" end="1106"/>
+  </contributor>
+  <contributor label="allows single people with best friends access to the same benefits">
+   <part label="allows single people with best friends access to the same benefits" start="2525" end="2591"/>
+  </contributor>
+  <contributor label="such as automatic inheritance and hospital visitation rights">
+   <part label="such as automatic inheritance and hospital visitation rights" start="307" end="367"/>
+  </contributor>
+  <contributor label="such as insurance and in cases where the relationships dissolve, custody and visitation">
+   <part label="such as insurance and in cases where the relationships dissolve, custody and visitation" start="3276" end="3363"/>
+  </contributor>
+ </scu>
+ <scu uid="43" label="S1 argues that there should be a better system for marriage benefits.">
+  <contributor label="Speaker two opinions that there should indeed be a better system for marriage benefits">
+   <part label="Speaker two opinions that there should indeed be a better system for marriage benefits" start="1933" end="2019"/>
+  </contributor>
+  <contributor label="S1 retorts that there should be a better system">
+   <part label="S1 retorts that there should be a better system" start="2466" end="2513"/>
+  </contributor>
+  <contributor label="S1 contends he/she feels not there should be a ban on gay marriage but a better system to handle the types of situations">
+   <part label="S1 contends he/she feels not there should be a ban on gay marriage but a better system to handle the types of situations" start="3366" end="3486"/>
+  </contributor>
+  <contributor label="He thinks there needs to be a better system">
+   <part label="He thinks there needs to be a better system" start="888" end="931"/>
+  </contributor>
+ </scu>
+ <scu uid="38" label="Religious ceremonies are not what gay people want.">
+  <contributor label="it is not the ceremonies that gays are looking for">
+   <part label="it is not the ceremonies that gays are looking for" start="2384" end="2434"/>
+  </contributor>
+  <contributor label="S2 believes the religious aspect is not what gay couples are trying to be a part of">
+   <part label="S2 believes the religious aspect is not what gay couples are trying to be a part of" start="3084" end="3167"/>
+  </contributor>
+  <contributor label="S2 says religious ceremonies aren't what gay people want">
+   <part label="S2 says religious ceremonies aren't what gay people want" start="1147" end="1203"/>
+  </contributor>
+ </scu>
+ <scu uid="40" label="Single people are the ones that are harmed the most by marriage laws.">
+  <contributor label="single people are the ones that are harmed the most by marriage laws">
+   <part label="single people are the ones that are harmed the most by marriage laws" start="941" end="1009"/>
+  </contributor>
+  <contributor label="all &quot;single&quot; people that get screwed over by marriage's current stature">
+   <part label="all &quot;single&quot; people that get screwed over by marriage's current stature" start="2035" end="2106"/>
+  </contributor>
+  <contributor label="single people who are discriminated against by being excluded from the marriage benefits">
+   <part label="single people who are discriminated against by being excluded from the marriage benefits" start="488" end="576"/>
+  </contributor>
+ </scu>
+ <scu uid="44" label="S2 believes gay people should marry the opposite sex if they want the same rights.">
+  <contributor label="Speaker two believes that gay people should marry a woman if they want the same rights">
+   <part label="Speaker two believes that gay people should marry a woman if they want the same rights" start="2108" end="2194"/>
+  </contributor>
+  <contributor label="S1 contradicts by saying that gay people should just marry the opposite sex">
+   <part label="S1 contradicts by saying that gay people should just marry the opposite sex" start="2688" end="2763"/>
+  </contributor>
+ </scu>
+ <scu uid="47" label="gays have religious ceremonies  already can have them via churches">
+  <contributor label="they already can have them via churches">
+   <part label="they already can have them via churches" start="1212" end="1251"/>
+  </contributor>
+ </scu>
+ <scu uid="185" label="S1 is then able to relate to the issues by considering the case of his life-long bachelor uncle">
+  <contributor label="S1 is then able to relate to the issues by considering the case of his life-long bachelor uncle">
+   <part label="S1 is then able to relate to the issues by considering the case of his life-long bachelor uncle" start="369" end="464"/>
+  </contributor>
+ </scu>
+</pyramid>

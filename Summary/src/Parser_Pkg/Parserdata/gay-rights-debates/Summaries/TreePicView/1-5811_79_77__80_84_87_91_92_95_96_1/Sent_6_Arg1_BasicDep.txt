@@ -1,0 +1,7 @@
+root(ROOT-0, based-5)
+det(agenda-3, the-1)
+amod(agenda-3, anti-gay-2)
+nsubjpass(based-5, agenda-3)
+auxpass(based-5, is-4)
+prep(based-5, on-6)
+pobj(on-6, prejudice-7)

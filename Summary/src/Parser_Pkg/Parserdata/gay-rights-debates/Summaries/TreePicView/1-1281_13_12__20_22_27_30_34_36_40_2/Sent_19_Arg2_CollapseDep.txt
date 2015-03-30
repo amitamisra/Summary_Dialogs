@@ -1,0 +1,8 @@
+root(ROOT-0, make-6)
+csubj(make-6, being-1)
+det(woman-4, a-3)
+prep_with(being-1, woman-4)
+aux(make-6, may-5)
+nsubj(feared-9, them-7)
+advmod(feared-9, less-8)
+xcomp(make-6, feared-9)

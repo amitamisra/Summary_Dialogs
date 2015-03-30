@@ -1,0 +1,28 @@
+ the heterosexual divorce rate is 50 % , heterosexuals are not better at.
+root(ROOT-0, are-10)
+det(rate-4, the-1)
+amod(rate-4, heterosexual-2)
+nn(rate-4, divorce-3)
+nsubj(%-7, rate-4)
+cop(%-7, is-5)
+num(%-7, 50-6)
+ccomp(are-10, %-7)
+nsubj(are-10, heterosexuals-9)
+neg(are-10, not-11)
+advmod(are-10, better-12)
+advmod(are-10, at-13)
+
+ the heterosexual divorce rate is 50 % , heterosexuals are not better at.
+root(ROOT-0, are-10)
+det(rate-4, the-1)
+amod(rate-4, heterosexual-2)
+nn(rate-4, divorce-3)
+nsubj(%-7, rate-4)
+cop(%-7, is-5)
+num(%-7, 50-6)
+ccomp(are-10, %-7)
+nsubj(are-10, heterosexuals-9)
+neg(are-10, not-11)
+advmod(are-10, better-12)
+advmod(are-10, at-13)
+

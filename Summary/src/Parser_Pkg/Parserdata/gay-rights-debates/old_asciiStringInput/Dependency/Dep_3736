@@ -1,0 +1,28 @@
+(S1) bring to (S2)s attention the overturning of the 9th in Maines results.
+root(ROOT-0, attention-10)
+nsubj(attention-10, S1-2)
+rcmod(S1-2, bring-4)
+prep(bring-4, to-5)
+appos(S1-2, S2-7)
+cop(attention-10, s-9)
+dep(attention-10, the-11)
+vmod(attention-10, overturning-12)
+det(9th-15, the-14)
+prep_of(overturning-12, 9th-15)
+nn(results-18, Maines-17)
+prep_in(9th-15, results-18)
+
+(S1) bring to (S2)s attention the overturning of the 9th in Maines results.
+root(ROOT-0, attention-10)
+nsubj(attention-10, S1-2)
+rcmod(S1-2, bring-4)
+prep(bring-4, to-5)
+appos(S1-2, S2-7)
+cop(attention-10, s-9)
+dep(attention-10, the-11)
+vmod(attention-10, overturning-12)
+det(9th-15, the-14)
+prep_of(overturning-12, 9th-15)
+nn(results-18, Maines-17)
+prep_in(9th-15, results-18)
+

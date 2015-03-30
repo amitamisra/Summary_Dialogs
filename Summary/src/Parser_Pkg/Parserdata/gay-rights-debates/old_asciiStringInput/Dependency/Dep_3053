@@ -1,0 +1,24 @@
+ that he has a right be against gay marriage .
+
+
+root(ROOT-0, be-6)
+mark(has-3, that-1)
+nsubj(has-3, he-2)
+csubj(be-6, has-3)
+det(right-5, a-4)
+dobj(has-3, right-5)
+amod(marriage-9, gay-8)
+prep_against(be-6, marriage-9)
+
+ that he has a right be against gay marriage .
+
+
+root(ROOT-0, be-6)
+mark(has-3, that-1)
+nsubj(has-3, he-2)
+csubj(be-6, has-3)
+det(right-5, a-4)
+dobj(has-3, right-5)
+amod(marriage-9, gay-8)
+prep_against(be-6, marriage-9)
+

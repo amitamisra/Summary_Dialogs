@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (VBG casting) (NNS gays)) (PP (IN as#0#0) (NP (NP (NNS spreaders)) (PP (IN of) (NP (NNS AIs)))))) (VP (ADVP (RB alone)) (VBZ drives) (NP (NN hate-speech)))))) (. .)))

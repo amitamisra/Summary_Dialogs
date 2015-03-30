@@ -1,0 +1,5 @@
+root(ROOT-0, natural-5)
+amod(families-2, single-1)
+nsubj(natural-5, families-2)
+cop(natural-5, is-3)
+neg(natural-5, not-4)

@@ -1,0 +1,8 @@
+root(ROOT-0, want-5)
+amod(people-2, many-1)
+nsubj(want-5, people-2)
+aux(want-5, do-3)
+neg(want-5, not-4)
+amod(marriage-7, gay-6)
+dobj(want-5, marriage-7)
+appos(marriage-7, includingm-9)

@@ -1,0 +1,1 @@
+S2 understands the perspective of S1 but does not think it is a valid argument.

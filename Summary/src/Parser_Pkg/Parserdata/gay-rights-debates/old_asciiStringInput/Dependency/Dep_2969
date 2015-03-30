@@ -1,0 +1,30 @@
+ that the pastemocratic presidents left far fewer deficits than the Republican presidents .
+
+
+root(ROOT-0, left-5)
+mark(left-5, that-1)
+det(presidents-4, the-2)
+amod(presidents-4, pastemocratic-3)
+nsubj(left-5, presidents-4)
+advmod(fewer-7, far-6)
+amod(deficits-8, fewer-7)
+dobj(left-5, deficits-8)
+det(presidents-12, the-10)
+amod(presidents-12, Republican-11)
+prep_than(left-5, presidents-12)
+
+ that the pastemocratic presidents left far fewer deficits than the Republican presidents .
+
+
+root(ROOT-0, left-5)
+mark(left-5, that-1)
+det(presidents-4, the-2)
+amod(presidents-4, pastemocratic-3)
+nsubj(left-5, presidents-4)
+advmod(fewer-7, far-6)
+amod(deficits-8, fewer-7)
+dobj(left-5, deficits-8)
+det(presidents-12, the-10)
+amod(presidents-12, Republican-11)
+prep_than(left-5, presidents-12)
+

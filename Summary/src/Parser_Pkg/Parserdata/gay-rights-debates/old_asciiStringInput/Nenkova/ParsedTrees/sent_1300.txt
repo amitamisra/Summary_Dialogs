@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VP (VBZ is) (RB not) (VP (VBG trying) (S (VP (TO to) (VP (VB ignore) (NP (NN S2))))))) (CC and) (VP (VBZ defends) (RB not) (VP (VBG attacking) (NP (NN S2)) (PP (JJ due) (TO to) (NP (NP (DT the) (NN change)) (PP (IN of) (NP (NP (NN tone)) (PP (IN of) (NP (NN S2)))))))))) (. .)))

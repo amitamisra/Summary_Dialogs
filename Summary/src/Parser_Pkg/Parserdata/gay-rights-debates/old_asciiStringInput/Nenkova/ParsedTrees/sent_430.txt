@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ says) (SBAR (S (NP (PRP we)) (VP (VBP benefit) (PP (IN from) (NP (NP (NNS families)) (PP (IN with) (NP (NP (JJ adopted) (NNS children)) (, ,) (NP (NN step) (NNS children)) (, ,) (CC or) (NP (NP (NNS families)) (PP (IN with) (NP (DT no) (NNS children)))))))) (ADVP (IN at) (DT all)))))) (. .)))

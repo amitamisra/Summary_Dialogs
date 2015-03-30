@@ -1,0 +1,38 @@
+   that a daisy chain of 100 men perform unprotected sex on each other in the bath houses 
+root(ROOT-0, perform-8)
+mark(perform-8, that-1)
+det(chain-4, a-2)
+amod(chain-4, daisy-3)
+nsubj(perform-8, chain-4)
+num(men-7, 100-6)
+prep_of(chain-4, men-7)
+amod(sex-10, unprotected-9)
+dobj(perform-8, sex-10)
+det(other-13, each-12)
+prep_on(perform-8, other-13)
+det(houses-17, the-15)
+nn(houses-17, bath-16)
+prep_in(other-13, houses-17)
+
+S1 is against gay marriage as well as shared healthcare between gay couples.
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+amod(marriage-5, gay-4)
+prep_against(is-2, marriage-5)
+amod(healthcare-10, shared-9)
+prep_against(is-2, healthcare-10)
+conj_and(marriage-5, healthcare-10)
+amod(couples-13, gay-12)
+prep_between(healthcare-10, couples-13)
+
+S1 is against gay marriage as well as shared healthcare between gay couples.
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+amod(marriage-5, gay-4)
+prep_against(is-2, marriage-5)
+amod(healthcare-10, shared-9)
+prep_against(is-2, healthcare-10)
+conj_and(marriage-5, healthcare-10)
+amod(couples-13, gay-12)
+prep_between(healthcare-10, couples-13)
+

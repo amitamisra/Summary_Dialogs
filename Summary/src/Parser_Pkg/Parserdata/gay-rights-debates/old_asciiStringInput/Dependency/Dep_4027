@@ -1,0 +1,18 @@
+  the power of the government comes from the people 
+root(ROOT-0, comes-6)
+det(power-2, the-1)
+nsubj(comes-6, power-2)
+det(government-5, the-4)
+prep_of(power-2, government-5)
+det(people-9, the-8)
+prep_from(comes-6, people-9)
+
+  the power of the government comes from the people 
+root(ROOT-0, comes-6)
+det(power-2, the-1)
+nsubj(comes-6, power-2)
+det(government-5, the-4)
+prep_of(power-2, government-5)
+det(people-9, the-8)
+prep_from(comes-6, people-9)
+

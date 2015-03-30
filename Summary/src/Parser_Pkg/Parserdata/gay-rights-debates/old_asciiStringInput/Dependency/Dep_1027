@@ -1,0 +1,26 @@
+  he would find someone else to do it 
+root(ROOT-0, find-3)
+nsubj(find-3, he-1)
+aux(find-3, would-2)
+nsubj(do-7, someone-4)
+advmod(someone-4, else-5)
+aux(do-7, to-6)
+xcomp(find-3, do-7)
+dobj(do-7, it-8)
+
+   the definition of marriage does not change 
+root(ROOT-0, change-7)
+det(definition-2, the-1)
+nsubj(change-7, definition-2)
+prep_of(definition-2, marriage-4)
+aux(change-7, does-5)
+neg(change-7, not-6)
+
+   the definition of marriage does not change 
+root(ROOT-0, change-7)
+det(definition-2, the-1)
+nsubj(change-7, definition-2)
+prep_of(definition-2, marriage-4)
+aux(change-7, does-5)
+neg(change-7, not-6)
+

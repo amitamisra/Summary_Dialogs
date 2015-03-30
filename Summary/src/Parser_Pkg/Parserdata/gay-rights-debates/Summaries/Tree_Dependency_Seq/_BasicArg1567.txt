@@ -1,0 +1,5 @@
+root(ROOT-0, label-3)
+advmod(label-3, Particularly-1)
+det(label-3, the-2)
+prep(label-3, of-4)
+pobj(of-4, perversion-5)

@@ -1,0 +1,16 @@
+Hence gays have to resort to redefining marriage to secure legal rights under the marriage arrangement.
+root(ROOT-0, have-3)
+advmod(have-3, Hence-1)
+nsubj(have-3, gays-2)
+aux(resort-5, to-4)
+xcomp(have-3, resort-5)
+prepc_to(resort-5, redefining-7)
+dobj(redefining-7, marriage-8)
+aux(secure-10, to-9)
+vmod(redefining-7, secure-10)
+amod(rights-12, legal-11)
+dobj(secure-10, rights-12)
+det(arrangement-16, the-14)
+nn(arrangement-16, marriage-15)
+prep_under(secure-10, arrangement-16)
+

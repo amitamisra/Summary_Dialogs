@@ -1,0 +1,3 @@
+root(ROOT-0, natural-3)
+nsubj(natural-3, it-1)
+cop(natural-3, is-2)

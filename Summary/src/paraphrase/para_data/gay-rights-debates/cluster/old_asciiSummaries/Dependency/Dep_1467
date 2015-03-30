@@ -1,0 +1,17 @@
+(S2) argues that there is regular denigration of gays and mentions politicians unhelpful views on gay marriage.
+root(ROOT-0, argues-4)
+nsubj(argues-4, S2-2)
+mark(denigration-9, that-5)
+expl(denigration-9, there-6)
+cop(denigration-9, is-7)
+amod(denigration-9, regular-8)
+ccomp(argues-4, denigration-9)
+prep_of(denigration-9, gays-11)
+ccomp(argues-4, mentions-13)
+conj_and(denigration-9, mentions-13)
+npadvmod(unhelpful-15, politicians-14)
+amod(views-16, unhelpful-15)
+dobj(mentions-13, views-16)
+amod(marriage-19, gay-18)
+prep_on(mentions-13, marriage-19)
+

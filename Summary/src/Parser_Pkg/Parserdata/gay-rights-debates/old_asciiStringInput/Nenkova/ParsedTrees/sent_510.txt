@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ talks) (PP (IN about) (NP (NNP Paul) (NNP Cameron))) (NP (NP (DT a) (NN psychologist)) (VP (VBG having) (NP (NN nothing)) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (NP (NNS politicians) (NNS ideas)) (CC or) (NP (NNS decisions)))))))))) (. .)))

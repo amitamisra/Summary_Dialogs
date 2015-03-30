@@ -1,0 +1,52 @@
+ it laughable to try to defend the GOP when one of their admittedly most effective propaganda campaigns is to rally the '' family-values '' crowd against gay rights .
+
+
+root(ROOT-0, it-1)
+amod(it-1, laughable-2)
+aux(try-4, to-3)
+xcomp(laughable-2, try-4)
+aux(defend-6, to-5)
+xcomp(try-4, defend-6)
+det(GOP-8, the-7)
+dobj(defend-6, GOP-8)
+advmod(is-18, when-9)
+nsubj(is-18, one-10)
+poss(campaigns-17, their-12)
+advmod(effective-15, admittedly-13)
+advmod(effective-15, most-14)
+amod(campaigns-17, effective-15)
+nn(campaigns-17, propaganda-16)
+prep_of(one-10, campaigns-17)
+advcl(defend-6, is-18)
+aux(rally-20, to-19)
+xcomp(is-18, rally-20)
+dobj(rally-20, the-21)
+dobj(defend-6, family-values-23)
+npadvmod(defend-6, crowd-25)
+amod(rights-28, gay-27)
+prep_against(defend-6, rights-28)
+
+Two people are discussing politics and gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+dobj(discussing-4, politics-5)
+amod(marriage-8, gay-7)
+dobj(discussing-4, marriage-8)
+conj_and(politics-5, marriage-8)
+
+Two people are discussing politics and gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+dobj(discussing-4, politics-5)
+amod(marriage-8, gay-7)
+dobj(discussing-4, marriage-8)
+conj_and(politics-5, marriage-8)
+

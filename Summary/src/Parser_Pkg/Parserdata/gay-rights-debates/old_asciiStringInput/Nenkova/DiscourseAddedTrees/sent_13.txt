@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (NNS states)) (PP (IN that) (NP (DT all) (NN sex)))) (VP (VBZ is) (NP (NN behavior))) (. .)))

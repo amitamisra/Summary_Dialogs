@@ -1,0 +1,9 @@
+qualificationRequestToReject	qualificationRequestToRejectComment
+3UP7ANWDCMV21195T6JR8YL4KAUU90	Summaries missing arguments in the discussion
+30WBVE8WIXWDNUWGCY5QD605D1LAL3	Summaries missing arguments in the discussion
+39TUNPQ9RK6WG3A3AV45UVLGKDGXCE	Summaries missing arguments in the discussion
+3UK66V1A26ZJRM2P90CKVOC5T9PDOR	Summaries missing arguments in the discussion
+3UVVW8K86SBK7DQ5L2AVZCK5C8LLNZ	Summaries missing arguments in the discussion
+3PS0SV5FRMT1912D8LC7GZC03ZPNDR	Summaries missing arguments in the discussion, shorter than word length given
+3DFYV2U54F2JIATA37GGBJRHGZF9YP	Summaries missing arguments in the discussion
+32QQ44214MAYL5GZ3XVZ03E5LSZ4LY	Summaries missing arguments in the discussion

@@ -1,0 +1,24 @@
+They also believe that homosexuals are more promiscuous than heterosexuals.
+root(ROOT-0, believe-3)
+nsubj(believe-3, They-1)
+advmod(believe-3, also-2)
+mark(promiscuous-8, that-4)
+nsubj(promiscuous-8, homosexuals-5)
+cop(promiscuous-8, are-6)
+advmod(promiscuous-8, more-7)
+ccomp(believe-3, promiscuous-8)
+prep(promiscuous-8, than-9)
+pobj(than-9, heterosexuals-10)
+
+They also believe that homosexuals are more promiscuous than heterosexuals.
+root(ROOT-0, believe-3)
+nsubj(believe-3, They-1)
+advmod(believe-3, also-2)
+mark(promiscuous-8, that-4)
+nsubj(promiscuous-8, homosexuals-5)
+cop(promiscuous-8, are-6)
+advmod(promiscuous-8, more-7)
+ccomp(believe-3, promiscuous-8)
+prep(promiscuous-8, than-9)
+pobj(than-9, heterosexuals-10)
+

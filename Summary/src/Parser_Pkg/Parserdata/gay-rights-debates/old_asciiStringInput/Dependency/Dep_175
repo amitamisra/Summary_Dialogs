@@ -1,0 +1,38 @@
+Two people are discussing marriage benefits .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+nn(benefits-6, marriage-5)
+dobj(discussing-4, benefits-6)
+
+Without gay marriage , the state has to support the dependent spouse .
+
+
+root(ROOT-0, has-7)
+amod(marriage-3, gay-2)
+prep_without(has-7, marriage-3)
+det(state-6, the-5)
+nsubj(has-7, state-6)
+aux(support-9, to-8)
+xcomp(has-7, support-9)
+det(spouse-12, the-10)
+amod(spouse-12, dependent-11)
+dobj(support-9, spouse-12)
+
+Without gay marriage , the state has to support the dependent spouse .
+
+
+root(ROOT-0, has-7)
+amod(marriage-3, gay-2)
+prep_without(has-7, marriage-3)
+det(state-6, the-5)
+nsubj(has-7, state-6)
+aux(support-9, to-8)
+xcomp(has-7, support-9)
+det(spouse-12, the-10)
+amod(spouse-12, dependent-11)
+dobj(support-9, spouse-12)
+

@@ -1,0 +1,28 @@
+it will allow other issues like incest and polygamy to become legal.
+root(ROOT-0, allow-3)
+nsubj(allow-3, it-1)
+aux(allow-3, will-2)
+amod(issues-5, other-4)
+dobj(allow-3, issues-5)
+prep(issues-5, like-6)
+pobj(like-6, incest-7)
+cc(incest-7, and-8)
+conj(incest-7, polygamy-9)
+aux(legal-12, to-10)
+cop(legal-12, become-11)
+xcomp(allow-3, legal-12)
+
+it will allow other issues like incest and polygamy to become legal.
+root(ROOT-0, allow-3)
+nsubj(allow-3, it-1)
+aux(allow-3, will-2)
+amod(issues-5, other-4)
+dobj(allow-3, issues-5)
+prep(issues-5, like-6)
+pobj(like-6, incest-7)
+cc(incest-7, and-8)
+conj(incest-7, polygamy-9)
+aux(legal-12, to-10)
+cop(legal-12, become-11)
+xcomp(allow-3, legal-12)
+

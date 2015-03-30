@@ -1,0 +1,4 @@
+root(ROOT-0, used-2)
+nsubj(used-2, it-1)
+aux(be-4, to-3)
+xcomp(used-2, be-4)

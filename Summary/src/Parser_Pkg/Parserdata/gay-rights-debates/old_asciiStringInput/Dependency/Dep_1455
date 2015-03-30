@@ -1,0 +1,30 @@
+Two people are discussing gay rights .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(rights-6, gay-5)
+dobj(discussing-4, rights-6)
+
+S1 accuses S2 of being a reactionist .
+
+
+root(ROOT-0, accuses-2)
+nsubj(accuses-2, S1-1)
+dobj(accuses-2, S2-3)
+cop(reactionist-7, being-5)
+det(reactionist-7, a-6)
+prepc_of(S2-3, reactionist-7)
+
+S1 accuses S2 of being a reactionist .
+
+
+root(ROOT-0, accuses-2)
+nsubj(accuses-2, S1-1)
+dobj(accuses-2, S2-3)
+cop(reactionist-7, being-5)
+det(reactionist-7, a-6)
+prepc_of(S2-3, reactionist-7)
+

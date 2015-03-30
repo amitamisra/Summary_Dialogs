@@ -1,0 +1,6 @@
+root(ROOT-0, vilifies-2)
+nsubj(vilifies-2, it-1)
+det(group-4, a-3)
+dobj(vilifies-2, group-4)
+prep(group-4, of-5)
+pobj(of-5, people-6)

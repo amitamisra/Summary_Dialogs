@@ -1,0 +1,14 @@
+The Greeks had homosexual liaisons, some from desire, some for a form of mentoring reasons.
+root(ROOT-0, had-3)
+det(Greeks-2, The-1)
+nsubj(had-3, Greeks-2)
+amod(liaisons-5, homosexual-4)
+dobj(had-3, liaisons-5)
+appos(liaisons-5, some-7)
+prep_from(some-7, desire-9)
+appos(liaisons-5, some-11)
+det(form-14, a-13)
+prep_for(had-3, form-14)
+nn(reasons-17, mentoring-16)
+prep_of(form-14, reasons-17)
+

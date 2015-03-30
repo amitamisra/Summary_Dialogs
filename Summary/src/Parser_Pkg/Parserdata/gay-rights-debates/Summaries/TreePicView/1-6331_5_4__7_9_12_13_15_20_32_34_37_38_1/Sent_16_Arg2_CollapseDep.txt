@@ -1,0 +1,8 @@
+root(ROOT-0, face-1)
+det(subject-3, the-2)
+dobj(face-1, subject-3)
+amod(types-6, other-5)
+prep_of(subject-3, types-6)
+prep_of(types-6, unions-8)
+advmod(well-10, as-9)
+advmod(unions-8, well-10)

@@ -1,0 +1,27 @@
+ There were terms for gay men back then , like sodomite and molly , 
+root(ROOT-0, were-2)
+expl(were-2, There-1)
+nsubj(were-2, terms-3)
+amod(men-6, gay-5)
+prep_for(terms-3, men-6)
+advmod(then-8, back-7)
+advmod(were-2, then-8)
+dep(then-8, like-10)
+pobj(like-10, sodomite-11)
+pobj(like-10, molly-13)
+conj_and(sodomite-11, molly-13)
+
+Everyone else should condemn it.
+root(ROOT-0, condemn-4)
+nsubj(condemn-4, Everyone-1)
+advmod(Everyone-1, else-2)
+aux(condemn-4, should-3)
+dobj(condemn-4, it-5)
+
+Everyone else should condemn it.
+root(ROOT-0, condemn-4)
+nsubj(condemn-4, Everyone-1)
+advmod(Everyone-1, else-2)
+aux(condemn-4, should-3)
+dobj(condemn-4, it-5)
+

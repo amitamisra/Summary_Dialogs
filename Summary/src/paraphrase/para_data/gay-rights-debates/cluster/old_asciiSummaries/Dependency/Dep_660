@@ -1,0 +1,10 @@
+He asserts no electorate would vote for gay marriage.
+root(ROOT-0, asserts-2)
+nsubj(asserts-2, He-1)
+neg(electorate-4, no-3)
+nsubj(vote-6, electorate-4)
+aux(vote-6, would-5)
+ccomp(asserts-2, vote-6)
+amod(marriage-9, gay-8)
+prep_for(vote-6, marriage-9)
+

@@ -1,0 +1,27 @@
+S1 rebuts stating.
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S1-1)
+xcomp(rebuts-2, stating-3)
+
+S1 rebuts stating.
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S1-1)
+xcomp(rebuts-2, stating-3)
+
+S1 rebuts stating.
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S1-1)
+xcomp(rebuts-2, stating-3)
+
+S1 and S2 are discussing the topic of gay marriage.
+root(ROOT-0, discussing-5)
+nsubj(discussing-5, S1-1)
+cc(S1-1, and-2)
+conj(S1-1, S2-3)
+aux(discussing-5, are-4)
+det(topic-7, the-6)
+dobj(discussing-5, topic-7)
+prep(topic-7, of-8)
+amod(marriage-10, gay-9)
+pobj(of-8, marriage-10)
+

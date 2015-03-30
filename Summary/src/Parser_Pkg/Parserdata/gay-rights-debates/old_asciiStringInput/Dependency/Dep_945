@@ -1,0 +1,34 @@
+ S2 talks about what if a proposed law hurt someone 
+root(ROOT-0, talks-2)
+nn(talks-2, S2-1)
+prep_about(talks-2, what-4)
+det(someone-10, a-6)
+amod(someone-10, proposed-7)
+nn(someone-10, law-8)
+nn(someone-10, hurt-9)
+prep_if(talks-2, someone-10)
+
+   that those accusing them of doing so are doing so falsely 
+root(ROOT-0, doing-9)
+mark(doing-9, that-1)
+nsubj(doing-9, those-2)
+vmod(those-2, accusing-3)
+dobj(accusing-3, them-4)
+prepc_of(accusing-3, doing-6)
+advmod(doing-6, so-7)
+aux(doing-9, are-8)
+advmod(doing-9, so-10)
+advmod(doing-9, falsely-11)
+
+   that those accusing them of doing so are doing so falsely 
+root(ROOT-0, doing-9)
+mark(doing-9, that-1)
+nsubj(doing-9, those-2)
+vmod(those-2, accusing-3)
+dobj(accusing-3, them-4)
+prepc_of(accusing-3, doing-6)
+advmod(doing-6, so-7)
+aux(doing-9, are-8)
+advmod(doing-9, so-10)
+advmod(doing-9, falsely-11)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, mentioned-4)
+det(parties-3, the-1)
+amod(parties-3, other-2)
+nsubj(mentioned-4, parties-3)
+ccomp(mentioned-4, went-5)
+advmod(went-5, and-6)

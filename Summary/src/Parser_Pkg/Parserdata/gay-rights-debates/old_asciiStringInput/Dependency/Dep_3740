@@ -1,0 +1,28 @@
+This means that the results reflect how the voters feel about gay marriage.
+root(ROOT-0, means-2)
+nsubj(means-2, This-1)
+mark(reflect-6, that-3)
+det(results-5, the-4)
+nsubj(reflect-6, results-5)
+ccomp(means-2, reflect-6)
+advmod(feel-10, how-7)
+det(voters-9, the-8)
+nsubj(feel-10, voters-9)
+ccomp(reflect-6, feel-10)
+amod(marriage-13, gay-12)
+prep_about(feel-10, marriage-13)
+
+This means that the results reflect how the voters feel about gay marriage.
+root(ROOT-0, means-2)
+nsubj(means-2, This-1)
+mark(reflect-6, that-3)
+det(results-5, the-4)
+nsubj(reflect-6, results-5)
+ccomp(means-2, reflect-6)
+advmod(feel-10, how-7)
+det(voters-9, the-8)
+nsubj(feel-10, voters-9)
+ccomp(reflect-6, feel-10)
+amod(marriage-13, gay-12)
+prep_about(feel-10, marriage-13)
+

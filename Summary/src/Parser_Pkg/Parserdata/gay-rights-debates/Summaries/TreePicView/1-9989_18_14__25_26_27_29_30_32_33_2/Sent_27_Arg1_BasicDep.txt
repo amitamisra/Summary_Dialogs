@@ -1,0 +1,8 @@
+root(ROOT-0, protected-5)
+amod(speech-2, free-1)
+nsubjpass(protected-5, speech-2)
+auxpass(protected-5, is-3)
+advmod(protected-5, inherently-4)
+prep(protected-5, through-6)
+det(constitution-8, the-7)
+pobj(through-6, constitution-8)

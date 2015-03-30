@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG discussing) (NP (NP (NP (NN society) (POS 's)) (NN attitude)) (PP (IN toward) (NP (NP (NN homosexuality)) (PP (IN in) (NP (NP (CD 1909)) (PP (IN in) (NP (NN reaction)))))))) (PP (TO to) (NP (DT a) (NN court) (NN case))) (S (VP (VBG addressing) (NP (DT a) (CD 1909) (NN issue)))))) (. .)))

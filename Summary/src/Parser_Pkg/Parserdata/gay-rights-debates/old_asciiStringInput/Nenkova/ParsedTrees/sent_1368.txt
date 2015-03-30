@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (DT the) (NN government)) (VP (MD should) (VP (VB have) (NP (NP (DT no) (NN say)) (PP (IN in) (NP (NN marriage))))))))) (. .)))

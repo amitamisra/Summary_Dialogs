@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ contends) (SBAR (IN that) (S (NP (PRP$ his) (NN family)) (VP (VBZ represents) (NP (NP (DT the) (NN norm)) (, ,) (RB not) (NP (DT a) (NN deviation))) (PP (IN from) (NP (PRP it))))))) (. .)))

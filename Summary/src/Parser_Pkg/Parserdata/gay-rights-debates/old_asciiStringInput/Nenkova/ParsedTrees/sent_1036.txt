@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ doubts) (SBAR (S (NP (NN S1)) (VP (VBZ is) (PP (IN against) (NP (NN diversity))) (SBAR (IN so) (S (NP (PRP he)) (VP (VBZ thinks) (SBAR (S (NP (PRP he)) (ADVP (RB simply)) (VP (VBZ hates) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NP (PRP it)) (, ,) (NP (JJ gay) (NNS people))))))))))))))) (. .)))

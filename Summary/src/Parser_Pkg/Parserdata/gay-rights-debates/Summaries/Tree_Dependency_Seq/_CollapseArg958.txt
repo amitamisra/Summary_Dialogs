@@ -1,0 +1,5 @@
+root(ROOT-0, is-2)
+nsubj(is-2, he/she-1)
+amod(relationships-6, same-4)
+nn(relationships-6, sex-5)
+prep_against(is-2, relationships-6)

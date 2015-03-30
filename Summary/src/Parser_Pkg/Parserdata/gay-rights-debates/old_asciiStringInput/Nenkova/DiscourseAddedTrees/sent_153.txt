@@ -1,0 +1,1 @@
+(ROOT (S (ADVP (RB Therefore#0#Contingency)) (, ,) (NP (NP (NN slavery)) (CC and#1#0) (NP (NP (NNS women) (POS 's)) (NNS rights))) (VP (VBP are) (NP (JJ bad) (NNS comparisons))) (. .)))

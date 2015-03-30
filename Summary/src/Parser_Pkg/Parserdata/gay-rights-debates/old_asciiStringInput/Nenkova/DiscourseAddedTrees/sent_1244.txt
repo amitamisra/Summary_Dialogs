@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (IN that) (S (NP (PRP he)) (VP (VBP know) (SBAR (IN that) (S (NP (EX there)) (VP (VBZ is) (NP (NN inconsistency)))))))))) (CC but#0#Comparison) (S (NP (PRP he)) (VP (VBZ does) (RB not) (VP (VB care)))) (. .)))

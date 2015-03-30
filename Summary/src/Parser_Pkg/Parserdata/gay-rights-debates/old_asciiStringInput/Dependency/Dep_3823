@@ -1,0 +1,12 @@
+   they end the conversation . 
+root(ROOT-0, end-2)
+nsubj(end-2, they-1)
+det(conversation-4, the-3)
+dobj(end-2, conversation-4)
+
+   they end the conversation . 
+root(ROOT-0, end-2)
+nsubj(end-2, they-1)
+det(conversation-4, the-3)
+dobj(end-2, conversation-4)
+

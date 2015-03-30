@@ -1,0 +1,1 @@
+(ROOT (S (ADVP (RB Also#0#Expansion)) (, ,) (NP (NN S2)) (VP (VBZ adds) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ does) (RB n't) (VP (VB need) (S (VP (TO to) (VP (VB prove) (NP (NP (PRP$ his) (NNS beliefs)) (SBAR (S (NP (DT the) (JJ same) (NN way) (NN S1)) (VP (MD should) (RB n't) (VP (VB dictate) (NP (PRP$ his) (NNS beliefs))))))))))))))) (. .)))

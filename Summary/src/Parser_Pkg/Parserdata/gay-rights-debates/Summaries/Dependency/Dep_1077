@@ -1,0 +1,16 @@
+ homosexuals are more promiscuous than heterosexuals.
+root(ROOT-0, promiscuous-4)
+nsubj(promiscuous-4, homosexuals-1)
+cop(promiscuous-4, are-2)
+advmod(promiscuous-4, more-3)
+prep(promiscuous-4, than-5)
+pobj(than-5, heterosexuals-6)
+
+ homosexuals are more promiscuous than heterosexuals.
+root(ROOT-0, promiscuous-4)
+nsubj(promiscuous-4, homosexuals-1)
+cop(promiscuous-4, are-2)
+advmod(promiscuous-4, more-3)
+prep(promiscuous-4, than-5)
+pobj(than-5, heterosexuals-6)
+

@@ -1,0 +1,7 @@
+#doc name topic proportion ...
+0	file:/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/summary_inp/1-35_148_147__149_151_152_155_156_1/.DS_Store	1	0.41520467836257313	2	0.2923976608187135	0	0.2923976608187135	
+1	file:/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/summary_inp/1-35_148_147__149_151_152_155_156_1/summ_1.txt	1	0.369281045751634	2	0.3398692810457517	0	0.2908496732026144	
+2	file:/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/summary_inp/1-35_148_147__149_151_152_155_156_1/summ_2.txt	1	0.3817663817663818	2	0.321937321937322	0	0.29629629629629634	
+3	file:/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/summary_inp/1-35_148_147__149_151_152_155_156_1/summ_3.txt	2	0.505952380952381	0	0.255952380952381	1	0.2380952380952381	
+4	file:/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/summary_inp/1-35_148_147__149_151_152_155_156_1/summ_4.txt	2	0.37654320987654327	1	0.31172839506172845	0	0.31172839506172845	
+5	file:/Users/amita/git/summary_repo/Summary/src/topic_modelling/topic_data/gay-rights-debates/modeling_input/summary_inp/1-35_148_147__149_151_152_155_156_1/summ_5.txt	2	0.38283828382838286	1	0.31353135313531355	0	0.30363036303630364	

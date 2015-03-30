@@ -1,0 +1,5 @@
+(same-unit[N][N]
+  _!( S1 )!_
+  (Enablement[N][S]
+    (Attribution[S][N] _!then asks!_ _!( S2 )!_)
+    _!to stay on point and not divert the conversation . <s>!_))

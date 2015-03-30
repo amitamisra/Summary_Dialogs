@@ -1,0 +1,8 @@
+root(ROOT-0, conflicts-2)
+nsubj(conflicts-2, it-1)
+prep(conflicts-2, with-3)
+poss(conscience-5, their-4)
+pobj(with-3, conscience-5)
+conj(conscience-5, religion-7)
+cc(conscience-5, or-9)
+conj(conscience-5, beliefs-10)

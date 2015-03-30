@@ -1,0 +1,24 @@
+-LRB- S1 -RRB- accuses -LRB- S2 -RRB- about lying about what other have said .
+
+
+root(ROOT-0, accuses-4)
+nsubj(accuses-4, S1-2)
+dobj(accuses-4, S2-6)
+prepc_about(S2-6, lying-9)
+dobj(said-14, what-11)
+nsubj(said-14, other-12)
+aux(said-14, have-13)
+prepc_about(lying-9, said-14)
+
+-LRB- S1 -RRB- accuses -LRB- S2 -RRB- about lying about what other have said .
+
+
+root(ROOT-0, accuses-4)
+nsubj(accuses-4, S1-2)
+dobj(accuses-4, S2-6)
+prepc_about(S2-6, lying-9)
+dobj(said-14, what-11)
+nsubj(said-14, other-12)
+aux(said-14, have-13)
+prepc_about(lying-9, said-14)
+

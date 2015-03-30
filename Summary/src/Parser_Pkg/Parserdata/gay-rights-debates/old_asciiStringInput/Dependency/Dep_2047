@@ -1,0 +1,28 @@
+  that marriage officers do not need to perform a ceremony between same-sex couples 
+root(ROOT-0, need-6)
+mark(need-6, that-1)
+nn(officers-3, marriage-2)
+nsubj(need-6, officers-3)
+aux(need-6, do-4)
+neg(need-6, not-5)
+aux(perform-8, to-7)
+xcomp(need-6, perform-8)
+det(ceremony-10, a-9)
+dobj(perform-8, ceremony-10)
+amod(couples-13, same-sex-12)
+prep_between(ceremony-10, couples-13)
+
+  that marriage officers do not need to perform a ceremony between same-sex couples 
+root(ROOT-0, need-6)
+mark(need-6, that-1)
+nn(officers-3, marriage-2)
+nsubj(need-6, officers-3)
+aux(need-6, do-4)
+neg(need-6, not-5)
+aux(perform-8, to-7)
+xcomp(need-6, perform-8)
+det(ceremony-10, a-9)
+dobj(perform-8, ceremony-10)
+amod(couples-13, same-sex-12)
+prep_between(ceremony-10, couples-13)
+

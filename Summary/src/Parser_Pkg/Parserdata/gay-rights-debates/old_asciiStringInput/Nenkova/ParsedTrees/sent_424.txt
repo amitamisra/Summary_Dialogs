@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ does) (RB not) (VP (VB believe) (SBAR (IN that) (S (SBAR (WHNP (WP what)) (S (NP (NNS people)) (VP (VBP do) (PP (IN in) (NP (PRP$ their) (JJ private) (NNS lives)))))) (VP (VBZ is) (NP (NN anyone) (NNS elses) (NN business))))))) (. .)))

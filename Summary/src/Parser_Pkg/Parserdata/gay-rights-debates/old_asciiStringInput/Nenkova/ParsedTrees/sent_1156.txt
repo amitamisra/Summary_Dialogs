@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBD asked) (NP (NP (NN S2)) (SBAR (WHNP (WP what)) (S (NP (PRP$ his) (NN problem)) (VP (VP (VBD was)) (, ,) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (ADVP (RB personally)) (VP (VBD did) (RB not) (VP (VB want) (NP (JJ gay) (NN marriage))))))))))) (. .)))

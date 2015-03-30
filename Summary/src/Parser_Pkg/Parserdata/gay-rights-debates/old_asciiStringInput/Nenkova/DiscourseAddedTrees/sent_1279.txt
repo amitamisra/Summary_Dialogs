@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (PRP he)) (VP (VBD was) (ADVP (RB only)) (VP (VBG responding) (PP (TO to) (NP (DT the) (NNS attacks))) (PP (IN by) (NP (NN S2)))))))) (. .)))

@@ -1,0 +1,6 @@
+name=Summary1 
+description=Summarize a dialog from online debate forums
+keywords=Summary,dialogue,debate,opinion
+retrydelayinseconds=432000
+#retrydelayinseconds=86400
+testdurationinseconds=7200

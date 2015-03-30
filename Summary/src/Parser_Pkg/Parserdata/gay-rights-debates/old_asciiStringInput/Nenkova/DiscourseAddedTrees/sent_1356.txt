@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ mentions) (UCP (NP (DT the) (JJ Healthy) (NNP Marriage) (NNP Initiative)) (CC and#0#0) (ADJP (WHADVP (WRB how) (ADJP (NP (PRP it)) (JJ isnt))) (JJ necessary)))) (. .)))

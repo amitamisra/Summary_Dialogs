@@ -1,0 +1,27 @@
+ that many people do not want gay marriage , includingm .
+
+
+root(ROOT-0, want-6)
+mark(want-6, that-1)
+amod(people-3, many-2)
+nsubj(want-6, people-3)
+aux(want-6, do-4)
+neg(want-6, not-5)
+amod(marriage-8, gay-7)
+dobj(want-6, marriage-8)
+appos(marriage-8, includingm-10)
+
+    Sodomy was n't approved , not 
+root(ROOT-0, approved-4)
+nsubjpass(approved-4, Sodomy-1)
+auxpass(approved-4, was-2)
+neg(approved-4, n't-3)
+neg(approved-4, not-6)
+
+    Sodomy was n't approved , not 
+root(ROOT-0, approved-4)
+nsubjpass(approved-4, Sodomy-1)
+auxpass(approved-4, was-2)
+neg(approved-4, n't-3)
+neg(approved-4, not-6)
+

@@ -1,0 +1,15 @@
+S1 expresses that the rights of gays is their first concern and protection from church.
+root(ROOT-0, expresses-2)
+nsubj(expresses-2, S1-1)
+mark(concern-11, that-3)
+det(rights-5, the-4)
+nsubj(concern-11, rights-5)
+prep_of(rights-5, gays-7)
+cop(concern-11, is-8)
+poss(concern-11, their-9)
+amod(concern-11, first-10)
+ccomp(expresses-2, concern-11)
+ccomp(expresses-2, protection-13)
+conj_and(concern-11, protection-13)
+prep_from(concern-11, church-15)
+

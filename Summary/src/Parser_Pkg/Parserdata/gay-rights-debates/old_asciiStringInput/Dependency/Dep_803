@@ -1,0 +1,49 @@
+The immorality of homosexuality in 1909 is based on ignorance .
+
+
+root(ROOT-0, based-8)
+det(immorality-2, The-1)
+nsubjpass(based-8, immorality-2)
+prep_of(immorality-2, homosexuality-4)
+prep_in(homosexuality-4, 1909-6)
+auxpass(based-8, is-7)
+prep_on(based-8, ignorance-10)
+
+ that 100 men in a daisy chain performing unprotected sex on one another would be in comparison to Sodom .
+
+
+root(ROOT-0, be-15)
+dep(men-3, that-1)
+num(men-3, 100-2)
+dep(be-15, men-3)
+det(chain-7, a-5)
+amod(chain-7, daisy-6)
+nsubj(performing-8, chain-7)
+prepc_in(be-15, performing-8)
+amod(sex-10, unprotected-9)
+dobj(performing-8, sex-10)
+prep_on(performing-8, one-12)
+nsubj(be-15, another-13)
+aux(be-15, would-14)
+prep_in(be-15, comparison-17)
+prep_to(be-15, Sodom-19)
+
+ that 100 men in a daisy chain performing unprotected sex on one another would be in comparison to Sodom .
+
+
+root(ROOT-0, be-15)
+dep(men-3, that-1)
+num(men-3, 100-2)
+dep(be-15, men-3)
+det(chain-7, a-5)
+amod(chain-7, daisy-6)
+nsubj(performing-8, chain-7)
+prepc_in(be-15, performing-8)
+amod(sex-10, unprotected-9)
+dobj(performing-8, sex-10)
+prep_on(performing-8, one-12)
+nsubj(be-15, another-13)
+aux(be-15, would-14)
+prep_in(be-15, comparison-17)
+prep_to(be-15, Sodom-19)
+

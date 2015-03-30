@@ -1,0 +1,42 @@
+ that it is not the case and one person who sides with a specific party does n't represent the party .
+
+
+root(ROOT-0, case-6)
+mark(case-6, that-1)
+nsubj(case-6, it-2)
+cop(case-6, is-3)
+neg(case-6, not-4)
+det(case-6, the-5)
+num(person-9, one-8)
+conj_and(case-6, person-9)
+dobj(represent-18, who-10)
+nsubj(represent-18, sides-11)
+det(party-15, a-13)
+amod(party-15, specific-14)
+prep_with(sides-11, party-15)
+aux(represent-18, does-16)
+neg(represent-18, n't-17)
+rcmod(person-9, represent-18)
+det(party-20, the-19)
+dobj(represent-18, party-20)
+
+S2 wishes modern liberalism were more like Jeffersonian liberalism.
+root(ROOT-0, wishes-2)
+nsubj(wishes-2, S2-1)
+amod(liberalism-4, modern-3)
+nsubj(more-6, liberalism-4)
+cop(more-6, were-5)
+ccomp(wishes-2, more-6)
+amod(liberalism-9, Jeffersonian-8)
+prep_like(more-6, liberalism-9)
+
+S2 wishes modern liberalism were more like Jeffersonian liberalism.
+root(ROOT-0, wishes-2)
+nsubj(wishes-2, S2-1)
+amod(liberalism-4, modern-3)
+nsubj(more-6, liberalism-4)
+cop(more-6, were-5)
+ccomp(wishes-2, more-6)
+amod(liberalism-9, Jeffersonian-8)
+prep_like(more-6, liberalism-9)
+

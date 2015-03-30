@@ -1,0 +1,6 @@
+root(ROOT-0, argues-3)
+neg(one-2, no-1)
+nsubj(argues-3, one-2)
+prep(argues-3, with-4)
+det(fact-6, this-5)
+pobj(with-4, fact-6)

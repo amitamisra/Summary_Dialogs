@@ -1,0 +1,35 @@
+  that homosexuality , incest , and polygamy are all related 
+root(ROOT-0, related-10)
+mark(related-10, that-1)
+nsubj(related-10, homosexuality-2)
+conj_and(homosexuality-2, incest-4)
+nsubj(related-10, incest-4)
+conj_and(homosexuality-2, polygamy-7)
+nsubj(related-10, polygamy-7)
+cop(related-10, are-8)
+det(related-10, all-9)
+
+ that stating that marriage is heterosexual completely ends any debates , 
+root(ROOT-0, stating-2)
+mark(stating-2, that-1)
+mark(heterosexual-6, that-3)
+nsubj(heterosexual-6, marriage-4)
+cop(heterosexual-6, is-5)
+ccomp(stating-2, heterosexual-6)
+advmod(heterosexual-6, completely-7)
+ccomp(heterosexual-6, ends-8)
+det(debates-10, any-9)
+dobj(ends-8, debates-10)
+
+ that stating that marriage is heterosexual completely ends any debates , 
+root(ROOT-0, stating-2)
+mark(stating-2, that-1)
+mark(heterosexual-6, that-3)
+nsubj(heterosexual-6, marriage-4)
+cop(heterosexual-6, is-5)
+ccomp(stating-2, heterosexual-6)
+advmod(heterosexual-6, completely-7)
+ccomp(heterosexual-6, ends-8)
+det(debates-10, any-9)
+dobj(ends-8, debates-10)
+

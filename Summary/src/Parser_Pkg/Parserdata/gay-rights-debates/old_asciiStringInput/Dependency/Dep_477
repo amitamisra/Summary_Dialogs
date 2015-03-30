@@ -1,0 +1,33 @@
+S1 feels  this is not the case 
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+nsubj(case-7, this-3)
+cop(case-7, is-4)
+neg(case-7, not-5)
+det(case-7, the-6)
+ccomp(feels-2, case-7)
+
+ Exp_1_conn}   insufficient to explain why homosexuals are being discriminated against  
+root(ROOT-0, Exp_1_conn-1)
+dobj(Exp_1_conn-1, insufficient-3)
+aux(explain-5, to-4)
+dep(insufficient-3, explain-5)
+advmod(discriminated-10, why-6)
+nsubjpass(discriminated-10, homosexuals-7)
+aux(discriminated-10, are-8)
+auxpass(discriminated-10, being-9)
+advcl(explain-5, discriminated-10)
+prep(discriminated-10, against-11)
+
+ Exp_1_conn}   insufficient to explain why homosexuals are being discriminated against  
+root(ROOT-0, Exp_1_conn-1)
+dobj(Exp_1_conn-1, insufficient-3)
+aux(explain-5, to-4)
+dep(insufficient-3, explain-5)
+advmod(discriminated-10, why-6)
+nsubjpass(discriminated-10, homosexuals-7)
+aux(discriminated-10, are-8)
+auxpass(discriminated-10, being-9)
+advcl(explain-5, discriminated-10)
+prep(discriminated-10, against-11)
+

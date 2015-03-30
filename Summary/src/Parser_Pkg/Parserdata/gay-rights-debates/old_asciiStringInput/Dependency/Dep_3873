@@ -1,0 +1,14 @@
+   it is put to a vote  
+root(ROOT-0, put-3)
+nsubjpass(put-3, it-1)
+auxpass(put-3, is-2)
+det(vote-6, a-5)
+prep_to(put-3, vote-6)
+
+   it is put to a vote  
+root(ROOT-0, put-3)
+nsubjpass(put-3, it-1)
+auxpass(put-3, is-2)
+det(vote-6, a-5)
+prep_to(put-3, vote-6)
+

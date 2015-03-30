@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ feels) (NP (NN S2) (CC and#0#0) (NNS others)) (PP (IN like) (NP (NP (NP (JJ him/her) (NN support) (NN society) (POS 's)) (NN oppression)) (PP (IN of) (NP (JJ certain) (NNS groups)))))) (. .)))

@@ -1,0 +1,7 @@
+root(ROOT-0, argued-4)
+nsubjpass(argued-4, It-1)
+aux(argued-4, can-2)
+auxpass(argued-4, be-3)
+prep(argued-4, in-5)
+amod(ways-7, other-6)
+pobj(in-5, ways-7)

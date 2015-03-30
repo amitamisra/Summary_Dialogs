@@ -1,0 +1,15 @@
+(same-unit[N][N]
+  _!( S1 )!_
+  (Joint[N][N]
+    (same-unit[N][N]
+      (Attribution[S][N]
+        _!charges!_
+        (Contrast[N][N]
+          _!( S2 ) of being in denial!_
+          (same-unit[N][N] _!but!_ _!( S2 )!_)))
+      (Attribution[S][N]
+        _!defends himself by saying!_
+        (Attribution[S][N]
+          _!that he never said!_
+          _!he was in denial!_)))
+    _!and that the religious book is only a philosophical fiction . <s>!_))

@@ -1,0 +1,8 @@
+root(ROOT-0, servant-3)
+det(servant-3, the-1)
+amod(servant-3, public-2)
+vmod(servant-3, performing-4)
+amod(job-8, his-5)
+conj_or(his-5, her-7)
+amod(job-8, her-7)
+dobj(performing-4, job-8)

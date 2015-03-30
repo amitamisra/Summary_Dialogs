@@ -1,0 +1,8 @@
+root(ROOT-0, fiction-8)
+det(book-3, the-1)
+amod(book-3, religious-2)
+nsubj(fiction-8, book-3)
+cop(fiction-8, is-4)
+advmod(fiction-8, only-5)
+det(fiction-8, a-6)
+amod(fiction-8, philosophical-7)

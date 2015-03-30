@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 points out that his heteronormative family represents the norm and suggests that deviation from the norm in the form of homosexual families is perverse. He clarifies that he doesn't hate gays, but he simply doesn't believe that the definition of marriage should be changed to include homosexual unions. He claims that S2's beliefs do not make him correct.</line>
+  <line>S2 suggests that deviation from the norm is simply a form of diversity and is not necessarily perverse. He accuses S1 of hating homosexuals. In response to S1's claims that he does not hate homosexuals, S2 points out that calling homosexual relationships perverse is clearly a form of hate, and that it is clear from S1's language that he does in fact hate people who are homosexual.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 thinks he and his family represents what is normal. Homosexuality in his opinion is a deviation from the norm and is perverse. He rejects the idea that he hates gay people and says he simply doesn't think we should redefine marriage for them. He states S2 may believe as wishes even if it is wrong. S2 questions what is perverse. He equates the word perverse with diversity. A deviation for the norm in his opinion is diversity. He doubts S1 is against diversity so he thinks he simply hates a form of it, gay people. He views calling something perverse ad evidence of this hate and does not believe S1 when he says that he doesn't hate gays he is simply worried about marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing gay relations and the possibility of redefining marriage to include the gay community.  S1 believes gay relationships are a perversion of the normal thought of society.  S2 contends that S1 hates gays and is basically prejudice toward gay people based upon some remarks being made.  Particularly the label of perversion.  S2 contends that S1 is not against all diversity, just gay lifestyle which in S2's opinion makes him/her hateful toward gays.  S1 contends he/she does not hate gays but doesn't feel marriage should be redefined to allow for them to wed.  S2 feels S1's objection to gays and the family's they would make is prejudice.  S1 contends S2 is wrong in his/her beliefs.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 expressed his opinion that his family and other heterosexual families are the norm and that homosexual families (like S2's) deviate from the norm. He called such families &quot;perverse&quot;. When this comment resulted in a challenge from S1 he denied hating gays. He then stated his opinion that that marriage should not be redefined for gay people... He continued to deny his hate for gays. S2 stated his belief that deviations from the norm are diverse. He said that he knew that S2 is not against all diversity but seems to be very much against gays. He bristled against S1's definition of his family as &quot;perverse&quot; and pointed at the use of that word as being illustrative of S1's hatred of gays.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two people are discussing diversity and gays. S1 contends that his family represents the norm, not a deviation from it.  He calls gays a perversity, then states that he doesn't hate gays but rather believes that  marriage should not be redefined for them.  S2 contradicts, stating gays are a diversity, not a perversion, and that S1 hates gays.  He questions how S1 can claim that he doesn't hate gays when he clearly calls him and his family a perversion.  He then states that although he is younger than S1, he wasn't born yesterday, to which S1 replies that he (S2) can believe what he wants, no matter how wrong he is.</line>
+ </text>
+ <scu uid="184" label="Accusations of hating homosexuals">
+  <contributor label="He accuses S1 of hating homosexuals">
+   <part label="He accuses S1 of hating homosexuals" start="489" end="524"/>
+  </contributor>
+  <contributor label="He doubts S1 is against diversity so he thinks he simply hates a form of it, gay people...does not believe S1 when he says that he doesn't hate gays he is simply worried about marriage">
+   <part label="He doubts S1 is against diversity so he thinks he simply hates a form of it, gay people" start="1228" end="1315"/>
+   <part label="does not believe S1 when he says that he doesn't hate gays he is simply worried about marriage" start="1382" end="1476"/>
+  </contributor>
+  <contributor label="S2 contends that S1 hates gays">
+   <part label="S2 contends that S1 hates gays" start="1700" end="1730"/>
+  </contributor>
+  <contributor label="S2 contradicts, stating...that S1 hates gays">
+   <part label="S2 contradicts, stating" start="3220" end="3243"/>
+   <part label="that S1 hates gays" start="3288" end="3306"/>
+  </contributor>
+  <contributor label="He said that he knew that S2 is not against all diversity but seems to be very much against gays">
+   <part label="He said that he knew that S2 is not against all diversity but seems to be very much against gays" start="2692" end="2788"/>
+  </contributor>
+ </scu>
+ <scu uid="185" label="calling something perverse as evidence of hate">
+  <contributor label="He views calling something perverse ad evidence of this hate">
+   <part label="He views calling something perverse ad evidence of this hate" start="1317" end="1377"/>
+  </contributor>
+  <contributor label="In response to S1's claims that he does not hate homosexuals, S2 points out that calling homosexual relationships perverse is clearly a form of hate...it is clear from S1's language that he does in fact hate people who are homosexual">
+   <part label="In response to S1's claims that he does not hate homosexuals, S2 points out that calling homosexual relationships perverse is clearly a form of hate" start="526" end="674"/>
+   <part label="it is clear from S1's language that he does in fact hate people who are homosexual" start="685" end="767"/>
+  </contributor>
+  <contributor label="Particularly the label of perversion.  S2 contends that S1 is not against all diversity, just gay lifestyle which in S2's opinion makes him/her hateful toward gays">
+   <part label="Particularly the label of perversion.  S2 contends that S1 is not against all diversity, just gay lifestyle which in S2's opinion makes him/her hateful toward gays" start="1813" end="1976"/>
+  </contributor>
+  <contributor label="He bristled against S1's definition of his family as &quot;perverse&quot;...use of that word as being illustrative of S1's hatred of gays">
+   <part label="He bristled against S1's definition of his family as &quot;perverse&quot;" start="2790" end="2853"/>
+   <part label="use of that word as being illustrative of S1's hatred of gays" start="2873" end="2934"/>
+  </contributor>
+  <contributor label="He questions how S1 can claim that he doesn't hate gays when he clearly calls him and his family a perversion">
+   <part label="He questions how S1 can claim that he doesn't hate gays when he clearly calls him and his family a perversion" start="3309" end="3418"/>
+  </contributor>
+ </scu>
+ <scu uid="179" label="definition of marriage should not be changed to include homosexual unions">
+  <contributor label="he simply doesn't believe that the definition of marriage should be changed to include homosexual unions">
+   <part label="he simply doesn't believe that the definition of marriage should be changed to include homosexual unions" start="226" end="330"/>
+  </contributor>
+  <contributor label="says he simply doesn't think we should redefine marriage for them">
+   <part label="says he simply doesn't think we should redefine marriage for them" start="975" end="1040"/>
+  </contributor>
+  <contributor label="doesn't feel marriage should be redefined to allow for them to wed">
+   <part label="doesn't feel marriage should be redefined to allow for them to wed" start="2021" end="2087"/>
+  </contributor>
+  <contributor label="He then stated his opinion that that marriage should not be redefined for gay people">
+   <part label="He then stated his opinion that that marriage should not be redefined for gay people" start="2500" end="2584"/>
+  </contributor>
+  <contributor label="rather believes that  marriage should not be redefined for them">
+   <part label="rather believes that  marriage should not be redefined for them" start="3154" end="3217"/>
+  </contributor>
+ </scu>
+ <scu uid="178" label="Denying hatred of gays">
+  <contributor label="He clarifies that he doesn't hate gays">
+   <part label="He clarifies that he doesn't hate gays" start="182" end="220"/>
+  </contributor>
+  <contributor label="He rejects the idea that he hates gay people">
+   <part label="He rejects the idea that he hates gay people" start="926" end="970"/>
+  </contributor>
+  <contributor label="S1 contends he/she does not hate gays">
+   <part label="S1 contends he/she does not hate gays" start="1979" end="2016"/>
+  </contributor>
+  <contributor label="When this comment resulted in a challenge from S1 he denied hating gays...He continued to deny his hate for gays">
+   <part label="When this comment resulted in a challenge from S1 he denied hating gays" start="2427" end="2498"/>
+   <part label="He continued to deny his hate for gays" start="2588" end="2626"/>
+  </contributor>
+  <contributor label="states that he doesn't hate gays">
+   <part label="states that he doesn't hate gays" start="3117" end="3149"/>
+  </contributor>
+ </scu>
+ <scu uid="177" label="gays called a perversity">
+  <contributor label="He calls gays a perversity">
+   <part label="He calls gays a perversity" start="3084" end="3110"/>
+  </contributor>
+  <contributor label="He called such families &quot;perverse&quot;">
+   <part label="He called such families &quot;perverse&quot;" start="2391" end="2425"/>
+  </contributor>
+  <contributor label="S1 believes gay relationships are a perversion of the normal thought of society">
+   <part label="S1 believes gay relationships are a perversion of the normal thought of society" start="1618" end="1697"/>
+  </contributor>
+  <contributor label="Homosexuality in his opinion is...perverse">
+   <part label="Homosexuality in his opinion is" start="851" end="882"/>
+   <part label="perverse" start="916" end="924"/>
+  </contributor>
+  <contributor label="suggests that...homosexual families is perverse">
+   <part label="suggests that" start="96" end="109"/>
+   <part label="homosexual families is perverse" start="149" end="180"/>
+  </contributor>
+ </scu>
+ <scu uid="180" label="Beliefs do not make someone correct">
+  <contributor label="He claims that S2's beliefs do not make him correct">
+   <part label="He claims that S2's beliefs do not make him correct" start="332" end="383"/>
+  </contributor>
+  <contributor label="He states S2 may believe as wishes even if it is wrong">
+   <part label="He states S2 may believe as wishes even if it is wrong" start="1042" end="1096"/>
+  </contributor>
+  <contributor label="S1 contends S2 is wrong in his/her beliefs">
+   <part label="S1 contends S2 is wrong in his/her beliefs" start="2170" end="2212"/>
+  </contributor>
+  <contributor label="(S2) can believe what he wants, no matter how wrong he is">
+   <part label="(S2) can believe what he wants, no matter how wrong he is" start="3527" end="3584"/>
+  </contributor>
+ </scu>
+ <scu uid="182" label="deviation from the norm is simply a form of diversity">
+  <contributor label="S2 suggests that deviation from the norm is simply a form of diversity">
+   <part label="S2 suggests that deviation from the norm is simply a form of diversity" start="385" end="455"/>
+  </contributor>
+  <contributor label="A deviation for the norm in his opinion is diversity">
+   <part label="A deviation for the norm in his opinion is diversity" start="1174" end="1226"/>
+  </contributor>
+  <contributor label="S2 stated his belief that deviations from the norm are diverse">
+   <part label="S2 stated his belief that deviations from the norm are diverse" start="2628" end="2690"/>
+  </contributor>
+  <contributor label="S2 contradicts, stating gays are a diversity">
+   <part label="S2 contradicts, stating gays are a diversity" start="3220" end="3264"/>
+  </contributor>
+ </scu>
+ <scu uid="173" label="heteronormative family represents the norm">
+  <contributor label="S1 points out that his heteronormative family represents the norm">
+   <part label="S1 points out that his heteronormative family represents the norm" start="26" end="91"/>
+  </contributor>
+  <contributor label="S1 thinks he and his family represents what is normal">
+   <part label="S1 thinks he and his family represents what is normal" start="796" end="849"/>
+  </contributor>
+  <contributor label="S1 expressed his opinion that his family and other heterosexual families are the norm">
+   <part label="S1 expressed his opinion that his family and other heterosexual families are the norm" start="2241" end="2326"/>
+  </contributor>
+  <contributor label="S1 contends that his family represents the norm, not a deviation from it">
+   <part label="S1 contends that his family represents the norm, not a deviation from it" start="3009" end="3081"/>
+  </contributor>
+ </scu>
+ <scu uid="183" label="deviation is not necessarily perverse">
+  <contributor label="S2 suggests that deviation...is not necessarily perverse">
+   <part label="S2 suggests that deviation" start="385" end="411"/>
+   <part label="is not necessarily perverse" start="460" end="487"/>
+  </contributor>
+  <contributor label="S2 questions what is perverse. He equates the word perverse with diversity">
+   <part label="S2 questions what is perverse. He equates the word perverse with diversity" start="1098" end="1172"/>
+  </contributor>
+  <contributor label="S2 contradicts, stating gays are...not a perversion">
+   <part label="S2 contradicts, stating gays are" start="3220" end="3252"/>
+   <part label="not a perversion" start="3266" end="3282"/>
+  </contributor>
+ </scu>
+ <scu uid="176" label="Homosexuality is a deviation from the norm">
+  <contributor label="Homosexuality in his opinion is a deviation from the norm">
+   <part label="Homosexuality in his opinion is a deviation from the norm" start="851" end="908"/>
+  </contributor>
+  <contributor label="suggests that deviation from the norm in the form of homosexual families">
+   <part label="suggests that deviation from the norm in the form of homosexual families" start="96" end="168"/>
+  </contributor>
+  <contributor label="homosexual families (like S2's) deviate from the norm">
+   <part label="homosexual families (like S2's) deviate from the norm" start="2336" end="2389"/>
+  </contributor>
+ </scu>
+ <scu uid="186" label="Two people are discussing diversity and gays">
+  <contributor label="Two people are discussing diversity and gays">
+   <part label="Two people are discussing diversity and gays" start="2963" end="3007"/>
+  </contributor>
+  <contributor label="S1 and S2 are discussing gay relations">
+   <part label="S1 and S2 are discussing gay relations" start="1505" end="1543"/>
+  </contributor>
+ </scu>
+ <scu uid="190" label="objection to gays and the family's they would make is prejudice">
+  <contributor label="basically prejudice toward gay people based upon some remarks being made...S2 feels S1's objection to gays and the family's they would make is prejudice">
+   <part label="S2 feels S1's objection to gays and the family's they would make is prejudice" start="2090" end="2167"/>
+   <part label="basically prejudice toward gay people based upon some remarks being made" start="1738" end="1810"/>
+  </contributor>
+ </scu>
+ <scu uid="188" label="the possibility of redefining marriage to include the gay community">
+  <contributor label="S1 and S2 are discussing...the possibility of redefining marriage to include the gay community">
+   <part label="S1 and S2 are discussing" start="1505" end="1529"/>
+   <part label="the possibility of redefining marriage to include the gay community" start="1548" end="1615"/>
+  </contributor>
+ </scu>
+ <scu uid="189" label="Though younger, not born yesterday">
+  <contributor label="He then states that although he is younger than S1, he wasn't born yesterday">
+   <part label="He then states that although he is younger than S1, he wasn't born yesterday" start="3421" end="3497"/>
+  </contributor>
+ </scu>
+</pyramid>

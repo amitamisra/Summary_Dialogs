@@ -1,0 +1,8 @@
+root(ROOT-0, tends-3)
+det(forum-2, the-1)
+nsubj(tends-3, forum-2)
+aux(make-5, to-4)
+xcomp(tends-3, make-5)
+nsubj(look-7, Christianity-6)
+ccomp(make-5, look-7)
+acomp(look-7, bad-8)

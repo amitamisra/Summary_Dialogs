@@ -1,0 +1,6 @@
+root(ROOT-0, does-3)
+nsubj(does-3, he-2)
+ccomp(does-3, feel-4)
+dep(feel-4, society-5)
+aux(decide-7, should-6)
+rcmod(society-5, decide-7)

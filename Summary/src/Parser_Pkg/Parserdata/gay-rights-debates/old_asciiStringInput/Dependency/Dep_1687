@@ -1,0 +1,59 @@
+ violence towards gays is used as launching point for gays to preach gay rights .
+
+
+root(ROOT-0, used-5)
+nsubjpass(used-5, violence-1)
+prep_towards(violence-1, gays-3)
+auxpass(used-5, is-4)
+prepc_as(used-5, launching-7)
+dobj(launching-7, point-8)
+prep_for(launching-7, gays-10)
+aux(preach-12, to-11)
+vmod(launching-7, preach-12)
+amod(rights-14, gay-13)
+dobj(preach-12, rights-14)
+
+S1 is opposed to groups such as `` Focus on the Family '' -LRB- may be a misnomer -RRB- who attempt to impose their views on others .
+
+
+root(ROOT-0, opposed-3)
+nsubjpass(opposed-3, S1-1)
+auxpass(opposed-3, is-2)
+prep_to(opposed-3, groups-5)
+prep_such_as(groups-5, Focus-9)
+det(Family-12, the-11)
+prep_on(Focus-9, Family-12)
+aux(misnomer-18, may-15)
+cop(misnomer-18, be-16)
+det(misnomer-18, a-17)
+dep(Focus-9, misnomer-18)
+nsubj(attempt-21, who-20)
+rcmod(Focus-9, attempt-21)
+aux(impose-23, to-22)
+xcomp(attempt-21, impose-23)
+poss(views-25, their-24)
+dobj(impose-23, views-25)
+prep_on(impose-23, others-27)
+
+S1 is opposed to groups such as `` Focus on the Family '' -LRB- may be a misnomer -RRB- who attempt to impose their views on others .
+
+
+root(ROOT-0, opposed-3)
+nsubjpass(opposed-3, S1-1)
+auxpass(opposed-3, is-2)
+prep_to(opposed-3, groups-5)
+prep_such_as(groups-5, Focus-9)
+det(Family-12, the-11)
+prep_on(Focus-9, Family-12)
+aux(misnomer-18, may-15)
+cop(misnomer-18, be-16)
+det(misnomer-18, a-17)
+dep(Focus-9, misnomer-18)
+nsubj(attempt-21, who-20)
+rcmod(Focus-9, attempt-21)
+aux(impose-23, to-22)
+xcomp(attempt-21, impose-23)
+poss(views-25, their-24)
+dobj(impose-23, views-25)
+prep_on(impose-23, others-27)
+

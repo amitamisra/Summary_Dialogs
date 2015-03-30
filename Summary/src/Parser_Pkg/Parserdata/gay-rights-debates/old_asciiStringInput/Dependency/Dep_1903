@@ -1,0 +1,35 @@
+   the 9th is about how federal constitution applies to gay marriage . 
+root(ROOT-0, is-3)
+det(9th-2, the-1)
+nsubj(is-3, 9th-2)
+advmod(applies-8, how-5)
+amod(constitution-7, federal-6)
+nsubj(applies-8, constitution-7)
+prepc_about(is-3, applies-8)
+amod(marriage-11, gay-10)
+prep_to(applies-8, marriage-11)
+
+ the majority did have the right  to enslave fellow citizens 
+root(ROOT-0, have-4)
+det(majority-2, the-1)
+nsubj(have-4, majority-2)
+aux(have-4, did-3)
+det(right-6, the-5)
+dobj(have-4, right-6)
+aux(enslave-8, to-7)
+vmod(right-6, enslave-8)
+amod(citizens-10, fellow-9)
+dobj(enslave-8, citizens-10)
+
+ the majority did have the right  to enslave fellow citizens 
+root(ROOT-0, have-4)
+det(majority-2, the-1)
+nsubj(have-4, majority-2)
+aux(have-4, did-3)
+det(right-6, the-5)
+dobj(have-4, right-6)
+aux(enslave-8, to-7)
+vmod(right-6, enslave-8)
+amod(citizens-10, fellow-9)
+dobj(enslave-8, citizens-10)
+

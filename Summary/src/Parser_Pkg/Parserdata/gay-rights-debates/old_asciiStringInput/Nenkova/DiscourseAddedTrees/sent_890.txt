@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ implies) (SBAR (IN that) (S (NP (NP (NN theominionist)) (PP (IN as#1#0) (NP (DT a) (NN group)))) (VP (VP (VBZ is) (RB not) (ADJP (JJ interested) (PP (IN in) (NP (NP (NNS people) (POS 's)) (NN well-being))))) (CC but#0#0) (VP (VBP want) (S (VP (TO to) (VP (VB control) (NP (NP (NNS people) (POS 's)) (NNS lives)))))))))) (. .)))

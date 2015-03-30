@@ -1,0 +1,16 @@
+He believes legalizing gay marriage is a form of forcing society to accept gay behavior.
+root(ROOT-0, believes-2)
+nsubj(believes-2, He-1)
+xcomp(believes-2, legalizing-3)
+amod(marriage-5, gay-4)
+nsubj(form-8, marriage-5)
+cop(form-8, is-6)
+det(form-8, a-7)
+ccomp(legalizing-3, form-8)
+prepc_of(form-8, forcing-10)
+dobj(forcing-10, society-11)
+aux(accept-13, to-12)
+xcomp(forcing-10, accept-13)
+amod(behavior-15, gay-14)
+dobj(accept-13, behavior-15)
+

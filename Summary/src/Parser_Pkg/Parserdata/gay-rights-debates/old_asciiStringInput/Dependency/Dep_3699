@@ -1,0 +1,26 @@
+   due to the lengthy legal argument involved it is unlikely to be used .   
+root(ROOT-0, unlikely-10)
+det(argument-6, the-3)
+amod(argument-6, lengthy-4)
+amod(argument-6, legal-5)
+prep_due_to(unlikely-10, argument-6)
+vmod(argument-6, involved-7)
+nsubj(unlikely-10, it-8)
+cop(unlikely-10, is-9)
+aux(used-13, to-11)
+auxpass(used-13, be-12)
+xcomp(unlikely-10, used-13)
+
+   due to the lengthy legal argument involved it is unlikely to be used .   
+root(ROOT-0, unlikely-10)
+det(argument-6, the-3)
+amod(argument-6, lengthy-4)
+amod(argument-6, legal-5)
+prep_due_to(unlikely-10, argument-6)
+vmod(argument-6, involved-7)
+nsubj(unlikely-10, it-8)
+cop(unlikely-10, is-9)
+aux(used-13, to-11)
+auxpass(used-13, be-12)
+xcomp(unlikely-10, used-13)
+

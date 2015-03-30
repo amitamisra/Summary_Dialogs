@@ -1,0 +1,29 @@
+ it is an insult to all of African American society to compare these two plights .
+
+
+root(ROOT-0, insult-4)
+nsubj(insult-4, it-1)
+cop(insult-4, is-2)
+det(insult-4, an-3)
+prep_to(insult-4, all-6)
+amod(society-10, African-8)
+amod(society-10, American-9)
+prep_of(all-6, society-10)
+aux(compare-12, to-11)
+vmod(insult-4, compare-12)
+det(plights-15, these-13)
+num(plights-15, two-14)
+dobj(compare-12, plights-15)
+
+   she hould get benefits 
+root(ROOT-0, hould-2)
+nsubj(hould-2, she-1)
+xcomp(hould-2, get-3)
+dobj(get-3, benefits-4)
+
+   she hould get benefits 
+root(ROOT-0, hould-2)
+nsubj(hould-2, she-1)
+xcomp(hould-2, get-3)
+dobj(get-3, benefits-4)
+

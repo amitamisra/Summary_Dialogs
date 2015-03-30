@@ -1,0 +1,1 @@
+(ROOT (NP (NP (NP (NN S2) (NNS points)) (PP (TO to) (NP (DT another) (NN author) (NNP Archie))) (SBAR (WHNP (WP who)) (S (ADVP (RB regularly)) (VP (VBZ denigrates) (NP (NNS gays)) (PP (IN with) (NP (DT a) (NN variety))))))) (PP (IN of) (NP (NNS slurs))) (PP (IN as#0#0) (NP (NP (NN someone)) (SBAR (WHNP (WP who)) (S (VP (VBZ uses) (NP (JJ inflammatory) (NN language))))))) (. .)))

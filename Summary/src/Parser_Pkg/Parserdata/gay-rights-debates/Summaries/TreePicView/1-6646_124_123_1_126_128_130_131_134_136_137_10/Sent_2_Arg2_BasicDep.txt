@@ -1,0 +1,6 @@
+root(ROOT-0, knew-2)
+nsubj(knew-2, they-1)
+advmod(spread-6, how-3)
+nsubjpass(spread-6, it-4)
+auxpass(spread-6, was-5)
+ccomp(knew-2, spread-6)

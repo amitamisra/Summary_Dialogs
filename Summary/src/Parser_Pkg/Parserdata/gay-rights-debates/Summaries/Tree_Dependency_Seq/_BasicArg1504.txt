@@ -1,0 +1,8 @@
+root(ROOT-0, occur-4)
+amod(acts-2, homosexual-1)
+nsubj(occur-4, acts-2)
+aux(occur-4, did-3)
+prep(occur-4, in-5)
+amod(cultures-8, many-6)
+amod(cultures-8, past-7)
+pobj(in-5, cultures-8)

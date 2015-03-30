@@ -1,0 +1,20 @@
+he wants the claims justified or taken back.
+root(ROOT-0, wants-2)
+nsubj(wants-2, he-1)
+det(claims-4, the-3)
+dobj(wants-2, claims-4)
+acomp(wants-2, justified-5)
+cc(justified-5, or-6)
+conj(justified-5, taken-7)
+advmod(taken-7, back-8)
+
+he wants the claims justified or taken back.
+root(ROOT-0, wants-2)
+nsubj(wants-2, he-1)
+det(claims-4, the-3)
+dobj(wants-2, claims-4)
+acomp(wants-2, justified-5)
+cc(justified-5, or-6)
+conj(justified-5, taken-7)
+advmod(taken-7, back-8)
+

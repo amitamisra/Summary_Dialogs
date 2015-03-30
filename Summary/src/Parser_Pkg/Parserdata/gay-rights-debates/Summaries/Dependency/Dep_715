@@ -1,0 +1,26 @@
+S1 is more flexible with accepting societies standard of behavior and.
+root(ROOT-0, flexible-4)
+nsubj(flexible-4, S1-1)
+cop(flexible-4, is-2)
+advmod(flexible-4, more-3)
+prep(flexible-4, with-5)
+dep(with-5, accepting-6)
+nn(standard-8, societies-7)
+dobj(accepting-6, standard-8)
+prep(standard-8, of-9)
+pobj(of-9, behavior-10)
+cc(accepting-6, and-11)
+
+S1 is more flexible with accepting societies standard of behavior and.
+root(ROOT-0, flexible-4)
+nsubj(flexible-4, S1-1)
+cop(flexible-4, is-2)
+advmod(flexible-4, more-3)
+prep(flexible-4, with-5)
+dep(with-5, accepting-6)
+nn(standard-8, societies-7)
+dobj(accepting-6, standard-8)
+prep(standard-8, of-9)
+pobj(of-9, behavior-10)
+cc(accepting-6, and-11)
+

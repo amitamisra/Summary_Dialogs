@@ -1,0 +1,5 @@
+root(ROOT-0, abandon-2)
+nsubj(abandon-2, they-1)
+prep(abandon-2, that-3)
+amod(system-5, moral-4)
+pobj(that-3, system-5)

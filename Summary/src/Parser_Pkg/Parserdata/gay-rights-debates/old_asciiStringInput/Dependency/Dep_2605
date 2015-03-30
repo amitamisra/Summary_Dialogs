@@ -1,0 +1,34 @@
+ that gay marriage and polygamy are commonplace in ancient Greece , Rome and China .
+
+
+root(ROOT-0, commonplace-7)
+mark(commonplace-7, that-1)
+amod(marriage-3, gay-2)
+nsubj(commonplace-7, marriage-3)
+conj_and(marriage-3, polygamy-5)
+nsubj(commonplace-7, polygamy-5)
+cop(commonplace-7, are-6)
+amod(Greece-10, ancient-9)
+prep_in(commonplace-7, Greece-10)
+prep_in(commonplace-7, Rome-12)
+conj_and(Greece-10, Rome-12)
+prep_in(commonplace-7, China-14)
+conj_and(Greece-10, China-14)
+
+ that gay marriage and polygamy are commonplace in ancient Greece , Rome and China .
+
+
+root(ROOT-0, commonplace-7)
+mark(commonplace-7, that-1)
+amod(marriage-3, gay-2)
+nsubj(commonplace-7, marriage-3)
+conj_and(marriage-3, polygamy-5)
+nsubj(commonplace-7, polygamy-5)
+cop(commonplace-7, are-6)
+amod(Greece-10, ancient-9)
+prep_in(commonplace-7, Greece-10)
+prep_in(commonplace-7, Rome-12)
+conj_and(Greece-10, Rome-12)
+prep_in(commonplace-7, China-14)
+conj_and(Greece-10, China-14)
+

@@ -1,0 +1,6 @@
+root(ROOT-0, support-4)
+nsubj(support-4, he-1)
+aux(support-4, does-2)
+neg(support-4, n't-3)
+amod(marriage-6, gay-5)
+dobj(support-4, marriage-6)

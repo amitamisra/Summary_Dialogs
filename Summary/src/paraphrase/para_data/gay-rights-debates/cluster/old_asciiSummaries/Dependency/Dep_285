@@ -1,0 +1,18 @@
+S2 believes citing the protection of the sanctity of marriage makes the study's arguments relevant by supporting their arguments.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+xcomp(believes-2, citing-3)
+det(protection-5, the-4)
+nsubj(makes-11, protection-5)
+det(sanctity-8, the-7)
+prep_of(protection-5, sanctity-8)
+prep_of(sanctity-8, marriage-10)
+ccomp(citing-3, makes-11)
+det(study-13, the-12)
+poss(arguments-15, study-13)
+nsubj(relevant-16, arguments-15)
+xcomp(makes-11, relevant-16)
+prepc_by(relevant-16, supporting-18)
+poss(arguments-20, their-19)
+dobj(supporting-18, arguments-20)
+

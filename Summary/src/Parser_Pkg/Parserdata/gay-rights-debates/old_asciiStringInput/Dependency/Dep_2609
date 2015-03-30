@@ -1,0 +1,42 @@
+ that marriage as a union between one man and one woman is a recent construct as compared to gay marriage .
+
+
+root(ROOT-0, construct-15)
+mark(construct-15, that-1)
+nsubj(construct-15, marriage-2)
+det(union-5, a-4)
+prep_as(marriage-2, union-5)
+num(man-8, one-7)
+prep_between(union-5, man-8)
+num(woman-11, one-10)
+prep_between(union-5, woman-11)
+conj_and(man-8, woman-11)
+cop(construct-15, is-12)
+det(construct-15, a-13)
+amod(construct-15, recent-14)
+prep(construct-15, as-16)
+prepc_compared_to(construct-15, to-18)
+amod(marriage-20, gay-19)
+pobj(construct-15, marriage-20)
+
+ that marriage as a union between one man and one woman is a recent construct as compared to gay marriage .
+
+
+root(ROOT-0, construct-15)
+mark(construct-15, that-1)
+nsubj(construct-15, marriage-2)
+det(union-5, a-4)
+prep_as(marriage-2, union-5)
+num(man-8, one-7)
+prep_between(union-5, man-8)
+num(woman-11, one-10)
+prep_between(union-5, woman-11)
+conj_and(man-8, woman-11)
+cop(construct-15, is-12)
+det(construct-15, a-13)
+amod(construct-15, recent-14)
+prep(construct-15, as-16)
+prepc_compared_to(construct-15, to-18)
+amod(marriage-20, gay-19)
+pobj(construct-15, marriage-20)
+

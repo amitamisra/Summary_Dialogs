@@ -1,0 +1,10 @@
+0  S1 advises 
+root(ROOT-0, advises-3)
+num(S1-2, 0-1)
+nsubj(advises-3, S1-2)
+
+0  S1 advises 
+root(ROOT-0, advises-3)
+num(S1-2, 0-1)
+nsubj(advises-3, S1-2)
+

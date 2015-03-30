@@ -1,0 +1,17 @@
+He said that Jefferson is for decentralization of government which is the opposite stance taken by theemocratic Party.
+root(ROOT-0, said-2)
+nsubj(said-2, He-1)
+mark(is-5, that-3)
+nsubj(is-5, Jefferson-4)
+ccomp(said-2, is-5)
+prep_for(is-5, decentralization-7)
+prep_of(decentralization-7, government-9)
+nsubj(stance-14, which-10)
+cop(stance-14, is-11)
+det(stance-14, the-12)
+amod(stance-14, opposite-13)
+rcmod(decentralization-7, stance-14)
+vmod(stance-14, taken-15)
+amod(Party-18, theemocratic-17)
+agent(taken-15, Party-18)
+

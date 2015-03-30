@@ -1,0 +1,18 @@
+S2 believes there is no such group and this has been made up to promote fear of Christianity.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S2-1)
+expl(is-4, there-3)
+ccomp(believes-2, is-4)
+neg(group-7, no-5)
+amod(group-7, such-6)
+nsubj(is-4, group-7)
+nsubjpass(made-12, this-9)
+aux(made-12, has-10)
+auxpass(made-12, been-11)
+conj_and(believes-2, made-12)
+prt(made-12, up-13)
+aux(promote-15, to-14)
+xcomp(made-12, promote-15)
+dobj(promote-15, fear-16)
+prep_of(fear-16, Christianity-18)
+

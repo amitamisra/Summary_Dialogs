@@ -1,0 +1,7 @@
+root(ROOT-0, part-4)
+det(husband-2, a-1)
+nsubj(part-4, husband-2)
+cop(part-4, is-3)
+det(relationship-8, a-6)
+amod(relationship-8, heterosexual-7)
+prep_of(part-4, relationship-8)

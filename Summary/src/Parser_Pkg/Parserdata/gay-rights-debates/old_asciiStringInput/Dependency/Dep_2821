@@ -1,0 +1,42 @@
+ that all of the rights and benefits that married couples have are already granted to gays without the need for redefining .
+
+
+root(ROOT-0, granted-14)
+mark(granted-14, that-1)
+nsubjpass(granted-14, all-2)
+det(rights-5, the-4)
+prep_of(all-2, rights-5)
+prep_of(all-2, benefits-7)
+conj_and(rights-5, benefits-7)
+nsubj(married-9, that-8)
+rcmod(rights-5, married-9)
+dobj(married-9, couples-10)
+aux(granted-14, have-11)
+auxpass(granted-14, are-12)
+advmod(granted-14, already-13)
+prep_to(granted-14, gays-16)
+det(need-19, the-18)
+prep_without(granted-14, need-19)
+prepc_for(need-19, redefining-21)
+
+ that all of the rights and benefits that married couples have are already granted to gays without the need for redefining .
+
+
+root(ROOT-0, granted-14)
+mark(granted-14, that-1)
+nsubjpass(granted-14, all-2)
+det(rights-5, the-4)
+prep_of(all-2, rights-5)
+prep_of(all-2, benefits-7)
+conj_and(rights-5, benefits-7)
+nsubj(married-9, that-8)
+rcmod(rights-5, married-9)
+dobj(married-9, couples-10)
+aux(granted-14, have-11)
+auxpass(granted-14, are-12)
+advmod(granted-14, already-13)
+prep_to(granted-14, gays-16)
+det(need-19, the-18)
+prep_without(granted-14, need-19)
+prepc_for(need-19, redefining-21)
+

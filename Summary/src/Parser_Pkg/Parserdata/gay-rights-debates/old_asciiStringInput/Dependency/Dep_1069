@@ -1,0 +1,44 @@
+ that society dictates that you have to be biased at times .
+
+
+root(ROOT-0, dictates-3)
+mark(dictates-3, that-1)
+nsubj(dictates-3, society-2)
+mark(have-6, that-4)
+nsubj(have-6, you-5)
+ccomp(dictates-3, have-6)
+aux(biased-9, to-7)
+auxpass(biased-9, be-8)
+xcomp(have-6, biased-9)
+prep_at(biased-9, times-11)
+
+-LRB- S2 -RRB- keeps arguing why is anestrous taboo and not gay marriage ?
+
+
+root(ROOT-0, keeps-4)
+nsubj(keeps-4, S2-2)
+xcomp(keeps-4, arguing-5)
+advmod(taboo-9, why-6)
+cop(taboo-9, is-7)
+amod(taboo-9, anestrous-8)
+advcl(arguing-5, taboo-9)
+neg(marriage-13, not-11)
+amod(marriage-13, gay-12)
+advcl(arguing-5, marriage-13)
+conj_and(taboo-9, marriage-13)
+
+-LRB- S2 -RRB- keeps arguing why is anestrous taboo and not gay marriage ?
+
+
+root(ROOT-0, keeps-4)
+nsubj(keeps-4, S2-2)
+xcomp(keeps-4, arguing-5)
+advmod(taboo-9, why-6)
+cop(taboo-9, is-7)
+amod(taboo-9, anestrous-8)
+advcl(arguing-5, taboo-9)
+neg(marriage-13, not-11)
+amod(marriage-13, gay-12)
+advcl(arguing-5, marriage-13)
+conj_and(taboo-9, marriage-13)
+

@@ -1,0 +1,22 @@
+He also states that even conservatives criticize Bush's spending.
+root(ROOT-0, states-3)
+nsubj(states-3, He-1)
+advmod(states-3, also-2)
+mark(criticize-7, that-4)
+advmod(criticize-7, even-5)
+nsubj(criticize-7, conservatives-6)
+ccomp(states-3, criticize-7)
+poss(spending-10, Bush-8)
+dobj(criticize-7, spending-10)
+
+He also states that even conservatives criticize Bush's spending.
+root(ROOT-0, states-3)
+nsubj(states-3, He-1)
+advmod(states-3, also-2)
+mark(criticize-7, that-4)
+advmod(criticize-7, even-5)
+nsubj(criticize-7, conservatives-6)
+ccomp(states-3, criticize-7)
+poss(spending-10, Bush-8)
+dobj(criticize-7, spending-10)
+

@@ -1,0 +1,46 @@
+To that -LRB- S2 -RRB- says that he can not trust the intellectual honesty discourse of -LRB- S1 -RRB- because of his flawed arguments .
+
+
+root(ROOT-0, says-6)
+det(S2-4, that-2)
+prep_to(says-6, S2-4)
+mark(trust-11, that-7)
+nsubj(trust-11, he-8)
+aux(trust-11, can-9)
+neg(trust-11, not-10)
+dep(says-6, trust-11)
+det(discourse-15, the-12)
+amod(discourse-15, intellectual-13)
+nn(discourse-15, honesty-14)
+dobj(trust-11, discourse-15)
+prep_of(discourse-15, S1-18)
+poss(arguments-24, his-22)
+amod(arguments-24, flawed-23)
+prep_because_of(S1-18, arguments-24)
+
+If she is free to do this, then so is S1.
+root(ROOT-0, S1-12)
+mark(free-4, If-1)
+nsubj(free-4, she-2)
+cop(free-4, is-3)
+advcl(S1-12, free-4)
+aux(do-6, to-5)
+xcomp(free-4, do-6)
+dobj(do-6, this-7)
+nsubj(S1-12, then-9)
+advmod(S1-12, so-10)
+cop(S1-12, is-11)
+
+If she is free to do this, then so is S1.
+root(ROOT-0, S1-12)
+mark(free-4, If-1)
+nsubj(free-4, she-2)
+cop(free-4, is-3)
+advcl(S1-12, free-4)
+aux(do-6, to-5)
+xcomp(free-4, do-6)
+dobj(do-6, this-7)
+nsubj(S1-12, then-9)
+advmod(S1-12, so-10)
+cop(S1-12, is-11)
+

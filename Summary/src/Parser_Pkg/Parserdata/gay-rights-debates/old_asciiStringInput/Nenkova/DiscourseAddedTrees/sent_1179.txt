@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ gives) (NP (NP (DT the) (NNS results)) (PP (IN of) (NP (NP (DT a) (NN poll)) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (CD 59) (NN percent) (NNS ofemocrats)) (VP (VBP are) (PP (IN against) (NP (JJ gay) (NN marriage)))))))))) (. .)))

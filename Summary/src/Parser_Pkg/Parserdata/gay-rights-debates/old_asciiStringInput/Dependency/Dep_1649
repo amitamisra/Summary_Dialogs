@@ -1,0 +1,30 @@
+ that S2 understands the concept of inconsistency .
+
+
+root(ROOT-0, understands-3)
+mark(understands-3, that-1)
+nsubj(understands-3, S2-2)
+det(concept-5, the-4)
+dobj(understands-3, concept-5)
+prep_of(concept-5, inconsistency-7)
+
+ that   that   is someone 's belief   that 's fine , 
+root(ROOT-0, belief-6)
+mark(belief-6, that-1)
+nsubj(belief-6, that-2)
+cop(belief-6, is-3)
+poss(belief-6, someone-4)
+nsubj(fine-9, that-7)
+cop(fine-9, 's-8)
+ccomp(belief-6, fine-9)
+
+ that   that   is someone 's belief   that 's fine , 
+root(ROOT-0, belief-6)
+mark(belief-6, that-1)
+nsubj(belief-6, that-2)
+cop(belief-6, is-3)
+poss(belief-6, someone-4)
+nsubj(fine-9, that-7)
+cop(fine-9, 's-8)
+ccomp(belief-6, fine-9)
+

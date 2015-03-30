@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (ADVP (RB impatiently)) (VP (VBD waited) (SBAR (S (PP (IN for#0#0) (NP (DT the) (NNS proofs))) (NP (PRP he)) (VP (VBD wanted))))) (. .)))

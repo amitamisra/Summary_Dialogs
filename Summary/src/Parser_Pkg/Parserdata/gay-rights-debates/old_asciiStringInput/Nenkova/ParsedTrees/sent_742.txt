@@ -1,0 +1,1 @@
+(ROOT (S (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-) (NNS questions)) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNS politicians) (NN view)) (VP (VBZ is) (VP (VBG imposing) (PP (IN on) (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-)) (JJ religious) (NN freedom))))))) (. .)))

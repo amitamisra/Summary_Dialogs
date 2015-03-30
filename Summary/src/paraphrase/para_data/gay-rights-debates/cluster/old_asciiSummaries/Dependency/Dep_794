@@ -1,0 +1,14 @@
+S1 believes this is alright to do while S2 does not agree.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+nsubj(alright-5, this-3)
+cop(alright-5, is-4)
+ccomp(believes-2, alright-5)
+aux(do-7, to-6)
+xcomp(alright-5, do-7)
+mark(agree-12, while-8)
+nsubj(agree-12, S2-9)
+aux(agree-12, does-10)
+neg(agree-12, not-11)
+advcl(do-7, agree-12)
+

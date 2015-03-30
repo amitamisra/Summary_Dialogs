@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NNP Gays)) (VP (VBP are) (NP (NP (DT all) (JJ promiscuous)) (SBAR (WHNP (WDT which)) (S (VP (VBP lead) (PP (TO to) (NP (JJ high) (NN divorce) (NNS rates))))))))) (, ,) (ADVP (CC plus)) (S (NP (PRP you)) (VP (MD ca) (RB n't) (VP (VB compare) (NP (JJ gay) (NN couple) (NNS relationships)) (PP (IN with) (NP (JJ straight) (NNS relationships)))))) (. .)))

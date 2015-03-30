@@ -1,0 +1,3 @@
+root(ROOT-0, relevant-3)
+nsubj(relevant-3, it-1)
+cop(relevant-3, is-2)

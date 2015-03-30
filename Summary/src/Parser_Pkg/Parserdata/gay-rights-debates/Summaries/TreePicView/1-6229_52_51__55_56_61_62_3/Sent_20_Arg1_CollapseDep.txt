@@ -1,0 +1,8 @@
+root(ROOT-0, had-3)
+amod(societies-2, previous-1)
+nsubj(had-3, societies-2)
+amod(rights-5, legal-4)
+dobj(had-3, rights-5)
+aux(enslave-7, to-6)
+vmod(rights-5, enslave-7)
+dobj(enslave-7, people-8)

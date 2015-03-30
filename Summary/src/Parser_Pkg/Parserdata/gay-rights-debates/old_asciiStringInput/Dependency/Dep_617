@@ -1,0 +1,26 @@
+ S2 questioned 
+root(ROOT-0, questioned-2)
+nsubj(questioned-2, S2-1)
+
+  S2 was hoping to talk more about the fiscal concerns 
+root(ROOT-0, hoping-3)
+nsubj(hoping-3, S2-1)
+aux(hoping-3, was-2)
+aux(talk-5, to-4)
+xcomp(hoping-3, talk-5)
+dobj(talk-5, more-6)
+det(concerns-10, the-8)
+amod(concerns-10, fiscal-9)
+prep_about(talk-5, concerns-10)
+
+  S2 was hoping to talk more about the fiscal concerns 
+root(ROOT-0, hoping-3)
+nsubj(hoping-3, S2-1)
+aux(hoping-3, was-2)
+aux(talk-5, to-4)
+xcomp(hoping-3, talk-5)
+dobj(talk-5, more-6)
+det(concerns-10, the-8)
+amod(concerns-10, fiscal-9)
+prep_about(talk-5, concerns-10)
+

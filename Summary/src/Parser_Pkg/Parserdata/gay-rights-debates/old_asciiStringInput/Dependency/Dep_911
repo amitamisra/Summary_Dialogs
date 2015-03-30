@@ -1,0 +1,44 @@
+ that there are laws that hurt all kinds of peoples and argues about violation of the First Amendment by imposing someones belief over another .
+
+
+root(ROOT-0, are-3)
+mark(are-3, that-1)
+expl(are-3, there-2)
+nsubj(are-3, laws-4)
+nsubj(hurt-6, that-5)
+nsubj(argues-12, that-5)
+rcmod(laws-4, hurt-6)
+det(kinds-8, all-7)
+dobj(hurt-6, kinds-8)
+prep_of(kinds-8, peoples-10)
+rcmod(laws-4, argues-12)
+conj_and(hurt-6, argues-12)
+prep_about(argues-12, violation-14)
+det(Amendment-18, the-16)
+nn(Amendment-18, First-17)
+prep_of(violation-14, Amendment-18)
+prepc_by(argues-12, imposing-20)
+nn(belief-22, someones-21)
+dobj(imposing-20, belief-22)
+prep_over(belief-22, another-24)
+
+   they eventually realize that they made a mistake 
+root(ROOT-0, realize-3)
+nsubj(realize-3, they-1)
+advmod(realize-3, eventually-2)
+mark(made-6, that-4)
+nsubj(made-6, they-5)
+ccomp(realize-3, made-6)
+det(mistake-8, a-7)
+dobj(made-6, mistake-8)
+
+   they eventually realize that they made a mistake 
+root(ROOT-0, realize-3)
+nsubj(realize-3, they-1)
+advmod(realize-3, eventually-2)
+mark(made-6, that-4)
+nsubj(made-6, they-5)
+ccomp(realize-3, made-6)
+det(mistake-8, a-7)
+dobj(made-6, mistake-8)
+

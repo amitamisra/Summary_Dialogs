@@ -1,0 +1,28 @@
+ that the law may result in an effective denial of gay marriage .
+
+
+root(ROOT-0, result-5)
+mark(result-5, that-1)
+det(law-3, the-2)
+nsubj(result-5, law-3)
+aux(result-5, may-4)
+det(denial-9, an-7)
+amod(denial-9, effective-8)
+prep_in(result-5, denial-9)
+amod(marriage-12, gay-11)
+prep_of(denial-9, marriage-12)
+
+ that the law may result in an effective denial of gay marriage .
+
+
+root(ROOT-0, result-5)
+mark(result-5, that-1)
+det(law-3, the-2)
+nsubj(result-5, law-3)
+aux(result-5, may-4)
+det(denial-9, an-7)
+amod(denial-9, effective-8)
+prep_in(result-5, denial-9)
+amod(marriage-12, gay-11)
+prep_of(denial-9, marriage-12)
+

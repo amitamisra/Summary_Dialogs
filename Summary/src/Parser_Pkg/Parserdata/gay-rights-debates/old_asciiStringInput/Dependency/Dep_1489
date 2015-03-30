@@ -1,0 +1,32 @@
+S2 cites instances of God supporting polygamy in the Bible .
+
+
+root(ROOT-0, cites-2)
+nsubj(cites-2, S2-1)
+dobj(cites-2, instances-3)
+prep_of(instances-3, God-5)
+vmod(God-5, supporting-6)
+dobj(supporting-6, polygamy-7)
+det(Bible-10, the-9)
+prep_in(polygamy-7, Bible-10)
+
+   people say they are protecting the sanctity of marriage 
+root(ROOT-0, say-2)
+nsubj(say-2, people-1)
+nsubj(protecting-5, they-3)
+aux(protecting-5, are-4)
+ccomp(say-2, protecting-5)
+det(sanctity-7, the-6)
+dobj(protecting-5, sanctity-7)
+prep_of(sanctity-7, marriage-9)
+
+   people say they are protecting the sanctity of marriage 
+root(ROOT-0, say-2)
+nsubj(say-2, people-1)
+nsubj(protecting-5, they-3)
+aux(protecting-5, are-4)
+ccomp(say-2, protecting-5)
+det(sanctity-7, the-6)
+dobj(protecting-5, sanctity-7)
+prep_of(sanctity-7, marriage-9)
+

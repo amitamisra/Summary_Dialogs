@@ -1,0 +1,7 @@
+root(ROOT-0, wishes-2)
+nsubj(wishes-2, he-1)
+aux(discuss-4, to-3)
+xcomp(wishes-2, discuss-4)
+det(benefits-7, the-5)
+amod(benefits-7, practical-6)
+dobj(discuss-4, benefits-7)

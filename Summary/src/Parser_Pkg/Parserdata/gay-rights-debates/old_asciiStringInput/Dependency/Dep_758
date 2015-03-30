@@ -1,0 +1,29 @@
+   morally .  
+root(ROOT-0, morally-1)
+
+He then amends his statement from all African Americans to most African Americans.
+root(ROOT-0, amends-3)
+nsubj(amends-3, He-1)
+advmod(amends-3, then-2)
+poss(statement-5, his-4)
+dobj(amends-3, statement-5)
+det(Americans-9, all-7)
+amod(Americans-9, African-8)
+prep_from(amends-3, Americans-9)
+advmod(African-12, most-11)
+amod(Americans-13, African-12)
+prep_to(amends-3, Americans-13)
+
+He then amends his statement from all African Americans to most African Americans.
+root(ROOT-0, amends-3)
+nsubj(amends-3, He-1)
+advmod(amends-3, then-2)
+poss(statement-5, his-4)
+dobj(amends-3, statement-5)
+det(Americans-9, all-7)
+amod(Americans-9, African-8)
+prep_from(amends-3, Americans-9)
+advmod(African-12, most-11)
+amod(Americans-13, African-12)
+prep_to(amends-3, Americans-13)
+

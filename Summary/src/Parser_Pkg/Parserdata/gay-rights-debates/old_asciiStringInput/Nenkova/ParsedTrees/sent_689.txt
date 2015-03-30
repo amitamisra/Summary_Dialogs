@@ -1,0 +1,1 @@
+(ROOT (SINV (S (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-) (VP (VBZ states) (NP (WRB how)))) (VP (MD can)) (NP (NP (JJ gay) (ADJP (NN marriage) (NN hurt)) (NNS politicians)) (CC or) (NP (NN anyone) (RB else))) (. ?)))

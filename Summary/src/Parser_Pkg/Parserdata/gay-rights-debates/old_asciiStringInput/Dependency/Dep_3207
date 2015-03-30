@@ -1,0 +1,14 @@
+   how big their lies are 
+root(ROOT-0, are-5)
+advmod(big-2, how-1)
+dep(are-5, big-2)
+poss(lies-4, their-3)
+nsubj(are-5, lies-4)
+
+   how big their lies are 
+root(ROOT-0, are-5)
+advmod(big-2, how-1)
+dep(are-5, big-2)
+poss(lies-4, their-3)
+nsubj(are-5, lies-4)
+

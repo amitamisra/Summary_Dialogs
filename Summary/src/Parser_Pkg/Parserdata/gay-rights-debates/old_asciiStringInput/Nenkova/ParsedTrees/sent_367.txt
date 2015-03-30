@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (ADVP (RB also)) (VP (VBZ feels) (SBAR (S (NP (NP (DT the) (NN issue)) (PP (IN at) (NP (NN hand)))) (VP (VBZ is) (RB not) (VP (VBG being) (VP (VBN discussed) (SBAR (IN as) (S (NP (DT the) (NN forum)) (VP (VBD began) (PP (IN with) (S (VP (VBG speaking) (PP (IN about) (NP (DT the) (JJ gay) (NN pride) (NN industry))))))))))))))) (. .)))

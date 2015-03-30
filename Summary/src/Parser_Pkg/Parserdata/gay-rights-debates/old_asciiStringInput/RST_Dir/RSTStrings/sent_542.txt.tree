@@ -1,0 +1,11 @@
+(Attribution[S][N]
+  _!S1 says!_
+  (Attribution[S][N]
+    _!to S2!_
+    (Attribution[S][N]
+      (Attribution[N][S]
+        _!that he is making a ridiculous generalization!_
+        _!while S2 replies that he said!_)
+      (Attribution[S][N]
+        _!S1 is probably right to assume!_
+        _!that some people were anti-religion . <s>!_))))

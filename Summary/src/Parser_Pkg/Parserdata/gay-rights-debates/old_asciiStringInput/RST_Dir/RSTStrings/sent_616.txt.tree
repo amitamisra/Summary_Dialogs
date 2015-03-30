@@ -1,0 +1,9 @@
+(same-unit[N][N]
+  (Elaboration[N][S]
+    _!S1 :!_
+    (Elaboration[N][S]
+      _!Religion is a good tool!_
+      _!to guide one 's own actions ,!_))
+  (Elaboration[N][S]
+    _!but not for telling others!_
+    _!how to live . <s>!_))

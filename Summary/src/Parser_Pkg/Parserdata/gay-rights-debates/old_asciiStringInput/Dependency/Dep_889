@@ -1,0 +1,35 @@
+   that it should be left to religious institutions 
+root(ROOT-0, left-5)
+mark(left-5, that-1)
+nsubjpass(left-5, it-2)
+aux(left-5, should-3)
+auxpass(left-5, be-4)
+amod(institutions-8, religious-7)
+prep_to(left-5, institutions-8)
+
+Two people are discussing the divorce rate in the US .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(rate-7, the-5)
+nn(rate-7, divorce-6)
+dobj(discussing-4, rate-7)
+det(US-10, the-9)
+prep_in(rate-7, US-10)
+
+Two people are discussing the divorce rate in the US .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(rate-7, the-5)
+nn(rate-7, divorce-6)
+dobj(discussing-4, rate-7)
+det(US-10, the-9)
+prep_in(rate-7, US-10)
+

@@ -1,0 +1,11 @@
+S1 corrects S2's grammar when he types common law.
+root(ROOT-0, corrects-2)
+nsubj(corrects-2, S1-1)
+poss(grammar-5, S2-3)
+dobj(corrects-2, grammar-5)
+advmod(law-10, when-6)
+dep(law-10, he-7)
+nn(law-10, types-8)
+amod(law-10, common-9)
+rcmod(grammar-5, law-10)
+

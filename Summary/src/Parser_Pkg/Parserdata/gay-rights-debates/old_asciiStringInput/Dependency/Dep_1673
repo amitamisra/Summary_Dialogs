@@ -1,0 +1,36 @@
+   his view is consistent . 
+root(ROOT-0, consistent-4)
+poss(view-2, his-1)
+nsubj(consistent-4, view-2)
+cop(consistent-4, is-3)
+
+ it is prejudicial  to hold anti-gay opinions , whether based on religious values or  , and 
+root(ROOT-0, prejudicial-3)
+nsubj(prejudicial-3, it-1)
+cop(prejudicial-3, is-2)
+aux(hold-5, to-4)
+xcomp(prejudicial-3, hold-5)
+amod(opinions-7, anti-gay-6)
+dobj(hold-5, opinions-7)
+mark(based-10, whether-9)
+ccomp(prejudicial-3, based-10)
+amod(values-13, religious-12)
+prep_on(based-10, values-13)
+cc(values-13, or-14)
+advmod(based-10, and-16)
+
+ it is prejudicial  to hold anti-gay opinions , whether based on religious values or  , and 
+root(ROOT-0, prejudicial-3)
+nsubj(prejudicial-3, it-1)
+cop(prejudicial-3, is-2)
+aux(hold-5, to-4)
+xcomp(prejudicial-3, hold-5)
+amod(opinions-7, anti-gay-6)
+dobj(hold-5, opinions-7)
+mark(based-10, whether-9)
+ccomp(prejudicial-3, based-10)
+amod(values-13, religious-12)
+prep_on(based-10, values-13)
+cc(values-13, or-14)
+advmod(based-10, and-16)
+

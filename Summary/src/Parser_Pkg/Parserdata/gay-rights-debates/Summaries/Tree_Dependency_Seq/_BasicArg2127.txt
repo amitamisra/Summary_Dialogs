@@ -1,0 +1,8 @@
+root(ROOT-0, enough-4)
+nsubj(enough-4, it-1)
+cop(enough-4, is-2)
+neg(enough-4, not-3)
+aux(prohibit-6, to-5)
+xcomp(enough-4, prohibit-6)
+det(practice-8, the-7)
+dobj(prohibit-6, practice-8)

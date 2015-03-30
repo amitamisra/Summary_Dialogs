@@ -1,0 +1,19 @@
+    that it should 
+root(ROOT-0, should-3)
+mark(should-3, that-1)
+nsubj(should-3, it-2)
+
+   it is important to their situation . 
+root(ROOT-0, important-3)
+nsubj(important-3, it-1)
+cop(important-3, is-2)
+poss(situation-6, their-5)
+prep_to(important-3, situation-6)
+
+   it is important to their situation . 
+root(ROOT-0, important-3)
+nsubj(important-3, it-1)
+cop(important-3, is-2)
+poss(situation-6, their-5)
+prep_to(important-3, situation-6)
+

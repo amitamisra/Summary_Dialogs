@@ -1,0 +1,7 @@
+root(ROOT-0, genders-7)
+advmod(genders-7, historically-1)
+nsubj(genders-7, marriage-2)
+aux(genders-7, has-3)
+cop(genders-7, been-4)
+advmod(genders-7, about-5)
+amod(genders-7, different-6)

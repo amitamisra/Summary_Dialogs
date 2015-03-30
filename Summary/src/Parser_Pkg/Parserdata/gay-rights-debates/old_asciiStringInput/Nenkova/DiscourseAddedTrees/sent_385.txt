@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP They)) (VP (VBP think) (SBAR (IN that) (S (NP (DT the) (NNP GUEST)) (VP (VBZ has) (VP (VBN blown) (NP (DT the) (JJ whole) (NN conversation)) (ADVP (IN out) (PP (IN of) (NP (NN proportion))))))))) (. .)))

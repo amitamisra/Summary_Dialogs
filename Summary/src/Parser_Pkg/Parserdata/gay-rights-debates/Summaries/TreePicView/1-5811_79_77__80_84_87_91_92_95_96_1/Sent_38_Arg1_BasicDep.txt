@@ -1,0 +1,5 @@
+root(ROOT-0, system-5)
+nsubj(system-5, Christianity-1)
+cop(system-5, is-2)
+det(system-5, a-3)
+amod(system-5, moral-4)

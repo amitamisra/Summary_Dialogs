@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ contends) (SBAR (IN that) (S (SBAR (ADVP (RB legally)) (IN if) (S (NP (PRP they)) (VP (VP (VBP cohabitate) (PP (IN for) (NP (NP (DT a) (JJ prescribed) (NN period)) (PP (IN of) (NP (NN time)))))) (CC or) (VP (VB have) (NP (NNS children)) (, ,) (PP (IN by) (NP (JJ common) (NN law))))))) (NP (PRP they)) (VP (MD can))))) (. .)))

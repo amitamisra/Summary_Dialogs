@@ -1,0 +1,11 @@
+He believes that the majority of Americans are against gay marriage.
+root(ROOT-0, believes-2)
+nsubj(believes-2, He-1)
+mark(are-8, that-3)
+det(majority-5, the-4)
+nsubj(are-8, majority-5)
+prep_of(majority-5, Americans-7)
+ccomp(believes-2, are-8)
+amod(marriage-11, gay-10)
+prep_against(are-8, marriage-11)
+

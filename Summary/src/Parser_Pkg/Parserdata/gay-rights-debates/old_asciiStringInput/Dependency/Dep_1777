@@ -1,0 +1,30 @@
+S2 criticizes the new push for government getting out of marriage .
+
+
+root(ROOT-0, criticizes-2)
+nsubj(criticizes-2, S2-1)
+det(push-5, the-3)
+amod(push-5, new-4)
+dobj(criticizes-2, push-5)
+prep_for(push-5, government-7)
+vmod(government-7, getting-8)
+prep_out_of(getting-8, marriage-11)
+
+   that it should be left to religious institutions 
+root(ROOT-0, left-5)
+mark(left-5, that-1)
+nsubjpass(left-5, it-2)
+aux(left-5, should-3)
+auxpass(left-5, be-4)
+amod(institutions-8, religious-7)
+prep_to(left-5, institutions-8)
+
+   that it should be left to religious institutions 
+root(ROOT-0, left-5)
+mark(left-5, that-1)
+nsubjpass(left-5, it-2)
+aux(left-5, should-3)
+auxpass(left-5, be-4)
+amod(institutions-8, religious-7)
+prep_to(left-5, institutions-8)
+

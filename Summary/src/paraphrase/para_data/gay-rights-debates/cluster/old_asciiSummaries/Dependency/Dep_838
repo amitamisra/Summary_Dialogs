@@ -1,0 +1,18 @@
+Speaker one believes that leaving it up to religions groups does not satisfy what gays are looking for.
+root(ROOT-0, believes-3)
+nsubj(believes-3, Speaker-1)
+num(Speaker-1, one-2)
+mark(satisfy-13, that-4)
+csubj(satisfy-13, leaving-5)
+dobj(leaving-5, it-6)
+prt(leaving-5, up-7)
+nn(groups-10, religions-9)
+prep_to(leaving-5, groups-10)
+aux(satisfy-13, does-11)
+neg(satisfy-13, not-12)
+ccomp(believes-3, satisfy-13)
+prep_for(looking-17, what-14)
+nsubj(looking-17, gays-15)
+aux(looking-17, are-16)
+ccomp(satisfy-13, looking-17)
+

@@ -1,0 +1,9 @@
+S1 thinks a better comparison is Sodom.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, S1-1)
+det(comparison-5, a-3)
+amod(comparison-5, better-4)
+nsubj(Sodom-7, comparison-5)
+cop(Sodom-7, is-6)
+ccomp(thinks-2, Sodom-7)
+

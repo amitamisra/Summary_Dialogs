@@ -1,0 +1,7 @@
+root(ROOT-0, is-2)
+nsubj(is-2, S1-1)
+advmod(is-2, only-3)
+det(rights-6, the-5)
+prep_towards(is-2, rights-6)
+amod(people-9, gay-8)
+prep_of(rights-6, people-9)

@@ -1,0 +1,16 @@
+    that has always been his opinion 
+root(ROOT-0, opinion-6)
+nsubj(opinion-6, that-1)
+aux(opinion-6, has-2)
+advmod(opinion-6, always-3)
+cop(opinion-6, been-4)
+poss(opinion-6, his-5)
+
+    that has always been his opinion 
+root(ROOT-0, opinion-6)
+nsubj(opinion-6, that-1)
+aux(opinion-6, has-2)
+advmod(opinion-6, always-3)
+cop(opinion-6, been-4)
+poss(opinion-6, his-5)
+

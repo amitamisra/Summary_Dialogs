@@ -1,0 +1,16 @@
+   the government is the source of law  
+root(ROOT-0, source-5)
+det(government-2, the-1)
+nsubj(source-5, government-2)
+cop(source-5, is-3)
+det(source-5, the-4)
+prep_of(source-5, law-7)
+
+   the government is the source of law  
+root(ROOT-0, source-5)
+det(government-2, the-1)
+nsubj(source-5, government-2)
+cop(source-5, is-3)
+det(source-5, the-4)
+prep_of(source-5, law-7)
+

@@ -1,0 +1,37 @@
+S1 describes himself as a Jeffersonian Liberal.
+root(ROOT-0, describes-2)
+nsubj(describes-2, S1-1)
+dobj(describes-2, himself-3)
+prep(describes-2, as-4)
+det(Liberal-7, a-5)
+nn(Liberal-7, Jeffersonian-6)
+pobj(as-4, Liberal-7)
+
+S1 describes himself as a Jeffersonian Liberal.
+root(ROOT-0, describes-2)
+nsubj(describes-2, S1-1)
+dobj(describes-2, himself-3)
+prep(describes-2, as-4)
+det(Liberal-7, a-5)
+nn(Liberal-7, Jeffersonian-6)
+pobj(as-4, Liberal-7)
+
+S1 describes himself as a Jeffersonian Liberal.
+root(ROOT-0, describes-2)
+nsubj(describes-2, S1-1)
+dobj(describes-2, himself-3)
+prep(describes-2, as-4)
+det(Liberal-7, a-5)
+nn(Liberal-7, Jeffersonian-6)
+pobj(as-4, Liberal-7)
+
+there is allot of backlash going on lately.
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+nsubj(is-2, allot-3)
+prep(allot-3, of-4)
+pobj(of-4, backlash-5)
+vmod(backlash-5, going-6)
+prep(going-6, on-7)
+pcomp(on-7, lately-8)
+

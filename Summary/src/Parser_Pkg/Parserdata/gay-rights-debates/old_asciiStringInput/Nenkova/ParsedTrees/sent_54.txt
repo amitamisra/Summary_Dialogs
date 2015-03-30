@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (IN that) (S (RB not) (VP (VP (VBG allowing) (NP (NP (JJ gay) (NN marriage)) (SBAR (S (VP (VBZ is) (NP (NN discrimination))))))) (CC and) (VP (VBG forcing) (NP (NNS morals)) (PP (IN on) (NP (JJ other) (NNS people)))))))) (. .)))

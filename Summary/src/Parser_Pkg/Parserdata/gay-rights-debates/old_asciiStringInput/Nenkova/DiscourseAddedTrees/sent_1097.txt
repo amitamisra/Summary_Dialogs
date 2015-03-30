@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1) (CC and#0#0) (NN S2)) (VP (VBP are) (VP (VBG discussing) (NP (NP (DT a) (JJ legislative) (NN action)) (VP (VBN associated) (PP (IN with) (NP (NP (DT a) (NNP Massachusetts) (NN court) (NN ruling)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ favorable) (PP (TO to) (NP (JJ gay) (NNS rights))))))))))))) (. .)))

@@ -1,0 +1,8 @@
+root(ROOT-0, issue-9)
+det(issue-2, the-1)
+nsubj(issue-9, issue-2)
+amod(marriage-5, same-sex-4)
+prep_of(issue-2, marriage-5)
+cop(issue-9, is-6)
+det(issue-9, an-7)
+amod(issue-9, economic-8)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (JJ single) (NNS people)) (VP (VBP have) (NP (NP (DT the) (JJS biggest) (NN stake)) (PP (IN in) (NP (DT this) (NN issue)))))))) (. .)))

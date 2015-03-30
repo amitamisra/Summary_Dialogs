@@ -1,0 +1,3 @@
+root(ROOT-0, unfortunate-3)
+nsubj(unfortunate-3, it-1)
+cop(unfortunate-3, is-2)

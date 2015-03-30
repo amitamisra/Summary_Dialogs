@@ -1,0 +1,222 @@
+<h1 style="text-align: center;">&nbsp; &nbsp; Instructions</h1>
+
+<p>In this task, you will carefully read <b>five</b>&nbsp;dialogues where two people are debating over the gay rights issue. Then you 
+will produce a summary of each dialogue in <b>125 </b>words.<br>
+<b>The Summary should include the key arguments and rebuttals expressed in the dialogue and not any personal opinions. Please 
+adhere to the word limit.
+
+We will be keeping track of worker reliability. HITs will be rejected for workers that write too short summaries which do not express 
+the content in these dialogues.</b><br/>
+
+Given below is a dialogue and sample summary to illustrate our requirement.<br/>
+<p>S1 and S2 indicate the different writers of these typed debates. Numbers indicate turns taken by each writer.
+S1:1 indicates the first turn by Writer1, and S2:1 indicates the first turn by Writer2.</p>
+<h2 align="center"> Sample Dialogue </h2>
+     
+     
+     <p>
+     <b>S1:1</b>-Opposing same-sex marriage is hate. Society has never opposed a group's equality, with no rational reason, when that reason isn't hate, 
+     insecurity, fear. And it isn't long when debating with opponents that their hatred comes out very blantantly. GUEST's argument is laughable.
+      He says they don't hate us as individuals, just everything we represent as being wrong, unnatural etc. That boils down to the same thing! S2 condescends to us by calling us spoiled children because the majority group with power won't "let us have", what they have. 
+     <br/><b>S2:1 </b>- Its not hate. It is drawing a line where pandering to sexual deviants stop.
+     <br/> <b>S1:2 </b>-They said the same garbage during debate on inter-racial marriage. They tried to say those relationships were only about naughty sex. It was just bigotry, and it is in the case of same-sex marriage 
+     <br/> <b>S2:2 </b>- Inter racial couples do not practise deviant sex
+     <br/> <b>S1:3 </b>- Neither do gay people. You have failed to show that. Most people do not care what gay people do sexually. At any rate, 
+     you don't have a problem with gay persons having sex, I believe you said. Why does it suddenly make a difference because it's happening in a marriage? 
+     Why should the official recognition of gay relationships affect you? It's your own insecurity coming to light.
+     <br/> <b>S2:3 </b>- We should be tolerant of gay deviant sex. We shouldnt welcome it.
+     <br/> <b>S1:4 </b>- Because it just might look TOO GOOD to yourself and/or others?
+     <br/> <b>S2:4 </b>-Yeah yeah. When the gay paints himself in a corner he throws out the same old insults
+     </p>
+     
+     <h2 align = "center" > Sample Summary</h2>
+     Two people discuss gay marriage. S1 supports gay marriage and links opposing it to hatred without any rational reason  due to insecurity and fear.
+     To him, the GUEST's argument  about not hating  gays as individuals but their wrong and unnatural behavior, doesn't make sense and is laughable.
+     S2 thinks that it is not hatred but it draws a line to stop deviant sex and society should not promote gay deviant sex. S1 says that similar things 
+     were said for inter racial marriage
+       in past, and people use to think that inter-cast marriages were about naughty sex. To contradict, S1 said that racial couples do not practice 
+       deviant sex. S1 says that gays also do not; society does not care about gay sex, but does not give gay marriage an official 
+       recognition due to their own insecurity.
+     <h1 style="text-align: center;">Task 1</h1>
+
+
+<p style="text-align: center;"><strong>Read the five dialogues given below and provide a summary of each dialogue in 125 words </strong></p>
+
+	   
+		
+<script language= "javascript">
+//Alter this variable depending on how many words you want to limit the textarea to.  
+var maxword1 = 125;  
+//var maxword2 = 250;  
+  
+function check_length(obj, cnt, rem,maxwords)  
+{  
+    var ary = obj.value.split(" ");  
+    var len = ary.length;  
+    cnt.innerHTML = len;  
+    rem.innerHTML = maxwords - len;  
+    if (len > maxwords) {  
+        alert("Message in '" + obj.name + "' limited to " + maxwords + " words.");  
+        ary = ary.slice(0,maxwords-1);  
+        obj.value = ary.join(" ");  
+        cnt.innerHTML = maxwords;  
+        rem.innerHTML = 0;  
+        return false;  
+    }  
+    return true;  
+} 
+</script>
+
+<table border="1">
+	<tbody>
+	   <tr>
+			<th>dialog 1</th>			
+       </tr>
+       
+       <tr>
+              <td>${Dialogtext1}</td>
+       </tr> 
+        
+        <tr>
+			<td>
+			<p>In 125 words, summarize <strong>dialog 1.</strong></p>
+			<strong><textarea name="Dialog1_Summary" onkeypress=" return check_length(this, document.getElementById('count_number_words1'), document.getElementById('show_remaining_words1'),maxword1);" style="width: 700px; height: 100px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>			
+			</td>
+			<td>
+				<p><font color="black">Word count:</font><font color="red"> <span id="count_number_words1">0</span> </font><br />
+				<font color="black">Words remaining: </font><font color="red"> <span id="show_remaining_words1">175</span> </font></p>
+
+			</td>
+	    </tr>
+	     
+	    <tr>
+			<th>dialog 2</th>
+		</tr>
+        <tr>
+              <td>${Dialogtext2}</td>
+        </tr> 
+        
+        <tr>
+            <td>
+			<p>In  125words, summarize <strong>dialog 2.</strong></p>
+			<strong><textarea name="Dialog2_Summary" onkeypress=" return check_length(this, document.getElementById('count_number_words2'), document.getElementById('show_remaining_words2'),maxword1);" style="width: 700px; height: 100px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>			
+			</td>
+			<td>
+				<p><font color="black">Word count:</font><font color="red"> <span id="count_number_words2">0</span> </font><br />
+				<font color="black">Words remaining: </font><font color="red"> <span id="show_remaining_words2">175</span> </font></p>
+
+			</td>		      			
+		</tr>
+			
+			
+			
+		<tr>
+			<th>dialog 3</th>			
+       </tr>
+       
+       <tr>
+              <td>${Dialogtext3}</td>
+       </tr> 
+        
+        <tr>
+			<td>
+			<p>In 125 words, summarize <strong>dialog 3.</strong></p>
+			<strong><textarea name="Dialog3_Summary" onkeypress=" return check_length(this, document.getElementById('count_number_words3'), document.getElementById('show_remaining_words3'),maxword1);" style="width: 700px; height: 100px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>			
+			</td>
+			<td>
+				<p><font color="black">Word count:</font><font color="red"> <span id="count_number_words3">0</span> </font><br />
+				<font color="black">Words remaining: </font><font color="red"> <span id="show_remaining_words3">175</span> </font></p>
+
+			</td>
+	    </tr>
+		
+		
+		
+		<tr>
+			<th>dialog 4</th>			
+       </tr>
+       
+       <tr>
+              <td>${Dialogtext4}</td>
+       </tr> 
+        
+        <tr>
+			<td>
+			<p>In 125 words, summarize <strong>dialog 4.</strong></p>
+			<strong><textarea name="Dialog4_Summary" onkeypress=" return check_length(this, document.getElementById('count_number_words4'), document.getElementById('show_remaining_words4'),maxword1);" style="width: 700px; height: 100px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>			
+			</td>
+			<td>
+				<p><font color="black">Word count:</font><font color="red"> <span id="count_number_words4">0</span> </font><br />
+				<font color="black">Words remaining: </font><font color="red"> <span id="show_remaining_words4">175</span> </font></p>
+
+			</td>
+	    </tr>
+		
+		
+		
+		<tr>
+			<th>dialog 5</th>			
+       </tr>
+       
+       <tr>
+              <td>${Dialogtext5}</td>
+       </tr> 
+        
+        <tr>
+			<td>
+			<p>In 125 words, summarize <strong>dialog 5.</strong></p>
+			<strong><textarea name="Dialog5_Summary" onkeypress=" return check_length(this, document.getElementById('count_number_words5'), document.getElementById('show_remaining_words5'),maxword1);" style="width: 700px; height: 100px;"></textarea> </strong>
+
+			<p><strong>&nbsp;</strong></p>
+			<p><strong><strong>&nbsp;</strong></strong></p>
+			<strong><strong> </strong></strong></td>			
+			</td>
+			<td>
+				<p><font color="black">Word count:</font><font color="red"> <span id="count_number_words5">0</span> </font><br />
+				<font color="black">Words remaining: </font><font color="red"> <span id="show_remaining_words5">175</span> </font></p>
+
+			</td>
+	    </tr>
+				
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+		</tr>
+	</tbody>
+</table>
+
+<p><strong>&nbsp;</strong></p>
+
+<hr />
+<p><strong>Please provide any feedback that you have regarding this task. Thank you!</strong></p>
+
+<p><strong><textarea cols="80" name="comment" rows="3"></textarea></strong></p>
+
+<p><strong>&nbsp;</strong></p>
+
+<p><strong>
+<style type="text/css"><!--
+.highlight-box { border:solid 0px #98BE10; background:#FCF9CE; color:#222222; padding:4px; text-align:left; font-size: smaller;}
+-->
+</style>
+</strong></p>
+
+<p><strong>&nbsp;</strong></p>

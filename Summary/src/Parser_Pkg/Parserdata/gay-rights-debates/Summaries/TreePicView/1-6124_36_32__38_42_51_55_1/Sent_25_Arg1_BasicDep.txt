@@ -1,0 +1,5 @@
+root(ROOT-0, want-3)
+amod(people-2, single-1)
+nsubj(want-3, people-2)
+det(rights-5, those-4)
+dobj(want-3, rights-5)

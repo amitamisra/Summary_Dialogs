@@ -1,0 +1,17 @@
+When a person is opposed to the banning of gay marriage , they must therefore be a heterophobe .
+root(ROOT-0, heterophobe-18)
+advmod(opposed-5, When-1)
+det(person-3, a-2)
+nsubjpass(opposed-5, person-3)
+auxpass(opposed-5, is-4)
+advcl(heterophobe-18, opposed-5)
+prep_to(opposed-5, the-7)
+amod(the-7, banning-8)
+amod(marriage-11, gay-10)
+prep_of(the-7, marriage-11)
+nsubj(heterophobe-18, they-13)
+aux(heterophobe-18, must-14)
+advmod(heterophobe-18, therefore-15)
+cop(heterophobe-18, be-16)
+det(heterophobe-18, a-17)
+

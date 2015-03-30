@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (JJ gay) (NNS relationships)) (VP (VBP are) (NP (NP (DT a) (NN perversion)) (PP (IN of) (NP (NP (DT the) (JJ normal) (NN thought)) (PP (IN of) (NP (NN society)))))))))) (. .)))

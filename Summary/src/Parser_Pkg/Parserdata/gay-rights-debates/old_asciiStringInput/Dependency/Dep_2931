@@ -1,0 +1,12 @@
+   it pertains to gay couples . 
+root(ROOT-0, pertains-2)
+nsubj(pertains-2, it-1)
+amod(couples-5, gay-4)
+prep_to(pertains-2, couples-5)
+
+   it pertains to gay couples . 
+root(ROOT-0, pertains-2)
+nsubj(pertains-2, it-1)
+amod(couples-5, gay-4)
+prep_to(pertains-2, couples-5)
+

@@ -1,0 +1,18 @@
+S1 poses a question if Maines results have any bearing on the scotus look at overturning the 9th.
+root(ROOT-0, poses-2)
+nsubj(poses-2, S1-1)
+det(question-4, a-3)
+dobj(poses-2, question-4)
+mark(have-8, if-5)
+nn(results-7, Maines-6)
+nsubj(have-8, results-7)
+advcl(poses-2, have-8)
+det(bearing-10, any-9)
+dobj(have-8, bearing-10)
+det(look-14, the-12)
+nn(look-14, scotus-13)
+prep_on(bearing-10, look-14)
+prepc_at(have-8, overturning-16)
+det(9th-18, the-17)
+dobj(overturning-16, 9th-18)
+

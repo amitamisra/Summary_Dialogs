@@ -1,0 +1,28 @@
+ He thinks  it 's right wing to support a ban on gay marriage/polygamy 
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(wing-6, it-3)
+cop(wing-6, 's-4)
+amod(wing-6, right-5)
+ccomp(thinks-2, wing-6)
+aux(support-8, to-7)
+vmod(wing-6, support-8)
+det(ban-10, a-9)
+dobj(support-8, ban-10)
+amod(marriage/polygamy-13, gay-12)
+prep_on(support-8, marriage/polygamy-13)
+
+ He thinks  it 's right wing to support a ban on gay marriage/polygamy 
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(wing-6, it-3)
+cop(wing-6, 's-4)
+amod(wing-6, right-5)
+ccomp(thinks-2, wing-6)
+aux(support-8, to-7)
+vmod(wing-6, support-8)
+det(ban-10, a-9)
+dobj(support-8, ban-10)
+amod(marriage/polygamy-13, gay-12)
+prep_on(support-8, marriage/polygamy-13)
+

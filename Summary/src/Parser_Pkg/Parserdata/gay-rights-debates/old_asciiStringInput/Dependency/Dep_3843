@@ -1,0 +1,28 @@
+ that the gay community is not a bunch of promiscuous sex crazed people .  
+root(ROOT-0, bunch-8)
+mark(bunch-8, that-1)
+det(community-4, the-2)
+amod(community-4, gay-3)
+nsubj(bunch-8, community-4)
+cop(bunch-8, is-5)
+neg(bunch-8, not-6)
+det(bunch-8, a-7)
+amod(people-13, promiscuous-10)
+nn(people-13, sex-11)
+amod(people-13, crazed-12)
+prep_of(bunch-8, people-13)
+
+ that the gay community is not a bunch of promiscuous sex crazed people .  
+root(ROOT-0, bunch-8)
+mark(bunch-8, that-1)
+det(community-4, the-2)
+amod(community-4, gay-3)
+nsubj(bunch-8, community-4)
+cop(bunch-8, is-5)
+neg(bunch-8, not-6)
+det(bunch-8, a-7)
+amod(people-13, promiscuous-10)
+nn(people-13, sex-11)
+amod(people-13, crazed-12)
+prep_of(bunch-8, people-13)
+

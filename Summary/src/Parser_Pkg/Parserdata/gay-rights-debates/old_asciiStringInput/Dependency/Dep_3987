@@ -1,0 +1,12 @@
+  S2s position is stupid 
+root(ROOT-0, stupid-4)
+nn(position-2, S2s-1)
+nsubj(stupid-4, position-2)
+cop(stupid-4, is-3)
+
+  S2s position is stupid 
+root(ROOT-0, stupid-4)
+nn(position-2, S2s-1)
+nsubj(stupid-4, position-2)
+cop(stupid-4, is-3)
+

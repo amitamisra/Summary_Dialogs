@@ -1,0 +1,28 @@
+  that the existence of AIs in Africa has nothing to do with AIs in the US 
+root(ROOT-0, has-8)
+mark(has-8, that-1)
+det(existence-3, the-2)
+nsubj(has-8, existence-3)
+prep_of(existence-3, AIs-5)
+prep_in(AIs-5, Africa-7)
+dobj(has-8, nothing-9)
+aux(do-11, to-10)
+vmod(nothing-9, do-11)
+prep_with(do-11, AIs-13)
+det(US-16, the-15)
+prep_in(AIs-13, US-16)
+
+  that the existence of AIs in Africa has nothing to do with AIs in the US 
+root(ROOT-0, has-8)
+mark(has-8, that-1)
+det(existence-3, the-2)
+nsubj(has-8, existence-3)
+prep_of(existence-3, AIs-5)
+prep_in(AIs-5, Africa-7)
+dobj(has-8, nothing-9)
+aux(do-11, to-10)
+vmod(nothing-9, do-11)
+prep_with(do-11, AIs-13)
+det(US-16, the-15)
+prep_in(AIs-13, US-16)
+

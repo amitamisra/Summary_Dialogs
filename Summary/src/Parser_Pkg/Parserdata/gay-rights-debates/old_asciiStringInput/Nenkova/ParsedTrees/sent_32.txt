@@ -1,0 +1,1 @@
+(ROOT (NP (NP (NN S1) (NNS points)) (PP (TO to) (NP (DT the) (NN trend) (S (VP (TO to) (VP (VB legalize) (NP (JJ gay) (NN marriage)) (PP (IN in) (NP (NP (NP (JJ western) (NNS countries)) (PP (JJ such) (IN as) (NP (NNP Netherlands) (, ,) (NNP Belgium) (, ,)))) (CC and) (NP (NP (JJS most)) (PP (IN of) (NP (NNP Canada))))))))))) (. .)))

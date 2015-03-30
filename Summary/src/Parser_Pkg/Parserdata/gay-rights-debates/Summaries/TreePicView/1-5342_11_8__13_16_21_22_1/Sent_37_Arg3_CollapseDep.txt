@@ -1,0 +1,6 @@
+root(ROOT-0, is-3)
+det(point-2, the-1)
+nsubj(is-3, point-2)
+mark(commented-6, that-4)
+nsubj(commented-6, Matt-5)
+ccomp(is-3, commented-6)

@@ -1,0 +1,1 @@
+(ROOT (S (ADVP (RB However)) (, ,) (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ argues) (SBAR (IN that) (S (NP (NNP Paul)) (VP (VBZ is) (ADVP (RB frequently)) (VP (VBN referenced) (PP (IN as) (NP (NP (DT an) (NN expert)) (PP (IN on) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (JJ gay) (NN marriage) (CC and) (NNS rights)))))))))))) (. .)))

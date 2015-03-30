@@ -1,0 +1,1 @@
+(ROOT (S (SBAR (WHADVP (WRB When#0#Temporal)) (S (NP (DT this) (NN comment)) (VP (VBD resulted) (PP (IN in) (NP (DT a) (NN challenge))) (PP (IN from) (NP (NN S1)))))) (NP (PRP he)) (VP (VBD denied) (S (VP (VBG hating) (NP (NNS gays))))) (. .)))

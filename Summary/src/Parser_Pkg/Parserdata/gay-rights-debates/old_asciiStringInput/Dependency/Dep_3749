@@ -1,0 +1,32 @@
+ that dead '' potential '' lives do n't have '' real '' or '' actual '' dead bodies .
+
+
+root(ROOT-0, have-9)
+mark(dead-2, that-1)
+dep(have-9, dead-2)
+dep(dead-2, potential-4)
+nsubj(have-9, lives-6)
+aux(have-9, do-7)
+neg(have-9, n't-8)
+dobj(have-9, real-11)
+amod(bodies-18, actual-15)
+amod(bodies-18, dead-17)
+dobj(have-9, bodies-18)
+conj_or(real-11, bodies-18)
+
+ that dead '' potential '' lives do n't have '' real '' or '' actual '' dead bodies .
+
+
+root(ROOT-0, have-9)
+mark(dead-2, that-1)
+dep(have-9, dead-2)
+dep(dead-2, potential-4)
+nsubj(have-9, lives-6)
+aux(have-9, do-7)
+neg(have-9, n't-8)
+dobj(have-9, real-11)
+amod(bodies-18, actual-15)
+amod(bodies-18, dead-17)
+dobj(have-9, bodies-18)
+conj_or(real-11, bodies-18)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, known-3)
+nsubjpass(known-3, it-1)
+auxpass(known-3, is-2)
+nsubj(going-6, they-4)
+aux(going-6, are-5)
+ccomp(known-3, going-6)
+aux(lie-8, to-7)
+xcomp(going-6, lie-8)

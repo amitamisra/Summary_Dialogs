@@ -1,0 +1,8 @@
+root(ROOT-0, support-5)
+nsubj(support-5, speaker-1)
+num(speaker-1, two-2)
+aux(support-5, does-3)
+neg(support-5, not-4)
+amod(rights-7, equal-6)
+dobj(support-5, rights-7)
+prep_for(support-5, homosexuals-9)

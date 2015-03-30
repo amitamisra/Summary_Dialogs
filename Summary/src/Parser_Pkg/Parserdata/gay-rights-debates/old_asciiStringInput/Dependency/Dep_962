@@ -1,0 +1,38 @@
+This is about gay marriage .
+
+
+root(ROOT-0, is-2)
+nsubj(is-2, This-1)
+amod(marriage-5, gay-4)
+prep_about(is-2, marriage-5)
+
+He feels this is the Christian equivalent of banning gay people by oppressing their lifestyle.
+root(ROOT-0, feels-2)
+nsubj(feels-2, He-1)
+nsubj(equivalent-7, this-3)
+cop(equivalent-7, is-4)
+det(equivalent-7, the-5)
+amod(equivalent-7, Christian-6)
+ccomp(feels-2, equivalent-7)
+prepc_of(equivalent-7, banning-9)
+amod(people-11, gay-10)
+dobj(banning-9, people-11)
+prepc_by(banning-9, oppressing-13)
+poss(lifestyle-15, their-14)
+dobj(oppressing-13, lifestyle-15)
+
+He feels this is the Christian equivalent of banning gay people by oppressing their lifestyle.
+root(ROOT-0, feels-2)
+nsubj(feels-2, He-1)
+nsubj(equivalent-7, this-3)
+cop(equivalent-7, is-4)
+det(equivalent-7, the-5)
+amod(equivalent-7, Christian-6)
+ccomp(feels-2, equivalent-7)
+prepc_of(equivalent-7, banning-9)
+amod(people-11, gay-10)
+dobj(banning-9, people-11)
+prepc_by(banning-9, oppressing-13)
+poss(lifestyle-15, their-14)
+dobj(oppressing-13, lifestyle-15)
+

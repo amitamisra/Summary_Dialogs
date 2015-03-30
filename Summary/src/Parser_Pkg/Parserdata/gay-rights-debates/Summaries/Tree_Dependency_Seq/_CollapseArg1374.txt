@@ -1,0 +1,6 @@
+root(ROOT-0, broaches-2)
+nsubj(broaches-2, one-1)
+det(topic-4, the-3)
+dobj(broaches-2, topic-4)
+prep_of(topic-4, AIS-6)
+num(AIS-6, one-7)

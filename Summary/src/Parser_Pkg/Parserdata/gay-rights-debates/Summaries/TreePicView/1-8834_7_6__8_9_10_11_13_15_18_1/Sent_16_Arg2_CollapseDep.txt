@@ -1,0 +1,7 @@
+root(ROOT-0, come-5)
+det(coast-3, the-1)
+nn(coast-3, west-2)
+nsubj(come-5, coast-3)
+aux(come-5, might-4)
+advmod(come-5, soon-6)
+prep(come-5, after-7)

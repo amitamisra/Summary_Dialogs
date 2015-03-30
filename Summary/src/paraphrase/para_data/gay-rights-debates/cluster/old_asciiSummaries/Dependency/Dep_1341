@@ -1,0 +1,11 @@
+S1 believes the roots are deeper than that particular poll.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+det(roots-4, the-3)
+nsubj(deeper-6, roots-4)
+cop(deeper-6, are-5)
+ccomp(believes-2, deeper-6)
+det(poll-10, that-8)
+amod(poll-10, particular-9)
+prep_than(deeper-6, poll-10)
+

@@ -1,0 +1,21 @@
+ it is a problem.
+root(ROOT-0, problem-4)
+nsubj(problem-4, it-1)
+cop(problem-4, is-2)
+det(problem-4, a-3)
+
+ it is a problem.
+root(ROOT-0, problem-4)
+nsubj(problem-4, it-1)
+cop(problem-4, is-2)
+det(problem-4, a-3)
+
+ love is not exclusive to gay marriages.
+root(ROOT-0, exclusive-4)
+nsubj(exclusive-4, love-1)
+cop(exclusive-4, is-2)
+neg(exclusive-4, not-3)
+prep(exclusive-4, to-5)
+amod(marriages-7, gay-6)
+pobj(to-5, marriages-7)
+

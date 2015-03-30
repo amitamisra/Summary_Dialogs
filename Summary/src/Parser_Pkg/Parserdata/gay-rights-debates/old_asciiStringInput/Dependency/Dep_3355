@@ -1,0 +1,40 @@
+ S2 is stating that S1 believes in gay marriage but not gay rights , which seems contradictory to S1 's point .
+
+
+root(ROOT-0, stating-3)
+nsubj(stating-3, S2-1)
+aux(stating-3, is-2)
+mark(believes-6, that-4)
+nsubj(believes-6, S1-5)
+ccomp(stating-3, believes-6)
+amod(marriage-9, gay-8)
+prep_in(believes-6, marriage-9)
+amod(rights-13, gay-12)
+prep_in(believes-6, rights-13)
+conj_negcc(marriage-9, rights-13)
+nsubj(contradictory-17, which-15)
+cop(contradictory-17, seems-16)
+rcmod(rights-13, contradictory-17)
+poss(point-21, S1-19)
+prep_to(contradictory-17, point-21)
+
+ S2 is stating that S1 believes in gay marriage but not gay rights , which seems contradictory to S1 's point .
+
+
+root(ROOT-0, stating-3)
+nsubj(stating-3, S2-1)
+aux(stating-3, is-2)
+mark(believes-6, that-4)
+nsubj(believes-6, S1-5)
+ccomp(stating-3, believes-6)
+amod(marriage-9, gay-8)
+prep_in(believes-6, marriage-9)
+amod(rights-13, gay-12)
+prep_in(believes-6, rights-13)
+conj_negcc(marriage-9, rights-13)
+nsubj(contradictory-17, which-15)
+cop(contradictory-17, seems-16)
+rcmod(rights-13, contradictory-17)
+poss(point-21, S1-19)
+prep_to(contradictory-17, point-21)
+

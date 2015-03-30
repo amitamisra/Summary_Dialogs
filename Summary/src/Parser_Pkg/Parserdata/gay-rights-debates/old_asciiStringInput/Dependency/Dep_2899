@@ -1,0 +1,18 @@
+  that speaker two is opposed to gay marriage 
+root(ROOT-0, opposed-5)
+mark(opposed-5, that-1)
+nsubjpass(opposed-5, speaker-2)
+num(speaker-2, two-3)
+auxpass(opposed-5, is-4)
+amod(marriage-8, gay-7)
+prep_to(opposed-5, marriage-8)
+
+  that speaker two is opposed to gay marriage 
+root(ROOT-0, opposed-5)
+mark(opposed-5, that-1)
+nsubjpass(opposed-5, speaker-2)
+num(speaker-2, two-3)
+auxpass(opposed-5, is-4)
+amod(marriage-8, gay-7)
+prep_to(opposed-5, marriage-8)
+

@@ -1,0 +1,8 @@
+root(ROOT-0, blown-4)
+det(GUEST-2, the-1)
+nsubj(blown-4, GUEST-2)
+aux(blown-4, has-3)
+det(conversation-7, the-5)
+amod(conversation-7, whole-6)
+dobj(blown-4, conversation-7)
+prep_out_of(blown-4, proportion-10)

@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ suspects) (SBAR (IN that) (S (NP (DT the) (NN law)) (VP (MD may) (VP (VB result) (PP (IN in) (NP (NP (DT an) (JJ effective) (NN denial)) (PP (IN of) (NP (JJ gay) (NN marriage)))))))))) (. .)))

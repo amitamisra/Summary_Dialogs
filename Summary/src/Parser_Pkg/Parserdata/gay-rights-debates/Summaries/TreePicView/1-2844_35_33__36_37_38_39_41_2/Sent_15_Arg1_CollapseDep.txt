@@ -1,0 +1,8 @@
+root(ROOT-0, wishes-2)
+nsubj(wishes-2, S2-1)
+amod(liberalism-4, modern-3)
+nsubj(more-6, liberalism-4)
+cop(more-6, were-5)
+ccomp(wishes-2, more-6)
+amod(liberalism-9, Jeffersonian-8)
+prep_like(more-6, liberalism-9)

@@ -1,0 +1,18 @@
+  that any argument goes back to one 's motivations 
+root(ROOT-0, goes-4)
+mark(goes-4, that-1)
+det(argument-3, any-2)
+nsubj(goes-4, argument-3)
+advmod(goes-4, back-5)
+poss(motivations-9, one-7)
+prep_to(goes-4, motivations-9)
+
+  that any argument goes back to one 's motivations 
+root(ROOT-0, goes-4)
+mark(goes-4, that-1)
+det(argument-3, any-2)
+nsubj(goes-4, argument-3)
+advmod(goes-4, back-5)
+poss(motivations-9, one-7)
+prep_to(goes-4, motivations-9)
+

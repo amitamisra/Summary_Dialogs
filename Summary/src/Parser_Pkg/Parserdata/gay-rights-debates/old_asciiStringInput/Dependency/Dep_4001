@@ -1,0 +1,24 @@
+    gay people   say the wrong thing   they get kicked out 
+root(ROOT-0, say-3)
+amod(people-2, gay-1)
+nsubj(say-3, people-2)
+det(thing-6, the-4)
+amod(thing-6, wrong-5)
+dobj(say-3, thing-6)
+nsubjpass(kicked-9, they-7)
+auxpass(kicked-9, get-8)
+rcmod(thing-6, kicked-9)
+prt(kicked-9, out-10)
+
+    gay people   say the wrong thing   they get kicked out 
+root(ROOT-0, say-3)
+amod(people-2, gay-1)
+nsubj(say-3, people-2)
+det(thing-6, the-4)
+amod(thing-6, wrong-5)
+dobj(say-3, thing-6)
+nsubjpass(kicked-9, they-7)
+auxpass(kicked-9, get-8)
+rcmod(thing-6, kicked-9)
+prt(kicked-9, out-10)
+

@@ -1,0 +1,5 @@
+root(ROOT-0, takes-3)
+nn(Africa-2, South-1)
+nsubj(takes-3, Africa-2)
+poss(view-5, his-4)
+dobj(takes-3, view-5)

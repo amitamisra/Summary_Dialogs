@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (SBAR (IN because#0#Contingency) (S (NP (DT this) (NN lady)) (VP (VBZ is) (RB not) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (JJ gay) (NN marriage)))))))) (, ,) (NP (DT the) (NN lady)) (VP (VBZ is) (ADJP (JJ anti-gay)))))) (. .)))

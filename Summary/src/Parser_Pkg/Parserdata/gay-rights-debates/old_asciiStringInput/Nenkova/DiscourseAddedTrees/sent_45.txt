@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ does) (RB n't) (VP (VB think) (SBAR (S (NP (NNS morals)) (VP (MD should) (VP (VB be) (VP (VBN forced)))))))) (. .)))

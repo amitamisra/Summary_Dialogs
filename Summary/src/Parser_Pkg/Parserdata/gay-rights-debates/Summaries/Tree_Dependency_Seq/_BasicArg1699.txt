@@ -1,0 +1,7 @@
+root(ROOT-0, are-4)
+det(wing-3, the-1)
+amod(wing-3, left-2)
+nsubj(are-4, wing-3)
+neg(are-4, n't-5)
+prep(are-4, against-6)
+pobj(against-6, deficits-7)

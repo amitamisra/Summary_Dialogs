@@ -1,0 +1,20 @@
+  that cultural and legal precedent is very real , 
+root(ROOT-0, real-8)
+dep(cultural-2, that-1)
+amod(precedent-5, cultural-2)
+conj_and(cultural-2, legal-4)
+amod(precedent-5, legal-4)
+nsubj(real-8, precedent-5)
+cop(real-8, is-6)
+advmod(real-8, very-7)
+
+  that cultural and legal precedent is very real , 
+root(ROOT-0, real-8)
+dep(cultural-2, that-1)
+amod(precedent-5, cultural-2)
+conj_and(cultural-2, legal-4)
+amod(precedent-5, legal-4)
+nsubj(real-8, precedent-5)
+cop(real-8, is-6)
+advmod(real-8, very-7)
+

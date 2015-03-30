@@ -1,0 +1,22 @@
+most divorces of hetero couples are due to adultery.
+root(ROOT-0, due-7)
+advmod(divorces-2, most-1)
+nsubj(due-7, divorces-2)
+prep(due-7, of-3)
+nn(couples-5, hetero-4)
+pobj(of-3, couples-5)
+cop(due-7, are-6)
+prep(due-7, to-8)
+pobj(to-8, adultery-9)
+
+most divorces of hetero couples are due to adultery.
+root(ROOT-0, due-7)
+advmod(divorces-2, most-1)
+nsubj(due-7, divorces-2)
+prep(due-7, of-3)
+nn(couples-5, hetero-4)
+pobj(of-3, couples-5)
+cop(due-7, are-6)
+prep(due-7, to-8)
+pobj(to-8, adultery-9)
+

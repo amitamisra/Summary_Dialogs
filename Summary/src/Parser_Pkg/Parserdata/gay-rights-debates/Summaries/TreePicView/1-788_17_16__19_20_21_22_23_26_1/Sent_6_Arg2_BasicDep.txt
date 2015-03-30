@@ -1,0 +1,6 @@
+root(ROOT-0, called-4)
+nsubjpass(called-4, they-1)
+auxpass(called-4, are-2)
+advmod(called-4, often-3)
+det(homophobe-6, a-5)
+dobj(called-4, homophobe-6)

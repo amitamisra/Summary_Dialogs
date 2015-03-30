@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>This is about the use of arguments of violence towards gay-marriage. S1 starts off saying there is a difference between being anti-gay and someone condoning violence against gay people. S2 talks about how violence is used to make people feel threatened to feel a certain way about a topic or debate. S2 used the example of kids being taught about gay marriage in school as a threat. S2 also mentions someone named Archie who posts include a variety of slurs towards gay people. S1 brushes on the topic, but goes off track from the topic quite a bit. These two people start referring to each others &quot;attacks&quot; on each other towards the end. S1 says they were referring to namecalling and violence from the original post that was opposing gay rights. These two aren't really in opposite positions/beliefs, but they are more trying to discuss the ways they argue for or against gay marriage and how it may be portrayed by others. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line> </line>
+  <line>S1 and S2 are talking about the views of gay marriage in our culture. S1 is against gay marriage but thinks it is unfair for supporters of gay marriage to link his view with violence towards gays. S1 thinks violence towards gays is used as launching point for gays to preach gay rights.  S2 makes reference other poster and homophobic slurs that be frequently used on the thread. S2 believes that violence towards gay stem from slanderous representations of gays, and produces a toxic environment where people will act in violence out of fear.  S1 is once again gets angered by the generalizations used by S2, because it does not represent his point.  S2 is happy S1 is no loner attacking him. S1 believes he was only responding to the attacks by S2.  S2 becomes angry with S1 for avoiding the main topic at hand.  The discussion diverges into S2 quoting previous posters and showing hateful speech.  S2 believes this dehumanizing talk in responsible for hate against gays. </line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>(S1) is talking about how gay marriage is not synonymous with violence. (S2) argues that there is regular denigration of gays and mentions politicians unhelpful views on gay marriage. (S1) also says that its funny how violence is used to end an argument against religion. (S2) is talking about bad things that people make/talk about gay people to influence fear on others. For example, that gay marriage means that children will have to know about it, churches to perform gay marriages, and that the adds on Proposition 8 the adds were insightful. (S1) says that there is an anti-gay rhetoric and inflated statements to scare people. Then both (S1) and (S2) argue about how they are not so interested in arguing with each other but they are invested in defending their ideals. (S1) says NAMECALLING AND VIOLENCE were things commonly use at the same time to oppose gay marriage. (S2) states that (S1) use boring passive-aggressive attacks when talking about the issue of gay marriage.</line>
+  <line> Both (S1) and (S2) keep referring to others views on the issue and choose sides. </line>
+  <line> </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 points out that the gay marriage debate is not synonymous with someone condoning violence against gays. S1 thinks that anyone here would with S2 that gays shouldn't experience violence and name-calling. S1 doubts that anyone would be satisfied if every religious person who genuinely disagreed with gay marriage because of their religion added a ' but-no-violence ! ' addendum to everytime they weighed in on it .People shouldn't have to stop standing up for their principles just because of nutcases out there. S1 is not trying to ignore S2 and defends not attacking S2 due to the change of tone of S2. Namecalling and violence are wrong , REGARDLESS of where people fall on the issue of gay marriage . In fact , more importantly , they're always wrong no matter what the issue . </line>
+  <line> </line>
+  <line> </line>
+  <line> S2 points to another author Archie who regularly denigrates gays with a variety of slurs as someone who uses inflammatory language. There are people  who put out junk that makes people feel threatened by gays . It's built up toxicity from all the anti-gay rhetoric that reaches a boiling point . When the rhetoric inflames , it's obvious where it starts when somebody gets burned. S2 thinks that S1 throws arbitrary arguments out there , belittles the claim of S1 and demonstrates an ulterior motive for ignoring the statement .</line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 asks S2 if he knows that the gay marriage debate is not synonymous with someone condoning violence against gays. S1 agrees that gays shouldnt experience violence and name-calling. S2 says that on Archies post that Archie regularly denigrates gays with a variety of slurs. S1 finds it funny that the whole violence thing gets used as a means-to-an-end tool by those who argue against religious people on this. People shouldnt have to stop standing up for their principles just because of other people. S2 says telling people that gay marriage will makes their kids have to be taught about gay marriage is a threat, as well as telling people that gay marriage will require churches to have to perform gay marriages. S2 thinks S1 is ignoring him but S1 says he is not rather S2s tone has changed. S1 says name calling and violence were the things Jason conflated with opposing gay marriage. S2 asks S1 to quote exactly what he said because he thinks Jason did no such thing. </line>
+ </text>
+ <scu uid="15" label="S1 argues there is a difference between being against gay rights and condoning violence on gays ">
+  <contributor label="about the use of arguments of violence towards gay-marriage...saying there is a difference between being anti-gay and someone condoning violence against gay">
+   <part label="about the use of arguments of violence towards gay-marriage" start="34" end="93"/>
+   <part label="saying there is a difference between being anti-gay and someone condoning violence against gay" start="109" end="203"/>
+  </contributor>
+  <contributor label="talking about how gay marriage is not synonymous with violence">
+   <part label="talking about how gay marriage is not synonymous with violence" start="1991" end="2053"/>
+  </contributor>
+  <contributor label="gay marriage debate is not synonymous with someone condoning violence against gays">
+   <part label="gay marriage debate is not synonymous with someone condoning violence against gays" start="3102" end="3184"/>
+  </contributor>
+  <contributor label="is not synonymous with someone condoning violence against gays...name calling and violence were the things Jason conflated with opposing gay marriage">
+   <part label="is not synonymous with someone condoning violence against gays" start="4476" end="4538"/>
+   <part label="name calling and violence were the things Jason conflated with opposing gay marriage" start="5229" end="5313"/>
+  </contributor>
+  <contributor label="link his view with violence towards gays...because it does not represent his point">
+   <part label="link his view with violence towards gays" start="1137" end="1177"/>
+   <part label="because it does not represent his point" start="1592" end="1631"/>
+  </contributor>
+ </scu>
+ <scu uid="26" label="S1 avoids the main topic of discussion ">
+  <contributor label="goes off track from the topic">
+   <part label="goes off track from the topic" start="533" end="562"/>
+  </contributor>
+  <contributor label="for avoiding the main topic at hand">
+   <part label="for avoiding the main topic at hand" start="1759" end="1794"/>
+  </contributor>
+  <contributor label="S1 throws arbitrary arguments out there">
+   <part label="S1 throws arbitrary arguments out there" start="4265" end="4304"/>
+  </contributor>
+  <contributor label="use boring passive-aggressive attacks">
+   <part label="use boring passive-aggressive attacks" start="2883" end="2920"/>
+  </contributor>
+ </scu>
+ <scu uid="19" label="Previous posters, especially someone named Archie, have used homophobic slurs to express their views on gay rights ">
+  <contributor label="mentions someone named Archie who posts include a variety of slurs towards gay people...they were referring to namecalling and violence from the original post">
+   <part label="mentions someone named Archie who posts include a variety of slurs towards gay people" start="417" end="502"/>
+   <part label="they were referring to namecalling and violence from the original post" start="673" end="743"/>
+  </contributor>
+  <contributor label="points to another author Archie who regularly denigrates gays">
+   <part label="points to another author Archie who regularly denigrates gays" start="3872" end="3933"/>
+  </contributor>
+  <contributor label="Archies post that Archie regularly denigrates gays with a variety of slurs">
+   <part label="Archies post that Archie regularly denigrates gays with a variety of slurs" start="4623" end="4697"/>
+  </contributor>
+  <contributor label="makes reference other poster and homophobic slurs...quoting previous posters and showing hateful speech">
+   <part label="quoting previous posters and showing hateful speech" start="1829" end="1880"/>
+   <part label="makes reference other poster and homophobic slurs" start="1273" end="1322"/>
+  </contributor>
+ </scu>
+ <scu uid="18" label="S2 argues that violence is used in the gay rights debate to poison people on the topic of gay marriage ">
+  <contributor label="talks about how violence is used to make people feel threatened to feel a certain way about a topic or debate">
+   <part label="talks about how violence is used to make people feel threatened to feel a certain way about a topic or debate" start="215" end="324"/>
+  </contributor>
+  <contributor label="violence towards gay stem from slanderous representations of gays...produces a toxic environment where people will act in violence out of fear...believes this dehumanizing talk in responsible for hate against gays">
+   <part label="produces a toxic environment where people will act in violence out of fear" start="1450" end="1524"/>
+   <part label="violence towards gay stem from slanderous representations of gays" start="1379" end="1444"/>
+   <part label="believes this dehumanizing talk in responsible for hate against gays" start="1886" end="1954"/>
+  </contributor>
+  <contributor label="there is regular denigration of gays...people make/talk about gay people to influence fear on others...(S1) says that there is an anti-gay rhetoric and inflated statements to scare people...NAMECALLING AND VIOLENCE were things commonly use">
+   <part label="people make/talk about gay people to influence fear on others" start="2293" end="2354"/>
+   <part label="there is regular denigration of gays" start="2072" end="2108"/>
+   <part label="(S1) says that there is an anti-gay rhetoric and inflated statements to scare people" start="2531" end="2615"/>
+   <part label="NAMECALLING AND VIOLENCE were things commonly use" start="2770" end="2819"/>
+  </contributor>
+  <contributor label="There are people  who put out junk that makes people feel threatened by gays...built up toxicity from all the anti-gay rhetoric">
+   <part label="There are people  who put out junk that makes people feel threatened by gays" start="4001" end="4077"/>
+   <part label="built up toxicity from all the anti-gay rhetoric" start="4085" end="4133"/>
+  </contributor>
+ </scu>
+ <scu uid="32" label="The overarching theme of this discussion is about gay marriage ">
+  <contributor label="views of gay marriage in our culture">
+   <part label="views of gay marriage in our culture" start="1014" end="1050"/>
+  </contributor>
+  <contributor label="talking about the issue of gay marriage">
+   <part label="talking about the issue of gay marriage" start="2926" end="2965"/>
+  </contributor>
+  <contributor label="on the issue of gay marriage">
+   <part label="on the issue of gay marriage" start="3755" end="3783"/>
+  </contributor>
+  <contributor label="gay marriage debate">
+   <part label="gay marriage debate" start="4456" end="4475"/>
+  </contributor>
+ </scu>
+ <scu uid="27" label="According to S2, a threat used to scare people away from equality for gays is that children will be forced to learn about homosexuality in school ">
+  <contributor label="kids have to be taught about gay marriage is a threat">
+   <part label="kids have to be taught about gay marriage is a threat" start="4986" end="5039"/>
+  </contributor>
+  <contributor label="children will have to know about it">
+   <part label="children will have to know about it" start="2398" end="2433"/>
+  </contributor>
+  <contributor label="kids being taught about gay marriage">
+   <part label="kids being taught about gay marriage" start="349" end="385"/>
+  </contributor>
+ </scu>
+ <scu uid="23" label="The violence against gays argument is used to attack religion ">
+  <contributor label="whole violence thing gets used as a means-to-an-end tool by those who argue against religious">
+   <part label="whole violence thing gets used as a means-to-an-end tool by those who argue against religious" start="4726" end="4819"/>
+  </contributor>
+  <contributor label="funny how violence is used to end an argument against religion">
+   <part label="funny how violence is used to end an argument against religion" start="2191" end="2253"/>
+  </contributor>
+  <contributor label="every religious person">
+   <part label="every religious person" start="3329" end="3351"/>
+  </contributor>
+ </scu>
+ <scu uid="31" label="S2 thinks S1 is ignoring him ">
+  <contributor label="ignoring the statement">
+   <part label="ignoring the statement" start="4373" end="4395"/>
+  </contributor>
+  <contributor label="S2 thinks S1 is ignoring him">
+   <part label="S2 thinks S1 is ignoring him" start="5141" end="5169"/>
+  </contributor>
+ </scu>
+ <scu uid="20" label="S1 are more concerned for standing up for their own ideals rather than arguing ">
+  <contributor label="start referring to each others &quot;attacks&quot; on each other towards the end...discuss the ways they argue for or against gay marriage">
+   <part label="start referring to each others &quot;attacks&quot; on each other towards the end" start="593" end="663"/>
+   <part label="discuss the ways they argue for or against gay marriage" start="857" end="912"/>
+  </contributor>
+  <contributor label="they are invested in defending their ideals...(S1) and (S2) keep referring to others views on the issue and choose sides">
+   <part label="(S1) and (S2) keep referring to others views on the issue and choose sides" start="2973" end="3047"/>
+   <part label="they are invested in defending their ideals" start="2715" end="2758"/>
+  </contributor>
+  <contributor label="People shouldn't have to stop standing up for their principles">
+   <part label="People shouldn't have to stop standing up for their principles" start="3495" end="3557"/>
+  </contributor>
+  <contributor label="People shouldnt have to stop standing up for their principles">
+   <part label="People shouldnt have to stop standing up for their principles" start="4836" end="4897"/>
+  </contributor>
+ </scu>
+ <scu uid="22" label="S1 agrees that gays shouldn't experience violence and name-calling">
+  <contributor label="that gays shouldn't experience violence and name-calling...Namecalling and violence are wrong">
+   <part label="that gays shouldn't experience violence and name-calling" start="3227" end="3283"/>
+   <part label="Namecalling and violence are wrong" start="3686" end="3720"/>
+  </contributor>
+  <contributor label="gays shouldnt experience violence and name-calling">
+   <part label="gays shouldnt experience violence and name-calling" start="4555" end="4605"/>
+  </contributor>
+ </scu>
+ <scu uid="29" label="According to S2, a threat used to scare people away from equality for gays is that churches will be forced to perform gay marriages">
+  <contributor label="will require churches to have to perform gay marriages">
+   <part label="will require churches to have to perform gay marriages" start="5085" end="5139"/>
+  </contributor>
+  <contributor label="churches to perform gay marriages">
+   <part label="churches to perform gay marriages" start="2435" end="2468"/>
+  </contributor>
+ </scu>
+ <scu uid="16" label="S1 thinks violence towards gays is used as launching point for gays to preach gay rights">
+  <contributor label="S1 thinks violence towards gays is used as launching point for gays to preach gay rights">
+   <part label="S1 thinks violence towards gays is used as launching point for gays to preach gay rights" start="1179" end="1267"/>
+  </contributor>
+ </scu>
+ <scu uid="33" label="S2 changes tone in the discussion ">
+  <contributor label="S2 due to the change of tone">
+   <part label="S2 due to the change of tone" start="3650" end="3678"/>
+  </contributor>
+  <contributor label="S2s tone has changed">
+   <part label="S2s tone has changed" start="5199" end="5219"/>
+  </contributor>
+ </scu>
+</pyramid>

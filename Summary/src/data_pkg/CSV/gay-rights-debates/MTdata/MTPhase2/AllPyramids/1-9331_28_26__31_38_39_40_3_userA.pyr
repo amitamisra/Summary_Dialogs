@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 argues that same sex marriage is not the same essential component to people's general welfare that one man and one woman is. This person believes that society can survive without homosexual unions, polygamy and bestiality, and that it would not survive long without heterosexual marriage. He or she argue that S2 is simply disagreeing on where the legal line should be drawn for marriage, and that government has the right to impose a legal distinction somewhere.</line>
+  <line>S2 argues that homosexual couples and families all have the same basic needs, responsibilities to one another and society as heterosexual people do. This person believes that S1 is wrong by rebutting the idea that society could also survive without allowing many minorities the same rights as the majority. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 claims that same-sex marriage is not the same essential component of society that opposite-sex marriage is. He clarifies by suggesting that society can function without same-sex marriage, but not without opposite-sex marriage, presumably due to the reproductive element involved. He redefines the argument to be whether the government has the right to decide which types of marriages it will recognize, suggesting that the debate is just about where the line is drawn.</line>
+  <line>S2 claims that same-sex and opposite-sex families have the same needs and responsibilities within society. He claims that S1 is correct that society could function without giving minorities the same rights as majority but that this is amoral, and that there is no good reason to deny people the right of same-sex marriage.</line>
+  <line></line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 thinks it doesn't matter if anyone is harmed by gay marriage it is different than the basic structure. He thinks society could not survive without heterosexual marriage but it can without gay marriage. He argues that the real issue is where to draw the lines on marriage laws. S2 argues that society could survive without many of the rights it has and that argument is really a way of discriminating against minorities, therefore it isn't an argument. S2 agrees the issue is where to draw the line but states you need reasons the line should be there and there isn't one for gay marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 believes S2's statements exclude gay couples from the term marriage.  S1 feels the argument of society's survival is a way of saying it's alright to exclude a minority group from what is to be considered the social norm as homosexuals have been.</line>
+  <line></line>
+  <line>S2 believes whether or not gay marriage impacts the public's view of marriage, that society could survive without it whereas society could not survive as a whole without heterosexual unions. S2 supports his/her statements with the argument that most people agree the government has a right to draw a line where marriage is concerned as in polygamy, incest, statutory, so it could be said the only valid argument is not that of inequality but more of where the line should be drawn. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two people are discussing the importance of gay marriage to society.  S1 states that gay marriage is not an essential component to the welfare of society.  He states that our society can survive without homosexual unions, polygamy and bestiality; without heterosexual marriage society would not survive long at all. S2 retorts that this is not an argument, as society could survive without giving many minorities the same rights as the majority. S1 states that the people through government has the right to draw the line on what is recognized as marriage, and the disagreement is to where that line is.  S2 states that the real issue at hand is banning gay marriage.</line>
+ </text>
+ <scu uid="1" label="Gay marriage is not the same essential component as heterosexual marriage to the welfare of society.">
+  <contributor label="same sex marriage is not the same essential component to people's general welfare that one man and one woman is">
+   <part label="same sex marriage is not the same essential component to people's general welfare that one man and one woman is" start="41" end="152"/>
+  </contributor>
+  <contributor label="same-sex marriage is not the same essential component of society that opposite-sex marriage is">
+   <part label="same-sex marriage is not the same essential component of society that opposite-sex marriage is" start="843" end="937"/>
+  </contributor>
+  <contributor label="S2 believes whether or not gay marriage impacts the public's view of marriage">
+   <part label="S2 believes whether or not gay marriage impacts the public's view of marriage" start="2520" end="2597"/>
+  </contributor>
+  <contributor label="gay marriage is not an essential component to the welfare of society">
+   <part label="gay marriage is not an essential component to the welfare of society" start="3115" end="3183"/>
+  </contributor>
+  <contributor label="it doesn't matter if anyone is harmed by gay marriage it is different than the basic structure">
+   <part label="it doesn't matter if anyone is harmed by gay marriage it is different than the basic structure" start="1661" end="1755"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="Society can survive without homosexual marriage.">
+  <contributor label="society can survive without homosexual unions, polygamy and bestiality">
+   <part label="society can survive without homosexual unions, polygamy and bestiality" start="180" end="250"/>
+  </contributor>
+  <contributor label="suggesting that society can function without same-sex marriage">
+   <part label="suggesting that society can function without same-sex marriage" start="955" end="1017"/>
+  </contributor>
+  <contributor label="it can without gay marriage">
+   <part label="it can without gay marriage" start="1827" end="1854"/>
+  </contributor>
+  <contributor label="society could survive without it">
+   <part label="society could survive without it" start="2604" end="2636"/>
+  </contributor>
+  <contributor label="our society can survive without homosexual unions, polygamy and bestiality;">
+   <part label="our society can survive without homosexual unions, polygamy and bestiality;" start="3201" end="3276"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="Society could not survive without heterosexual marriage.">
+  <contributor label="it would not survive long without heterosexual marriage">
+   <part label="it would not survive long without heterosexual marriage" start="261" end="316"/>
+  </contributor>
+  <contributor label="but not without opposite-sex marriage, presumably due to the reproductive element involved">
+   <part label="but not without opposite-sex marriage, presumably due to the reproductive element involved" start="1019" end="1109"/>
+  </contributor>
+  <contributor label="society could not survive without heterosexual marriage">
+   <part label="society could not survive without heterosexual marriage" start="1767" end="1822"/>
+  </contributor>
+  <contributor label="society could not survive as a whole without heterosexual unions">
+   <part label="society could not survive as a whole without heterosexual unions" start="2645" end="2709"/>
+  </contributor>
+  <contributor label="without heterosexual marriage society would not survive long at all">
+   <part label="without heterosexual marriage society would not survive long at all" start="3277" end="3344"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="Society could survive without giving minorities the same rights as majority.">
+  <contributor label="S2 argues that society could survive without many of the rights it has">
+   <part label="S2 argues that society could survive without many of the rights it has" start="1931" end="2001"/>
+  </contributor>
+  <contributor label="S1 is correct that society could function without giving minorities the same rights as majority">
+   <part label="S1 is correct that society could function without giving minorities the same rights as majority" start="1422" end="1517"/>
+  </contributor>
+  <contributor label="S2 retorts that this is not an argument, as society could survive without giving many minorities the same rights as the majority">
+   <part label="S2 retorts that this is not an argument, as society could survive without giving many minorities the same rights as the majority" start="3346" end="3474"/>
+  </contributor>
+  <contributor label="rebutting the idea that society could also survive without allowing many minorities the same rights as the majority">
+   <part label="rebutting the idea that society could also survive without allowing many minorities the same rights as the majority" start="683" end="798"/>
+  </contributor>
+  <contributor label="the argument of society's survival is a way of saying it's alright to exclude a minority group from what is to be considered the social norm as homosexuals have been">
+   <part label="the argument of society's survival is a way of saying it's alright to exclude a minority group from what is to be considered the social norm as homosexuals have been" start="2352" end="2517"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="The government has the right to decide what is recognized as marriage.">
+  <contributor label="government has the right to impose a legal distinction somewhere">
+   <part label="government has the right to impose a legal distinction somewhere" start="427" end="491"/>
+  </contributor>
+  <contributor label="the argument to be whether the government has the right to decide which types of marriages it will recognize">
+   <part label="the argument to be whether the government has the right to decide which types of marriages it will recognize" start="1124" end="1232"/>
+  </contributor>
+  <contributor label="most people agree the government has a right to draw a line where marriage is concerned as in polygamy, incest, statutory">
+   <part label="most people agree the government has a right to draw a line where marriage is concerned as in polygamy, incest, statutory" start="2765" end="2886"/>
+  </contributor>
+  <contributor label="the people through government has the right to draw the line on what is recognized as marriage">
+   <part label="the people through government has the right to draw the line on what is recognized as marriage" start="3491" end="3585"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="The real issue is where to draw the line on marriage laws.">
+  <contributor label="the real issue is where to draw the lines on marriage laws...S2 agrees the issue is where to draw the line">
+   <part label="the real issue is where to draw the lines on marriage laws" start="1871" end="1929"/>
+   <part label="S2 agrees the issue is where to draw the line" start="2106" end="2151"/>
+  </contributor>
+  <contributor label="suggesting that the debate is just about where the line is drawn">
+   <part label="suggesting that the debate is just about where the line is drawn" start="1234" end="1298"/>
+  </contributor>
+  <contributor label="more of where the line should be drawn">
+   <part label="more of where the line should be drawn" start="2962" end="3000"/>
+  </contributor>
+  <contributor label="the disagreement is to where that line is">
+   <part label="the disagreement is to where that line is" start="3591" end="3632"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="Gay marriage is being excluded.">
+  <contributor label="S1 believes S2's statements exclude gay couples from the term marriage">
+   <part label="S1 believes S2's statements exclude gay couples from the term marriage" start="2270" end="2340"/>
+  </contributor>
+  <contributor label="there isn't one for gay marriage">
+   <part label="there isn't one for gay marriage" start="2209" end="2241"/>
+  </contributor>
+  <contributor label="S2 states that the real issue at hand is banning gay marriage">
+   <part label="S2 states that the real issue at hand is banning gay marriage" start="3635" end="3696"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="Homosexual and heterosexual families have the same needs and responsiblities within society.">
+  <contributor label="homosexual couples and families all have the same basic needs, responsibilities to one another and society as heterosexual people do">
+   <part label="homosexual couples and families all have the same basic needs, responsibilities to one another and society as heterosexual people do" start="508" end="640"/>
+  </contributor>
+  <contributor label="same-sex and opposite-sex families have the same needs and responsibilities within society">
+   <part label="same-sex and opposite-sex families have the same needs and responsibilities within society" start="1315" end="1405"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="The argument discriminates against minorities.">
+  <contributor label="that argument is really a way of discriminating against minorities, therefore it isn't an argument">
+   <part label="that argument is really a way of discriminating against minorities, therefore it isn't an argument" start="2006" end="2104"/>
+  </contributor>
+  <contributor label="so it could be said the only valid argument is not that of inequality">
+   <part label="so it could be said the only valid argument is not that of inequality" start="2888" end="2957"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="It is amoral to deny people the right of gay marriage without good reason.">
+  <contributor label="this is amoral, and that there is no good reason to deny people the right of same-sex marriage">
+   <part label="this is amoral, and that there is no good reason to deny people the right of same-sex marriage" start="1527" end="1621"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="One persion disagrees on where the legal line should be drawn for marriage.">
+  <contributor label="S2 is simply disagreeing on where the legal line should be drawn for marriage">
+   <part label="S2 is simply disagreeing on where the legal line should be drawn for marriage" start="339" end="416"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="The line on marriage laws needs reasons.">
+  <contributor label="you need reasons the line should be there">
+   <part label="you need reasons the line should be there" start="2163" end="2204"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="Two people are discussing the importance of gay marriage to society.">
+  <contributor label="Two people are discussing the importance of gay marriage to society">
+   <part label="Two people are discussing the importance of gay marriage to society" start="3030" end="3097"/>
+  </contributor>
+ </scu>
+</pyramid>

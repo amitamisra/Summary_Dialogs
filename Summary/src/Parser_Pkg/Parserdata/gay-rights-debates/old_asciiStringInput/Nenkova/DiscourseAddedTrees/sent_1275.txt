@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ makes) (NP (NP (NN reference) (JJ other) (NN poster)) (CC and#0#0) (NP (NP (JJ homophobic) (NNS slurs)) (SBAR (WHNP (WDT that)) (S (VP (VB be) (VP (ADVP (RB frequently)) (VBN used) (PP (IN on) (NP (DT the) (NN thread)))))))))) (. .)))

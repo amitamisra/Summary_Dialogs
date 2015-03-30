@@ -1,0 +1,4 @@
+root(ROOT-0, honest-4)
+nsubj(honest-4, them-1)
+aux(honest-4, to-2)
+cop(honest-4, be-3)

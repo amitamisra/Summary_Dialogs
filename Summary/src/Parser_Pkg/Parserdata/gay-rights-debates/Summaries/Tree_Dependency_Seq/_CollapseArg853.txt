@@ -1,0 +1,7 @@
+root(ROOT-0, reactionary-9)
+csubj(reactionary-9, dismissing-1)
+dobj(dismissing-1, results-2)
+conj_negcc(dismissing-1, checking-6)
+csubj(reactionary-9, checking-6)
+dobj(checking-6, validity-7)
+cop(reactionary-9, is-8)

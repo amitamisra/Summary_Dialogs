@@ -1,0 +1,17 @@
+S2 rebuts by saying that he's calling it bigotry because that's what it is.
+root(ROOT-0, rebuts-2)
+nsubj(rebuts-2, S2-1)
+prepc_by(rebuts-2, saying-4)
+mark(calling-8, that-5)
+nsubj(calling-8, he-6)
+aux(calling-8, 's-7)
+ccomp(saying-4, calling-8)
+nsubj(bigotry-10, it-9)
+xcomp(calling-8, bigotry-10)
+mark('s-13, because-11)
+nsubj('s-13, that-12)
+advcl(calling-8, 's-13)
+dobj(is-16, what-14)
+nsubj(is-16, it-15)
+ccomp('s-13, is-16)
+

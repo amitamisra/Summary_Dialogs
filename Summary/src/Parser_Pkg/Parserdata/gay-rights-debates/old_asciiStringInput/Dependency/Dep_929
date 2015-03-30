@@ -1,0 +1,43 @@
+S1 will try to legally disrupt any of the fundraising activities that they have going on , protest their weddings and their services .
+
+
+root(ROOT-0, try-3)
+nsubj(try-3, S1-1)
+aux(try-3, will-2)
+aux(disrupt-6, to-4)
+advmod(disrupt-6, legally-5)
+xcomp(try-3, disrupt-6)
+dobj(disrupt-6, any-7)
+det(activities-11, the-9)
+nn(activities-11, fundraising-10)
+prep_of(any-7, activities-11)
+mark(have-14, that-12)
+nsubj(have-14, they-13)
+ccomp(try-3, have-14)
+xcomp(have-14, going-15)
+prep(going-15, on-16)
+dep(try-3, protest-18)
+poss(weddings-20, their-19)
+dobj(protest-18, weddings-20)
+poss(services-23, their-22)
+dobj(protest-18, services-23)
+conj_and(weddings-20, services-23)
+
+   only heterosexuals are legally allowed to marry 
+root(ROOT-0, allowed-5)
+advmod(heterosexuals-2, only-1)
+nsubjpass(allowed-5, heterosexuals-2)
+auxpass(allowed-5, are-3)
+advmod(allowed-5, legally-4)
+aux(marry-7, to-6)
+xcomp(allowed-5, marry-7)
+
+   only heterosexuals are legally allowed to marry 
+root(ROOT-0, allowed-5)
+advmod(heterosexuals-2, only-1)
+nsubjpass(allowed-5, heterosexuals-2)
+auxpass(allowed-5, are-3)
+advmod(allowed-5, legally-4)
+aux(marry-7, to-6)
+xcomp(allowed-5, marry-7)
+

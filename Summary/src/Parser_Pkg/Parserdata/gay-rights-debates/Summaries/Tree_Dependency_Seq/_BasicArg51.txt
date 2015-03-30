@@ -1,0 +1,5 @@
+root(ROOT-0, legal-3)
+cop(legal-3, is-1)
+neg(legal-3, not-2)
+cc(legal-3, or-4)
+conj(legal-3, natural-5)

@@ -1,0 +1,8 @@
+root(ROOT-0, has-2)
+nsubj(has-2, S1-1)
+neg(evidence-4, no-3)
+dobj(has-2, evidence-4)
+det(sort-7, any-6)
+prep_of(evidence-4, sort-7)
+poss(arguments-10, his-9)
+prep_for(sort-7, arguments-10)

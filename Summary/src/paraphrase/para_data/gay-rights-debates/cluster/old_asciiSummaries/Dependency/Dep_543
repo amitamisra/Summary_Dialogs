@@ -1,0 +1,17 @@
+S1 feels S2 does not have a firm grasp of historical facts due to the points made.
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+nsubj(have-6, S2-3)
+aux(have-6, does-4)
+neg(have-6, not-5)
+ccomp(feels-2, have-6)
+det(grasp-9, a-7)
+amod(grasp-9, firm-8)
+nsubj(due-13, grasp-9)
+amod(facts-12, historical-11)
+prep_of(grasp-9, facts-12)
+xcomp(have-6, due-13)
+det(points-16, the-15)
+prep_to(due-13, points-16)
+vmod(points-16, made-17)
+

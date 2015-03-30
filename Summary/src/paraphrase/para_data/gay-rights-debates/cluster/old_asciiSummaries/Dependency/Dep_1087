@@ -1,0 +1,13 @@
+According to S1, incest and polygamy doesnt relate specifically to gay legal marriage.
+root(ROOT-0, relate-9)
+prepc_according_to(relate-9, to-2)
+pobj(relate-9, S1-3)
+nn(doesnt-8, incest-5)
+conj_and(incest-5, polygamy-7)
+nn(doesnt-8, polygamy-7)
+nsubj(relate-9, doesnt-8)
+advmod(relate-9, specifically-10)
+amod(marriage-14, gay-12)
+amod(marriage-14, legal-13)
+prep_to(relate-9, marriage-14)
+

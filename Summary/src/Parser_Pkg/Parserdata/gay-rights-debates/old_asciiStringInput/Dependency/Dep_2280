@@ -1,0 +1,28 @@
+S2: Gay marriage supporters want marriage laws changed to accommodate gay marriage.
+root(ROOT-0, S2-1)
+dep(S2-1, Gay-3)
+nn(supporters-5, marriage-4)
+nsubj(want-6, supporters-5)
+rcmod(Gay-3, want-6)
+nn(laws-8, marriage-7)
+nsubj(changed-9, laws-8)
+ccomp(want-6, changed-9)
+aux(accommodate-11, to-10)
+xcomp(changed-9, accommodate-11)
+amod(marriage-13, gay-12)
+dobj(accommodate-11, marriage-13)
+
+S2: Gay marriage supporters want marriage laws changed to accommodate gay marriage.
+root(ROOT-0, S2-1)
+dep(S2-1, Gay-3)
+nn(supporters-5, marriage-4)
+nsubj(want-6, supporters-5)
+rcmod(Gay-3, want-6)
+nn(laws-8, marriage-7)
+nsubj(changed-9, laws-8)
+ccomp(want-6, changed-9)
+aux(accommodate-11, to-10)
+xcomp(changed-9, accommodate-11)
+amod(marriage-13, gay-12)
+dobj(accommodate-11, marriage-13)
+

@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S2 claims that marriage is defined as a family unit based on a heterosexual contract. S1 refutes this assertion, citing a number of countries which recognize same-sex marriage and compares the lack of reproductive potential for homosexual couples to a heterosexual couple that chooses not to have children or is unable to have children. He also argues that single parent families are not considered traditional and references a poll showing support for gay rights among the 18 - 29 demographic. S2 claims that a traditional family is composed of a husband and wife and that the laws of other countries are irrelevant to the laws of America. He argues that single parent families are natural and suggests that time will decide which side is right.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 asserts that polygamous marriage is not recognized by governments in Western societies and is unlikely to be recognized in future. S1 points to the trend to legalize gay marriage in western countries such as Netherlands, Belgium, and most of Canada. He points to high support for gay marriages among the 18-29 year-olds in the US. He argues that these show that legalizing gay marriage may happen in the future. </line>
+  <line>S2 asserts that marriage is recognizing a family unit based on a natural heterosexual contract out. He argues that even though some European countries allow gay marriage, 90% of the world bans gay marriages. He argues that the US is not Europe and is unlikely to move in the same direction on legalizing gay</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two people are discussing gay marriage issues.  S1 is in favor of gay marriage while S2 is against.  S2 cites the fact that gay marriage is already allowed in many countries and feels it soon will be in the state of Massachusetts.  S2 feels the US will not pass the laws so easily citing the fact that Hawaii has already banned the practice.  S2 also feels the issue of gay rights is more political.  He disputes S1's comparison between gay marriage and polygamy, which he fees could be the next thing allowed should gay marriage become commonplace.  S2 holds to the idea that it will be passed and passed soon.  S1 feels any headway will take many years.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 states that all sex is behavior. He points out that it is not just about heterosexual contact in many countries. He says there are many married heterosexual couples who either choose not to have children or can't, so marriage is not simply about having a family. He states the US is more similar to Anglo nations and in many of those gay marriage is legal. He says something isn't judged as good just because it is natural. S2 thinks marriage is recognizing a family unit based on natural heterosexual contact. He says that there are many laws different than the US in other nations. He thinks family is a basic unit traditionally consisting of two parents raising children. Homosexuals, he believes, are more political.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two people are discussing gay marriage and politics.  S1 states that no one in western society has recognized marriage rights for polygamists, to which S2 rebuts, stating that marriage is recognizing a family unit based on heterosexual contract.  S1 then states that in many anglo countries, it is not for a heterosexual contract, and in marriage with couples who cannot have children, it's not for a family unit either. He also states that single families is not natural.  S2 contends that European countries have many laws different than the US, but the world majority views it as about the traditional families.  He states that single parent is natural as husbands die early and gay rights is more about politics.</line>
+ </text>
+ <scu uid="18" label="European countries have many laws different than the US">
+  <contributor label="laws of other countries are irrelevant to the laws of America">
+   <part label="laws of other countries are irrelevant to the laws of America" start="604" end="665"/>
+  </contributor>
+  <contributor label="S2 contends that European countries have many laws different than the US">
+   <part label="S2 contends that European countries have many laws different than the US" start="3459" end="3531"/>
+  </contributor>
+  <contributor label="He says that there are many laws different than the US in other nations">
+   <part label="He says that there are many laws different than the US in other nations" start="2748" end="2819"/>
+  </contributor>
+  <contributor label="He argues that the US is not Europe">
+   <part label="He argues that the US is not Europe" start="1424" end="1459"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="marriage is defined as a family unit based on a heterosexual contract">
+  <contributor label="S2 claims that marriage is defined as a family unit based on a heterosexual contract...S2 claims that a traditional family is composed of a husband and wife">
+   <part label="S2 claims that marriage is defined as a family unit based on a heterosexual contract" start="26" end="110"/>
+   <part label="S2 claims that a traditional family is composed of a husband and wife" start="521" end="590"/>
+  </contributor>
+  <contributor label="S2 thinks marriage is recognizing a family unit based on natural heterosexual contact...He thinks family is a basic unit traditionally consisting of two parents raising children">
+   <part label="S2 thinks marriage is recognizing a family unit based on natural heterosexual contact" start="2661" end="2746"/>
+   <part label="He thinks family is a basic unit traditionally consisting of two parents raising children" start="2821" end="2910"/>
+  </contributor>
+  <contributor label="S2 rebuts, stating that marriage is recognizing a family unit based on heterosexual contract">
+   <part label="S2 rebuts, stating that marriage is recognizing a family unit based on heterosexual contract" start="3137" end="3229"/>
+  </contributor>
+  <contributor label="S2 asserts that marriage is recognizing a family unit based on a natural heterosexual contract out">
+   <part label="S2 asserts that marriage is recognizing a family unit based on a natural heterosexual contract out" start="1216" end="1314"/>
+  </contributor>
+ </scu>
+ <scu uid="16" label="a number of countries recognize same-sex marriage">
+  <contributor label="S1 points to the trend to legalize gay marriage in western countries such as Netherlands, Belgium, and most of Canada">
+   <part label="S1 points to the trend to legalize gay marriage in western countries such as Netherlands, Belgium, and most of Canada" start="934" end="1051"/>
+  </contributor>
+  <contributor label="S1 refutes this assertion, citing a number of countries which recognize same-sex marriage">
+   <part label="S1 refutes this assertion, citing a number of countries which recognize same-sex marriage" start="112" end="201"/>
+  </contributor>
+  <contributor label="He states the US is more similar to Anglo nations and in many of those gay marriage is legal">
+   <part label="He states the US is more similar to Anglo nations and in many of those gay marriage is legal" start="2500" end="2592"/>
+  </contributor>
+ </scu>
+ <scu uid="20" label="gay marriage is unlikely to be recognized in future">
+  <contributor label="unlikely to be recognized in future...unlikely to move in the same direction on legalizing gay">
+   <part label="unlikely to be recognized in future" start="897" end="932"/>
+   <part label="unlikely to move in the same direction on legalizing gay" start="1467" end="1523"/>
+  </contributor>
+  <contributor label="time will decide which side is right">
+   <part label="time will decide which side is right" start="735" end="771"/>
+  </contributor>
+  <contributor label="S2 feels the US will not pass the laws so easily...any headway will take many years">
+   <part label="any headway will take many years" start="2173" end="2205"/>
+   <part label="S2 feels the US will not pass the laws so easily" start="1783" end="1831"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="the issue of gay rights is more political">
+  <contributor label="gay rights is more about politics">
+   <part label="gay rights is more about politics" start="3667" end="3700"/>
+  </contributor>
+  <contributor label="Homosexuals, he believes, are more political">
+   <part label="Homosexuals, he believes, are more political" start="2912" end="2956"/>
+  </contributor>
+  <contributor label="S2 also feels the issue of gay rights is more political">
+   <part label="S2 also feels the issue of gay rights is more political" start="1894" end="1949"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="there are many married heterosexual couples who either choose not to have children or can't">
+  <contributor label="He says there are many married heterosexual couples who either choose not to have children or can't...marriage is not simply about having a family">
+   <part label="marriage is not simply about having a family" start="2454" end="2498"/>
+   <part label="He says there are many married heterosexual couples who either choose not to have children or can't" start="2350" end="2449"/>
+  </contributor>
+  <contributor label="marriage with couples who cannot have children">
+   <part label="marriage with couples who cannot have children" start="3323" end="3369"/>
+  </contributor>
+  <contributor label="a heterosexual couple that chooses not to have children or is unable to have children">
+   <part label="a heterosexual couple that chooses not to have children or is unable to have children" start="276" end="361"/>
+  </contributor>
+ </scu>
+ <scu uid="17" label="90% of the world bans gay marriages">
+  <contributor label="90% of the world bans gay marriages">
+   <part label="90% of the world bans gay marriages" start="1387" end="1422"/>
+  </contributor>
+  <contributor label="the world majority views it as about the traditional families">
+   <part label="the world majority views it as about the traditional families" start="3537" end="3598"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="high support for gay marriages among the 18-29 year-olds in the US">
+  <contributor label="poll showing support for gay rights among the 18 - 29 demographic">
+   <part label="poll showing support for gay rights among the 18 - 29 demographic" start="454" end="519"/>
+  </contributor>
+  <contributor label="He points to high support for gay marriages among the 18-29 year-olds in the US">
+   <part label="He points to high support for gay marriages among the 18-29 year-olds in the US" start="1053" end="1132"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="it is not just about heterosexual contact in many countries">
+  <contributor label="He points out that it is not just about heterosexual contact in many countries">
+   <part label="He points out that it is not just about heterosexual contact in many countries" start="2270" end="2348"/>
+  </contributor>
+  <contributor label="S1 then states that in many anglo countries, it is not for a heterosexual contract">
+   <part label="S1 then states that in many anglo countries, it is not for a heterosexual contract" start="3232" end="3314"/>
+  </contributor>
+ </scu>
+ <scu uid="19" label="legalizing gay marriage may happen in the future">
+  <contributor label="S2 cites the fact that gay marriage is already allowed in many countries and feels it soon will be in the state of Massachusetts...he fees could be the next thing allowed should gay marriage become commonplace...S2 holds to the idea that it will be passed and passed soon">
+   <part label="S2 cites the fact that gay marriage is already allowed in many countries and feels it soon will be in the state of Massachusetts" start="1652" end="1780"/>
+   <part label="he fees could be the next thing allowed should gay marriage become commonplace" start="2021" end="2099"/>
+   <part label="S2 holds to the idea that it will be passed and passed soon" start="2102" end="2161"/>
+  </contributor>
+  <contributor label="He argues that these show that legalizing gay marriage may happen in the future">
+   <part label="He argues that these show that legalizing gay marriage may happen in the future" start="1134" end="1213"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="polygamous marriage is not recognized by governments in Western societies">
+  <contributor label="S1 asserts that polygamous marriage is not recognized by governments in Western societies">
+   <part label="S1 asserts that polygamous marriage is not recognized by governments in Western societies" start="800" end="889"/>
+  </contributor>
+  <contributor label="S1 states that no one in western society has recognized marriage rights for polygamists">
+   <part label="S1 states that no one in western society has recognized marriage rights for polygamists" start="3039" end="3126"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="single parent families are not considered traditional">
+  <contributor label="He also argues that single parent families are not considered traditional">
+   <part label="He also argues that single parent families are not considered traditional" start="363" end="436"/>
+  </contributor>
+  <contributor label="He also states that single families is not natural">
+   <part label="He also states that single families is not natural" start="3406" end="3456"/>
+  </contributor>
+ </scu>
+ <scu uid="22" label="single parent is natural as husbands die early">
+  <contributor label="He states that single parent is natural as husbands die early">
+   <part label="He states that single parent is natural as husbands die early" start="3601" end="3662"/>
+  </contributor>
+  <contributor label="He argues that single parent families are natural">
+   <part label="He argues that single parent families are natural" start="667" end="716"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="Two people are discussing gay marriage">
+  <contributor label="Two people are discussing gay marriage">
+   <part label="Two people are discussing gay marriage" start="2985" end="3023"/>
+  </contributor>
+  <contributor label="Two people are discussing gay marriage issues">
+   <part label="Two people are discussing gay marriage issues" start="1551" end="1596"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="all sex is behavior">
+  <contributor label="S1 states that all sex is behavior">
+   <part label="S1 states that all sex is behavior" start="2234" end="2268"/>
+  </contributor>
+ </scu>
+ <scu uid="23" label="Argument about comparison between gay marriage and polygamy">
+  <contributor label="He disputes S1's comparison between gay marriage and polygamy">
+   <part label="He disputes S1's comparison between gay marriage and polygamy" start="1952" end="2013"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="comparison of the lack of reproductive potential for homosexual couples">
+  <contributor label="compares the lack of reproductive potential for homosexual couples">
+   <part label="compares the lack of reproductive potential for homosexual couples" start="206" end="272"/>
+  </contributor>
+ </scu>
+ <scu uid="180" label="Hawaii has already banned the practice">
+  <contributor label="citing the fact that Hawaii has already banned the practice">
+   <part label="citing the fact that Hawaii has already banned the practice" start="1832" end="1891"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="in favor of gay marriage">
+  <contributor label="S1 is in favor of gay marriage">
+   <part label="S1 is in favor of gay marriage" start="1599" end="1629"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="marriage is not simply about having a family">
+  <contributor label="a traditional family is composed of a husband and wife">
+   <part label="a traditional family is composed of a husband and wife" start="536" end="590"/>
+  </contributor>
+ </scu>
+ <scu uid="24" label="some European countries allow gay marriage">
+  <contributor label="He argues that even though some European countries allow gay marriage">
+   <part label="He argues that even though some European countries allow gay marriage" start="1316" end="1385"/>
+  </contributor>
+ </scu>
+ <scu uid="25" label="something isn't judged as good just because it is natural">
+  <contributor label="He says something isn't judged as good just because it is natural">
+   <part label="He says something isn't judged as good just because it is natural" start="2594" end="2659"/>
+  </contributor>
+ </scu>
+</pyramid>

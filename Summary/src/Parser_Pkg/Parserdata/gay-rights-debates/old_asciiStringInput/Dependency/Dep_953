@@ -1,0 +1,27 @@
+   the 13th amendment took place and says 
+root(ROOT-0, took-4)
+det(amendment-3, the-1)
+amod(amendment-3, 13th-2)
+nsubj(took-4, amendment-3)
+nsubj(says-7, amendment-3)
+dobj(took-4, place-5)
+conj_and(took-4, says-7)
+
+S1 feels  this is not the case 
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+nsubj(case-7, this-3)
+cop(case-7, is-4)
+neg(case-7, not-5)
+det(case-7, the-6)
+ccomp(feels-2, case-7)
+
+S1 feels  this is not the case 
+root(ROOT-0, feels-2)
+nsubj(feels-2, S1-1)
+nsubj(case-7, this-3)
+cop(case-7, is-4)
+neg(case-7, not-5)
+det(case-7, the-6)
+ccomp(feels-2, case-7)
+

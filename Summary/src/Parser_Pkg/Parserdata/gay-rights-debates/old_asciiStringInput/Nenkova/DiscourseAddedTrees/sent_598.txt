@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S1)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (EX there)) (VP (VBP have) (ADVP (RB always)) (VP (VBN been) (NP (NNS homosexuals) (CC and#1#0) (NN prejudice)) (PP (IN against) (NP (PRP them))) (, ,) (S (VP (VBG citing) (NP (NP (NNP Oscar) (NNP Wilde)) (PP (IN for#0#0) (NP (NN example#0#0))))))))))) (. .)))

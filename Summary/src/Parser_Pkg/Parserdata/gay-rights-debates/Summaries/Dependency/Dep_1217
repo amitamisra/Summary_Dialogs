@@ -1,0 +1,20 @@
+ a married couple is considered a nuclear family.
+root(ROOT-0, considered-5)
+det(couple-3, a-1)
+amod(couple-3, married-2)
+nsubjpass(considered-5, couple-3)
+auxpass(considered-5, is-4)
+det(family-8, a-6)
+amod(family-8, nuclear-7)
+dobj(considered-5, family-8)
+
+ a married couple is considered a nuclear family.
+root(ROOT-0, considered-5)
+det(couple-3, a-1)
+amod(couple-3, married-2)
+nsubjpass(considered-5, couple-3)
+auxpass(considered-5, is-4)
+det(family-8, a-6)
+amod(family-8, nuclear-7)
+dobj(considered-5, family-8)
+

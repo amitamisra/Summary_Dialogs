@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ feels) (NP (DT this) (NN objection) (NNS points)) (PP (TO to) (NP (NP (NN S1) (POS 's)) (VP (VBG being) (PP (IN in) (NP (NN support))) (PP (IN of) (NP (NP (NNS things)) (PP (JJ such) (IN as) (NP (NN segregation) (CC and) (NN prohibition))))))))) (. .)))

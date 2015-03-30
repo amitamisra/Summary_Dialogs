@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (MD would) (RB not) (VP (VB debate) (NP (NN S1)) (SBAR (IN until) (S (NP (NN S1)) (VP (VBZ starts) (S (NP (PRP himself)) (VP (VBG giving) (NP (NP (DT the) (NNS proofs)) (SBAR (IN that) (S (NP (PRP he))))) (NP (NP (NNS requests)) (PP (IN of) (NP (NNS others)))))))))))))) (. .)))

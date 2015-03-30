@@ -1,0 +1,24 @@
+He believes it is an insult to all African Americans.
+root(ROOT-0, believes-2)
+nsubj(believes-2, He-1)
+nsubj(insult-6, it-3)
+cop(insult-6, is-4)
+det(insult-6, an-5)
+ccomp(believes-2, insult-6)
+prep(insult-6, to-7)
+det(Americans-10, all-8)
+amod(Americans-10, African-9)
+pobj(to-7, Americans-10)
+
+He believes it is an insult to all African Americans.
+root(ROOT-0, believes-2)
+nsubj(believes-2, He-1)
+nsubj(insult-6, it-3)
+cop(insult-6, is-4)
+det(insult-6, an-5)
+ccomp(believes-2, insult-6)
+prep(insult-6, to-7)
+det(Americans-10, all-8)
+amod(Americans-10, African-9)
+pobj(to-7, Americans-10)
+

@@ -1,0 +1,26 @@
+ S1 states that he would be happy with civil union laws , 
+root(ROOT-0, states-2)
+nn(states-2, S1-1)
+mark(happy-7, that-3)
+nsubj(happy-7, he-4)
+aux(happy-7, would-5)
+cop(happy-7, be-6)
+dep(states-2, happy-7)
+dep(happy-7, with-8)
+amod(laws-11, civil-9)
+nn(laws-11, union-10)
+pobj(with-8, laws-11)
+
+ S1 states that he would be happy with civil union laws , 
+root(ROOT-0, states-2)
+nn(states-2, S1-1)
+mark(happy-7, that-3)
+nsubj(happy-7, he-4)
+aux(happy-7, would-5)
+cop(happy-7, be-6)
+dep(states-2, happy-7)
+dep(happy-7, with-8)
+amod(laws-11, civil-9)
+nn(laws-11, union-10)
+pobj(with-8, laws-11)
+

@@ -1,0 +1,7 @@
+root(ROOT-0, was-2)
+expl(was-2, there-1)
+amod(disapproval-4, obvious-3)
+nsubj(was-2, disapproval-4)
+vmod(disapproval-4, aimed-5)
+poss(direction-8, their-7)
+prep_in(aimed-5, direction-8)

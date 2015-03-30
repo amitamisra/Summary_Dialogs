@@ -1,0 +1,6 @@
+root(ROOT-0, believes-3)
+neg(everyone-2, Not-1)
+nsubj(believes-3, everyone-2)
+poss(book-7, S1-4)
+amod(book-7, religious-6)
+dobj(believes-3, book-7)

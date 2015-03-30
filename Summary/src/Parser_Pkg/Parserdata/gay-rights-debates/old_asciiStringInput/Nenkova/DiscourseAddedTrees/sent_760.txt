@@ -1,0 +1,1 @@
+(ROOT (NP (NP (NN S2) (NNS counters) (NN S1)) (PP (IN by) (S (VP (VBG saying) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ impossible) (S (VP (TO to) (VP (VB know) (SBAR (IN whether) (CC or#0#0) (RB not) (S (NP (PRP she)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB turn) (NP (JJ religious) (NN belief)) (PP (IN into) (NP (NN law)))))))))))))))))))) (. .)))

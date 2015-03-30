@@ -1,0 +1,20 @@
+  that gay marriage is not a new idea 
+root(ROOT-0, idea-8)
+mark(idea-8, that-1)
+amod(marriage-3, gay-2)
+nsubj(idea-8, marriage-3)
+cop(idea-8, is-4)
+neg(idea-8, not-5)
+det(idea-8, a-6)
+amod(idea-8, new-7)
+
+  that gay marriage is not a new idea 
+root(ROOT-0, idea-8)
+mark(idea-8, that-1)
+amod(marriage-3, gay-2)
+nsubj(idea-8, marriage-3)
+cop(idea-8, is-4)
+neg(idea-8, not-5)
+det(idea-8, a-6)
+amod(idea-8, new-7)
+

@@ -1,0 +1,18 @@
+S1 responds angrily and with homosexual slurs, and requests that S2 take his comments up with Obama.
+root(ROOT-0, responds-2)
+nsubj(responds-2, S1-1)
+advmod(responds-2, angrily-3)
+advmod(responds-2, with-5)
+conj_and(angrily-3, with-5)
+amod(slurs-7, homosexual-6)
+pobj(with-5, slurs-7)
+pobj(with-5, requests-10)
+conj_and(slurs-7, requests-10)
+dobj(take-13, that-11)
+nsubj(take-13, S2-12)
+rcmod(requests-10, take-13)
+poss(comments-15, his-14)
+dobj(take-13, comments-15)
+prep(take-13, up-16)
+prep_with(up-16, Obama-18)
+

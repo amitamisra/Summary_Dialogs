@@ -1,0 +1,13 @@
+If equal marriage is incorporated into the law then nobody gets hurt.
+root(ROOT-0, hurt-12)
+mark(incorporated-5, If-1)
+amod(marriage-3, equal-2)
+nsubjpass(incorporated-5, marriage-3)
+auxpass(incorporated-5, is-4)
+advcl(hurt-12, incorporated-5)
+det(law-8, the-7)
+prep_into(incorporated-5, law-8)
+advmod(incorporated-5, then-9)
+nsubj(hurt-12, nobody-10)
+dep(hurt-12, gets-11)
+

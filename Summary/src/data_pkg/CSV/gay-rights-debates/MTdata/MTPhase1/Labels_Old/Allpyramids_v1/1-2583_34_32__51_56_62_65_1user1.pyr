@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 does not believe that anyone outside of a heterosexual marriage should be considered a husband, wife or a spouse because legally they are not. This person believes that the term gay marriage is an oxymoron because marriage, legally, to them, is only between one man and one woman. They believe that prior to Roosevelt, society did not accept the idea of state welfare as constitutional, but because people were willing to sacrifice freedom for security, they eventually caved to his ideas.</line>
+  <line>S2 does not believe that marriage is simply between one man and one woman, and that the entire reason behind the debate is so that homosexual marriage can and will be legally recognized. They do not see a reason for discrimination against homosexual marriage.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 claims that gay husband, gay wife, and gay spouse are not legally recognized categories because homosexual unions do not meet the legal criteria for marriage, namely that it occurs between one man and one woman. He claims that because of this, many people view the term gay marriage as an oxymoron. He uses the example that a cat cannot be called a dog just because someone wants to. He admits, however, that there is a possibility that gay unions might eventually be recognized with the same rights as heterosexual unions. S2 asks why a homosexual union is not legally recognized. He claims that appealing to the traditional definition of marriage is circular reasoning and therefore insufficient to explain why homosexuals are being discriminated against.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing the topic of gay marriage.  S1 feels the term husband is not recognizable in a same sex relationship nor is the term wife.  S2 feels the only reason these terms are not recognized is because the couple is gay and gay marriage is not yet recognized legally.  S1 holds that the marriage is viewed legally as one man and one woman, not same sex; comparing the theory that a cat is not a dog simply because one chooses to call it so.  S1 also cites that according to the CBO, 600,000 gay couples would want to wed if legislation were passed to allow it.  S2 wants logical reasons for now allowing gays to marry.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing the legal definition of marriage.  S1 contends that terms such as gay husband, gay wife, and gay spouse are not legally recognized because they do not meet the legal criteria of one man, one woman.  He compares it to the fact that a cat doesn't meet the legal definition of a dog, and questions if we should change the legal definition of a dog just to appease the cat.  S2 contends that they are not legally recognized simply because they're gay, and it's circular reasoning.  He states that stating that marriage is heterosexual completely ends any debates, and he questions the logical reasons for marraige discrimination against gays and lesbians.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 agrees that when a husband is part of a heterosexual relationship a gay husband is not legally recognized in the same category. His statistics support the fact that 60,000 gay couples would get married if they were allowed. The equal rights aren't there when it comes to same sex marriage. Welfare is referenced when making a point about political muscle. American freedom never existed and no one can't argue that FDR's public opinion on the role on the federal government. S2 thinks that it is a problem because same sex marriage has never been legally recognizes is a big problem.  The debate is more for straight couples than it is about gay relationships. He notes that there are logical reasons for marriage discrimination.</line>
+ </text>
+ <scu uid="240" label="S1 feels the terms husband and wife are not recognizable in a same sex relationship">
+  <contributor label="S1 feels the term husband is not recognizable in a same sex relationship nor is the term wife">
+   <part label="S1 feels the term husband is not recognizable in a same sex relationship nor is the term wife" start="1647" end="1740"/>
+  </contributor>
+  <contributor label="S1 does not believe that anyone outside of a heterosexual marriage should be considered a husband, wife or a spouse because legally they are not">
+   <part label="S1 does not believe that anyone outside of a heterosexual marriage should be considered a husband, wife or a spouse because legally they are not" start="26" end="170"/>
+  </contributor>
+  <contributor label="S1 claims that gay husband, gay wife, and gay spouse are not legally recognized categories because homosexual unions do not meet the legal criteria for marriage, namely that it occurs between one man and one woman" comment="Not really an area to break this down, and it all fits into argument">
+   <part label="S1 claims that gay husband, gay wife, and gay spouse are not legally recognized categories because homosexual unions do not meet the legal criteria for marriage, namely that it occurs between one man and one woman" start="806" end="1019"/>
+  </contributor>
+  <contributor label="S1 contends that terms such as gay husband, gay wife, and gay spouse are not legally recognized because they do not meet the legal criteria of one man, one woman">
+   <part label="S1 contends that terms such as gay husband, gay wife, and gay spouse are not legally recognized because they do not meet the legal criteria of one man, one woman" start="2315" end="2476"/>
+  </contributor>
+  <contributor label="S1 agrees that when a husband is part of a heterosexual relationship a gay husband is not legally recognized in the same category">
+   <part label="S1 agrees that when a husband is part of a heterosexual relationship a gay husband is not legally recognized in the same category" start="2959" end="3088"/>
+  </contributor>
+ </scu>
+ <scu uid="247" label="S2 believes gay marriage is not legally recognized">
+  <contributor label="the entire reason behind the debate is so that homosexual marriage can and will be legally recognized">
+   <part label="the entire reason behind the debate is so that homosexual marriage can and will be legally recognized" start="603" end="704"/>
+  </contributor>
+  <contributor label="S2 feels the only reason these terms are not recognized is because the couple is gay and gay marriage is not yet recognized legally">
+   <part label="S2 feels the only reason these terms are not recognized is because the couple is gay and gay marriage is not yet recognized legally" start="1743" end="1874"/>
+  </contributor>
+  <contributor label="S2 contends that they are not legally recognized simply because they're gay, and it's circular reasoning">
+   <part label="S2 contends that they are not legally recognized simply because they're gay, and it's circular reasoning" start="2651" end="2755"/>
+  </contributor>
+  <contributor label="S2 thinks that it is a problem because same sex marriage has never been legally recognizes is a big problem">
+   <part label="S2 thinks that it is a problem because same sex marriage has never been legally recognizes is a big problem" start="3437" end="3544"/>
+  </contributor>
+  <contributor label="He admits, however, that there is a possibility that gay unions might eventually be recognized with the same rights as heterosexual unions">
+   <part label="He admits, however, that there is a possibility that gay unions might eventually be recognized with the same rights as heterosexual unions" start="1193" end="1331"/>
+  </contributor>
+ </scu>
+ <scu uid="242" label="S1 uses the example that a cat cannot be called a dog just because someone wants to">
+  <contributor label="He uses the example that a cat cannot be called a dog just because someone wants to">
+   <part label="He uses the example that a cat cannot be called a dog just because someone wants to" start="1108" end="1191"/>
+  </contributor>
+  <contributor label="comparing the theory that a cat is not a dog simply because one chooses to call it so">
+   <part label="comparing the theory that a cat is not a dog simply because one chooses to call it so" start="1962" end="2047"/>
+  </contributor>
+  <contributor label="He compares it to the fact that a cat doesn't meet the legal definition of a dog, and questions if we should change the legal definition of a dog just to appease the cat">
+   <part label="He compares it to the fact that a cat doesn't meet the legal definition of a dog, and questions if we should change the legal definition of a dog just to appease the cat" start="2479" end="2648"/>
+  </contributor>
+ </scu>
+ <scu uid="248" label="S2 asks why a homosexual union is not legally recognized">
+  <contributor label="S2 asks why a homosexual union is not legally recognized">
+   <part label="S2 asks why a homosexual union is not legally recognized" start="1333" end="1389"/>
+  </contributor>
+  <contributor label="he questions the logical reasons for marraige discrimination against gays and lesbians">
+   <part label="he questions the logical reasons for marraige discrimination against gays and lesbians" start="2844" end="2930"/>
+  </contributor>
+  <contributor label="S2 wants logical reasons for now allowing gays to marry">
+   <part label="S2 wants logical reasons for now allowing gays to marry" start="2170" end="2225"/>
+  </contributor>
+ </scu>
+ <scu uid="249" label="S1 cites that according to the CBO, 600,000 gay couples would want to wed if legislation were passed to allow it">
+  <contributor label="S1 also cites that according to the CBO, 600,000 gay couples would want to wed if legislation were passed to allow it">
+   <part label="S1 also cites that according to the CBO, 600,000 gay couples would want to wed if legislation were passed to allow it" start="2050" end="2167"/>
+  </contributor>
+  <contributor label="His statistics support the fact that 60,000 gay couples would get married if they were allowed">
+   <part label="His statistics support the fact that 60,000 gay couples would get married if they were allowed" start="3090" end="3184"/>
+  </contributor>
+ </scu>
+ <scu uid="252" label="S1 and S2 are discussing the topic of gay marriage">
+  <contributor label="S1 and S2 are discussing the topic of gay marriage">
+   <part label="S1 and S2 are discussing the topic of gay marriage" start="1594" end="1644"/>
+  </contributor>
+  <contributor label="Two people are discussing the legal definition of marriage">
+   <part label="Two people are discussing the legal definition of marriage" start="2254" end="2312"/>
+  </contributor>
+ </scu>
+ <scu uid="246" label="S2 does not believe that marriage is simply between one man and one woman">
+  <contributor label="S2 does not believe that marriage is simply between one man and one woman">
+   <part label="S2 does not believe that marriage is simply between one man and one woman" start="519" end="592"/>
+  </contributor>
+  <contributor label="S1 holds that the marriage is viewed legally as one man and one woman, not same sex;">
+   <part label="S1 holds that the marriage is viewed legally as one man and one woman, not same sex;" start="1877" end="1961"/>
+  </contributor>
+ </scu>
+ <scu uid="244" label="S1 believes that prior to Roosevelt, society did not accept the idea of state welfare as constitutional, but because people were willing to sacrifice freedom for security, they eventually caved to his ideas">
+  <contributor label="They believe that prior to Roosevelt, society did not accept the idea of state welfare as constitutional, but because people were willing to sacrifice freedom for security, they eventually caved to his ideas">
+   <part label="They believe that prior to Roosevelt, society did not accept the idea of state welfare as constitutional, but because people were willing to sacrifice freedom for security, they eventually caved to his ideas" start="310" end="517"/>
+  </contributor>
+  <contributor label="American freedom never existed and no one can't argue that FDR's public opinion on the role on the federal government">
+   <part label="American freedom never existed and no one can't argue that FDR's public opinion on the role on the federal government" start="3318" end="3435"/>
+  </contributor>
+ </scu>
+ <scu uid="241" label="S1 believes that the term gay marriage is an oxymoron">
+  <contributor label="This person believes that the term gay marriage is an oxymoron because marriage, legally, to them, is only between one man and one woman">
+   <part label="This person believes that the term gay marriage is an oxymoron because marriage, legally, to them, is only between one man and one woman" start="172" end="308"/>
+  </contributor>
+  <contributor label="He claims that because of this, many people view the term gay marriage as an oxymoron">
+   <part label="He claims that because of this, many people view the term gay marriage as an oxymoron" start="1021" end="1106"/>
+  </contributor>
+ </scu>
+ <scu uid="250" label="S2 claims that appealing to the traditional definition of marriage is circular reasoning">
+  <contributor label="He claims that appealing to the traditional definition of marriage is circular reasoning">
+   <part label="He claims that appealing to the traditional definition of marriage is circular reasoning" start="1391" end="1479"/>
+  </contributor>
+  <contributor label="He states that stating that marriage is heterosexual completely ends any debates">
+   <part label="He states that stating that marriage is heterosexual completely ends any debates" start="2758" end="2838"/>
+  </contributor>
+ </scu>
+ <scu uid="251" label="S2 does not see a reason for discrimination against homosexual marriage">
+  <contributor label="They do not see a reason for discrimination against homosexual marriage">
+   <part label="They do not see a reason for discrimination against homosexual marriage" start="706" end="777"/>
+  </contributor>
+  <contributor label="insufficient to explain why homosexuals are being discriminated against">
+   <part label="insufficient to explain why homosexuals are being discriminated against" start="1494" end="1565"/>
+  </contributor>
+  <contributor label="He notes that there are logical reasons for marriage discrimination">
+   <part label="He notes that there are logical reasons for marriage discrimination" start="3623" end="3690"/>
+  </contributor>
+ </scu>
+ <scu uid="253" label="The debate is more for straight couples than it is about gay relationships">
+  <contributor label="The debate is more for straight couples than it is about gay relationships">
+   <part label="The debate is more for straight couples than it is about gay relationships" start="3547" end="3621"/>
+  </contributor>
+ </scu>
+ <scu uid="254" label="The equal rights aren't there when it comes to same sex marriage">
+  <contributor label="The equal rights aren't there when it comes to same sex marriage">
+   <part label="The equal rights aren't there when it comes to same sex marriage" start="3186" end="3250"/>
+  </contributor>
+ </scu>
+ <scu uid="255" label="Welfare is referenced when making a point about political muscle">
+  <contributor label="Welfare is referenced when making a point about political muscle">
+   <part label="Welfare is referenced when making a point about political muscle" start="3252" end="3316"/>
+  </contributor>
+ </scu>
+</pyramid>

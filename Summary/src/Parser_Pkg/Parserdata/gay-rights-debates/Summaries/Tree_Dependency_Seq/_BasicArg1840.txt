@@ -1,0 +1,5 @@
+root(ROOT-0, asked-4)
+advmod(asked-4, when-1)
+nsubjpass(asked-4, politicians-2)
+auxpass(asked-4, are-3)
+dobj(asked-4, questions-5)

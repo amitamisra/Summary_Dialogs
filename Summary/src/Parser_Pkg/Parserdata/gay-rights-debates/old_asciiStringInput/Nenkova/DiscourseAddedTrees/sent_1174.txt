@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ states) (ADVP (IN that) (NP (QP (IN at) (JJS least) (CD two)) (NNS men)) (PP (IN in) (NP (DT a) (JJ committed) (NN relationship) (NN practice) (NN fidelity)))) (PP (IN unlike) (NP (NP (NNS heterosexuals)) (PP (IN with) (NP (QP (JJR more) (IN than) (CD one)) (NN wife)))))) (. .)))

@@ -1,0 +1,18 @@
+To that (S2) says that he cannot trust the intellectual honesty discourse of (S1) because of his flawed arguments.
+root(ROOT-0, says-6)
+det(S2-4, that-2)
+prep_to(says-6, S2-4)
+mark(trust-11, that-7)
+nsubj(trust-11, he-8)
+aux(trust-11, can-9)
+neg(trust-11, not-10)
+dep(says-6, trust-11)
+det(discourse-15, the-12)
+amod(discourse-15, intellectual-13)
+nn(discourse-15, honesty-14)
+dobj(trust-11, discourse-15)
+prep_of(discourse-15, S1-18)
+poss(arguments-24, his-22)
+amod(arguments-24, flawed-23)
+prep_because_of(S1-18, arguments-24)
+

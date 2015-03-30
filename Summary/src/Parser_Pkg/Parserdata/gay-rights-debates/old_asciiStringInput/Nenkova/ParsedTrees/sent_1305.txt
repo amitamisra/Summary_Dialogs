@@ -1,0 +1,1 @@
+(ROOT (S (NP (EX There)) (VP (VBP are) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBD put) (PRT (RP out)) (NP (NP (NN junk)) (SBAR (WHNP (WDT that)) (S (VP (VBZ makes) (SBAR (S (NP (NNS people)) (VP (VBP feel) (VP (VBN threatened) (PP (IN by) (NP (NNS gays)))))))))))))))) (. .)))

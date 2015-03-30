@@ -1,0 +1,38 @@
+Paul Cameron is a frequent target of gay pride movement for demonization .
+
+
+root(ROOT-0, target-6)
+nn(Cameron-2, Paul-1)
+nsubj(target-6, Cameron-2)
+cop(target-6, is-3)
+det(target-6, a-4)
+amod(target-6, frequent-5)
+amod(movement-10, gay-8)
+nn(movement-10, pride-9)
+prep_of(target-6, movement-10)
+prep_for(movement-10, demonization-12)
+
+ that Jefferson believed that liberty was threatened by a centralized government , 
+root(ROOT-0, believed-3)
+mark(believed-3, that-1)
+nsubj(believed-3, Jefferson-2)
+mark(threatened-7, that-4)
+nsubjpass(threatened-7, liberty-5)
+auxpass(threatened-7, was-6)
+ccomp(believed-3, threatened-7)
+det(government-11, a-9)
+amod(government-11, centralized-10)
+agent(threatened-7, government-11)
+
+ that Jefferson believed that liberty was threatened by a centralized government , 
+root(ROOT-0, believed-3)
+mark(believed-3, that-1)
+nsubj(believed-3, Jefferson-2)
+mark(threatened-7, that-4)
+nsubjpass(threatened-7, liberty-5)
+auxpass(threatened-7, was-6)
+ccomp(believed-3, threatened-7)
+det(government-11, a-9)
+amod(government-11, centralized-10)
+agent(threatened-7, government-11)
+

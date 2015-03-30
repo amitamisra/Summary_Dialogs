@@ -1,0 +1,6 @@
+root(ROOT-0, is-1)
+dobj(want-5, what-2)
+nsubj(want-5, we-3)
+aux(want-5, should-4)
+ccomp(is-1, want-5)
+prep_from(want-5, politicians-7)

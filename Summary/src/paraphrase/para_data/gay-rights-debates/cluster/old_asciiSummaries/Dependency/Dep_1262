@@ -1,0 +1,12 @@
+S2 states that historically marriage has been about different genders.
+root(ROOT-0, states-2)
+nn(states-2, S2-1)
+nsubj(genders-10, that-3)
+advmod(marriage-5, historically-4)
+dep(genders-10, marriage-5)
+aux(genders-10, has-6)
+cop(genders-10, been-7)
+advmod(genders-10, about-8)
+amod(genders-10, different-9)
+rcmod(states-2, genders-10)
+

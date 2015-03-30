@@ -1,0 +1,3 @@
+root(ROOT-0, conducted-2)
+nsubj(conducted-2, who-1)
+dobj(conducted-2, it-3)

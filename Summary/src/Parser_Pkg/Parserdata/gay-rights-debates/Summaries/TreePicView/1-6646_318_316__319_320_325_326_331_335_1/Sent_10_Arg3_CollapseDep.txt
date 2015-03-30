@@ -1,0 +1,6 @@
+root(ROOT-0, hurt-4)
+amod(marriage-2, gay-1)
+nsubj(hurt-4, marriage-2)
+aux(hurt-4, will-3)
+amod(people-6, more-5)
+dobj(hurt-4, people-6)

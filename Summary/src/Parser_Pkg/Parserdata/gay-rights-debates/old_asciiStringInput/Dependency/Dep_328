@@ -1,0 +1,41 @@
+ Jefferson believed liberty would be threatened by a centralized government .
+
+
+root(ROOT-0, believed-2)
+nsubj(believed-2, Jefferson-1)
+nsubjpass(threatened-6, liberty-3)
+aux(threatened-6, would-4)
+auxpass(threatened-6, be-5)
+ccomp(believed-2, threatened-6)
+det(government-10, a-8)
+amod(government-10, centralized-9)
+agent(threatened-6, government-10)
+
+Two subjects are discussing Virginia's unwillingness to allow gay couples to marry.
+root(ROOT-0, discussing-4)
+num(subjects-2, Two-1)
+nsubj(discussing-4, subjects-2)
+aux(discussing-4, are-3)
+poss(unwillingness-7, Virginia-5)
+dobj(discussing-4, unwillingness-7)
+aux(allow-9, to-8)
+vmod(unwillingness-7, allow-9)
+amod(couples-11, gay-10)
+dobj(allow-9, couples-11)
+aux(marry-13, to-12)
+xcomp(allow-9, marry-13)
+
+Two subjects are discussing Virginia's unwillingness to allow gay couples to marry.
+root(ROOT-0, discussing-4)
+num(subjects-2, Two-1)
+nsubj(discussing-4, subjects-2)
+aux(discussing-4, are-3)
+poss(unwillingness-7, Virginia-5)
+dobj(discussing-4, unwillingness-7)
+aux(allow-9, to-8)
+vmod(unwillingness-7, allow-9)
+amod(couples-11, gay-10)
+dobj(allow-9, couples-11)
+aux(marry-13, to-12)
+xcomp(allow-9, marry-13)
+

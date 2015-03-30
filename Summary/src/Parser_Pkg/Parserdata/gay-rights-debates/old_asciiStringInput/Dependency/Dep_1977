@@ -1,0 +1,43 @@
+ that he has served Uncle Sam and fought for his freedom rights .
+
+
+root(ROOT-0, served-4)
+mark(served-4, that-1)
+nsubj(served-4, he-2)
+nsubj(fought-8, he-2)
+aux(served-4, has-3)
+nn(Sam-6, Uncle-5)
+dobj(served-4, Sam-6)
+conj_and(served-4, fought-8)
+poss(rights-12, his-10)
+nn(rights-12, freedom-11)
+prep_for(fought-8, rights-12)
+
+   S1 is not understanding that they are not using the persons perspective 
+root(ROOT-0, understanding-4)
+nsubj(understanding-4, S1-1)
+aux(understanding-4, is-2)
+neg(understanding-4, not-3)
+mark(using-9, that-5)
+nsubj(using-9, they-6)
+aux(using-9, are-7)
+neg(using-9, not-8)
+ccomp(understanding-4, using-9)
+det(perspective-12, the-10)
+nn(perspective-12, persons-11)
+dobj(using-9, perspective-12)
+
+   S1 is not understanding that they are not using the persons perspective 
+root(ROOT-0, understanding-4)
+nsubj(understanding-4, S1-1)
+aux(understanding-4, is-2)
+neg(understanding-4, not-3)
+mark(using-9, that-5)
+nsubj(using-9, they-6)
+aux(using-9, are-7)
+neg(using-9, not-8)
+ccomp(understanding-4, using-9)
+det(perspective-12, the-10)
+nn(perspective-12, persons-11)
+dobj(using-9, perspective-12)
+

@@ -1,0 +1,16 @@
+S2 doesnt see the inconsistency and doesnt understand why S1 keeps calling it that.
+root(ROOT-0, see-3)
+nn(doesnt-2, S2-1)
+nsubj(see-3, doesnt-2)
+det(inconsistency-5, the-4)
+nsubj(understand-8, inconsistency-5)
+conj_and(inconsistency-5, doesnt-7)
+nsubj(understand-8, doesnt-7)
+ccomp(see-3, understand-8)
+advmod(keeps-11, why-9)
+nsubj(keeps-11, S1-10)
+ccomp(understand-8, keeps-11)
+xcomp(keeps-11, calling-12)
+nsubj(that-14, it-13)
+xcomp(calling-12, that-14)
+

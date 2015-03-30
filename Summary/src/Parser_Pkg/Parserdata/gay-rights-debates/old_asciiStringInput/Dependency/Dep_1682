@@ -1,0 +1,24 @@
+    it should bother S2 
+root(ROOT-0, bother-3)
+nsubj(bother-3, it-1)
+aux(bother-3, should-2)
+dobj(bother-3, S2-4)
+
+Moral or religious prejudice is still prejudice.
+root(ROOT-0, prejudice-7)
+nsubj(prejudice-7, Moral-1)
+amod(prejudice-4, religious-3)
+conj_or(Moral-1, prejudice-4)
+nsubj(prejudice-7, prejudice-4)
+cop(prejudice-7, is-5)
+advmod(prejudice-7, still-6)
+
+Moral or religious prejudice is still prejudice.
+root(ROOT-0, prejudice-7)
+nsubj(prejudice-7, Moral-1)
+amod(prejudice-4, religious-3)
+conj_or(Moral-1, prejudice-4)
+nsubj(prejudice-7, prejudice-4)
+cop(prejudice-7, is-5)
+advmod(prejudice-7, still-6)
+

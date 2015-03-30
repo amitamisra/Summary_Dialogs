@@ -1,0 +1,40 @@
+ that matrimonial unions were between opposite genders , even throughout history .
+
+
+root(ROOT-0, even-9)
+mark(were-4, that-1)
+amod(unions-3, matrimonial-2)
+nsubj(were-4, unions-3)
+dep(even-9, were-4)
+amod(genders-7, opposite-6)
+prep_between(were-4, genders-7)
+prep_throughout(even-9, history-11)
+
+He thinks it should always be clear which constitution is being discussed.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(clear-7, it-3)
+aux(clear-7, should-4)
+advmod(clear-7, always-5)
+cop(clear-7, be-6)
+ccomp(thinks-2, clear-7)
+dobj(discussed-12, which-8)
+nsubjpass(discussed-12, constitution-9)
+aux(discussed-12, is-10)
+auxpass(discussed-12, being-11)
+ccomp(clear-7, discussed-12)
+
+He thinks it should always be clear which constitution is being discussed.
+root(ROOT-0, thinks-2)
+nsubj(thinks-2, He-1)
+nsubj(clear-7, it-3)
+aux(clear-7, should-4)
+advmod(clear-7, always-5)
+cop(clear-7, be-6)
+ccomp(thinks-2, clear-7)
+dobj(discussed-12, which-8)
+nsubjpass(discussed-12, constitution-9)
+aux(discussed-12, is-10)
+auxpass(discussed-12, being-11)
+ccomp(clear-7, discussed-12)
+

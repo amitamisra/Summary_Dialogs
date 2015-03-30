@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1)) (: :) (NP (NN WashingtonC)) ('' ')) (ADVP (NP (QP (NNS s)) (NN city) (NN council)) (RB recently)) (VP (VBD legalized) (NP (JJ gay) (NN marriage))) (. .)))

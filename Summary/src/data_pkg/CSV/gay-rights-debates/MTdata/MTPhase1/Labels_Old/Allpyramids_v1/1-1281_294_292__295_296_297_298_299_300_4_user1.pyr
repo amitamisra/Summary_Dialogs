@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 claims that the issue of same-sex marriage is an economic issue because it would have negative effects on businesses, social security, and the healthcare systems. He compares homosexual partners to roommates and and demonstrates that you can not make marriage mean whatever you want by explaining that he is not legally allowed to marry his dog. He makes it clear that he believes same-sex marriage is wrong and claims that the majority of Americans are also against same-sex marriage. S2 suggests that homosexual partners would not be a burden on the mentioned systems because they would be paying into the systems as well as receiving benefits from them. He cites the legalization of same-sex marriages in various other countries in Europe and North America.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 asserts that the push for gay marriage is driven by economics. Gay marriage can bring in new taxes. S1 describes himself as a Jeffersonian Liberal who believes in the application of the Constitution as it is written. He believes that the majority of Americans are against gay marriage. He believes that the majority will support less ambiguous laws that ban gay marriage. </line>
+  <line>S2 argues that legalizing gay marriage will alleviate the state's burden on support for the dependent spouse in the case of a break-up. Without gay marriage, the state has to support the dependent spouse. S2 feels that a federal amendment to the US Constitution is unlike over the next few years.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing the issue of gay marriage and the financial effect it will have on society.  S1 is against gay marriage due to the effects he believes passing such a law will have on society while S2 is in favor.  S1 feels allowing gay marriage would cause a dependent class needing more benefits of one kind or another.  S2 questions why gay citizens who pay into the economic system should also not benefit from them.  He also provides an analogy based on a marriage break up to support this, advising if gay marriage were recognized and there was a divorce, the spouse making more money would have to pay alimony instead of the other going to the state.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 believes gay marriage is about economics. It would create a new dependent class and be a large new tax on businesses, Social Security, and healthcare. He thinks same sex partners living together are roommates. Roommates are single and should not have marriage benefits. S1 states he is a Jeffersonian liberal and believes in the Constitution as written and the people's will. Most Americans, he thinks, are against gay marriage. S2 states that gay people pay into those same systems and believes they should also benefit from them. He believes there is an economic burden when same sex couples break up without legal recognition of the marriage. He states that same sex couples are not single and they are not the same thing as roommates.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>Two people are discussing the economics of gay marriage.  S1 states that gay marriage poses a tremendous new tax on the economy as it would create a new dependent class that doesn't presently exist.  He compares same-sex marriage to single couple roommates and states that if it isn't in the definition of marriage, it isn't marriage.  S2 states that since gay people pay into the same system, they should also benefit from it.  He states that by not allowing gay marriage, if a divorce occurs the state would have to care for the dependent partner, instead of the richer partner as in heterosexual marriages.  He also states that a federal marriage amendment to the constitution is a long shot.</line>
+ </text>
+ <scu uid="181" label="S1 claims that the issue of same-sex marriage is an economic issue">
+  <contributor label="S1 claims that the issue of same-sex marriage is an economic issue">
+   <part label="S1 claims that the issue of same-sex marriage is an economic issue" start="26" end="92"/>
+  </contributor>
+  <contributor label="S1 asserts that the push for gay marriage is driven by economics">
+   <part label="S1 asserts that the push for gay marriage is driven by economics" start="817" end="881"/>
+  </contributor>
+  <contributor label="S1 and S2 are discussing the issue of gay marriage and the financial effect it will have on society">
+   <part label="S1 and S2 are discussing the issue of gay marriage and the financial effect it will have on society" start="1517" end="1616"/>
+  </contributor>
+  <contributor label="S1 believes gay marriage is about economics">
+   <part label="S1 believes gay marriage is about economics" start="2210" end="2253"/>
+  </contributor>
+  <contributor label="Two people are discussing the economics of gay marriage">
+   <part label="Two people are discussing the economics of gay marriage" start="2979" end="3034"/>
+  </contributor>
+ </scu>
+ <scu uid="183" label="S1 states that gay marriage poses a tremendous new tax on the economy as it would create a new dependent class">
+  <contributor label="S1 states that gay marriage poses a tremendous new tax on the economy as it would create a new dependent class">
+   <part label="S1 states that gay marriage poses a tremendous new tax on the economy as it would create a new dependent class" start="3037" end="3147"/>
+  </contributor>
+  <contributor label="It would create a new dependent class and be a large new tax on businesses, Social Security, and healthcare">
+   <part label="It would create a new dependent class and be a large new tax on businesses, Social Security, and healthcare" start="2255" end="2362"/>
+  </contributor>
+  <contributor label="S1 is against gay marriage due to the effects he believes passing such a law will have on society...S1 feels allowing gay marriage would cause a dependent class needing more benefits of one kind or another">
+   <part label="S1 feels allowing gay marriage would cause a dependent class needing more benefits of one kind or another" start="1740" end="1845"/>
+   <part label="S1 is against gay marriage due to the effects he believes passing such a law will have on society" start="1619" end="1716"/>
+  </contributor>
+  <contributor label="it would have negative effects on businesses, social security, and the healthcare systems">
+   <part label="it would have negative effects on businesses, social security, and the healthcare systems" start="101" end="190"/>
+  </contributor>
+  <contributor label="Gay marriage can bring in new taxes">
+   <part label="Gay marriage can bring in new taxes" start="883" end="918"/>
+  </contributor>
+ </scu>
+ <scu uid="191" label="S2 suggests that homosexual partners would not be a burden on the mentioned systems">
+  <contributor label="S2 argues that legalizing gay marriage will alleviate the state's burden on support for the dependent spouse in the case of a break-up">
+   <part label="S2 argues that legalizing gay marriage will alleviate the state's burden on support for the dependent spouse in the case of a break-up" start="1193" end="1327"/>
+  </contributor>
+  <contributor label="He also provides an analogy based on a marriage break up to support this, advising if gay marriage were recognized and there was a divorce, the spouse making more money would have to pay alimony instead of the other going to the state">
+   <part label="He also provides an analogy based on a marriage break up to support this, advising if gay marriage were recognized and there was a divorce, the spouse making more money would have to pay alimony instead of the other going to the state" start="1947" end="2181"/>
+  </contributor>
+  <contributor label="S2 states that gay people pay into those same systems and believes they should also benefit from them">
+   <part label="S2 states that gay people pay into those same systems and believes they should also benefit from them" start="2642" end="2743"/>
+  </contributor>
+  <contributor label="S2 states that since gay people pay into the same system, they should also benefit from it">
+   <part label="S2 states that since gay people pay into the same system, they should also benefit from it" start="3315" end="3405"/>
+  </contributor>
+  <contributor label="S2 suggests that homosexual partners would not be a burden on the mentioned systems because they would be paying into the systems as well as receiving benefits from them">
+   <part label="S2 suggests that homosexual partners would not be a burden on the mentioned systems because they would be paying into the systems as well as receiving benefits from them" start="515" end="684"/>
+  </contributor>
+ </scu>
+ <scu uid="184" label="S1 believes that the majority of Americans are against gay marriage">
+  <contributor label="He believes that the majority of Americans are against gay marriage...He believes that the majority will support less ambiguous laws that ban gay marriage">
+   <part label="He believes that the majority of Americans are against gay marriage" start="1037" end="1104"/>
+   <part label="He believes that the majority will support less ambiguous laws that ban gay marriage" start="1106" end="1190"/>
+  </contributor>
+  <contributor label="the majority of Americans are also against same-sex marriage">
+   <part label="the majority of Americans are also against same-sex marriage" start="453" end="513"/>
+  </contributor>
+  <contributor label="Most Americans, he thinks, are against gay marriage">
+   <part label="Most Americans, he thinks, are against gay marriage" start="2589" end="2640"/>
+  </contributor>
+ </scu>
+ <scu uid="187" label="S1 compares same-sex marriage to single couple roommates and states that if it isn't in the definition of marriage, it isn't marriage">
+  <contributor label="He compares same-sex marriage to single couple roommates and states that if it isn't in the definition of marriage, it isn't marriage">
+   <part label="He compares same-sex marriage to single couple roommates and states that if it isn't in the definition of marriage, it isn't marriage" start="3179" end="3312"/>
+  </contributor>
+  <contributor label="He compares homosexual partners to roommates and and demonstrates that you can not make marriage mean whatever you want">
+   <part label="He compares homosexual partners to roommates and and demonstrates that you can not make marriage mean whatever you want" start="192" end="311"/>
+  </contributor>
+  <contributor label="He thinks same sex partners living together are roommates...Roommates are single and should not have marriage benefits">
+   <part label="He thinks same sex partners living together are roommates" start="2364" end="2421"/>
+   <part label="Roommates are single and should not have marriage benefits" start="2423" end="2481"/>
+  </contributor>
+ </scu>
+ <scu uid="192" label="S2 says that without gay marriage, the state has to support the dependent spouse">
+  <contributor label="Without gay marriage, the state has to support the dependent spouse">
+   <part label="Without gay marriage, the state has to support the dependent spouse" start="1329" end="1396"/>
+  </contributor>
+  <contributor label="He states that by not allowing gay marriage, if a divorce occurs the state would have to care for the dependent partner, instead of the richer partner as in heterosexual marriages">
+   <part label="He states that by not allowing gay marriage, if a divorce occurs the state would have to care for the dependent partner, instead of the richer partner as in heterosexual marriages" start="3408" end="3587"/>
+  </contributor>
+  <contributor label="He believes there is an economic burden when same sex couples break up without legal recognition of the marriage">
+   <part label="He believes there is an economic burden when same sex couples break up without legal recognition of the marriage" start="2745" end="2857"/>
+  </contributor>
+ </scu>
+ <scu uid="194" label="S2 states that a federal marriage amendment to the constitution is a long shot">
+  <contributor label="He also states that a federal marriage amendment to the constitution is a long shot">
+   <part label="He also states that a federal marriage amendment to the constitution is a long shot" start="3590" end="3673"/>
+  </contributor>
+  <contributor label="S2 feels that a federal amendment to the US Constitution is unlike over the next few years">
+   <part label="S2 feels that a federal amendment to the US Constitution is unlike over the next few years" start="1398" end="1488"/>
+  </contributor>
+ </scu>
+ <scu uid="186" label="S1 describes himself as a Jeffersonian Liberal who believes in the application of the Constitution as it is written">
+  <contributor label="S1 describes himself as a Jeffersonian Liberal who believes in the application of the Constitution as it is written">
+   <part label="S1 describes himself as a Jeffersonian Liberal who believes in the application of the Constitution as it is written" start="920" end="1035"/>
+  </contributor>
+  <contributor label="S1 states he is a Jeffersonian liberal and believes in the Constitution as written and the people's will">
+   <part label="S1 states he is a Jeffersonian liberal and believes in the Constitution as written and the people's will" start="2483" end="2587"/>
+  </contributor>
+ </scu>
+ <scu uid="195" label="He cites the legalization of same-sex marriages in various other countries in Europe and North America">
+  <contributor label="He cites the legalization of same-sex marriages in various other countries in Europe and North America">
+   <part label="He cites the legalization of same-sex marriages in various other countries in Europe and North America" start="686" end="788"/>
+  </contributor>
+ </scu>
+ <scu uid="188" label="he is not legally allowed to marry his dog">
+  <contributor label="he is not legally allowed to marry his dog">
+   <part label="he is not legally allowed to marry his dog" start="331" end="373"/>
+  </contributor>
+ </scu>
+ <scu uid="185" label="He makes it clear that he believes same-sex marriage is wrong">
+  <contributor label="He makes it clear that he believes same-sex marriage is wrong">
+   <part label="He makes it clear that he believes same-sex marriage is wrong" start="375" end="436"/>
+  </contributor>
+ </scu>
+ <scu uid="196" label="He states that same sex couples are not single and they are not the same thing as roommates">
+  <contributor label="He states that same sex couples are not single and they are not the same thing as roommates">
+   <part label="He states that same sex couples are not single and they are not the same thing as roommates" start="2859" end="2950"/>
+  </contributor>
+ </scu>
+ <scu uid="193" label="S2 questions why gay citizens who pay into the economic system should also not benefit from them">
+  <contributor label="S2 questions why gay citizens who pay into the economic system should also not benefit from them">
+   <part label="S2 questions why gay citizens who pay into the economic system should also not benefit from them" start="1848" end="1944"/>
+  </contributor>
+ </scu>
+</pyramid>

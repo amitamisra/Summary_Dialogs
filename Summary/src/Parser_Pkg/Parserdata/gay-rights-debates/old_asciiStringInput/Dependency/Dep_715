@@ -1,0 +1,46 @@
+   that most people in the country may identify as Christian 
+root(ROOT-0, identify-8)
+mark(identify-8, that-1)
+amod(people-3, most-2)
+nsubj(identify-8, people-3)
+det(country-6, the-5)
+prep_in(people-3, country-6)
+aux(identify-8, may-7)
+prep_as(identify-8, Christian-10)
+
+ that the term `` liberalism '' has a different meaning different compared to the time of Thomas Jefferson .
+
+
+root(ROOT-0, has-7)
+mark(has-7, that-1)
+det(liberalism-5, the-2)
+nn(liberalism-5, term-3)
+nsubj(has-7, liberalism-5)
+det(meaning-10, a-8)
+amod(meaning-10, different-9)
+dobj(has-7, meaning-10)
+amod(meaning-10, different-11)
+prepc_compared_to(different-11, to-13)
+det(time-15, the-14)
+pobj(different-11, time-15)
+nn(Jefferson-18, Thomas-17)
+prep_of(time-15, Jefferson-18)
+
+ that the term `` liberalism '' has a different meaning different compared to the time of Thomas Jefferson .
+
+
+root(ROOT-0, has-7)
+mark(has-7, that-1)
+det(liberalism-5, the-2)
+nn(liberalism-5, term-3)
+nsubj(has-7, liberalism-5)
+det(meaning-10, a-8)
+amod(meaning-10, different-9)
+dobj(has-7, meaning-10)
+amod(meaning-10, different-11)
+prepc_compared_to(different-11, to-13)
+det(time-15, the-14)
+pobj(different-11, time-15)
+nn(Jefferson-18, Thomas-17)
+prep_of(time-15, Jefferson-18)
+

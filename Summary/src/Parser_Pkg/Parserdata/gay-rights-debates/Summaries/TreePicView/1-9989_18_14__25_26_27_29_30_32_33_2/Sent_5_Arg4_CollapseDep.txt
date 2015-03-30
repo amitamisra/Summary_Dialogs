@@ -1,0 +1,4 @@
+root(ROOT-0, fine-3)
+nsubj(fine-3, S1-1)
+cop(fine-3, is-2)
+prep_with(fine-3, gay-5)

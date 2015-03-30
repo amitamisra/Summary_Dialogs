@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 and S2 are discussing gay rights.  S1 is in support of gay marriage while S2 supports it.  S2 feels gay rights would impose gay families onto straight members of society while S1 believes S2's opinions are comparable to those of Taliban terrorists.  S2 is in support of comments made by a previous participant, contending he did not make remarks based on mandatory therapy for gays or anything of the like.  S1 believes the previous comments made center on religion and that civil law and religion are not synonymous.  S2 feels his religious beliefs are violated by just the consideration of allowing gay marriage.  S1 believes marriage is a contract between a woman and a man, not same sex.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 labeled someone Mr Taliban and said that this person who is against sharia law is himself imposing that on gays through his religious belief that a civil marriage contract is only for a man and a woman. He said Mr.Taliban's religious beliefs should not have anything to do with civil law. S2 challenged S1's comparison of the man to the Taliban as he has not advocated the execution, jailing, etc. of homosexuals. S2 then stated that is indeed the gay lobby that is attempting to impose its view on the man. S2 concluded by asking S1 to stop complaining as there have been no real violations of S1's rights. S1 said he can have a contract and as much sex as he likes.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>S1 claims that religious beliefs are preventing the recognition of homosexual marriages. He compares basing law on Christian beliefs to be the same thing as Islamists advocating Sharia law. He argues that the religious belief that marriage is between a man and a woman should have no influence on a civil marriage contract.</line>
+  <line>S2 claims that homosexuals are not being persecuted through things like execution, imprisonment, or mandatory therapy, and that it is actually the homosexual lobby who are pressing their beliefs about marriage onto everyone else. He cites the fact that homosexual marriage has not been banned in any state, it is simply not recognized, and that people are free to sign whatever contracts they want and to engage in intercourse with whomever they want.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>Two people are discussing legal law and gay rights.  S1 states that by not allowing gays to have a civil government contract because of religious beliefs is equivalent to sharia law in the Mideastern countries.  He states that it is a religious belief that a civil marriage contract is between a man and a women, which is the current law and that religious beliefs should have nothing to do with civil law.  S2 contends that the execution, imprisonment or even mandatory therapy for homosexuals.  He states that it is the homosexual lobby who are trying to force people to recognize and support homosexuality in the public sphere.  He also states homosexual marriages haven't been banned by law, just not recognized.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 compares being against gay marriage to the Taliban and Sharia law. He sees no difference in those that oppose gay marriage for religious reasons and have laws against it and Muslims that pass laws based on religion. He finds it hypocritical for people to be against Sharia law when they are, in his opinion, doing the same thing. He believes marriage is a legal contract between two people and the state and he supports gay marriage. S2 does not agree with the comparison of Sharia law and being against gay marriage. He has not advocated for jail time or the death of homosexuals. They are free to do as they wish. He believes gay marriage pushes that relationship onto others, and he opposes it.</line>
+ </text>
+ <scu uid="43" label="Two people are discussing civil law and gay rights">
+  <contributor label="Two people are discussing legal law and gay rights">
+   <part label="Two people are discussing legal law and gay rights" start="2249" end="2299"/>
+  </contributor>
+  <contributor label="S1 and S2 are discussing gay rights">
+   <part label="S1 and S2 are discussing gay rights" start="26" end="61"/>
+  </contributor>
+ </scu>
+ <scu uid="44" label="Religious belief is that a civil marriage contract is only for a man and a woman">
+  <contributor label="marriage is a contract between a woman and a man, not same sex">
+   <part label="marriage is a contract between a woman and a man, not same sex" start="657" end="719"/>
+  </contributor>
+  <contributor label="it is a religious belief that a civil marriage contract is between a man and a women, which is the current law">
+   <part label="it is a religious belief that a civil marriage contract is between a man and a women, which is the current law" start="2476" end="2586"/>
+  </contributor>
+  <contributor label="religious belief that a civil marriage contract is only for a man and a woman">
+   <part label="religious belief that a civil marriage contract is only for a man and a woman" start="875" end="952"/>
+  </contributor>
+  <contributor label="religious belief that marriage is between a man and a woman">
+   <part label="religious belief that marriage is between a man and a woman" start="1655" end="1714"/>
+  </contributor>
+ </scu>
+ <scu uid="45" label="Gay rights would impose onto straight members of society">
+  <contributor label="gay rights would impose gay families onto straight members of society">
+   <part label="gay rights would impose gay families onto straight members of society" start="129" end="198"/>
+  </contributor>
+  <contributor label="the gay lobby that is attempting to impose its view on the man">
+   <part label="the gay lobby that is attempting to impose its view on the man" start="1195" end="1257"/>
+  </contributor>
+  <contributor label="it is actually the homosexual lobby who are pressing their beliefs about marriage onto everyone else">
+   <part label="it is actually the homosexual lobby who are pressing their beliefs about marriage onto everyone else" start="1898" end="1998"/>
+  </contributor>
+  <contributor label="it is the homosexual lobby who are trying to force people to recognize and support homosexuality in the public sphere">
+   <part label="it is the homosexual lobby who are trying to force people to recognize and support homosexuality in the public sphere" start="2761" end="2878"/>
+  </contributor>
+  <contributor label="gay marriage pushes that relationship onto others">
+   <part label="gay marriage pushes that relationship onto others" start="3624" end="3673"/>
+  </contributor>
+ </scu>
+ <scu uid="46" label="Religion should not have anything to do with civil law">
+  <contributor label="religious beliefs should have nothing to do with civil law">
+   <part label="religious beliefs should have nothing to do with civil law" start="2596" end="2654"/>
+  </contributor>
+  <contributor label="civil law and religion are not synonymous">
+   <part label="civil law and religion are not synonymous" start="504" end="545"/>
+  </contributor>
+  <contributor label="religious beliefs should not have anything to do with civil law">
+   <part label="religious beliefs should not have anything to do with civil law" start="975" end="1038"/>
+  </contributor>
+ </scu>
+ <scu uid="47" label="homosexual marriages haven't been banned by law, just not recognized">
+  <contributor label="homosexual marriages haven't been banned by law, just not recognized">
+   <part label="homosexual marriages haven't been banned by law, just not recognized" start="2896" end="2964"/>
+  </contributor>
+  <contributor label="homosexual marriage has not been banned in any state, it is simply not recognized">
+   <part label="homosexual marriage has not been banned in any state, it is simply not recognized" start="2023" end="2104"/>
+  </contributor>
+ </scu>
+ <scu uid="48" label="People cannot be against Sharia law if they are opposed to homosexuality">
+  <contributor label="person who is against sharia law is himself imposing that on gays">
+   <part label="person who is against sharia law is himself imposing that on gays" start="797" end="862"/>
+  </contributor>
+  <contributor label="He finds it hypocritical for people to be against Sharia law when they are, in his opinion, doing the same thing">
+   <part label="He finds it hypocritical for people to be against Sharia law when they are, in his opinion, doing the same thing" start="3212" end="3324"/>
+  </contributor>
+ </scu>
+ <scu uid="49" label="Marriage is between two people and the state">
+  <contributor label="marriage is a legal contract between two people and the state and he supports gay marriage">
+   <part label="marriage is a legal contract between two people and the state and he supports gay marriage" start="3338" end="3428"/>
+  </contributor>
+  <contributor label="people are free to sign whatever contracts they want and to engage in intercourse with whomever they want">
+   <part label="people are free to sign whatever contracts they want and to engage in intercourse with whomever they want" start="2115" end="2220"/>
+  </contributor>
+  <contributor label="he can have a contract and as much sex as he likes">
+   <part label="he can have a contract and as much sex as he likes" start="1367" end="1417"/>
+  </contributor>
+ </scu>
+ <scu uid="50" label="Homosexuals are not being jailed, persecuted, or therapy like the Taliban or Sharia">
+  <contributor label="the execution, imprisonment or even mandatory therapy for homosexuals">
+   <part label="the execution, imprisonment or even mandatory therapy for homosexuals" start="2674" end="2743"/>
+  </contributor>
+  <contributor label="remarks based on mandatory therapy for gays or anything of the like">
+   <part label="remarks based on mandatory therapy for gays or anything of the like" start="367" end="434"/>
+  </contributor>
+  <contributor label="he has not advocated the execution, jailing, etc. of homosexuals">
+   <part label="he has not advocated the execution, jailing, etc. of homosexuals" start="1099" end="1163"/>
+  </contributor>
+  <contributor label="homosexuals are not being persecuted through things like execution, imprisonment, or mandatory therapy">
+   <part label="homosexuals are not being persecuted through things like execution, imprisonment, or mandatory therapy" start="1785" end="1887"/>
+  </contributor>
+  <contributor label="He has not advocated for jail time or the death of homosexuals">
+   <part label="He has not advocated for jail time or the death of homosexuals" start="3514" end="3576"/>
+  </contributor>
+ </scu>
+ <scu uid="51" label="They are free to do as they wish">
+  <contributor label="They are free to do as they wish">
+   <part label="They are free to do as they wish" start="3578" end="3610"/>
+  </contributor>
+ </scu>
+ <scu uid="52" label="Opposition to gay marriage is like Taliban and Sharia law">
+  <contributor label="not allowing gays to have a civil government contract because of religious beliefs is equivalent to sharia law in the Mideastern countries">
+   <part label="not allowing gays to have a civil government contract because of religious beliefs is equivalent to sharia law in the Mideastern countries" start="2320" end="2458"/>
+  </contributor>
+  <contributor label="compares basing law on Christian beliefs to be the same thing as Islamists advocating Sharia law">
+   <part label="compares basing law on Christian beliefs to be the same thing as Islamists advocating Sharia law" start="1538" end="1634"/>
+  </contributor>
+  <contributor label="comparable to those of Taliban terrorists">
+   <part label="comparable to those of Taliban terrorists" start="235" end="276"/>
+  </contributor>
+  <contributor label="compares being against gay marriage to the Taliban and Sharia law...no difference in those that oppose gay marriage for religious reasons and have laws against it and Muslims that pass laws based on religion">
+   <part label="compares being against gay marriage to the Taliban and Sharia law" start="2996" end="3061"/>
+   <part label="no difference in those that oppose gay marriage for religious reasons and have laws against it and Muslims that pass laws based on religion" start="3071" end="3210"/>
+  </contributor>
+ </scu>
+ <scu uid="53" label="Christian religious beliefs are violated by consideration of gay marriage">
+  <contributor label="religious beliefs are violated by just the consideration of allowing gay marriage">
+   <part label="religious beliefs are violated by just the consideration of allowing gay marriage" start="561" end="642"/>
+  </contributor>
+ </scu>
+ <scu uid="54" label="Do not agree with the comparison of Sharia law and being against gay marriage">
+  <contributor label="S2 does not agree with the comparison of Sharia law and being against gay marriage">
+   <part label="S2 does not agree with the comparison of Sharia law and being against gay marriage" start="3430" end="3512"/>
+  </contributor>
+ </scu>
+</pyramid>

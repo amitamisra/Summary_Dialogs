@@ -1,0 +1,26 @@
+S1 is very rude and constantly being immature towards S2 .
+
+
+root(ROOT-0, rude-4)
+nsubj(rude-4, S1-1)
+nsubj(immature-8, S1-1)
+cop(rude-4, is-2)
+advmod(rude-4, very-3)
+advmod(immature-8, constantly-6)
+cop(immature-8, being-7)
+conj_and(rude-4, immature-8)
+prep_towards(immature-8, S2-10)
+
+S1 is very rude and constantly being immature towards S2 .
+
+
+root(ROOT-0, rude-4)
+nsubj(rude-4, S1-1)
+nsubj(immature-8, S1-1)
+cop(rude-4, is-2)
+advmod(rude-4, very-3)
+advmod(immature-8, constantly-6)
+cop(immature-8, being-7)
+conj_and(rude-4, immature-8)
+prep_towards(immature-8, S2-10)
+

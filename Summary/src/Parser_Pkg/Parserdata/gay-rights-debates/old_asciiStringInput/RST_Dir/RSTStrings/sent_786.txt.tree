@@ -1,0 +1,9 @@
+(Elaboration[N][S]
+  _!He believes this is a good caveat ,!_
+  (Attribution[S][N]
+    _!claiming!_
+    (same-unit[N][N]
+      _!that!_
+      (Enablement[N][S]
+        _!forcing officials!_
+        _!to perform same-sex marriages would be infringing upon their religious freedom . <s>!_))))

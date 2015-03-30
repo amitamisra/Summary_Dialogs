@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NNS people)) (VP (MD can) (VP (VP (VB have) (NP (DT a) (JJ strong) (ADJP (JJ moral) (CC or#1#0) (JJ religious)) (NN belief))) (CC and#0#0) (RB not) (VP (VB be) (ADJP (VBN prejudiced)))))))) (. .)))

@@ -1,0 +1,3 @@
+<requests.packages.urllib3.response.HTTPResponse object at 0x1085536d0>
+Internal Server Error
+Error in getting similarity for (u'he also states that someone who may not be republican may hate gays', u'(s2) argues that paul is frequently referenced as an expert on the issue of gay marriage and rights'): <Response [500]>

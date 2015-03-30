@@ -1,0 +1,13 @@
+S1 believes that there's a big difference between possibility and likelihood.
+root(ROOT-0, believes-2)
+nsubj(believes-2, S1-1)
+mark('s-5, that-3)
+expl('s-5, there-4)
+ccomp(believes-2, 's-5)
+det(difference-8, a-6)
+amod(difference-8, big-7)
+nsubj('s-5, difference-8)
+prep_between(difference-8, possibility-10)
+prep_between(difference-8, likelihood-12)
+conj_and(possibility-10, likelihood-12)
+

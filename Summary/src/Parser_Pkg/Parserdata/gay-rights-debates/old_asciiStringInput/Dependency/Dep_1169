@@ -1,0 +1,47 @@
+ that Jerry Falwell or Pat Robertson can confirm their existence , and questions whether they care about people or just about power .
+
+
+root(ROOT-0, confirm-8)
+mark(confirm-8, that-1)
+nn(Falwell-3, Jerry-2)
+nsubj(confirm-8, Falwell-3)
+nn(Robertson-6, Pat-5)
+conj_or(Falwell-3, Robertson-6)
+nsubj(confirm-8, Robertson-6)
+aux(confirm-8, can-7)
+poss(existence-10, their-9)
+dobj(confirm-8, existence-10)
+dobj(confirm-8, questions-13)
+conj_and(existence-10, questions-13)
+mark(care-16, whether-14)
+nsubj(care-16, they-15)
+ccomp(confirm-8, care-16)
+prep(care-16, about-17)
+pobj(about-17, people-18)
+prep(care-16, just-20)
+conj_or(about-17, just-20)
+dep(about-17, about-21)
+pobj(about-21, power-22)
+
+Two people are discussing gay marriage laws .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(laws-7, gay-5)
+nn(laws-7, marriage-6)
+dobj(discussing-4, laws-7)
+
+Two people are discussing gay marriage laws .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+amod(laws-7, gay-5)
+nn(laws-7, marriage-6)
+dobj(discussing-4, laws-7)
+

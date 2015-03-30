@@ -1,0 +1,7 @@
+root(ROOT-0, voices-3)
+det(voices-3, This-1)
+nn(voices-3, person-2)
+det(displeasure-5, a-4)
+dep(voices-3, displeasure-5)
+prep(displeasure-5, in-6)
+pobj(in-6, those-7)

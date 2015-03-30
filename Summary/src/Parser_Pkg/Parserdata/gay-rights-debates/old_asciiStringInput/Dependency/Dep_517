@@ -1,0 +1,36 @@
+  that love is present in all marriage 
+root(ROOT-0, present-4)
+mark(present-4, that-1)
+nsubj(present-4, love-2)
+cop(present-4, is-3)
+det(marriage-7, all-6)
+prep_in(present-4, marriage-7)
+
+His statistics support the fact  that 60,000 gay couples would get married 
+root(ROOT-0, support-3)
+poss(statistics-2, His-1)
+nsubj(support-3, statistics-2)
+det(fact-5, the-4)
+dobj(support-3, fact-5)
+mark(married-12, that-6)
+num(couples-9, 60,000-7)
+amod(couples-9, gay-8)
+nsubjpass(married-12, couples-9)
+aux(married-12, would-10)
+auxpass(married-12, get-11)
+ccomp(support-3, married-12)
+
+His statistics support the fact  that 60,000 gay couples would get married 
+root(ROOT-0, support-3)
+poss(statistics-2, His-1)
+nsubj(support-3, statistics-2)
+det(fact-5, the-4)
+dobj(support-3, fact-5)
+mark(married-12, that-6)
+num(couples-9, 60,000-7)
+amod(couples-9, gay-8)
+nsubjpass(married-12, couples-9)
+aux(married-12, would-10)
+auxpass(married-12, get-11)
+ccomp(support-3, married-12)
+

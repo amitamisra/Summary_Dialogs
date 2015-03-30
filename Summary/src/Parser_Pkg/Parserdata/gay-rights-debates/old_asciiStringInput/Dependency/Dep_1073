@@ -1,0 +1,47 @@
+ ,     you are for equality for gays  you need equality for all  . 
+root(ROOT-0, are-3)
+nsubj(are-3, you-2)
+prep_for(are-3, equality-5)
+prep(equality-5, for-6)
+dep(for-6, gays-7)
+nsubj(need-9, you-8)
+rcmod(gays-7, need-9)
+dobj(need-9, equality-10)
+prep_for(equality-10, all-12)
+
+ that we do n't just benefit from what is often considered the common , nuclear family .
+
+
+root(ROOT-0, benefit-6)
+mark(benefit-6, that-1)
+nsubj(benefit-6, we-2)
+aux(benefit-6, do-3)
+neg(benefit-6, n't-4)
+advmod(benefit-6, just-5)
+nsubjpass(considered-11, what-8)
+auxpass(considered-11, is-9)
+advmod(considered-11, often-10)
+prepc_from(benefit-6, considered-11)
+det(family-16, the-12)
+amod(family-16, common-13)
+amod(family-16, nuclear-15)
+dobj(considered-11, family-16)
+
+ that we do n't just benefit from what is often considered the common , nuclear family .
+
+
+root(ROOT-0, benefit-6)
+mark(benefit-6, that-1)
+nsubj(benefit-6, we-2)
+aux(benefit-6, do-3)
+neg(benefit-6, n't-4)
+advmod(benefit-6, just-5)
+nsubjpass(considered-11, what-8)
+auxpass(considered-11, is-9)
+advmod(considered-11, often-10)
+prepc_from(benefit-6, considered-11)
+det(family-16, the-12)
+amod(family-16, common-13)
+amod(family-16, nuclear-15)
+dobj(considered-11, family-16)
+

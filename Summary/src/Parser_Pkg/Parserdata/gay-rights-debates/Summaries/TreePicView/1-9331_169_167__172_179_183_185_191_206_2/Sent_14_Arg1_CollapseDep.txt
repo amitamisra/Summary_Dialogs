@@ -1,0 +1,5 @@
+root(ROOT-0, talk-1)
+amod(rights-4, gay-3)
+prep_about(talk-1, rights-4)
+prep_in(talk-1, relation-6)
+prep_to(talk-1, abortion-8)

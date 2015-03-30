@@ -1,0 +1,1 @@
+(ROOT (S (CC But) (NP (DT those)) (VP (VBD were) (UCP (NP (DT neither) (NNS marriages)) (CC nor) (VP (VBN assumed) (S (VP (TO to) (VP (VB be) (ADJP (RB so) (PP (IN by) (NP (DT those) (NNS societies)))))))))) (. .)))

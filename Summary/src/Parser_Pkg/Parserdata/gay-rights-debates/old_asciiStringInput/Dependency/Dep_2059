@@ -1,0 +1,26 @@
+ ,     one can not do the job  he should look for another job  . 
+root(ROOT-0, do-5)
+nsubj(do-5, one-2)
+aux(do-5, can-3)
+neg(do-5, not-4)
+det(job-7, the-6)
+dobj(do-5, job-7)
+nsubj(look-10, he-8)
+aux(look-10, should-9)
+rcmod(job-7, look-10)
+det(job-13, another-12)
+prep_for(look-10, job-13)
+
+ ,     one can not do the job  he should look for another job  . 
+root(ROOT-0, do-5)
+nsubj(do-5, one-2)
+aux(do-5, can-3)
+neg(do-5, not-4)
+det(job-7, the-6)
+dobj(do-5, job-7)
+nsubj(look-10, he-8)
+aux(look-10, should-9)
+rcmod(job-7, look-10)
+det(job-13, another-12)
+prep_for(look-10, job-13)
+

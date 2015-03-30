@@ -1,0 +1,1 @@
+(ROOT (S (NP (NN S2)) (ADVP (RB seemingly)) (VP (VBZ corrects) (NP (NN S1)) (PP (IN by) (S (VP (VBG noting) (SBAR (IN that) (S (NP (NP (DT the) (NNPS States)) (PP (IN in) (NP (NN question)))) (VP (VBD had) (RB not) (VP (VB put) (NP (DT the) (NN issue)) (PP (TO to) (NP (NP (DT the) (JJ general) (NN public)) (PP (IN for#0#0) (NP (DT a) (NN vote))))))))))))) (. .)))

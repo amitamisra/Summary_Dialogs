@@ -1,0 +1,5 @@
+root(ROOT-0, show-7)
+det(statistics-2, the-1)
+nsubj(show-7, statistics-2)
+prep_regarding(statistics-2, AIs-4)
+prep_in(AIs-4, Africa-6)

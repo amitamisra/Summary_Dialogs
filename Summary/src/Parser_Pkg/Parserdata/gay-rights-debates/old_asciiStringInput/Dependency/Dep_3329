@@ -1,0 +1,8 @@
+   is Frank 
+root(ROOT-0, Frank-2)
+dep(Frank-2, is-1)
+
+   is Frank 
+root(ROOT-0, Frank-2)
+dep(Frank-2, is-1)
+

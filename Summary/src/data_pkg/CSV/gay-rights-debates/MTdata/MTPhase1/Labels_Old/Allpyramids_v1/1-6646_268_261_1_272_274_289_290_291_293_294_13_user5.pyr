@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\nD[0-9]*\n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>----------</line>
+  <line>D0</line>
+  <line>----------</line>
+  <line>S1 claims that it is inappropriate to label disagreement as bigotry, and that while someone might think an argument is bigoted, it may be motivated by something other than bigotry. He argues that many people's opinions are based on their view of marriage, not their dislike of homosexuals, and that they would be against any group wanting to alter the traditional view of marriage. </line>
+  <line>S2 claims that opponents of gay rights are discriminatory and bigoted. He suggests that if you replaced gays with another minority, then the arguments against them would appear negative (e.g., trying to exclude any other minority from getting married would not be acceptable). He believes that opponents of gay marriage are not protecting traditional marriage, but are discriminating against homosexuals. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D1</line>
+  <line>----------</line>
+  <line>S1 believes referring to arguments of disagreement as bigotry is done because the accuser lacks factual information and believes S2 uses the statement for its effect since it is thought of as an ugly word.  S1 advises not all people who are against gay marriage are bigots but feel the way they do due to the way they view marriage.  S1 argues the issue is not always about excluding gays from different things but that it boils down to marriage.</line>
+  <line></line>
+  <line>S2 invites the word gay to be replaced with another minority and the statements made to not appear to be bigoted.  S2 advises excluding gays from different pieces of society is the same as excluding any other minority and is just simply bigotry.</line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D2</line>
+  <line>----------</line>
+  <line>Two people are arguing gay marriage.  S1 states that resorting to name calling indicates the inability to resort to sound arguments.  He then states that the word bigotry is an ugly word, and its ignorant to automatically write off disagreements as &quot;bigotry&quot;.  S2 rebuts by saying that he's calling it bigotry because that's what it is.  He then states that if it were another minority being challenged then it would clearly be bigotry. He states whenever gays are involved a group of people always opposes.  S1 refutes that by saying its all about motivation, if any other minority would try and change traditional marriage, they would be met with the same opposition.  </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D3</line>
+  <line>----------</line>
+  <line>S1 does not believe that disagreement is the same as being bigoted, and that if someone resorts to name calling in an argument it means they no longer have any sound arguments. They argue that any argument goes back to one's motivations and that people don't often oppose homosexual marriage on the basis of not liking homosexual individuals, but because of their views on marriage. They argue that people who base their arguments on how they view marriage would still think that way towards any group that desired to change their definition of marriage.</line>
+  <line>S2 disagrees and believes that arguments made against homosexual marriage are based upon a bias against homosexuality as a whole. They argue that these peoples' opinions are definitively against homosexuals in general. </line>
+  <line></line>
+  <line></line>
+  <line>----------</line>
+  <line>D4</line>
+  <line>----------</line>
+  <line>S1 asserts that those who are against gay marriage are not anti-gay per se, but are against redefining marriage. He argues that any minority group who attempts to redefine marriage to include anything beyond a man and a woman will get a similar response from the majority group. Hence calling those who oppose gay marriage bigot is inaccurate</line>
+  <line>S2 asserts that those who oppose gay marriage are not simply attempting to preserve the current definition of marriage as between a man and a woman. He argues that the opposition to gay marriage is a lack of acceptance of homosexuality or its visible and open displays and representations. This is an anti-gay bias. Hence the term bigot is appropriate to those who oppose gay marriage.</line>
+ </text>
+ <scu uid="1" label="S1 believes that it is inappropriate to label disagreement on gay marriage as bigotry.">
+  <contributor label="its ignorant to automatically write off disagreements as &quot;bigotry&quot;">
+   <part label="its ignorant to automatically write off disagreements as &quot;bigotry&quot;" start="1755" end="1821"/>
+  </contributor>
+  <contributor label="calling those who oppose gay marriage bigot is inaccurate">
+   <part label="calling those who oppose gay marriage bigot is inaccurate" start="3349" end="3406"/>
+  </contributor>
+  <contributor label="S1 claims that it is inappropriate to label disagreement as bigotry">
+   <part label="S1 claims that it is inappropriate to label disagreement as bigotry" start="26" end="93"/>
+  </contributor>
+  <contributor label="S1 advises not all people who are against gay marriage are bigots">
+   <part label="S1 advises not all people who are against gay marriage are bigots" start="1049" end="1114"/>
+  </contributor>
+  <contributor label="S1 does not believe that disagreement is the same as being bigoted">
+   <part label="S1 does not believe that disagreement is the same as being bigoted" start="2262" end="2328"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="Many people would be against any group wanting to alter their traditional view of marriage.">
+  <contributor label="if it were another minority being challenged then it would clearly be bigotry...other minority would try and change traditional marriage, they would be met with the same opposition">
+   <part label="if it were another minority being challenged then it would clearly be bigotry" start="1921" end="1998"/>
+   <part label="other minority would try and change traditional marriage, they would be met with the same opposition" start="2131" end="2231"/>
+  </contributor>
+  <contributor label="because of their views on marriage...people who base their arguments on how they view marriage...still think that way towards any group that desired to change their definition of marriage">
+   <part label="because of their views on marriage" start="2609" end="2643"/>
+   <part label="people who base their arguments on how they view marriage" start="2661" end="2718"/>
+   <part label="still think that way towards any group that desired to change their definition of marriage" start="2725" end="2815"/>
+  </contributor>
+  <contributor label="any minority group who attempts to redefine marriage to include anything beyond a man and a woman...will get a similar response from the majority group">
+   <part label="any minority group who attempts to redefine marriage to include anything beyond a man and a woman" start="3192" end="3289"/>
+   <part label="will get a similar response from the majority group" start="3290" end="3341"/>
+  </contributor>
+  <contributor label="they would be against any group wanting to alter the traditional view of marriage">
+   <part label="they would be against any group wanting to alter the traditional view of marriage" start="325" end="406"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="Many peoples opinions are based on their view of marriage and not their dislike of homosexuals.">
+  <contributor label="those who are against gay marriage are not anti-gay per se, but are against redefining marriage">
+   <part label="those who are against gay marriage are not anti-gay per se, but are against redefining marriage" start="3080" end="3175"/>
+  </contributor>
+  <contributor label="He argues that many people's opinions are based on their view of marriage, not their dislike of homosexuals">
+   <part label="He argues that many people's opinions are based on their view of marriage, not their dislike of homosexuals" start="207" end="314"/>
+  </contributor>
+  <contributor label="S1 argues the issue is not always about excluding gays from different things but that it boils down to marriage">
+   <part label="S1 argues the issue is not always about excluding gays from different things but that it boils down to marriage" start="1176" end="1287"/>
+  </contributor>
+  <contributor label="people don't often oppose homosexual marriage on the basis of not liking homosexual individuals">
+   <part label="people don't often oppose homosexual marriage on the basis of not liking homosexual individuals" start="2508" end="2603"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="S2 believes that arguments to exclude gay marriage are bigotry because that's what they are.">
+  <contributor label="S1 believes referring to arguments of disagreement as bigotry is done because the accuser lacks factual information...excluding gays from different pieces of society is the same as excluding any other minority and is just simply bigotry">
+   <part label="excluding gays from different pieces of society is the same as excluding any other minority and is just simply bigotry" start="1416" end="1534"/>
+   <part label="S1 believes referring to arguments of disagreement as bigotry is done because the accuser lacks factual information" start="842" end="957"/>
+  </contributor>
+  <contributor label="term bigot is appropriate to those who oppose gay marriage">
+   <part label="term bigot is appropriate to those who oppose gay marriage" start="3733" end="3791"/>
+  </contributor>
+  <contributor label="S2 claims that opponents of gay rights are discriminatory and bigoted">
+   <part label="S2 claims that opponents of gay rights are discriminatory and bigoted" start="409" end="478"/>
+  </contributor>
+  <contributor label="S2 rebuts by saying that he's calling it bigotry because that's what it is">
+   <part label="S2 rebuts by saying that he's calling it bigotry because that's what it is" start="1824" end="1898"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="Someone may be motivated by something other than bigotry in an argument.">
+  <contributor label="may be motivated by something other than bigotry">
+   <part label="may be motivated by something other than bigotry" start="157" end="205"/>
+  </contributor>
+  <contributor label="feel the way they do due to the way they view marriage">
+   <part label="feel the way they do due to the way they view marriage" start="1119" end="1173"/>
+  </contributor>
+  <contributor label="any argument goes back to one's motivations">
+   <part label="any argument goes back to one's motivations" start="2455" end="2498"/>
+  </contributor>
+  <contributor label="S1 refutes that by saying its all about motivation">
+   <part label="S1 refutes that by saying its all about motivation" start="2072" end="2122"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="Opponents of gay marriage are not protecting traditional marriage, but are discriminating against homosexuals.">
+  <contributor label="opponents of gay marriage are not protecting traditional marriage, but are discriminating against homosexuals">
+   <part label="opponents of gay marriage are not protecting traditional marriage, but are discriminating against homosexuals" start="703" end="812"/>
+  </contributor>
+  <contributor label="arguments made against homosexual marriage are based upon a bias against homosexuality">
+   <part label="arguments made against homosexual marriage are based upon a bias against homosexuality" start="2848" end="2934"/>
+  </contributor>
+  <contributor label="oppose gay marriage are not simply attempting to preserve the current definition of marriage as between a man and a woman...opposition to gay marriage is a lack of acceptance of homosexuality">
+   <part label="oppose gay marriage are not simply attempting to preserve the current definition of marriage as between a man and a woman" start="3433" end="3554"/>
+   <part label="opposition to gay marriage is a lack of acceptance of homosexuality" start="3575" end="3642"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="Whenever gays are involved a group of people always opposes.">
+  <contributor label="whenever gays are involved a group of people always opposes">
+   <part label="whenever gays are involved a group of people always opposes" start="2010" end="2069"/>
+  </contributor>
+  <contributor label="peoples' opinions are definitively against homosexuals in general">
+   <part label="peoples' opinions are definitively against homosexuals in general" start="2969" end="3034"/>
+  </contributor>
+  <contributor label="This is an anti-gay bias">
+   <part label="This is an anti-gay bias" start="3697" end="3721"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="If gays were replaced with another minority then the arguments against them would appear negative.">
+  <contributor label="replaced gays with another minority, then the arguments against them would appear negative">
+   <part label="replaced gays with another minority, then the arguments against them would appear negative" start="504" end="594"/>
+  </contributor>
+  <contributor label="word gay to be replaced with another minority">
+   <part label="word gay to be replaced with another minority" start="1305" end="1350"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="Resorting to name calling indicates the inability to resort to sound arguments.">
+  <contributor label="resorting to name calling indicates the inability to resort to sound arguments">
+   <part label="resorting to name calling indicates the inability to resort to sound arguments" start="1616" end="1694"/>
+  </contributor>
+  <contributor label="someone resorts to name calling in an argument it means they no longer have any sound arguments">
+   <part label="someone resorts to name calling in an argument it means they no longer have any sound arguments" start="2342" end="2437"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="S1 states that bigotry is an ugly word.">
+  <contributor label="uses the statement for its effect since it is thought of as an ugly word">
+   <part label="uses the statement for its effect since it is thought of as an ugly word" start="974" end="1046"/>
+  </contributor>
+  <contributor label="states that the word bigotry is an ugly word">
+   <part label="states that the word bigotry is an ugly word" start="1705" end="1749"/>
+  </contributor>
+ </scu>
+ <scu uid="17" label="its visible and open displays and representations">
+  <contributor label="its visible and open displays and representations">
+   <part label="its visible and open displays and representations" start="3646" end="3695"/>
+  </contributor>
+ </scu>
+ <scu uid="16" label="the statements made to not appear to be bigoted">
+  <contributor label="the statements made to not appear to be bigoted">
+   <part label="the statements made to not appear to be bigoted" start="1355" end="1402"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="trying to exclude any other minority from getting married would not be acceptable)">
+  <contributor label="trying to exclude any other minority from getting married would not be acceptable)">
+   <part label="trying to exclude any other minority from getting married would not be acceptable)" start="602" end="684"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="Two people are arguing gay marriage">
+  <contributor label="Two people are arguing gay marriage">
+   <part label="Two people are arguing gay marriage" start="1563" end="1598"/>
+  </contributor>
+ </scu>
+ <scu uid="2" label="while someone might think an argument is bigoted">
+  <contributor label="while someone might think an argument is bigoted">
+   <part label="while someone might think an argument is bigoted" start="104" end="152"/>
+  </contributor>
+ </scu>
+</pyramid>

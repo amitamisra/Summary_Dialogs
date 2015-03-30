@@ -1,0 +1,4 @@
+root(ROOT-0, lie-4)
+advmod(often-2, how-1)
+advmod(lie-4, often-2)
+nsubj(lie-4, they-3)

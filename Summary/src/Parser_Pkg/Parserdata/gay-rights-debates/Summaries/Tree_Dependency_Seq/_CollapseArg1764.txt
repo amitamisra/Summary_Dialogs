@@ -1,0 +1,7 @@
+root(ROOT-0, deeper-4)
+det(roots-2, the-1)
+nsubj(deeper-4, roots-2)
+cop(deeper-4, are-3)
+det(poll-8, that-6)
+amod(poll-8, particular-7)
+prep_than(deeper-4, poll-8)

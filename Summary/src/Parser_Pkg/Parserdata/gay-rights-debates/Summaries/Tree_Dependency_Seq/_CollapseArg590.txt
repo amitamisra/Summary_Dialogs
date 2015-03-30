@@ -1,0 +1,6 @@
+root(ROOT-0, change-7)
+det(definition-2, the-1)
+nsubj(change-7, definition-2)
+prep_of(definition-2, marriage-4)
+aux(change-7, does-5)
+neg(change-7, not-6)

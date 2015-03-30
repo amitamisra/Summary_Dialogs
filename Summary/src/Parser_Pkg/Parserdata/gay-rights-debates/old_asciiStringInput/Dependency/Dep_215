@@ -1,0 +1,36 @@
+ that gay marriage is not an unalienable right .
+
+
+root(ROOT-0, right-8)
+mark(right-8, that-1)
+amod(marriage-3, gay-2)
+nsubj(right-8, marriage-3)
+cop(right-8, is-4)
+neg(right-8, not-5)
+det(right-8, an-6)
+amod(right-8, unalienable-7)
+
+Two people are discussing the economics of gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(economics-6, the-5)
+dobj(discussing-4, economics-6)
+amod(marriage-9, gay-8)
+prep_of(economics-6, marriage-9)
+
+Two people are discussing the economics of gay marriage .
+
+
+root(ROOT-0, discussing-4)
+num(people-2, Two-1)
+nsubj(discussing-4, people-2)
+aux(discussing-4, are-3)
+det(economics-6, the-5)
+dobj(discussing-4, economics-6)
+amod(marriage-9, gay-8)
+prep_of(economics-6, marriage-9)
+

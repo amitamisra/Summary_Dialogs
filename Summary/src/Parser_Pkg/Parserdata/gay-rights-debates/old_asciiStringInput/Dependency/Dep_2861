@@ -1,0 +1,30 @@
+ that redefining marriage to include same-sex couples does not harm anyone .
+
+
+root(ROOT-0, harm-10)
+mark(harm-10, that-1)
+csubj(harm-10, redefining-2)
+dobj(redefining-2, marriage-3)
+aux(include-5, to-4)
+vmod(redefining-2, include-5)
+amod(couples-7, same-sex-6)
+dobj(include-5, couples-7)
+aux(harm-10, does-8)
+neg(harm-10, not-9)
+dobj(harm-10, anyone-11)
+
+ that redefining marriage to include same-sex couples does not harm anyone .
+
+
+root(ROOT-0, harm-10)
+mark(harm-10, that-1)
+csubj(harm-10, redefining-2)
+dobj(redefining-2, marriage-3)
+aux(include-5, to-4)
+vmod(redefining-2, include-5)
+amod(couples-7, same-sex-6)
+dobj(include-5, couples-7)
+aux(harm-10, does-8)
+neg(harm-10, not-9)
+dobj(harm-10, anyone-11)
+

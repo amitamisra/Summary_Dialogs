@@ -1,0 +1,38 @@
+S1 says he doesnt care about the inconsistency of one supporting gay rights and not gay marriage .
+
+
+root(ROOT-0, says-2)
+nsubj(says-2, S1-1)
+nsubj(doesnt-4, he-3)
+ccomp(says-2, doesnt-4)
+dobj(doesnt-4, care-5)
+det(inconsistency-8, the-7)
+nsubj(supporting-11, inconsistency-8)
+prep_of(inconsistency-8, one-10)
+prepc_about(doesnt-4, supporting-11)
+amod(rights-13, gay-12)
+dobj(supporting-11, rights-13)
+neg(marriage-17, not-15)
+amod(marriage-17, gay-16)
+dobj(supporting-11, marriage-17)
+conj_and(rights-13, marriage-17)
+
+S1 says he doesnt care about the inconsistency of one supporting gay rights and not gay marriage .
+
+
+root(ROOT-0, says-2)
+nsubj(says-2, S1-1)
+nsubj(doesnt-4, he-3)
+ccomp(says-2, doesnt-4)
+dobj(doesnt-4, care-5)
+det(inconsistency-8, the-7)
+nsubj(supporting-11, inconsistency-8)
+prep_of(inconsistency-8, one-10)
+prepc_about(doesnt-4, supporting-11)
+amod(rights-13, gay-12)
+dobj(supporting-11, rights-13)
+neg(marriage-17, not-15)
+amod(marriage-17, gay-16)
+dobj(supporting-11, marriage-17)
+conj_and(rights-13, marriage-17)
+

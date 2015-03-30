@@ -1,0 +1,47 @@
+ S1 is bringing up random , factless arguments without factual information arguing the study seems to be well and professionally done .
+
+
+root(ROOT-0, bringing-3)
+nsubj(bringing-3, S1-1)
+aux(bringing-3, is-2)
+prt(bringing-3, up-4)
+amod(arguments-8, random-5)
+amod(arguments-8, factless-7)
+dobj(bringing-3, arguments-8)
+amod(information-11, factual-10)
+prep_without(bringing-3, information-11)
+vmod(information-11, arguing-12)
+det(study-14, the-13)
+nsubj(seems-15, study-14)
+ccomp(arguing-12, seems-15)
+aux(done-21, to-16)
+auxpass(done-21, be-17)
+advmod(done-21, well-18)
+conj_and(well-18, professionally-20)
+advmod(done-21, professionally-20)
+xcomp(seems-15, done-21)
+
+ he/she has given this website example several times in the past .  
+root(ROOT-0, given-3)
+nsubj(given-3, he/she-1)
+aux(given-3, has-2)
+det(example-6, this-4)
+nn(example-6, website-5)
+iobj(given-3, example-6)
+quantmod(times-8, several-7)
+dobj(given-3, times-8)
+det(past-11, the-10)
+prep_in(times-8, past-11)
+
+ he/she has given this website example several times in the past .  
+root(ROOT-0, given-3)
+nsubj(given-3, he/she-1)
+aux(given-3, has-2)
+det(example-6, this-4)
+nn(example-6, website-5)
+iobj(given-3, example-6)
+quantmod(times-8, several-7)
+dobj(given-3, times-8)
+det(past-11, the-10)
+prep_in(times-8, past-11)
+

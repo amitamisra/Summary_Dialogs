@@ -1,0 +1,25 @@
+   they are not the same thing as roommates . 
+root(ROOT-0, thing-6)
+nsubj(thing-6, they-1)
+cop(thing-6, are-2)
+neg(thing-6, not-3)
+det(thing-6, the-4)
+amod(thing-6, same-5)
+prep_as(thing-6, roommates-8)
+
+ morals should be forced .
+
+
+root(ROOT-0, forced-4)
+nsubjpass(forced-4, morals-1)
+aux(forced-4, should-2)
+auxpass(forced-4, be-3)
+
+ morals should be forced .
+
+
+root(ROOT-0, forced-4)
+nsubjpass(forced-4, morals-1)
+aux(forced-4, should-2)
+auxpass(forced-4, be-3)
+

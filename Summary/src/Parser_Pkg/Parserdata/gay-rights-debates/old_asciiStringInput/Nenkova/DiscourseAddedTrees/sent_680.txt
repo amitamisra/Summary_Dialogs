@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (NN S1) (CC and#0#0) (NN S2)) (SBAR (S (VP (VBP are) (VP (VBG talking) (PP (IN about) (NP (NN howemocracy)))))))) (VP (VBZ is) (VP (VP (VBN based) (PP (IN on) (NP (NP (NN majority) (NN rule)) (CC and#1#0) (NP (IN whether))))) (CC or#2#0) (VP (RB not) (NP (PRP$ its) (JJ fair))))) (. .)))

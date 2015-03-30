@@ -1,0 +1,11 @@
+(same-unit[N][N]
+  (Elaboration[N][S]
+    _!He argues that a majority of people ,!_
+    _!including himself ,!_)
+  (same-unit[N][N]
+    (Elaboration[N][S]
+      _!would support laws!_
+      (Elaboration[N][S]
+        _!providing rights and benefits for gays!_
+        _!who elect to enter into civil unions ,!_))
+    _!but not gay marriage . <s>!_))

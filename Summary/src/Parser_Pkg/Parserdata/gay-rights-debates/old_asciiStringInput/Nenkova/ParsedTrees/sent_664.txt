@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (NN S2) (NNS retorts)) (VP (VBG saying) (SBAR (IN that) (S (NP (NNS gays)) (VP (VBP are) (RB not) (NP (JJ single) (NNS people))))))) (, ,) (CC and) (S (NP (JJ single) (NNS people)) (VP (MD can) (ADVP (RB always)) (VP (VB get) (ADJP (VBN married))))) (. .)))

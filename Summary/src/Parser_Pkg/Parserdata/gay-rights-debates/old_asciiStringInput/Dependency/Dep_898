@@ -1,0 +1,37 @@
+The issue here is  whether government or religion should decides the principles of marriage , 
+root(ROOT-0, is-4)
+det(issue-2, The-1)
+nsubj(is-4, issue-2)
+advmod(is-4, here-3)
+mark(decides-10, whether-5)
+nsubj(decides-10, government-6)
+conj_or(government-6, religion-8)
+nsubj(decides-10, religion-8)
+aux(decides-10, should-9)
+ccomp(is-4, decides-10)
+det(principles-12, the-11)
+dobj(decides-10, principles-12)
+prep_of(principles-12, marriage-14)
+
+They also believe that homosexuals are more promiscuous than heterosexuals.
+root(ROOT-0, believe-3)
+nsubj(believe-3, They-1)
+advmod(believe-3, also-2)
+mark(promiscuous-8, that-4)
+nsubj(promiscuous-8, homosexuals-5)
+cop(promiscuous-8, are-6)
+advmod(promiscuous-8, more-7)
+ccomp(believe-3, promiscuous-8)
+prep_than(promiscuous-8, heterosexuals-10)
+
+They also believe that homosexuals are more promiscuous than heterosexuals.
+root(ROOT-0, believe-3)
+nsubj(believe-3, They-1)
+advmod(believe-3, also-2)
+mark(promiscuous-8, that-4)
+nsubj(promiscuous-8, homosexuals-5)
+cop(promiscuous-8, are-6)
+advmod(promiscuous-8, more-7)
+ccomp(believe-3, promiscuous-8)
+prep_than(promiscuous-8, heterosexuals-10)
+

@@ -1,0 +1,18 @@
+   certain justices of SCOTUS already approve of gay marriage 
+root(ROOT-0, approve-6)
+amod(justices-2, certain-1)
+npadvmod(already-5, justices-2)
+prep_of(justices-2, SCOTUS-4)
+advmod(approve-6, already-5)
+amod(marriage-9, gay-8)
+prep_of(approve-6, marriage-9)
+
+   certain justices of SCOTUS already approve of gay marriage 
+root(ROOT-0, approve-6)
+amod(justices-2, certain-1)
+npadvmod(already-5, justices-2)
+prep_of(justices-2, SCOTUS-4)
+advmod(approve-6, already-5)
+amod(marriage-9, gay-8)
+prep_of(approve-6, marriage-9)
+

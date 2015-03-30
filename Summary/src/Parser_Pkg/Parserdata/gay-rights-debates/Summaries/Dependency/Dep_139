@@ -1,0 +1,38 @@
+ there is a Congo tribe.
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+det(tribe-5, a-3)
+nn(tribe-5, Congo-4)
+nsubj(is-2, tribe-5)
+
+ there is a Congo tribe.
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+det(tribe-5, a-3)
+nn(tribe-5, Congo-4)
+nsubj(is-2, tribe-5)
+
+ there is a Congo tribe.
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+det(tribe-5, a-3)
+nn(tribe-5, Congo-4)
+nsubj(is-2, tribe-5)
+
+ there is a Congo tribe.
+root(ROOT-0, is-2)
+expl(is-2, there-1)
+det(tribe-5, a-3)
+nn(tribe-5, Congo-4)
+nsubj(is-2, tribe-5)
+
+ the new methods detect minimal or localized earthquakes.
+root(ROOT-0, detect-4)
+det(methods-3, the-1)
+amod(methods-3, new-2)
+nsubj(detect-4, methods-3)
+amod(earthquakes-8, minimal-5)
+cc(minimal-5, or-6)
+conj(minimal-5, localized-7)
+dobj(detect-4, earthquakes-8)
+

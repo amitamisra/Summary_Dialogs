@@ -1,0 +1,7 @@
+root(ROOT-0, consequences-5)
+advmod(consequences-5, why-1)
+expl(consequences-5, there-2)
+aux(consequences-5, should-3)
+cop(consequences-5, be-4)
+prep(consequences-5, on-6)
+pobj(on-6, earth-7)

@@ -1,0 +1,3 @@
+root(ROOT-0, heterophobe-3)
+cop(heterophobe-3, be-1)
+det(heterophobe-3, a-2)

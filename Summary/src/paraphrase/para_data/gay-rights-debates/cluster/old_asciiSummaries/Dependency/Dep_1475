@@ -1,0 +1,15 @@
+Both (S1) and (S2) keep referring to others views on the issue and choose sides.
+root(ROOT-0, keep-9)
+det(S1-3, Both-1)
+nsubj(keep-9, S1-3)
+conj_and(S1-3, S2-7)
+nsubj(keep-9, S2-7)
+dep(keep-9, referring-10)
+nn(views-13, others-12)
+prep_to(referring-10, views-13)
+det(issue-16, the-15)
+prep_on(views-13, issue-16)
+dep(keep-9, choose-18)
+conj_and(referring-10, choose-18)
+dobj(choose-18, sides-19)
+

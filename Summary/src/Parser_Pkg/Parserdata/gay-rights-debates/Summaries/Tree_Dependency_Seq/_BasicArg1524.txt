@@ -1,0 +1,5 @@
+root(ROOT-0, saying-1)
+dobj(saying-1, its-2)
+dep(about-4, all-3)
+prep(saying-1, about-4)
+pobj(about-4, motivation-5)

@@ -1,0 +1,4 @@
+root(ROOT-0, did-2)
+nsubj(did-2, he-1)
+amod(research-4, other-3)
+dobj(did-2, research-4)

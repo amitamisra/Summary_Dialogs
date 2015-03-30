@@ -1,0 +1,6 @@
+root(ROOT-0, passed-6)
+amod(laws-3, gay-1)
+nn(laws-3, marriage-2)
+nsubjpass(passed-6, laws-3)
+aux(passed-6, will-4)
+auxpass(passed-6, be-5)

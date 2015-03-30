@@ -1,0 +1,8 @@
+root(ROOT-0, strayed-4)
+amod(liberalism-2, modern-1)
+nsubj(strayed-4, liberalism-2)
+aux(strayed-4, has-3)
+prep(strayed-4, from-5)
+dobj(believed-8, what-6)
+nsubj(believed-8, Jefferson-7)
+pcomp(from-5, believed-8)

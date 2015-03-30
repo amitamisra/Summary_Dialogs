@@ -1,0 +1,32 @@
+It 's built up toxicity from all the anti-gay rhetoric that reaches a boiling point .
+
+
+root(ROOT-0, built-3)
+nsubjpass(built-3, It-1)
+auxpass(built-3, 's-2)
+prt(built-3, up-4)
+dobj(built-3, toxicity-5)
+predet(rhetoric-10, all-7)
+det(rhetoric-10, the-8)
+amod(rhetoric-10, anti-gay-9)
+prep_from(built-3, rhetoric-10)
+nsubj(reaches-12, that-11)
+rcmod(rhetoric-10, reaches-12)
+det(point-15, a-13)
+amod(point-15, boiling-14)
+dobj(reaches-12, point-15)
+
+Christianity is a moral system.
+root(ROOT-0, system-5)
+nsubj(system-5, Christianity-1)
+cop(system-5, is-2)
+det(system-5, a-3)
+amod(system-5, moral-4)
+
+Christianity is a moral system.
+root(ROOT-0, system-5)
+nsubj(system-5, Christianity-1)
+cop(system-5, is-2)
+det(system-5, a-3)
+amod(system-5, moral-4)
+

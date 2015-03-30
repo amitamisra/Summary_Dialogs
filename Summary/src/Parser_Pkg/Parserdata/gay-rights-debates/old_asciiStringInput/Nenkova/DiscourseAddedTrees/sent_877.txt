@@ -1,0 +1,1 @@
+(ROOT (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (S (NP (PRP one)) (VP (MD can) (VP (VB learn) (PP (IN about) (NP (DT this) (NN group))) (PP (IN by) (S (VP (VBG looking) (PP (IN at) (NP (NP (NNP Jerry) (NNP Falwell)) (CC or#0#0) (NP (NNP Pat) (NNP Robertson)))))))))))) (. .)))

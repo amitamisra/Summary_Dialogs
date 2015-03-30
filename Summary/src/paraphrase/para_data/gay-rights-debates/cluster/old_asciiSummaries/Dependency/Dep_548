@@ -1,0 +1,11 @@
+S2 also believes gays were not thought of as human.
+root(ROOT-0, believes-3)
+nsubj(believes-3, S2-1)
+advmod(believes-3, also-2)
+nsubjpass(thought-7, gays-4)
+auxpass(thought-7, were-5)
+neg(thought-7, not-6)
+ccomp(believes-3, thought-7)
+prepc_as_of(thought-7, as-9)
+pobj(thought-7, human-10)
+

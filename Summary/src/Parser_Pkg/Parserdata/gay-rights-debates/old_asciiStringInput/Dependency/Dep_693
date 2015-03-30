@@ -1,0 +1,33 @@
+ the point is that Matt commented  that someone who may not even be a republican hates gays , 
+root(ROOT-0, is-3)
+det(point-2, the-1)
+nsubj(is-3, point-2)
+mark(commented-6, that-4)
+nsubj(commented-6, Matt-5)
+ccomp(is-3, commented-6)
+mark(hates-16, that-7)
+nsubj(hates-16, someone-8)
+nsubj(republican-15, who-9)
+aux(republican-15, may-10)
+neg(republican-15, not-11)
+advmod(republican-15, even-12)
+cop(republican-15, be-13)
+det(republican-15, a-14)
+rcmod(someone-8, republican-15)
+ccomp(commented-6, hates-16)
+dobj(hates-16, gays-17)
+
+   he would have opposed over-regulation . 
+root(ROOT-0, opposed-4)
+nsubj(opposed-4, he-1)
+aux(opposed-4, would-2)
+aux(opposed-4, have-3)
+dobj(opposed-4, over-regulation-5)
+
+   he would have opposed over-regulation . 
+root(ROOT-0, opposed-4)
+nsubj(opposed-4, he-1)
+aux(opposed-4, would-2)
+aux(opposed-4, have-3)
+dobj(opposed-4, over-regulation-5)
+

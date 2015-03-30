@@ -1,0 +1,7 @@
+root(ROOT-0, gets-2)
+advmod(gets-2, again-1)
+dep(gets-2, angered-3)
+det(generalizations-6, the-5)
+prep_by(angered-3, generalizations-6)
+vmod(generalizations-6, used-7)
+agent(used-7, S2-9)
