@@ -1,0 +1,5 @@
+Call shell scripts within python
+
+change keyed from sent no o file and sent no
+
+use summaries from joint csv instead txt file

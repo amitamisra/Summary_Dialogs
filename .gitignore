@@ -1,0 +1,6 @@
+#n ignore specific files
+.DS_Store
+
+# Use wildcards as well
+*~
+*.csv
