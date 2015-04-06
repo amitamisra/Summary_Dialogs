@@ -101,11 +101,11 @@ def Adddialog(directory,tasks,lengthtasks,outfile_1,outfile_2,outfile_1_2,AllPyr
     
     Alldialogs_1_2=Alldialogs_1+Alldialogs_2  
     HtmlLines_1_2_str= HtmlLines_1_str+HtmlLines_2_str             
-    FileHandling.write_csv(outfile_1,Alldialogs_1, fieldnames) 
-    FileHandling.writeHtml(outfile_1, HtmlLines_1_str) 
-    
-    FileHandling.write_csv(outfile_2,Alldialogs_2, fieldnames) 
-    FileHandling.writeHtml(outfile_2, HtmlLines_2_str) 
+    FileHandling.write_csv(outfile_1,Alldialogs_1, fieldnames)
+    FileHandling.writeHtml(outfile_1, HtmlLines_1_str)
+
+    FileHandling.write_csv(outfile_2,Alldialogs_2, fieldnames)
+    FileHandling.writeHtml(outfile_2, HtmlLines_2_str)
     
     FileHandling.write_csv(outfile_1_2,Alldialogs_1_2, fieldnames) 
     FileHandling.writeHtml(outfile_1_2, HtmlLines_1_2_str) 

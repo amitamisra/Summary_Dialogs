@@ -50,7 +50,28 @@ def createtablediscussionsid(dataset_id,topic,Discussions,viewname,Table):
             print "Error %d: %s" % (e.args[0],e.args[1])    
             
 
-
+def creatediscussiontopic(dataset_id,topicid,tablename,outfile):
+    try:
+       
+        db1 = mdb.connect(host="localhost",user="root",passwd="",db="iac")
+        cursor = db1.cursor(mdb.cursors.DictCursor) 
+        Query_discussion_id = """SELECT * FROM {0} WHERE (dataset_id = {1} and topic_id = {2} )""" .format(tablename, dataset_id,topic_id)
+        cursor.execute(Query_discussion_id)
+        rowdicts= cursor.fetchall()
+        fieldnames=rowdicts[0].keys()
+        #noRows=len(rowdicts)
+        FileHandling.write_csv(outfile, rowdicts, fieldnames)
+        
+    except db1.Error, e:
+            print e
+            if db1:
+                db1.rollback()
+        
+            sys.exit(1)
+            print "Error %d: %s" % (e.args[0],e.args[1])    
+            
+        
+    
 
 
 gay_marriage_discussions2=[34,35,246,788,1062,1036,1037,1061,1062,1097,1226,1245,1281,1287,1292,1590,1598,1685,1690,
@@ -68,16 +89,6 @@ gay_marriage_discussions2=[34,35,246,788,1062,1036,1037,1061,1062,1097,1226,1245
 # topic="gay-rights-debates"  used for gay rights
 #===============================================================================
 
-table="DeathPenalty"
-topic="death-penalty"
-global Dialog_Turn
-Dialog_Turn=1
-global max_turns_dialog
-max_turns_dialog=4
-dataset_id=1
-max_wordin_post=250
-All=False
-taskno=1
 
 #discussions=gay_marriage_discussions2 done for gay rights
 
@@ -98,15 +109,38 @@ taskno=1
 #===============================================================================
 
 
-if All:
-    viewname="deathall"
-else:
-    viewname="death"    
 
-discussionfile=os.getcwd() + "/CSV/"+topic+"/" + topic+ "_discussions" 
-rowlist=FileHandling.read_csv(discussionfile)  
-discussions=[row["discussion_id"] for row in rowlist]
-createtablediscussionsid(dataset_id,topic,discussions,viewname,table)
 if __name__ == '__main__':
+   # change these 3  variables for every topic , 
+    topic_id=7
+    table="Evolution"
+    topic="evolution"
+    dataset_id=1
+    disc_table="discussions"
+   
+    #===========================================================================
+    # topic_id=3   done once
+    # table="Abortion"
+    # topic="abortion"
+    #===========================================================================
     
-    pass
+    global Dialog_Turn
+    Dialog_Turn=1
+    global max_turns_dialog
+    max_turns_dialog=4
+    max_wordin_post=250
+    All=False   # if true creates only a single file for all discussions, keep it false , used only to test
+    taskno=1
+    
+    
+    if All:
+        viewname= topic[:-3] +"all"
+    else:
+        viewname=topic[:-3]   
+
+
+    discussionfile=os.getcwd() + "/CSV/"+ topic+"/" + topic+ "_discussions" 
+    creatediscussiontopic(dataset_id,topic_id,disc_table,discussionfile)
+    rowlist=FileHandling.read_csv(discussionfile)  
+    discussions=[row["discussion_id"] for row in rowlist]
+    createtablediscussionsid(dataset_id,topic,discussions,viewname,table)

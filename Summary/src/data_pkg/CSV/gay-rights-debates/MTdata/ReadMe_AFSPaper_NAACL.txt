@@ -29,3 +29,8 @@ next 40 dialogs and summaries
 AllDialogs_MT_phase_1_2.csv
 AllDialogs_MT_phase_1_2.html
 All the 85 dialogs and summaries
+
+
+The 45 dialogs used are 
+/Users/amita/git/summary_repo/Summary/src/data_pkg/CSV/gay-rights-debates/MTdata/MTPhase1/LabelUpdated/AllDialogs_phase1_Formatted.csv
+

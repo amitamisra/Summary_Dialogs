@@ -2,8 +2,8 @@
 Created on Apr 27, 2014
 This creates a post quote file containing posts and corresponding quotes. Use reply links to identify the quotes , there may be more than one 
 quote links in the database, hence post_quotes file may contain more than one quote associated with a post.quote index
-field distinguishes these quotes that are different parts of a quotesourcepost. i select full quote text for each of these
-and do not select based on start and end index  in the quote as it breaks dialog chains.then jusr select one record to get the quote text using 
+field distinguishes these quotes that are different parts of a quotesourcepost. select full quote text for each of these
+and do not select based on start and end index  in the quote as it breaks dialog chains, then just select one record to get the quote text using 
 min( quote_index) as all indexes contain same text.
 @author: amita
 '''
@@ -195,10 +195,10 @@ def CreateTable_Post_Quotes_Unique(InputCsv,File_Col_Unique,topic,Table_topic):
             cursor = db1.cursor()  
             print Query_Topic_Create
             cursor.execute(Query_Topic_Create)
-            colselect="SELECT column_name FROM information_schema.columns WHERE TABLE_NAME  = `DeathPenalty`"
-            print colselect
-            args=(Table_topic,)
-            cursor.execute("""SELECT * from DeathPenalty""")
+            #colselect="SELECT column_name FROM information_schema.columns WHERE TABLE_NAME  = `DeathPenalty`"
+            #print colselect
+            #args=(Table_topic,)
+            cursor.execute("""SELECT * from {table_name}""".format(table_name=Table_topic))
             print cursor.description
             for colname in cursor.description :
                 Setcolnames.add(colname[0])
@@ -221,7 +221,7 @@ def CreateTable_Post_Quotes_Unique(InputCsv,File_Col_Unique,topic,Table_topic):
         
             print "Error %d: %s" % (e.args[0],e.args[1])
             sys.exit(1)
-  
+
     
    
     finally:    
@@ -229,33 +229,46 @@ def CreateTable_Post_Quotes_Unique(InputCsv,File_Col_Unique,topic,Table_topic):
             if db1:    
                 db1.close()  
  
-# topic="gay-rights-debates" # used for gay rights
-# Table_topic="GAYRIGHTS"     # used for gay rights
-
-# topic="gun-control"
-# Table_topic="GunControl" used for gun control
 
 
-topic="death-penalty"
-Table_topic="DeathPenalty"
-
-         
-filename=os.getcwd() + "/CSV/"+topic+"/" + topic+ "QRPairs"  
-filename_unique=os.getcwd() + "/CSV/"+topic+"/" + topic+ "QRPairs_unique"  
-file_col_unique=os.getcwd() + "/CSV/"+topic+"/" + topic+ "QRPairs_col_unique"  
-
-
-#----------- Post_Quotes_Csv(filename,dataset="fourforums",topic="gay marriage")
-# Post_Quotes_Unique_Csv(filename_unique,dataset="fourforums",topic="gay marriage") used for gay marriage
-
-#Post_Quotes_Csv(filename,dataset="fourforums",topic="gun control")
-#Post_Quotes_Unique_Csv(filename_unique,dataset="fourforums",topic="gun control")  used for gun control
-
-
-Post_Quotes_Csv(filename,dataset="fourforums",topic="death penalty")
-Post_Quotes_Unique_Csv(filename_unique,dataset="fourforums",topic="death penalty")
- 
-CreateTable_Post_Quotes_Unique(filename_unique,file_col_unique,topic,Table_topic)                       
 if __name__ == '__main__':
+    # change these 3 variables for every topic
     
-    pass
+    topic="evolution"
+    Table_topic="Evolution"
+    dataset="fourforums"
+             
+    
+    
+    #---------------------------------------------------------- topic="abortion" done once
+    #---------------------------------------------------- Table_topic="Abortion" done once
+    #------------------------------------------------------ dataset="fourforums" done once
+             
+    
+    
+    # topic="gay-rights-debates" # used for gay rights, done once
+    # Table_topic="GAYRIGHTS"     # used for gay rights, done once
+    
+    # topic="gun-control"done once
+    # Table_topic="GunControl" used for gun control done once
+    
+    
+    filename=os.getcwd() + "/CSV/"+topic+"/" + topic+ "QRPairs"  
+    filename_unique=os.getcwd() + "/CSV/"+topic+"/" + topic+ "QRPairs_unique"  
+    file_col_unique=os.getcwd() + "/CSV/"+topic+"/" + topic+ "QRPairs_col_unique"  
+    
+    
+    
+    # done for gay marriage
+    #----------- Post_Quotes_Csv(filename,dataset="fourforums",topic="gay marriage")
+    # Post_Quotes_Unique_Csv(filename_unique,dataset="fourforums",topic="gay marriage") used for gay marriage
+    
+    # done for gun control
+    #Post_Quotes_Csv(filename,dataset="fourforums",topic="gun control")
+    #Post_Quotes_Unique_Csv(filename_unique,dataset="fourforums",topic="gun control")  used for gun control
+    
+    
+    Post_Quotes_Csv(filename,dataset,topic)
+    Post_Quotes_Unique_Csv(filename_unique,dataset,topic)
+     
+    CreateTable_Post_Quotes_Unique(filename_unique,file_col_unique,topic,Table_topic)                       
