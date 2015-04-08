@@ -1,6 +1,6 @@
 '''
 Created on Sep 2, 2014
-
+NOT used for naacl
 @author: amita
 '''
 import os

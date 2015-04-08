@@ -8,7 +8,7 @@ from collections import Counter
 
 '''
 Created on Aug 12, 2014
-
+NOt used in naacl
 @author: amita
 
 '''

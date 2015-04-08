@@ -4,7 +4,7 @@ from nlp.text_obj import TextObj
 import sys
 '''
 Created on Aug 18, 2014
-
+NOt used in naacl
 @author: amita
 '''
 # This program takes an input a json Dir created using DISCO Toolkit in java and writes a corresponding csv file for file craeteFeatures.py

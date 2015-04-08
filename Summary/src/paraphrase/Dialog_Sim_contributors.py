@@ -3,6 +3,7 @@ Created on Aug 19, 2014
 This file read dialogs from alldialogs put on MT finds the most similar sentence to the contributors of the dialog
 It reads all contributors from jsonfile created in program scores_pyramid
 @author: amita
+NOt used in naacl
 '''
 import operator
 import itertools

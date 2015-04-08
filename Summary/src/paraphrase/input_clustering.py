@@ -1,6 +1,6 @@
 '''
 Created on Aug 24, 2014
-This program takes input as all dialog summary file created by running combine MT results and creates an input for clustering
+This program takes input labels from pyramids created by running scores pyramid from data package  and creates  clusters
 @author: amita
 '''
 from sklearn.feature_extraction.text  import CountVectorizer
@@ -9,23 +9,13 @@ from  sklearn.cluster import AgglomerativeClustering
 import preprocess_text
 import os
 import data_pkg.FileHandling
-import re
-import site
-from nlp.text_obj import TextObj
-from random import shuffle
-import operator
-import itertools
-from nltk.tokenize import sent_tokenize
 import Add_POS
 from sklearn import metrics
-from sklearn.metrics import pairwise_distances
 import sys
-from sklearn.decomposition import TruncatedSVD
-from sklearn.pipeline import make_pipeline
-from sklearn.preprocessing import Normalizer
 import operator
 import itertools
-from paraphrase import similarity
+
+
 
 #--------------------------------------------- Add POS to the input strings file
 def createPOSFile(stringsFile,PosStringsFile,clusterField,keyid):
@@ -128,10 +118,10 @@ class Cluster:
             Agg_cluster=AgglomerativeClustering(n_clusters=self.num_cluster,linkage='average',affinity=self.affinity)    
         Res_Labels=Agg_cluster.fit_predict(term_doc.toarray())
         self.cluster_tup_list=self.tuple_cluster_doc(Res_Labels,Allstrings,Allrow_dicts)
-        print type (term_doc)
+        #print type (term_doc)
         self.metric=metrics.silhouette_score(term_doc.toarray(), Res_Labels, metric=self.affinity)
-        print Res_Labels
-        print("n_samples: %d, n_features: %d" % term_doc.shape)
+        #print Res_Labels
+        #print("n_samples: %d, n_features: %d" % term_doc.shape)
         
     def  write_cluster(self,processing):
         AllList=list()
@@ -158,31 +148,20 @@ def stem_cluster(stringsFile,clustercsv,vec,clusterfield,keyid,stem,stop,process
     
      
 if __name__ == '__main__':
+    
+    #begin===========================================================================done for NAACL
+    # topic="gay-rights-debates"
+    # clusterfile_cosine=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    # clustercsv=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    #end===========================================================================done for NAACL
+    topic="gun-control"
+    guncontrolpyramiddir="/Users/amita/git/FacetIdentification/src/Data_Pkg_Data/CSV/gun-control/MTdata/Phase1/Pyramids_Natural"
+    clusterfile_cosine="/Users/amita/git/FacetIdentification/src/Paraphrase_Pkg_data/"+topic+"/cluster/Phase1/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    clustercsv="/Users/amita/git/FacetIdentification/src/Paraphrase_Pkg_data/" + topic+"/cluster/Phase1/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    
+    
+    
     Regex="[-]*\sD[0-9]*\s[-]*"
-    topic="gay-rights-debates"
-    #choice =1 is for summaries, choice =2 is for labels as input
-    
-    choice=2 
-    if choice ==1:
-        #To be done with summaries as input
-        clusterfield="text" #Field in input file for clustering
-        keyid="key"
-        stringsFile=os.getcwd() + "/para_data/"+topic+"/cluster/Summaries/InputStrings" 
-        PosStringsFile=os.getcwd() + "/para_data/"+topic+"/cluster/Summaries/InputStrings_POS"
-        
-        #create_strings_file(InputFile,stringsFile) #Not executed now, instead execute summary_string form package data  
-        createPOSFile(stringsFile,PosStringsFile,clusterfield,keyid)
-        
-    else:
-        if choice ==2:
-            #To be done with labels as input
-            clusterfield="label" #Field in input file for clustering
-            keyid="key_user"
-            stringsFile=os.path.dirname(os.getcwd()) + "/data_pkg/CSV/"+ topic +"/MTdata/LabelUpdated/more2_Scus"
-            PosStringsFile=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/InputStrings_POS_Labels"
-            createPOSFile(stringsFile,PosStringsFile,clusterfield,keyid)
-    
-   
     #Initialize all values for clustering
     stem=True 
     stop=True  
@@ -190,9 +169,52 @@ if __name__ == '__main__':
     affinity="cosine"
     vect="TFIdfCountVectorizer"
     num_cluster=70
+    choice=2 
     # AVG indicates type linkage in cluster class in scikit
+    #choice =1 is for summaries, choice =2 is for labels as input
     
-    #processing="STEMMING, Euclidean Distance, num_cluster=200"
+    
+    if choice ==1:
+        #To be done with summaries as input
+        print 
+        #begin======================================================================= NOT USED FOR NAACL
+        # clusterfield="text" #Field in input file for clustering
+        # keyid="key"
+        # stringsFile=os.getcwd() + "/para_data/"+topic+"/cluster/Summaries/InputStrings" 
+        # PosStringsFile=os.getcwd() + "/para_data/"+topic+"/cluster/Summaries/InputStrings_POS"
+        # 
+        # #create_strings_file(InputFile,stringsFile) #Not executed now, instead execute summary_string form package data  
+        # createPOSFile(stringsFile,PosStringsFile,clusterfield,keyid)
+        #end=======================================================================NOT USED FOR NAACL
+        
+    else:
+        if choice ==2:
+            #begin ---------------------------------- #To be done with labels as input USED FOR NAACL
+            #---------- clusterfield="label" #Field in input file for clustering
+            #-------------------------------------------------- keyid="key_user"
+            # stringsFile=os.path.dirname(os.getcwd()) + "/data_pkg/CSV/"+ topic +"/MTdata/LabelUpdated/more2_Scus"
+            # PosStringsFile=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/InputStrings_POS_Labels"
+            #------ createPOSFile(stringsFile,PosStringsFile,clusterfield,keyid)
+            #end------------------------------------------------------------------------------ USED FOR NAACL
+            
+            #To be done with labels as input
+            clusterfield="label" #Field in input file for clustering
+            keyid="key_user"
+            stringsFile=guncontrolpyramiddir+"/more2_Scus"
+            PosStringsFile="/Users/amita/git/FacetIdentification/src/Paraphrase_Pkg_data/"+ topic+"/cluster/Phase1/InputStrings_POS_Labels"
+            createPOSFile(stringsFile,PosStringsFile,clusterfield,keyid)
+    
+    POS="Noun_Verb_AdJ"
+    processing="STEMMING, cos Distance, num_cluster=70Nouns_Verb_AdJ"
+    stem_cluster(stringsFile,clustercsv,vect,clusterfield,keyid,stem,stop,processing,POS,clusterfile_cosine,num_cluster,remS,affinity)
+   
+            
+            
+            
+            
+            
+    #begin=========================================================================== NOT USED FOR NAACL
+    #processing="STEMMING, Euclidean Distance, num_cluster=200"   NOT USED FOR NAACL
     #POS="ALL"
     # clusterfile_euc=os.getcwd() + "/para_data/"+topic+"/cluster/Euc_Cluster_200"
     # stem_cluster(stringsFile,stem,stop,processing,POS,clusterfile_euc,num_cluster,remS,affinity)
@@ -205,18 +227,13 @@ if __name__ == '__main__':
     # stem_cluster(stringsFile,clusterfield,keyid,stem,stop,processing,POS,clusterfile_cosine,num_cluster,remS,affinity)
     
     
-    POS="Noun_AdJ"
-    processing="STEMMING, cos Distance, num_cluster=70Nouns_AdJ"
-    clusterfile_cosine=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Ad"
-    clustercsv=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Ad"
-    stem_cluster(stringsFile,clustercsv,vect,clusterfield,keyid,stem,stop,processing,POS,clusterfile_cosine,num_cluster,remS,affinity)
+    
+    # POS="Noun_AdJ"
+    # processing="STEMMING, cos Distance, num_cluster=70Nouns_AdJ"
+    # clusterfile_cosine=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Ad"
+    # clustercsv=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Ad"
+    # stem_cluster(stringsFile,clustercsv,vect,clusterfield,keyid,stem,stop,processing,POS,clusterfile_cosine,num_cluster,remS,affinity)
+    #end===========================================================================NOT USED FOR NAACL
     
     
-    POS="Noun_Verb_AdJ"
-    processing="STEMMING, cos Distance, num_cluster=70Nouns_Verb_AdJ"
-    clusterfile_cosine=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
-    clustercsv=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
     
-    stem_cluster(stringsFile,clustercsv,vect,clusterfield,keyid,stem,stop,processing,POS,clusterfile_cosine,num_cluster,remS,affinity)
-   
-            

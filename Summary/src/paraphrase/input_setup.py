@@ -10,6 +10,7 @@ This  creates a csv file for setting up machine learning experiment.Reads in a j
 Filter a pyramid based on  key_user field.
 creates a outpair file named AllScuPairs
 @author: amita
+NOt used in naacl
 '''
 # find all possible combinations of contributors belong to different scus and add it to PairScuList
 def calUMBCSIM(AllOutputPairdir):

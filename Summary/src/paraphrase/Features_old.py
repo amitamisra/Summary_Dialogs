@@ -3,7 +3,7 @@ from collections import Counter
 from nlp.text_obj import TextObj
 '''
 Created on Aug 10, 2014
-
+NOt used in naacl
 @author: amita
 '''
 def removeS(text):

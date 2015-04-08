@@ -3,6 +3,7 @@ Created on Aug 31, 2014
 Reads the file  para_data/gay-rights-debates/cluster/Summaries/InputStrings_ParseTrees.json , created from cornlp
  containing parse trees from stanford parser.
 @author: amita
+NOt used in naacl
 '''
 from nltk import Tree
 from nltk.draw.util import CanvasFrame

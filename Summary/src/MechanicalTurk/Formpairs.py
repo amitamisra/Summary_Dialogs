@@ -61,10 +61,27 @@ def Execution(InputCsv,OutputCsv, Error_UMBC,Label,fields):
     FileHandling.WriteTextFile(Error_UMBC, ErrorLines)
   
 if __name__ == '__main__':
-    topic="gay-rights-debates"
-    ClusterLabelInp=os.path.dirname(os.getcwd()) + "/paraphrase/para_data/gay-rights-debates/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
-    ClusterLabelPairs=os.path.dirname(os.getcwd()) + "/paraphrase/para_data/gay-rights-debates/cluster/LabelUpdated/TFIdf/Pairs_Cos_Cluster_70_AVG_Noun_Verb_Ad"
-    Error_UMBC=os.path.dirname(os.getcwd()) + "/paraphrase/para_data/gay-rights-debates/cluster/LabelUpdated/TFIdf/ErrorPairsUMBC_Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    #begin------------------------------------------------------------------------- #done for naacl
+    #------------------------------------------------ topic="gay-rights-debates"
+    # ClusterLabelInp=os.path.dirname(os.getcwd()) + "/paraphrase/para_data/gay-rights-debates/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    # ClusterLabelPairs=os.path.dirname(os.getcwd()) + "/paraphrase/para_data/gay-rights-debates/cluster/LabelUpdated/TFIdf/Pairs_Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    # Error_UMBC=os.path.dirname(os.getcwd()) + "/paraphrase/para_data/gay-rights-debates/cluster/LabelUpdated/TFIdf/ErrorPairsUMBC_Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    #----------------------------------- Label="label_cluster" # field for pairs
+    #---------------------------------------- fields=["string","key","doccount"]
+    #----- Execution(ClusterLabelInp,ClusterLabelPairs, Error_UMBC,Label,fields)
+#------------------------------------------------------------------------------ 
+#end------------------------------------------------------------------------------ 
+    
+    topic="gun-control"
+    inputdir="/Users/amita/git/FacetIdentification/src"
+    ClusterLabelInp=inputdir + "/Paraphrase_Pkg_data/" + topic+"/cluster/Phase1/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    ClusterLabelPairs=inputdir + "/Paraphrase_Pkg_data/" + topic+"/cluster/Phase1/TFIdf/Pairs_Cos_Cluster_70_AVG_Noun_Verb_Ad"
+    Error_UMBC=inputdir+ "/Paraphrase_Pkg_data/" + topic +"/cluster/Phase1/TFIdf/ErrorPairsUMBC_Cos_Cluster_70_AVG_Noun_Verb_Ad"
     Label="label_cluster" # field for pairs
     fields=["string","key","doccount"]
     Execution(ClusterLabelInp,ClusterLabelPairs, Error_UMBC,Label,fields)
+    
+    
+    
+    
+    
