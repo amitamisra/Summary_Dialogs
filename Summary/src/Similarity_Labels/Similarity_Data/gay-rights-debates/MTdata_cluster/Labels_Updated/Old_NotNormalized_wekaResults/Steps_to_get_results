@@ -1,8 +1,0 @@
-create features gives 2 files
-FeatureFileAllMT_Reg.csv
-Rand_FeatureFileAllMT_Reg.csv.
-
-perform randomization and normalization in weka , gives Norm_Rand_FeatureFileAllMT_RegArff.arff
-split it into 
-Norm_Rand_Test.arff
-Norm_Rand_Train.arff
