@@ -1,7 +1,0 @@
-root(ROOT-0, left-4)
-nsubjpass(left-4, it-1)
-aux(left-4, should-2)
-auxpass(left-4, be-3)
-prep(left-4, to-5)
-amod(institutions-7, religious-6)
-pobj(to-5, institutions-7)

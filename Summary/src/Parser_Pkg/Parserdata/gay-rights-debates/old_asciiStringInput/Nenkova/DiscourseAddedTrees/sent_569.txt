@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ contradicts) (, ,) (S (VP (VBG stating) (SBAR (IN that) (S (NP (DT the) (NN study)) (VP (VBD was) (VP (VBN done) (ADVP (RB professionally)) (, ,) (S (VP (VBG stating) (SBAR (IN that) (S (NP (DT no) (NN one)) (VP (VBZ is) (VP (VBG vilifying) (NP (NN anyone))))))))))))))) (. .)))

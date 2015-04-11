@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (NNS gays)) (VP (VBP do) (SBAR (RB not) (S (ADVP (RB now)) (VP (VBP have) (NP (DT the) (NN right) (S (VP (TO to) (VP (VB marry) (SBAR (WHNP (WP who)) (S (NP (PRP they)) (VP (VP (VBP love)) (CC but) (ADVP (RB eventually)) (VP (MD will)))))))))))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (PP (IN In) (NP (DT a) (NN sense))) (, ,) (NP (PRP they)) (VP (VBP believe) (SBAR (S (NP (JJ gay) (NN marriage)) (VP (MD will) (VP (VB have) (NP (NP (DT a) (NN sort)) (PP (IN of) (NP (NP (NN domino) (NN effect)) (PP (IN for#0#0) (NP (JJ other) (NNS issues))))))))))) (. .)))

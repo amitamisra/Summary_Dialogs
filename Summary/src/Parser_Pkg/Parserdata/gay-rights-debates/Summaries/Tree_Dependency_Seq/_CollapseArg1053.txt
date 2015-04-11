@@ -1,8 +1,0 @@
-root(ROOT-0, right-5)
-cop(anti-gay-2, being-1)
-csubj(right-5, anti-gay-2)
-cop(right-5, is-3)
-det(right-5, a-4)
-det(Amendment-9, the-7)
-nn(Amendment-9, First-8)
-prep_of(right-5, Amendment-9)

@@ -1,6 +1,0 @@
-root(ROOT-0, rules-3)
-det(rules-3, the-1)
-nn(rules-3, majority-2)
-det(States-7, the-5)
-nn(States-7, United-6)
-prep_in(rules-3, States-7)

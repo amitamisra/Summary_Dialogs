@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ questions) (SBAR (SBAR (WHNP (WP what)) (S (NP (NP (NP (NN S1) (POS 's)) (NN problem)) (PP (IN with) (NP (JJ gay) (NN marriage)))) (VP (VBZ is)))) (CC and) (SBAR (WHADVP (WRB why)) (S (NP (PRP he)) (VP (VBZ opposes) (NP (PRP it))))))) (. .)))

@@ -1,5 +1,0 @@
-root(ROOT-0, is-3)
-amod(marriage-2, gay-1)
-nsubj(is-3, marriage-2)
-prep_in(is-3, place-5)
-prep_in(place-5, Massachusetts-7)

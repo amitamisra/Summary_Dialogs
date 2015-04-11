@@ -1,4 +1,0 @@
-root(ROOT-0, wants-2)
-nsubj(wants-2, majority-1)
-det(law-4, a-3)
-dobj(wants-2, law-4)

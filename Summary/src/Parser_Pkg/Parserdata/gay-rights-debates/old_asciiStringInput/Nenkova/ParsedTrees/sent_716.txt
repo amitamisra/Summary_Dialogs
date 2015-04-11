@@ -1,1 +1,0 @@
-(ROOT (S (SBAR (IN If) (S (NP (JJ equal) (NN marriage)) (VP (VBZ is) (VP (VBN incorporated) (PP (IN into) (NP (DT the) (NN law))) (ADVP (RB then)))))) (NP (NN nobody)) (VP (VBZ gets) (ADJP (NN hurt))) (. .)))

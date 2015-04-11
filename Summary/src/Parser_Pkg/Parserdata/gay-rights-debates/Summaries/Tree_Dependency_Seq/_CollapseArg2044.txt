@@ -1,8 +1,0 @@
-root(ROOT-0, compare-3)
-nsubj(compare-3, They-1)
-dep(compare-3, both-2)
-acomp(compare-3, marriage-4)
-prep_to(marriage-4, marriage-6)
-prep_to(compare-3, woods-8)
-prep_to(compare-3, trees-10)
-conj_and(woods-8, trees-10)

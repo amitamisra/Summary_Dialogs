@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NNS homosexuals)) (VP (VBP are) (RB not) (VP (VBG being) (VP (VBN denied) (NP (DT any) (NNS rights)) (, ,) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP have) (NP (PDT all) (DT the) (JJ same) (NNS rights)) (PP (IN as) (NP (NNS heterosexuals)))))))))))) (. .)))

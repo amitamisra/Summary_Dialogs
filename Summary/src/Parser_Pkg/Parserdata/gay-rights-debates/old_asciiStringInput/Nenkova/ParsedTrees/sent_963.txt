@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT An) (NN example)) (VP (VBZ is) (NP (NP (NP (NNP Paul) (NNP Cameron) (POS 's)) (NNS statements)) (PP (IN that) (NP (NP (NN call)) (PP (IN for) (NP (NP (DT the) (NN extermination)) (PP (IN of) (NP (NNS gays))))))))) (. .)))

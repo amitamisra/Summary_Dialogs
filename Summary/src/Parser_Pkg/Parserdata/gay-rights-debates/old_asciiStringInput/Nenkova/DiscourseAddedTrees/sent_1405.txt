@@ -1,1 +1,0 @@
-(ROOT (NP (NP (NN S2) (NNS compliments)) (NP (NP (NN S1)) (PP (IN for#0#0) (NP (JJ clever) (NN banter)))) (. .)))

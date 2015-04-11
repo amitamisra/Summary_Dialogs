@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP are) (VP (VBG searching) (PP (IN for) (NP (NP (DT the) (JJ civil) (NNS benefits)) (SBAR (WHNP (WDT that)) (S (VP (VP (VBP come) (PP (IN with) (NP (DT a) (NN marriage)))) (CC and) (VP (MD would) (VP (VB like) (S (VP (TO to) (VP (VB be) (VP (VBN treated) (ADVP (RB equally)) (PP (IN in) (NP (DT that) (NN respect)))))))))))))))) (. .)))

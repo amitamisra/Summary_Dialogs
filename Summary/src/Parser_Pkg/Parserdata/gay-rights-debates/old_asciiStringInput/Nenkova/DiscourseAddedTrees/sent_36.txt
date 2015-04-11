@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ uses) (S (NP (NP (DT an) (NN example)) (PP (IN of) (NP (NP (JJ same-sex) (NN marriage)) (PP (IN in) (NP (DT a) (NNP Congo) (NN tribe)))))) (VP (TO to) (VP (VB show) (SBAR (IN that) (S (NP (NN marriage)) (VP (VBZ is) (VP (VBN defined) (PP (IN by) (NP (NP (DT the) (NNS needs)) (PP (IN of) (NP (DT the) (JJ social) (NN group))))))))))))) (. .)))

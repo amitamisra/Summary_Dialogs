@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ contends) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ wishes) (S (VP (TO to) (VP (VB discuss) (NP (DT the) (JJ practical) (NNS benefits))))))))) (. .)))

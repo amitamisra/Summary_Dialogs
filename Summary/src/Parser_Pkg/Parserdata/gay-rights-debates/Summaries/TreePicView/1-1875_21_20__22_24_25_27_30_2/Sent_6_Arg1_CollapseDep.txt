@@ -1,7 +1,0 @@
-root(ROOT-0, are-3)
-amod(people-2, gay-1)
-nsubj(are-3, people-2)
-det(process-6, the-5)
-prep_in(are-3, process-6)
-aux(overcome-8, to-7)
-vmod(process-6, overcome-8)

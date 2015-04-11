@@ -1,5 +1,0 @@
-root(ROOT-0, boils-2)
-nsubj(boils-2, it-1)
-prt(boils-2, down-3)
-prep(boils-2, to-4)
-pobj(to-4, marriage-5)

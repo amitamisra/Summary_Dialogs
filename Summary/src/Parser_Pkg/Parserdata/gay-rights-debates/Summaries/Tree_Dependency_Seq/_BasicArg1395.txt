@@ -1,5 +1,0 @@
-root(ROOT-0, involved-2)
-nsubj(involved-2, those-1)
-prep(involved-2, in-3)
-nn(transfusions-5, blood-4)
-pobj(in-3, transfusions-5)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (ADVP (RB also#0#Expansion)) (VBZ says) (PP (IN that) (NP (PRP$ its) (JJ funny))) (SBAR (WHADVP (WRB how)) (S (NP (NN violence)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB end) (NP (NP (DT an) (NN argument)) (PP (IN against) (NP (NN religion)))))))))))) (. .)))

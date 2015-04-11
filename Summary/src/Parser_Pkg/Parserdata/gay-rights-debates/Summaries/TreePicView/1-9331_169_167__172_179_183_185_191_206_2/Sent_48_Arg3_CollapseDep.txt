@@ -1,4 +1,0 @@
-root(ROOT-0, goes-2)
-nsubj(goes-2, S2-1)
-advmod(goes-2, back-3)
-prepc_to(back-3, saying-5)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VP (VBZ asserts) (SBAR (IN that) (S (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (PP (IN against) (NP (JJ gay) (NN marriage))))))) (VP (VBP are) (RB not) (ADJP (JJ anti-gay)) (ADVP (FW per) (FW se)))))) (, ,) (CC but#0#0) (VP (VBP are) (PP (IN against) (S (VP (VBG redefining) (NP (NN marriage))))))) (. .)))

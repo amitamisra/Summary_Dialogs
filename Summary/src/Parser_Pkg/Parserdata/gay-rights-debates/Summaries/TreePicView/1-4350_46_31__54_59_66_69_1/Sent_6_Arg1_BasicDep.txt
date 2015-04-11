@@ -1,7 +1,0 @@
-root(ROOT-0, related-9)
-nsubj(related-9, homosexuality-1)
-conj(homosexuality-1, incest-3)
-cc(homosexuality-1, and-5)
-conj(homosexuality-1, polygamy-6)
-cop(related-9, are-7)
-det(related-9, all-8)

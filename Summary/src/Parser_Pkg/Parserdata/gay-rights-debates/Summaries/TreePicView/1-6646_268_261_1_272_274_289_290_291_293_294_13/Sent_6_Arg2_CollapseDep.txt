@@ -1,4 +1,0 @@
-root(ROOT-0, is-4)
-dep(is-4, 's-1)
-nsubj(is-4, what-2)
-advmod(is-4, it-3)

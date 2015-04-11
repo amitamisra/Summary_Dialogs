@@ -1,4 +1,0 @@
-root(ROOT-0, do-3)
-amod(people-2, married-1)
-nsubj(do-3, people-2)
-advmod(do-3, even-4)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ argues) (SBAR (IN that) (S (NP (EX there)) (VP (VP (VBZ is) (NP (NP (JJ regular) (NN denigration)) (PP (IN of) (NP (NNS gays))))) (CC and) (VP (VBZ mentions) (NP (ADJP (NP (NNS politicians)) (JJ unhelpful)) (NNS views)) (PP (IN on) (NP (JJ gay) (NN marriage)))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (IN that) (S (NP (CD 1909) (NN society)) (VP (VBD had) (PP (TO to) (NP (NP (JJ little) (NN understanding)) (PP (IN of) (NP (NN homosexuality))))) (S (VP (TO to) (VP (VB be) (ADJP (VBN prejudiced))))))))) (. .)))

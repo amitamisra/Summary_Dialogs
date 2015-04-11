@@ -1,5 +1,0 @@
-root(ROOT-0, making-3)
-nsubj(making-3, S2-1)
-aux(making-3, is-2)
-amod(generalizations-5, ridiculous-4)
-dobj(making-3, generalizations-5)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (VBG Redefining)) (ADJP (NN marriage) (S (VP (TO to) (VP (VB include) (S (NP (JJ same-sex) (NNS couples) (NNS upsets)) (NP (NP (DT the) (NNS sensitivities)) (PP (IN of) (NP (DT these) (NNS people))))))))) (. .)))

@@ -1,6 +1,0 @@
-root(ROOT-0, violated-2)
-nsubj(violated-2, it-1)
-poss(constitutions-5, their-3)
-nn(constitutions-5, State-4)
-dobj(violated-2, constitutions-5)
-advmod(violated-2, alone-6)

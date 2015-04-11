@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ compares) (NP (NN abortion)) (PP (TO to) (NP (NP (DT the) (NN extermination)) (PP (IN of) (NP (NP (NNPS Jews)) (PP (IN in) (NP (DT the) (NNP Holocaust)))))))) (. .)))

@@ -1,6 +1,0 @@
-root(ROOT-0, has-4)
-amod(example-3, as-1)
-det(example-3, an-2)
-nsubj(has-4, example-3)
-det(right-6, the-5)
-dobj(has-4, right-6)

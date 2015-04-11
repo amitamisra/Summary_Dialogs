@@ -1,3 +1,0 @@
-root(ROOT-0, absurd-3)
-nsubj(absurd-3, even-1)
-cop(absurd-3, is-2)

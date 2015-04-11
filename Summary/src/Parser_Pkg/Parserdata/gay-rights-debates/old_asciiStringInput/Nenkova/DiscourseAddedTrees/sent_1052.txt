@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (VP (VBD knew) (SBAR (IN that) (S (NP (NN S2)) (VP (VBZ is) (RB not) (PP (IN against) (NP (DT all) (NN diversity))))))) (CC but#0#0) (VP (VBZ seems) (S (VP (TO to) (VP (VB be) (ADJP (RB very) (RB much) (PP (IN against) (NP (NNS gays)))))))))))) (. .)))

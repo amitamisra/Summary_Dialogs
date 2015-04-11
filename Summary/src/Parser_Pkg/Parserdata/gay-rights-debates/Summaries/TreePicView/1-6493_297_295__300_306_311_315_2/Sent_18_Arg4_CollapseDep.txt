@@ -1,6 +1,0 @@
-root(ROOT-0, post-3)
-nsubj(post-3, he-1)
-aux(post-3, could-2)
-det(article-5, an-4)
-dobj(post-3, article-5)
-vmod(article-5, stating-6)

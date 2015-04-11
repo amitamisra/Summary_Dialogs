@@ -1,5 +1,0 @@
-root(ROOT-0, deal-4)
-det(courts-2, the-1)
-nsubj(deal-4, courts-2)
-aux(deal-4, must-3)
-prep_with(deal-4, this-6)

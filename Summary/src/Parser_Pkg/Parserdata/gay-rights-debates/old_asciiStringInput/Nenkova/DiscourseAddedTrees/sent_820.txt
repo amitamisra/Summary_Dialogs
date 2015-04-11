@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ feels) (S (VP (VBG forcing) (SBAR (S (NP (DT this) (NN issue)) (VP (VBZ is) (NP (DT the) (ADJP (JJ equivalent) (PP (TO to) (S (VP (VBG forcing) (NP (DT a) (JJ Jewish) (NN person)) (S (VP (TO to) (VP (VB eat) (NP (NN pork))))))))) (NNS sandwiches)))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ has) (S (NP (DT a) (JJ right)) (VP (VB be) (PP (IN against) (NP (JJ gay) (NN marriage))))))))) (. .)))

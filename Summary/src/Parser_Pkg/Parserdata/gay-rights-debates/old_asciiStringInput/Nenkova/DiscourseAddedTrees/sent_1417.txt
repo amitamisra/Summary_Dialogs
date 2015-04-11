@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VP (VBZ talks) (PP (IN about) (NP (NP (DT the) (NN desire)) (PP (IN of) (NP (DT the) (NNS voters)))))) (CC and#0#0) (VP (ADVP (RB so#1#0)) (VBZ brings) (PRT (RP up)) (NP (NP (DT the) (NN decision)) (VP (VBN made) (PP (IN in) (NP (NNP California))))))) (. .)))

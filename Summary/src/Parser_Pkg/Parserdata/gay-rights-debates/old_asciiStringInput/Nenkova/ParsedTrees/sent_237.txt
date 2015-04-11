@@ -1,1 +1,0 @@
-(ROOT (FRAG (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (JJ same) (NN sex) (NN marriage)) (VP (VBZ does)))) (, ,) (PP (IN in) (NP (NP (NN fact) (NN benefit)) (NP (PRP$ our) (NNP U.S.))))))))

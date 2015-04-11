@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ claims) (SBAR (IN that) (S (NP (PRP he)) (VP (VBD was) (ADJP (JJ unable) (S (VP (TO to) (VP (VB find) (S (NP (DT any) (NN evidence) (NNS ofomionists) (NNS practices)) (ADJP (JJ online) (PP (IN except#0#0) (PP (IN from) (NP (JJ left) (NN wing) (NNS groups)))))))))))))) (. .)))

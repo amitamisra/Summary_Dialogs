@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (NNS rumors) (CC and) (NN misinformation)))))) (. .)))

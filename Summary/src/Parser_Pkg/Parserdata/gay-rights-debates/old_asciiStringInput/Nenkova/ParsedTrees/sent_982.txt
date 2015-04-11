@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ mentions) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NP (JJ other) (JJ alternative) (NNS forms)) (PP (IN of) (NP (NP (NN marriage)) (PP (JJ such) (IN as) (NP (NN polygamy) (CC and) (NN polyandry))))))))) (. .)))

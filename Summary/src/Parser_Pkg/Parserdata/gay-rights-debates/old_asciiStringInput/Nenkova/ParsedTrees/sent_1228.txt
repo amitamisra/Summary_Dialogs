@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ responds) (PP (IN by) (S (VP (VBG commenting) (SBAR (S (NP (JJ thatemocratic) (NNP Vice) (NNP President) (NNP Joe) (NNP Biden)) (VP (VBD stated) (SBAR (S (NP (PRP he)) (VP (VBD was) (PP (IN against) (NP (JJ gay) (NN marriage))))))))))))) (. .)))

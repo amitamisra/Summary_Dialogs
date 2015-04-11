@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VP (VBZ suggests) (SBAR (IN that) (S (NP (NP (NN deviation)) (PP (IN from) (NP (DT the) (NN norm)))) (VP (VBZ is) (ADVP (RB simply)) (NP (NP (DT a) (NN form)) (PP (IN of) (NP (NN diversity)))))))) (CC and#0#0) (VP (VBZ is) (RB not) (ADJP (RB necessarily) (JJ perverse)))) (. .)))

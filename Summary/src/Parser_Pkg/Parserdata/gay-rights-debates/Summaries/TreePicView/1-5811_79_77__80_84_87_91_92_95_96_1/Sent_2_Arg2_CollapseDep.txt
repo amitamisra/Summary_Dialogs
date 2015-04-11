@@ -1,4 +1,0 @@
-root(ROOT-0, abandon-2)
-nsubj(abandon-2, they-1)
-amod(system-5, moral-4)
-prep_that(abandon-2, system-5)

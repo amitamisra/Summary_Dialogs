@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (IN that) (S (NP (NN love)) (VP (VBZ is) (RB not) (NP (UCP (ADJP (RB exceptionally) (PP (IN for#2#0) (NP (JJ gay) (NNS people)))) (CC but#1#0) (ADVP (RB also#0#0))) (NNS others)))))) (. .)))

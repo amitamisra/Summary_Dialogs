@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ views) (NP (DT the) (NN marriage) (NN arrangement)) (PP (IN as) (NP (NP (NN society)) (VP (VBG recognizing) (NP (DT a) (NN family) (NN unit)) (PP (VBN based) (PP (IN on) (NP (DT a) (JJ natural) (JJ heterosexual) (NN contract)))))))) (. .)))

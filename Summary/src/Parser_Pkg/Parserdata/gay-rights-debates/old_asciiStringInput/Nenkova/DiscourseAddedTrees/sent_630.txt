@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ advises) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT no) (NN issue)) (PP (IN with) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP do) (RB not) (VP (VB try) (S (VP (TO to) (VP (VB push) (NP (PRP$ their) (NNS views)) (PP (IN on) (NP (NNS others))))))))))))))))) (. .)))

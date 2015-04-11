@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VP (VBZ does) (RB not) (VP (VB agree) (PP (IN with) (NP (DT this) (NN information))))) (CC and) (VP (VBZ believes) (SBAR (S (NP (NN ifOMA)) (VP (VBZ is) (VP (VBN removed) (SBAR (S (NP (JJ gay) (NN marriage)) (VP (MD will) (VP (VB be) (VP (VBN passed) (S (NP (NN nation)) (ADJP (JJ wide)))))))))))))) (. .)))

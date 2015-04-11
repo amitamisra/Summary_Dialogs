@@ -1,5 +1,0 @@
-root(ROOT-0, are-2)
-nsubj(are-2, you-1)
-prep(are-2, against-3)
-amod(marriage-5, interracial-4)
-pobj(against-3, marriage-5)

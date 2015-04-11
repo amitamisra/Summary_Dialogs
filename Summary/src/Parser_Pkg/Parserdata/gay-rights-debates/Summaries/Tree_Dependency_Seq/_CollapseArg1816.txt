@@ -1,2 +1,0 @@
-root(ROOT-0, mean-1)
-dobj(mean-1, nothing-2)

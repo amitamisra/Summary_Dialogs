@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NNS gays)) (VP (VP (VBP are) (NP (NP (DT the) (JJ first) (NNS victims)) (PP (IN of) (NP (DT the) (NNP AIS))) (ADJP (JJ epidemic)))) (CC and#0#0) (VP (VBZ acknowledges) (SBAR (IN that) (S (NP (NNS gays)) (VP (VBP are) (NP (DT the) (JJ first) (NNS people) (S (VP (TO to) (VP (VB spread) (NP (PRP it)))))))))))))) (. .)))

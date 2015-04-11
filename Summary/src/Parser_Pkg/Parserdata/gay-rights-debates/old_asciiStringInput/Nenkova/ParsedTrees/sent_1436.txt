@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (NN S1)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB get) (S (NP (NNS people)) (VP (TO to) (VP (VB talk) (PP (TO to) (NP (PRP him))) (PP (IN about) (NP (NN abortion)))))))))))))) (. .)))

@@ -1,8 +1,0 @@
-root(ROOT-0, are-5)
-det(majority-2, the-1)
-nsubj(are-5, majority-2)
-prep(majority-2, of-3)
-pobj(of-3, Americans-4)
-prep(are-5, against-6)
-amod(marriage-8, gay-7)
-pobj(against-6, marriage-8)

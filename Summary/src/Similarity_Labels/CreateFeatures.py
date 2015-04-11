@@ -467,7 +467,7 @@ class Features:
        
     
     def SynsetDistanceFeatures(self,row,NewRow):
-        SubObjPairs_VerbPairs=Featuresobj.StanforDep_synsetPairs(row,NewRow)
+        SubObjPairs_VerbPairs=self.StanforDep_synsetPairs(row,NewRow)
        # DistaneFeatureList=["path","lch","wup","res","jcs","lin"]
         DistaneFeatureList=["path"]
         SubPair=SubObjPairs_VerbPairs[0]

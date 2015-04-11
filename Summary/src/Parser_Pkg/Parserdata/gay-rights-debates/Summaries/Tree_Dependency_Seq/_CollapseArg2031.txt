@@ -1,7 +1,0 @@
-root(ROOT-0, one-3)
-nsubj(one-3, marriage-1)
-cop(one-3, is-2)
-det(foundations-6, the-5)
-prep_of(one-3, foundations-6)
-amod(stability-9, social-8)
-prep_of(foundations-6, stability-9)

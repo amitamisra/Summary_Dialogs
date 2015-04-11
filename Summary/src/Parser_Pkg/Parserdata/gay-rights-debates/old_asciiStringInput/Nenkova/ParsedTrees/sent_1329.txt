@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT Both) (NN S1) (CC and) (NN S2)) (VP (VBP have) (NP (JJ previous) (NN experience)) (PP (IN with) (NP (NP (JJ married) (NN life)) (CC and) (NP (JJ single) (NN life))))) (. .)))

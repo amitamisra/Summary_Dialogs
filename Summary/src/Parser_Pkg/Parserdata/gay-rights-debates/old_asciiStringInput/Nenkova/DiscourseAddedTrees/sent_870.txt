@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (NP (DT this)) (SBAR (IN because#0#Contingency) (S (NP (PRP he)) (VP (VBZ is) (ADJP (JJ unable) (S (VP (TO to) (VP (VB locate) (S (NP (NP (DT a) (JJ viable) (NN website)) (CC or#1#0) (NP (DT any) (JJ other) (NN information))) (VP (VBG supporting) (S (NP (DT the) (NN group) (POS 's)) (VP (VBG being) (ADJP (JJ real)))))))))))))) (. .)))

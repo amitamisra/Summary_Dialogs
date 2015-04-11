@@ -1,4 +1,0 @@
-root(ROOT-0, poses-1)
-det(question-3, the-2)
-dobj(poses-1, question-3)
-prep_of(question-3, hour-5)

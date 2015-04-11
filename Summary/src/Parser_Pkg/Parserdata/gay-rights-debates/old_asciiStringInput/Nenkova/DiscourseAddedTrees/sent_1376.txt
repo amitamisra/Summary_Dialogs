@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (ADVP (RB also#0#Expansion)) (VP (VBZ feels) (SBAR (S (NP (NP (DT the) (NN majority)) (PP (IN of) (NP (NNPS Justices)))) (VP (MD will) (VP (VB vote) (S (NP (JJ pro) (JJ gay) (NN marriage) (NN shouldOMA)) (VP (VB be) (VP (VBN removed) (PP (IN from) (NP (DT the) (NN equation))))))))))) (. .)))

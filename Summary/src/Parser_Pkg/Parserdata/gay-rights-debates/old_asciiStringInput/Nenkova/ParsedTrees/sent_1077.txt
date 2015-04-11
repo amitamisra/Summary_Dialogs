@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP believe) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ hurts) (NP (NP (NNS people)) (SBAR (WHNP (WP who)) (S (VP (VBP view) (NP (NN marriage)) (PP (IN as) (NP (NP (DT a) (JJ sacred) (NN bond)) (PP (IN between) (NP (NP (DT a) (NN man)) (CC and) (NP (DT a) (NN woman)))))))))))))) (. .)))

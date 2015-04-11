@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ concedes) (SBAR (IN that) (S (NP (NN S1)) (VP (VP (VBZ is) (RB not) (VP (VBN labeled) (PP (IN as) (NP (DT a) (NN bigot))))) (CC but) (VP (VBZ supports) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (PP (IN in) (NP (DT a) (NN sense) (NNS bigots) (CC or) (NNS supporters)))))))))))) (. .)))

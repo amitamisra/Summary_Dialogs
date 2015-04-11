@@ -1,7 +1,0 @@
-root(ROOT-0, took-4)
-det(amendment-3, the-1)
-amod(amendment-3, 13th-2)
-nsubj(took-4, amendment-3)
-nsubj(says-7, amendment-3)
-dobj(took-4, place-5)
-conj_and(took-4, says-7)

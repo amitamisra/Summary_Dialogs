@@ -1,6 +1,0 @@
-root(ROOT-0, bothered-4)
-nsubjpass(bothered-4, they-1)
-aux(bothered-4, would-2)
-auxpass(bothered-4, be-3)
-prep(bothered-4, by-5)
-pobj(by-5, it-6)

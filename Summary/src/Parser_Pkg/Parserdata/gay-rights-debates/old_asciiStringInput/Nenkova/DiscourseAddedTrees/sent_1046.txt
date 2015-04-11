@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ contends) (SBAR (S (NP (NN S2)) (VP (VBZ is) (ADJP (JJ wrong) (PP (IN in) (NP (NN his/her) (NNS beliefs)))))))) (. .)))

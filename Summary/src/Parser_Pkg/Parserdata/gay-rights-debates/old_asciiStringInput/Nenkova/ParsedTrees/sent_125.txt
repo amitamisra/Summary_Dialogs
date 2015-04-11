@@ -1,1 +1,0 @@
-(ROOT (S (NP (CD Two) (NNS people)) (VP (VBP are) (VP (VBG discussing) (NP (NP (DT the) (NN increase)) (PP (IN in) (NP (NP (NN frequency)) (PP (IN of) (NP (NNS earthquakes)))))))) (. .)))

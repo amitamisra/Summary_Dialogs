@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NN S1)) (VP (VBD did) (S (ADJP (RB not) (JJ present))) (NP (PRP$ his) (NNS statistics)) (PP (IN as#0#0) (NP (NP (DT a) (NN discussion)) (PP (IN about) (NP (NP (DT the) (NN progression)) (PP (IN of) (NP (NNP AIS))))))) (PP (IN in) (NP (DT the) (NNP US))))))) (. .)))

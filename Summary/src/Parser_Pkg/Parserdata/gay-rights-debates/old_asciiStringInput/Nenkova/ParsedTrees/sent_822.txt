@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ acknowledges) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ considers) (NP (JJ such) (JJ religious) (NNS objections)) (S (VP (TO to) (VP (VB be) (ADJP (JJ evil))))))))) (. .)))

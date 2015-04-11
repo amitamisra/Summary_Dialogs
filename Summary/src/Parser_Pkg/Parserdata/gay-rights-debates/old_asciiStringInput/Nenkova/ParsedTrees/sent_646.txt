@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He) (CC or) (PRP she)) (, ,) (ADVP (RB however)) (, ,) (NP (NP (NNS states)) (PP (IN that) (NP (PRP they)))) (VP (VBP have) (NP (DT no) (NN desire) (S (VP (TO to) (VP (VB impose) (NP (JJ such) (NNS beliefs)) (PP (IN on) (NP (NN anyone) (RB else)))))))) (. .)))

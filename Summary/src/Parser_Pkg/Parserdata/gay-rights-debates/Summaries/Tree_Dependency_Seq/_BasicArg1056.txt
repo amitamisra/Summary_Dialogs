@@ -1,5 +1,0 @@
-root(ROOT-0, thing-5)
-nsubj(thing-5, it-1)
-cop(thing-5, 's-2)
-det(thing-5, a-3)
-amod(thing-5, good-4)

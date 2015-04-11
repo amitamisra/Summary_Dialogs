@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ believes) (SBAR (IN that) (S (SBAR (IN if#2#Contingency) (S (NP (CD two) (NNS people)) (VP (VP (VBP cohabitate) (PP (IN for#1#0) (ADVP (RB awhile)))) (CC or#3#0) (VP (VB have) (NP (NNS children)))))) (NP (PRP they)) (VP (MD should) (VP (VB get) (NP (NN healthcare)) (PP (IN because#0#0) (PP (IN of) (NP (JJ Common) (NN law))))))))) (. .)))

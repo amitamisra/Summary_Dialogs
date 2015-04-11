@@ -1,6 +1,0 @@
-root(ROOT-0, are-3)
-amod(Americans-2, African-1)
-nsubj(are-3, Americans-2)
-prep(are-3, for-4)
-amod(marriage-6, gay-5)
-pobj(for-4, marriage-6)

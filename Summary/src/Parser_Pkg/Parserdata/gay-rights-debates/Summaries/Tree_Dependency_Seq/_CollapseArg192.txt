@@ -1,2 +1,0 @@
-root(ROOT-0, of-1)
-pobj(of-1, course-2)

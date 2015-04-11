@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNS Gay) (NN marriage)) (VP (MD can) (VP (VB bring) (PRT (RP in)) (NP (JJ new) (NNS taxes)))) (. .)))

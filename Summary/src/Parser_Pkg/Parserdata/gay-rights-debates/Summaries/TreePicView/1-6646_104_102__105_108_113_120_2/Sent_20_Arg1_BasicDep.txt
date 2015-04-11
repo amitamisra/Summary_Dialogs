@@ -1,6 +1,0 @@
-root(ROOT-0, brought-2)
-nsubj(brought-2, S2-1)
-prt(brought-2, out-3)
-dobj(brought-2, AIs-4)
-prep(AIs-4, in-5)
-pobj(in-5, Africa-6)

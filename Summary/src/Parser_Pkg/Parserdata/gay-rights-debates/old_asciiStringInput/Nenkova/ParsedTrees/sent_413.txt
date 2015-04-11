@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ keeps) (S (VP (VBG arguing) (SBAR (WHADVP (WRB why)) (S (VP (VBZ is) (NP (NP (JJ anestrous) (NN taboo)) (CC and) (RB not) (NP (JJ gay) (NN marriage))))))))) (. ?)))

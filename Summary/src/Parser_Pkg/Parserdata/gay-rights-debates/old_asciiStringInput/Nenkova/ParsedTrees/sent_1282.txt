@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ starts) (PRT (RP off)) (S (VP (VBG saying) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (NP (DT a) (NN difference)) (PP (IN between) (S (VP (VBG being) (ADJP (JJ anti-gay)))))) (CC and) (NP (NP (NN someone) (VBG condoning) (NN violence)) (PP (IN against) (NP (JJ gay) (NNS people))))))))))) (. .)))

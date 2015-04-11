@@ -1,8 +1,0 @@
-root(ROOT-0, vilifies-3)
-det(study-2, the-1)
-nsubj(vilifies-3, study-2)
-det(group-5, a-4)
-dobj(vilifies-3, group-5)
-prep_of(group-5, people-7)
-advmod(people-7, namely-9)
-dep(people-7, Christians-10)

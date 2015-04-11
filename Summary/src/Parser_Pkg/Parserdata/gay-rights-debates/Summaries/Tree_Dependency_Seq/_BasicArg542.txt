@@ -1,7 +1,0 @@
-root(ROOT-0, irrelevant-7)
-det(age-2, the-1)
-nsubj(irrelevant-7, age-2)
-prep(age-2, of-3)
-det(spouses-5, the-4)
-pobj(of-3, spouses-5)
-cop(irrelevant-7, is-6)

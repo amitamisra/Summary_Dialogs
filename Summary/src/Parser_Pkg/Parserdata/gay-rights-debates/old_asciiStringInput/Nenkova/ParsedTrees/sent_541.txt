@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (NNP Paul) (NNPS Camerons)) (NP (NN research))) (VP (VBZ is) (VP (VBN cited) (PP (IN in) (NP (NP (RB almost) (DT every) (JJ single) (NN attack)) (PP (IN on) (NP (NP (JJ gay) (NNS people)) (PP (IN in) (NP (NN state))))))) (PP (IN after) (NP (NN state) (NN legislature)))))))) (. .)))

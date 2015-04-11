@@ -1,7 +1,0 @@
-root(ROOT-0, lying-4)
-nsubj(lying-4, Biden-1)
-aux(lying-4, is-2)
-neg(lying-4, not-3)
-dobj(believes-8, what-6)
-nsubj(believes-8, he-7)
-prepc_about(lying-4, believes-8)

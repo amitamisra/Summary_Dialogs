@@ -1,7 +1,0 @@
-(Background[N][S]
-  _!They argue about politicians!_
-  (Joint[N][N]
-    (Attribution[S][N]
-      _!lying through discussing!_
-      _!when politicians are asked questions!_)
-    _!and how they answer them . <s>!_))

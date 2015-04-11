@@ -1,4 +1,0 @@
-root(ROOT-0, unjust-4)
-det(law-2, the-1)
-nsubj(unjust-4, law-2)
-cop(unjust-4, is-3)

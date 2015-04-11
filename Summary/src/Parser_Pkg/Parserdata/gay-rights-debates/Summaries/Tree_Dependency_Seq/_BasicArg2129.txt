@@ -1,7 +1,0 @@
-root(ROOT-0, liberty-4)
-nsubj(liberty-4, it-1)
-cop(liberty-4, is-2)
-det(liberty-4, a-3)
-prep(liberty-4, by-5)
-amod(process-7, due-6)
-pobj(by-5, process-7)

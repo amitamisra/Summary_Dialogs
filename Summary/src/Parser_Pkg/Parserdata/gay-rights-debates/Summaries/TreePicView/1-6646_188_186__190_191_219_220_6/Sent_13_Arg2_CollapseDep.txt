@@ -1,7 +1,0 @@
-root(ROOT-0, seen-4)
-det(individuals-2, these-1)
-nsubjpass(seen-4, individuals-2)
-auxpass(seen-4, were-3)
-prep_as(seen-4, healers-6)
-prep_as(seen-4, prophets-8)
-conj_and(healers-6, prophets-8)

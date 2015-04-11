@@ -1,8 +1,0 @@
-root(ROOT-0, giving-4)
-nsubj(giving-4, S2-1)
-aux(giving-4, is-2)
-advmod(giving-4, simply-3)
-dobj(giving-4, opinions-5)
-neg(facts-8, not-7)
-dobj(giving-4, facts-8)
-conj_and(opinions-5, facts-8)

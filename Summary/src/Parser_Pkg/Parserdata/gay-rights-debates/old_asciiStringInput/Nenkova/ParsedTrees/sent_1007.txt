@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB then)) (VP (VBZ states) (SBAR (IN that) (S (NP (DT the) (NN word) (NN bigotry)) (VP (VBZ is) (NP (NP (DT an) (JJ ugly) (NN word)) (, ,) (CC and) (NP (NP (PRP$ its) (ADJP (JJ ignorant) (S (VP (TO to) (VP (ADVP (RB automatically)) (VB write) (PRT (RP off)))))) (NNS disagreements)) (PP (IN as) (`` ``) (NP (NN bigotry)) ('' '')))))))) (. .)))

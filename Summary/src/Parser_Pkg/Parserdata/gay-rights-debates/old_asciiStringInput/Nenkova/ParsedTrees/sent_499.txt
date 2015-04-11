@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ uses) (NP (NP (DT the) (NN example)) (PP (IN of) (S (NP (NNP Massachusetts) (POS ')) (VP (VBG allowing) (NP (JJ gay) (NN marriage)) (PP (IN under) (NP (NP (PRP$ its) (NN state) (JJ constitutional) (NN law)) (VP (VBG prohibiting) (NP (NN discrimination)) (PP (VBN based) (PP (IN on) (NP (JJ sexual) (NN orientation)))))))))))) (. .)))

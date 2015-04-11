@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ poses) (NP (DT the) (NN question)) (SBAR (IN if#2#Contingency) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ okay) (PP (IN for#1#0) (NP (CD two) (NNS people)))) (S (VP (TO to) (VP (VB tie) (NP (DT the) (NN knot)) (ADVP (RB then#2#Contingency))))) (SBAR (WHADVP (WRB how)) (S (VP (MD could) (ADVP (NN incest)) (VP (VB be) (ADJP (JJ taboo)))))))))) (. .)))

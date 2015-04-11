@@ -1,9 +1,0 @@
-(Joint[N][N]
-  (same-unit[N][N]
-    _!( S1 )!_
-    (Attribution[S][N]
-      _!argues!_
-      (Explanation[N][S]
-        _!that the government should get out of the marriage business!_
-        _!because it is not needed!_)))
-  _!and the benefits of marriage are terribly unfair for single people . <s>!_)

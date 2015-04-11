@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NN S2) (NNS states)) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ allows) (S (NP (NNS people)) (VP (TO to) (VP (VB do) (S (NP (WDT whatever)) (NP (PRP they)))))))))) (VP (VBP want) (CC and#0#0) (VBP use) (NP (PRP$ their) (JJ religious) (NNS beliefs)) (PP (IN as#1#0) (NP (DT an) (NN excuse)))) (. .)))

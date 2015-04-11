@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-)) (ADVP (RB also))) (VP (VBZ indicates) (SBAR (S (NP (VBG playing) (NNS devils)) (VP (VBP advocate) (S (VP (TO to) (VP (ADVP (RB also)) (VB talk) (PP (IN about) (NP (JJ gay) (NNS rights))) (PP (IN in) (NP (NN relation))) (PP (TO to) (NP (NN abortion)))))))))) (. .)))

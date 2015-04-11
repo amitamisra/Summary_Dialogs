@@ -1,6 +1,0 @@
-root(ROOT-0, represents-3)
-poss(family-2, his-1)
-nsubj(represents-3, family-2)
-nsubj(normal-6, what-4)
-cop(normal-6, is-5)
-ccomp(represents-3, normal-6)

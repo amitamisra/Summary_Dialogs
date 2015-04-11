@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ states) (SBAR (IN that) (S (NP (NP (DT a) (JJ federal) (NN marriage) (NN amendment)) (PP (TO to) (NP (DT the) (NN constitution)))) (VP (VBZ is) (NP (DT a) (JJ long) (NN shot)))))) (. .)))

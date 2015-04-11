@@ -1,7 +1,0 @@
-root(ROOT-0, is-3)
-det(lady-2, this-1)
-nsubj(is-3, lady-2)
-neg(is-3, not-4)
-prep_in(is-3, favor-6)
-amod(marriage-9, gay-8)
-prep_of(favor-6, marriage-9)

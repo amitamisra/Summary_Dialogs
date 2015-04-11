@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP give) (NP (NP (NNS examples)) (PP (IN of) (NP (PRP$ their) (JJ own) (ADJP (JJ married) (CC and#0#0) (JJ single)) (NN life))))) (. .)))

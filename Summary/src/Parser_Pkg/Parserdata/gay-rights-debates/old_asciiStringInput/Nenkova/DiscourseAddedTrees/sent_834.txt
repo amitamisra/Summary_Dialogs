@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ contends) (SBAR (SBAR (IN that) (S (NP (ADJP (JJ cultural) (CC and#0#0) (JJ legal)) (NN precedent)) (VP (VBZ is) (ADJP (RB very) (JJ real))))) (, ,) (CC and#1#Expansion) (SBAR (IN that) (S (NP (NN intent)) (VP (VBZ is) (ADJP (JJ irrelevant))))))) (. .)))

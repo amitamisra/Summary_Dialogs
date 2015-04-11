@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NN S2) (NNS states)) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ supports))))) (VP (JJ equal) (NP (NP (NP (NN opportunity)) (PP (IN for) (NP (NP (NNS people)) (ADVP (RB regardless) (PP (IN of) (NP (JJ sexual) (NN behavior))))))) (, ,) (CONJP (CC but) (RB not)) (NP (NP (DT the) (NN redefinition)) (PP (IN of) (NP (NN marriage)))))) (. .)))

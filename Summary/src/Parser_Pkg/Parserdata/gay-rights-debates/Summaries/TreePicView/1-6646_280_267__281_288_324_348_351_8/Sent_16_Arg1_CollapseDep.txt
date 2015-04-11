@@ -1,5 +1,0 @@
-root(ROOT-0, wrong-3)
-nsubj(wrong-3, S2-1)
-cop(wrong-3, is-2)
-nn(beliefs-6, his/her-5)
-prep_in(wrong-3, beliefs-6)

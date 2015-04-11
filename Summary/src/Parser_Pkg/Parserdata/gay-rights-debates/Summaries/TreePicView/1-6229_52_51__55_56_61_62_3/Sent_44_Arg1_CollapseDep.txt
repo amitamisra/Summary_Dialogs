@@ -1,4 +1,0 @@
-root(ROOT-0, enslave-2)
-aux(enslave-2, to-1)
-amod(citizens-4, fellow-3)
-dobj(enslave-2, citizens-4)

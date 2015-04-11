@@ -1,7 +1,0 @@
-root(ROOT-0, have-3)
-nsubj(have-3, government-1)
-aux(have-3, should-2)
-det(say-5, a-4)
-dobj(have-3, say-5)
-prep(say-5, in-6)
-pobj(in-6, marriage-7)

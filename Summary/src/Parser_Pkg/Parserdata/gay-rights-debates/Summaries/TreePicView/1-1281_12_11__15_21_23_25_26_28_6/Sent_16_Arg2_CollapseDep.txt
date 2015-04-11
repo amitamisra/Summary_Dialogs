@@ -1,7 +1,0 @@
-root(ROOT-0, is-2)
-nsubj(is-2, marriage-1)
-neg(is-2, not-3)
-advmod(is-2, simply-4)
-prepc_about(is-2, having-6)
-det(family-8, a-7)
-dobj(having-6, family-8)

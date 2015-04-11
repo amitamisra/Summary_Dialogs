@@ -1,7 +1,0 @@
-root(ROOT-0, opposed-4)
-nsubjpass(opposed-4, speaker-1)
-num(speaker-1, two-2)
-auxpass(opposed-4, is-3)
-prep(opposed-4, to-5)
-amod(marriage-7, gay-6)
-pobj(to-5, marriage-7)

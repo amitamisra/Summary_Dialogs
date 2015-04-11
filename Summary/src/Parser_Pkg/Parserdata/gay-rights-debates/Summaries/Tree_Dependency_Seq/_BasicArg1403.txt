@@ -1,4 +1,0 @@
-root(ROOT-0, used-2)
-nsubj(used-2, who-1)
-amod(needles-4, dirty-3)
-dobj(used-2, needles-4)

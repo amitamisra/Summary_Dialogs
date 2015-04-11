@@ -1,8 +1,0 @@
-root(ROOT-0, found-4)
-nsubjpass(found-4, which-1)
-auxpass(found-4, is-2)
-neg(found-4, not-3)
-det(constitution-8, the-6)
-amod(constitution-8, federal-7)
-prep_in(found-4, constitution-8)
-advmod(found-4, but-10)

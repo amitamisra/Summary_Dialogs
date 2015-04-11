@@ -1,8 +1,0 @@
-root(ROOT-0, taking-3)
-nsubj(taking-3, S1-1)
-aux(taking-3, is-2)
-det(approach-6, an-4)
-amod(approach-6, aggressive-5)
-dobj(taking-3, approach-6)
-prep(taking-3, by-7)
-pcomp(by-7, saying-8)

@@ -1,7 +1,0 @@
-root(ROOT-0, gender-7)
-det(women-3, the-1)
-nn(women-3, belief-2)
-nsubj(gender-7, women-3)
-cop(gender-7, were-4)
-det(gender-7, a-5)
-amod(gender-7, lesser-6)

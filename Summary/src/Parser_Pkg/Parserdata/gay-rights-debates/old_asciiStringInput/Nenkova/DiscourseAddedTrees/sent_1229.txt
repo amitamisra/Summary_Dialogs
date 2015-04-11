@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP It)) (VP (VBZ seems) (SBAR (IN like) (S (NP (PRP they)) (VP (VBP are) (VP (VBG discussing) (NP (NP (DT the) (NN inconsistency)) (PP (IN of) (NP (NP (DT each) (JJ other) (POS 's)) (NNS arguments))))))))) (. .)))

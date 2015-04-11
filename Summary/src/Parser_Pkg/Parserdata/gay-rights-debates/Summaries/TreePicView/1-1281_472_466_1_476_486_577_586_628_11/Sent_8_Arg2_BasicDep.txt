@@ -1,4 +1,0 @@
-root(ROOT-0, taken-2)
-auxpass(taken-2, was-1)
-prep(taken-2, into-3)
-pobj(into-3, account-4)

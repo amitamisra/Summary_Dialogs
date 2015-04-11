@@ -1,1 +1,0 @@
-(ROOT (S (S (VP (ADVP (RB Just)) (VBG saying) (SBAR (IN that) (S (NP (NNP Frank)) (VP (VBZ is) (ADJP (JJ inconsistent) (PP (IN on) (NP (NN abortion) (NNS issues))))))))) (VP (VBZ is) (RB not) (ADJP (JJ enough) (S (VP (TO to) (VP (VB show) (SBAR (WHNP (WP what)) (S (VP (VBZ is) (ADJP (JJ inconsistent)))))))))) (. .)))

@@ -1,5 +1,0 @@
-root(ROOT-0, fine-3)
-nsubj(fine-3, S1-1)
-cop(fine-3, is-2)
-prep(fine-3, with-4)
-pobj(with-4, gay-5)

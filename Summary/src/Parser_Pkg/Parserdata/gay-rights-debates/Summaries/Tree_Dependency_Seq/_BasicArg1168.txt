@@ -1,5 +1,0 @@
-root(ROOT-0, empty-5)
-poss(argument-3, S1-1)
-possessive(S1-1, 's-2)
-nsubj(empty-5, argument-3)
-cop(empty-5, is-4)

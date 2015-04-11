@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ claims) (S (VP (TO to) (ADVP (RB only)) (VP (VB have) (VP (VBN brought) (PRT (RP up)) (NP (NNP Biden)) (S (VP (TO to) (VP (VB address) (S (NP (NP (DT the) (NN lack)) (PP (IN of) (NP (JJ political) (NN action)))) (ADJP (JJ due) (PP (TO to) (NP (JJ social) (NNS pressures))))))))))))) (. .)))

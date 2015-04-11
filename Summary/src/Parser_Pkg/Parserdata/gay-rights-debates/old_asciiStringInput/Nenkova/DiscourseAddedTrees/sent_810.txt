@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ finds) (S (NP (PRP it)) (ADJP (JJ acceptable))) (, ,) (SBAR (IN while#0#Comparison) (S (NP (NN S2)) (VP (VBZ complains) (PP (IN about) (NP (PRP it))))))) (. .)))

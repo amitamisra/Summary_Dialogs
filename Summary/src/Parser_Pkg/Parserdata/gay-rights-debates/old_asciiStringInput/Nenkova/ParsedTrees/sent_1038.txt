@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG discussing) (NP (NP (JJ gay) (NNS relations)) (CC and) (NP (NP (DT the) (NN possibility)) (PP (IN of) (S (VP (VBG redefining) (NP (NN marriage)) (S (VP (TO to) (VP (VB include) (NP (DT the) (JJ gay) (NN community)))))))))))) (. .)))

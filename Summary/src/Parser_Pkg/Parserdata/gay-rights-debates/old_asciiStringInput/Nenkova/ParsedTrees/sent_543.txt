@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ accuses) (NP (NP (NN S2)) (PP (IN of) (S (VP (VBG making) (NP (NP (DT an) (NN assertion)) (PP (VBG including) (NP (NP (DT the) (NNPS Republicans)) (VP (VBG creating) (NP (DT another) (NNP Holocaust)))))))))) (, ,) (PP (IN because) (IN of) (NP (NP (DT the) (NN generalization)) (SBAR (WHNP (WDT that)) (S (NP (NN S2)) (VP (VBD made))))))) (. .)))

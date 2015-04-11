@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ asserts) (SBAR (IN that) (S (SBAR (RB even) (IN in) (S (NP (DT the) (JJ old) (NN testament) (NN marriage)) (VP (VBD was) (NP (NP (RB not) (RB just)) (PP (IN between) (NP (NP (CD one) (NN man)) (CC and) (NP (CD one) (NN woman)))))))) (: ;) (NP (NN polygamy)) (VP (VBD was) (ADJP (JJ present)))))) (. .)))

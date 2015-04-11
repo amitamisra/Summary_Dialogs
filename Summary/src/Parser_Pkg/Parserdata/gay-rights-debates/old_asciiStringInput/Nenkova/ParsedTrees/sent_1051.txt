@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBD stated) (NP (PRP$ his) (NN belief)) (SBAR (IN that) (S (NP (NP (NNS deviations)) (PP (IN from) (NP (DT the) (NN norm)))) (VP (VBP are) (ADJP (JJ diverse)))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ important) (S (VP (TO to) (VP (VB figure) (PRT (RP out)) (SBAR (SBAR (WHADVP (WRB how) (RB often)) (S (NP (PRP they)) (VP (VBP lie)))) (CC and) (SBAR (WHADJP (WRB how) (JJ big)) (S (NP (PRP$ their) (NNS lies)) (VP (VBP are))))))))))))) (. .)))

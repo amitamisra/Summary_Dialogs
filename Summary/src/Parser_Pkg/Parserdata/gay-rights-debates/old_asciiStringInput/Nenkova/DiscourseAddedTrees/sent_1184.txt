@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NNS roots)) (VP (VBP are) (ADJP (ADJP (JJR deeper)) (PP (IN than) (NP (DT that) (JJ particular) (NN poll)))))))) (. .)))

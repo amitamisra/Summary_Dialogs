@@ -1,8 +1,0 @@
-root(ROOT-0, alleviates-2)
-nsubj(alleviates-2, this-1)
-poss(concerns-5, his-3)
-amod(concerns-5, fiscal-4)
-dobj(alleviates-2, concerns-5)
-prep(alleviates-2, on-6)
-det(topic-8, the-7)
-pobj(on-6, topic-8)

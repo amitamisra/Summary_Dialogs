@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (ADVP (RB also)) (VP (VBP believe) (SBAR (IN that) (S (NP (NNS homosexuals)) (VP (VBP are) (ADJP (RBR more) (JJ promiscuous) (PP (IN than) (NP (NNS heterosexuals)))))))) (. .)))

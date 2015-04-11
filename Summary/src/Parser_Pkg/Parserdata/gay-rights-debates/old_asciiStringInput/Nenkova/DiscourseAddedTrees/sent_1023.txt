@@ -1,1 +1,0 @@
-(ROOT (S (ADVP (RB Hence#0#0)) (NP (DT the) (NN term) (NN bigot)) (VP (VBZ is) (ADJP (JJ appropriate) (PP (TO to) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP oppose) (NP (JJ gay) (NN marriage))))))))) (. .)))

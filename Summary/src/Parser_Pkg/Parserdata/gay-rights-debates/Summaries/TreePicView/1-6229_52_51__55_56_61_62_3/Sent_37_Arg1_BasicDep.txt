@@ -1,3 +1,0 @@
-root(ROOT-0, is-3)
-amod(marriage-2, equal-1)
-nsubj(is-3, marriage-2)

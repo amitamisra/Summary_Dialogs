@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (S (S (NP (NP (NN S1) (POS 's)) (NN argument)) (VP (VBZ is) (ADJP (JJ ridiculous)))) (CC and#0#Expansion) (S (NP (NNS gays)) (VP (VBP lack) (NP (NNS rights))))))) (. .)))

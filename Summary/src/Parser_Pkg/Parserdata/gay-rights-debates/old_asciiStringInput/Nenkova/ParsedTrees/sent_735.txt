@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (NP (DT the) (JJ religious) (NN freedom) (NN argument)) (VP (MD could) (VP (VB be) (VP (VBN used) (PP (IN in) (NP (DT any) (NN format))) (S (VP (TO to) (VP (VB justify) (NP (DT any) (NN action))))))))))) (. .)))

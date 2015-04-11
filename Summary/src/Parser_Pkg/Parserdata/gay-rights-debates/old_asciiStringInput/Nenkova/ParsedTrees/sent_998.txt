@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ insists) (SBAR (IN that) (S (NP (NNS marriages)) (VP (VBD were) (ADVP (RB almost) (RB exclusively)) (PP (IN between) (NP (NP (NNS people)) (PP (IN of) (NP (JJ opposite) (NNS genders))))))))) (. .)))

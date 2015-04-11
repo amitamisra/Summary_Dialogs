@@ -1,4 +1,0 @@
-root(ROOT-0, clear-4)
-nsubj(clear-4, It-1)
-cop(clear-4, is-2)
-neg(clear-4, not-3)

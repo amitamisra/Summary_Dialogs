@@ -1,7 +1,0 @@
-root(ROOT-0, are-5)
-det(peoples-2, these-1)
-poss(opinions-4, peoples-2)
-nsubj(are-5, opinions-4)
-advmod(are-5, definitively-6)
-prep_against(are-5, homosexuals-8)
-prep_in(homosexuals-8, general-10)

@@ -1,4 +1,0 @@
-root(ROOT-0, preserving-1)
-poss(privilege-4, her-2)
-amod(privilege-4, heterosexual-3)
-dobj(preserving-1, privilege-4)

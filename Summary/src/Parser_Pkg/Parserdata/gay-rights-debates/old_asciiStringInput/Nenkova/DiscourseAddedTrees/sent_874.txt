@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (S (VP (VBG posting) (NP (NN something)) (PP (IN on) (NP (DT the) (NN internet))))) (VP (VBZ does) (RB not) (VP (VB make) (S (NP (PRP it)) (VP (VB be) (ADJP (JJ true))))))))) (. .)))

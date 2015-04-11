@@ -1,5 +1,0 @@
-root(ROOT-0, is-2)
-nsubj(is-2, This-1)
-prep(is-2, about-3)
-amod(marriage-5, gay-4)
-pobj(about-3, marriage-5)

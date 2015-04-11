@@ -1,1 +1,0 @@
-(ROOT (NP (NP (NN S1) (NNS questions)) (PP (TO to) (SBAR (WHADVP (WRB how)) (S (NP (JJ equal) (NNS marriages)) (VP (VBZ hurts) (NP (NP (DT the) (NN woman)) (CC or#0#0) (NP (DT any) (JJ other) (JJ heterosexual))))))) (. .)))

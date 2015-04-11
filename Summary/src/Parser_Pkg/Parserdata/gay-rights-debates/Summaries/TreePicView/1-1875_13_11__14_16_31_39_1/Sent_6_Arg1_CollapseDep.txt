@@ -1,8 +1,0 @@
-root(ROOT-0, married-8)
-det(gentleman-2, a-1)
-nsubjpass(married-8, gentleman-2)
-poss(girlfriend-5, his-4)
-conj_and(gentleman-2, girlfriend-5)
-nsubjpass(married-8, girlfriend-5)
-auxpass(married-8, are-6)
-neg(married-8, not-7)

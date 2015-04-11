@@ -1,3 +1,0 @@
-root(ROOT-0, thinks-2)
-nsubj(thinks-2, S1-1)
-dobj(thinks-2, he-3)

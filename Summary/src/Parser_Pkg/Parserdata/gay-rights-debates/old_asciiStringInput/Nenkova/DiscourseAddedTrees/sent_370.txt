@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (DT this)) (VP (VBZ is) (NP (NP (DT a) (JJ weak) (NN argument)) (SBAR (WHNP (WDT which)) (S (NP (JJ gay) (NNS lobbyists)) (VP (VBP have) (VP (VBN overused)))))))))) (. .)))

@@ -1,7 +1,0 @@
-root(ROOT-0, way-4)
-nsubj(way-4, this-1)
-cop(way-4, is-2)
-det(way-4, the-3)
-det(law-6, the-5)
-nsubj(works-7, law-6)
-rcmod(way-4, works-7)

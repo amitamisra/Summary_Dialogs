@@ -1,9 +1,0 @@
-(same-unit[N][N]
-  (Attribution[S][N]
-    _!S1 expressed his opinion!_
-    (Joint[N][N]
-      _!that his family and other heterosexual families are the norm!_
-      (Elaboration[N][S]
-        _!and that homosexual families!_
-        _!( like S2 's )!_)))
-  _!deviate from the norm . <s>!_)

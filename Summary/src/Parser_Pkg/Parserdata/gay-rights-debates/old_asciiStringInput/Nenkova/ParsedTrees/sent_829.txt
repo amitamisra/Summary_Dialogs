@@ -1,1 +1,0 @@
-(ROOT (S (NP (CD Two) (NNS people)) (VP (VBP are) (VP (VBG discussing) (NP (NP (JJ gay) (NN marriage)) (CC and) (NP (PRP$ its) (JJ possible) (NNS consequences))))) (. .)))

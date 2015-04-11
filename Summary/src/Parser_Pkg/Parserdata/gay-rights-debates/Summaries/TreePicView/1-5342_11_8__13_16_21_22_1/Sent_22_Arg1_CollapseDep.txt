@@ -1,4 +1,0 @@
-root(ROOT-0, attacked-3)
-nn(Lennon-2, John-1)
-nsubj(attacked-3, Lennon-2)
-dobj(attacked-3, religion-4)

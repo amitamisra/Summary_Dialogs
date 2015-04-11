@@ -1,3 +1,0 @@
-root(ROOT-0, exist-3)
-nsubj(exist-3, boundaries-1)
-aux(exist-3, do-2)

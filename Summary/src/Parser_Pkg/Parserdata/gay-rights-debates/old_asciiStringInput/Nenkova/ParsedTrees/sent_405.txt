@@ -1,1 +1,0 @@
-(ROOT (S (ADVP (RB Then)) (, ,) (VP (VBZ gives) (NP (NP (DT the) (NN example)) (PP (IN of) (SBAR (WHADVP (WRB how)) (S (NP (NN incest) (CC and) (NN polygamy)) (VP (VBZ is) (ADJP (RBR less) (RB socially)) (S (VP (VBN accepted) (PP (IN in) (NP (NN comparison))) (PP (TO to) (NP (JJ gay) (NN marriage))))))))))) (. .)))

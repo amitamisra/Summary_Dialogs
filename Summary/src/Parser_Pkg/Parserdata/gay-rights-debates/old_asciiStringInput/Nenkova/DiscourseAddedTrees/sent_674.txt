@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ thinks) (SBAR (SBAR (IN that) (S (NP (DT the) (NN government)) (VP (MD should) (VP (VB stay) (PRT (IN out)) (PP (IN of) (NP (NN marriage))))))) (CC and#0#Expansion) (SBAR (IN that) (S (NP (PRP it)) (VP (MD should) (VP (VB be) (VP (VBN left) (PP (TO to) (NP (JJ religious) (NNS institutions)))))))))) (. .)))

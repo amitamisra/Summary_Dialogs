@@ -1,6 +1,0 @@
-root(ROOT-0, happen-4)
-nsubj(happen-4, lying-1)
-aux(happen-4, does-2)
-neg(happen-4, not-3)
-prep_in(happen-4, politics-6)
-tmod(happen-4, today-7)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (NP (JJ single) (NN parent) (NNS families)) (VP (VP (VBP are) (ADJP (JJ natural))) (CC and#0#0) (VP (VBZ suggests) (SBAR (IN that) (S (NP (NN time)) (VP (MD will) (VP (VB decide) (SBAR (WHNP (WDT which)) (S (NP (NN side)) (VP (VBZ is) (ADJP (RB right)))))))))))))) (. .)))

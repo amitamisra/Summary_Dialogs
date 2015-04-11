@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP It)) (VP (VBD was) (VP (VBN presented) (PP (IN in) (NP (NP (DT the)) ('' '') (PP (NP (NN debate) ('' '')) (IN about) (NP (NP (NP (JJ same-sex) (NN marriage)) (PP (IN in) (NP (DT the) (NNP U.S.) (NN friggin) ('' ')))) (NNP Senate))))))) (. .)))

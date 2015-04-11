@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (DT this)) (VP (MD will) (VP (VB result) (PP (IN in) (NP (PRP$ her) (NN family) (S (VP (RB not) (VBG having) (NP (JJ legal) (NN protection))))))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ points) (PRT (RP out)) (SBAR (IN that) (S (PP (IN after) (S (VP (VBG cohabitating) (PP (IN for) (NP (NP (DT a) (JJ certain) (NN period)) (PP (IN of) (NP (NN time)))))))) (, ,) (NP (DT the) (NN woman)) (VP (MD would) (VP (VB be) (ADJP (JJ eligible) (PP (IN under) (NP (JJ common) (NN law) (NN marriage))))))))) (. .)))

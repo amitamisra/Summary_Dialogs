@@ -1,1 +1,0 @@
-(ROOT (FRAG (NP (NP (NN S2) (NNS states)) (SBAR (WHNP (WDT that)) (S (ADJP (RB historically) (NN marriage)) (VP (VBZ has) (VP (VBN been) (NP (RB about) (JJ different) (NNS genders))))))) (. .)))

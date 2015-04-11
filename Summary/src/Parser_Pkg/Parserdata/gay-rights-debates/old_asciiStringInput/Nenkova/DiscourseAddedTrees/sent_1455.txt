@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VP (VBZ announces) (NP (DT the) (NN vote) (S (VP (TO to) (VP (VB support) (NP (JJ gay) (NN marriage) (NN inC))))))) (CC and#0#0) (VP (VBZ congratulates) (NP (NN theistrict)))) (. .)))

@@ -1,7 +1,0 @@
-root(ROOT-0, allow-6)
-det(couple-2, a-1)
-nsubj(allow-6, couple-2)
-prep(couple-2, of-3)
-nn(sects-5, Buddhist-4)
-pobj(of-3, sects-5)
-dobj(allow-6, it-7)

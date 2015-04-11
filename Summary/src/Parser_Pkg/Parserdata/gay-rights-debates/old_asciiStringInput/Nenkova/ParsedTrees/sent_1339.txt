@@ -1,1 +1,0 @@
-(ROOT (SINV (ADVP (RB Also)) (VP (VBZ mentions)) (NP (NP (NNP Mr.) (NNP WriteLA)) (SBAR (WHNP (WP who)) (S (VP (VBD said) (SBAR (IN that) (S (NP (DT the) (NNS governments) (NN involvement)) (VP (VBZ is) (ADJP (JJ inevitable))))))))) (. .)))

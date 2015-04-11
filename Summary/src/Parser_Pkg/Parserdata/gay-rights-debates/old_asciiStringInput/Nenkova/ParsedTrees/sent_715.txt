@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (DT The) (JJ only) (NN person)) (SBAR (WHNP (WDT that)) (S (VP (VBZ gets) (ADJP (NN hurt)))))) (VP (VBZ is) (NP (NN S1))) (. .)))

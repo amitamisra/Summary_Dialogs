@@ -1,3 +1,0 @@
-root(ROOT-0, died-3)
-poss(partner-2, their-1)
-nsubj(died-3, partner-2)

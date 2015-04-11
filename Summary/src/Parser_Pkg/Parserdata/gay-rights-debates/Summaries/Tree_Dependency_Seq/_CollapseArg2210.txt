@@ -1,5 +1,0 @@
-root(ROOT-0, growing-6)
-nsubj(growing-6, support-1)
-nn(equality-4, marriage-3)
-prep_for(support-1, equality-4)
-cop(growing-6, is-5)

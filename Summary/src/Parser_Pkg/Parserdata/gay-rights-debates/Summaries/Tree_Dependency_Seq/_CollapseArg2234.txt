@@ -1,8 +1,0 @@
-root(ROOT-0, guaranteed-8)
-det(right-2, the-1)
-nsubjpass(guaranteed-8, right-2)
-prep_to(right-2, freedom-4)
-prep_of(freedom-4, speech-6)
-auxpass(guaranteed-8, is-7)
-det(Constitution-11, the-10)
-agent(guaranteed-8, Constitution-11)

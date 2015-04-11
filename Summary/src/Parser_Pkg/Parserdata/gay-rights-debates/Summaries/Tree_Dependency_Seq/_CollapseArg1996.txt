@@ -1,4 +1,0 @@
-root(ROOT-0, complained-4)
-nsubj(complained-4, they-1)
-aux(complained-4, had-2)
-neg(complained-4, not-3)

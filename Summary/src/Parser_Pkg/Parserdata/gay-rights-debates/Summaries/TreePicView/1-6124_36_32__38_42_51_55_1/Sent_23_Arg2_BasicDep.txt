@@ -1,7 +1,0 @@
-root(ROOT-0, have-4)
-nsubj(have-4, they-1)
-advmod(have-4, already-2)
-aux(have-4, can-3)
-dobj(have-4, them-5)
-prep(have-4, via-6)
-pobj(via-6, churches-7)

@@ -1,4 +1,0 @@
-root(ROOT-0, questions-2)
-nn(questions-2, S2-1)
-dep(questions-2, S1-3)
-vmod(S1-3, to-4)

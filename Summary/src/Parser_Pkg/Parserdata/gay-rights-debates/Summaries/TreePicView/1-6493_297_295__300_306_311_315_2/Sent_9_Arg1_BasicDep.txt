@@ -1,4 +1,0 @@
-root(ROOT-0, cite-2)
-aux(cite-2, to-1)
-det(link-4, the-3)
-dobj(cite-2, link-4)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (CD Five) (NNS states)) (VP (VBP have) (ADVP (RB already)) (VP (VBN legalized) (NP (JJ gay) (NN marriage)))) (. .)))

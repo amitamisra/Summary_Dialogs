@@ -1,5 +1,0 @@
-root(ROOT-0, benefit-4)
-nsubj(benefit-4, they-2)
-aux(benefit-4, should-3)
-dep(benefit-4, from-5)
-pobj(from-5, it-6)

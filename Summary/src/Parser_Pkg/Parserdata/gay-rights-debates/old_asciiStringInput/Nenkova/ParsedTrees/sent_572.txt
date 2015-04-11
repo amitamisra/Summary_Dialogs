@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NN S1)) (VP (VBZ is) (VP (VP (VBG making) (PRT (RP up)) (NP (NNS objections))) (CC and) (VP (VBG deciding) (PP (IN without) (NP (DT any) (JJ factual) (NN evidence))))))))) (. .)))

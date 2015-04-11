@@ -1,7 +1,0 @@
-root(ROOT-0, pay-3)
-amod(people-2, gay-1)
-nsubj(pay-3, people-2)
-prep(pay-3, into-4)
-det(system-7, the-5)
-amod(system-7, same-6)
-pobj(into-4, system-7)

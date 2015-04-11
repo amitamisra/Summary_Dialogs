@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ accuses) (NP (NP (NN S1)) (PP (IN of) (S (VP (VBG accepting) (SBAR (IN that) (S (NP (DT some) (NNS people)) (VP (MD should) (RB not) (VP (VB receive) (NP (DT the) (JJ basic) (NN right)) (S (VP (TO to) (VP (VB marry) (NP (NP (DT the) (NN person)) (SBAR (S (NP (PRP they)) (VP (VBP love))))))))))))))))) (. .)))

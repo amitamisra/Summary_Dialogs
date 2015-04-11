@@ -1,3 +1,0 @@
-root(ROOT-0, have-3)
-nsubj(have-3, they-1)
-aux(have-3, should-2)

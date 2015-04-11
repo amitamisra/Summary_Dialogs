@@ -1,2 +1,0 @@
-root(ROOT-0, satisfied-2)
-auxpass(satisfied-2, be-1)

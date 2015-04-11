@@ -1,7 +1,0 @@
-root(ROOT-0, making-3)
-nsubj(making-3, S2-1)
-aux(making-3, is-2)
-dobj(making-3, claims-4)
-prep(making-3, without-5)
-det(proof-7, any-6)
-pobj(without-5, proof-7)

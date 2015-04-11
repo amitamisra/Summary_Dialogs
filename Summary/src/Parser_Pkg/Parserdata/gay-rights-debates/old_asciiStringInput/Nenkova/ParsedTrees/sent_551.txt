@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ is) (ADJP (JJ uncomfortable) (PP (IN with) (NP (DT the) (NN study)))) (SBAR (IN because) (S (NP (EX there)) (VP (VBZ is) (RB n't) (NP (NP (NN information)) (PP (IN on) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (VBD got) (NP (DT the) (NNS results))))))))))) (. .)))

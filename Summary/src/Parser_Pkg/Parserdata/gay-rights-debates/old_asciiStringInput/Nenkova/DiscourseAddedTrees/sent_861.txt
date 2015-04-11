@@ -1,1 +1,0 @@
-(ROOT (S (S (VP (VBN Broadened) (S (ADJP (NN marriage))))) (VP (MD could) (VP (VB change) (NP (DT the) (JJ current) (JJ traditional) (NN marriage) (NNS laws)))) (. .)))

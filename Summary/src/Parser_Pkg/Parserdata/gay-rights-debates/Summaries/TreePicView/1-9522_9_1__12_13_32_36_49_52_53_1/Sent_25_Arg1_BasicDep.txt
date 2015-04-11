@@ -1,6 +1,0 @@
-root(ROOT-0, growing-6)
-nsubj(growing-6, support-1)
-prep(support-1, for-2)
-nn(equality-4, marriage-3)
-pobj(for-2, equality-4)
-cop(growing-6, is-5)

@@ -1,8 +1,0 @@
-root(ROOT-0, vote-5)
-nsubj(vote-5, Councils-1)
-conj_and(Councils-1, legislatures-3)
-nsubj(vote-5, legislatures-3)
-aux(vote-5, may-4)
-prep_in(vote-5, favor-7)
-amod(marriage-10, gay-9)
-prep_of(favor-7, marriage-10)

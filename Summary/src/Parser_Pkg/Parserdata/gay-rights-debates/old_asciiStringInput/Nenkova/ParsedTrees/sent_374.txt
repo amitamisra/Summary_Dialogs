@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ contends) (SBAR (IN that) (S (NP (NNS evangelicals)) (VP (VBP are) (ADVP (RB rarely)) (VP (VBN united) (PP (IN for) (NP (NN anything))) (, ,) (S (VP (VB let) (ADVP (RB alone)) (S (VP (VBG banning) (NP (JJ gay) (NNS people))))))))))) (. .)))

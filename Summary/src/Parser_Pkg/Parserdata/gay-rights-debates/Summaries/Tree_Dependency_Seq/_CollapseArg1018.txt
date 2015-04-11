@@ -1,5 +1,0 @@
-root(ROOT-0, stay-4)
-det(government-2, the-1)
-nsubj(stay-4, government-2)
-aux(stay-4, should-3)
-prep_out_of(stay-4, marriage-7)

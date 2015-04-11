@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ is) (VP (VBN offended) (PP (IN by) (NP (DT the) (JJ alleged) (NN analogy))) (, ,) (S (VP (VBG finding) (NP (NP (DT a) (NN material) (NN distinction)) (PP (IN between) (NP (NN race) (CC and) (JJ sexual) (NN orientation)))))))) (. .)))

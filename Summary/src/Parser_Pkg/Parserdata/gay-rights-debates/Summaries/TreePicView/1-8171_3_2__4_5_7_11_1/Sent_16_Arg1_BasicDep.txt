@@ -1,4 +1,0 @@
-root(ROOT-0, misunderstanding-5)
-nsubj(misunderstanding-5, S1-2)
-aux(misunderstanding-5, is-4)
-dobj(misunderstanding-5, him-6)

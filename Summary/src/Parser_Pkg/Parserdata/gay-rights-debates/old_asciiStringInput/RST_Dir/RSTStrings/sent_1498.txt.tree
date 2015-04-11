@@ -1,7 +1,0 @@
-(same-unit[N][N]
-  _!( S1 )!_
-  (same-unit[N][N]
-    (Attribution[S][N] _!accuses!_ _!( S2 )!_)
-    (Attribution[N][S]
-      _!about!_
-      _!lying about what other have said . <s>!_)))

@@ -1,8 +1,0 @@
-root(ROOT-0, cleaved-5)
-det(man-2, a-1)
-nsubjpass(cleaved-5, man-2)
-aux(cleaved-5, should-3)
-auxpass(cleaved-5, be-4)
-prep(cleaved-5, to-6)
-poss(wife-8, his-7)
-pobj(to-6, wife-8)

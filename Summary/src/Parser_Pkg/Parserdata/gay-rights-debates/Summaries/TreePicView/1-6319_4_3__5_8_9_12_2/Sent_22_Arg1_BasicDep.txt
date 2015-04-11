@@ -1,3 +1,0 @@
-root(ROOT-0, performing-1)
-det(ceremony-3, the-2)
-dobj(performing-1, ceremony-3)

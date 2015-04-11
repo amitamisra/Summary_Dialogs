@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NP (NN S1) (NNS Questions)) (NP (DT the) (NN role))) (PP (IN of) (NP (NP (NN government)) (PP (IN in) (NP (NN marriage)))))) (, ,) (VP (VBG maintaining) (SBAR (IN that) (S (NP (PRP it)) (VP (MD should) (VP (VB have) (NP (DT a) (ADJP (RB very) (JJ limited)) (NP (CD one)))))))) (. .)))

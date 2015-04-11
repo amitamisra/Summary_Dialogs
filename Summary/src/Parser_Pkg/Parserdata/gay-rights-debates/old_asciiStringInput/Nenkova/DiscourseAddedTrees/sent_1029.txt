@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ argues) (SBAR (SBAR (S (NP (DT the) (NN issue)) (VP (VBZ is) (RB not) (ADVP (RB always)) (PP (IN about) (S (VP (VBG excluding) (NP (NNS gays)) (PP (IN from) (NP (JJ different) (NNS things))))))))) (CC but#0#Comparison) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ boils) (PRT (RP down)) (PP (TO to) (NP (NN marriage)))))))) (. .)))

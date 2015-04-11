@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNP Bowers) (NN rationale)) (VP (VBZ does) (RB not) (VP (VB withstand) (NP (JJ careful) (NN analysis)))) (. .)))

@@ -1,7 +1,0 @@
-root(ROOT-0, judged-4)
-nsubjpass(judged-4, something-1)
-auxpass(judged-4, is-2)
-neg(judged-4, n't-3)
-prep(judged-4, as-5)
-pobj(as-5, good-6)
-advmod(judged-4, just-7)

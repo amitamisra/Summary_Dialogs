@@ -1,1 +1,0 @@
-(ROOT (S (PP (VBG According) (PP (TO to) (NP (NP (PRP$ his) (NNS democrats)) (SBAR (S (VP (VBP want) (S (VP (TO to) (VP (VB do) (NP (DT the) (JJ right) (NN thing)) (ADVP (RB however))))))))))) (, ,) (NP (PRP they)) (VP (VBP are) (NP (NN force) (S (VP (TO to) (VP (VB moderate) (NP (PRP$ their) (NNS opinions)) (PP (IN for) (NP (JJ public) (NN approval)))))))) (. .)))

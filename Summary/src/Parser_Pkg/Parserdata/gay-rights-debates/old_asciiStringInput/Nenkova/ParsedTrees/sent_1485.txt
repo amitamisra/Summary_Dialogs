@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG debating) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NP (NN freedom)) (PP (IN of) (NP (NN speech) (CC and) (JJ gay) (NNS rights)))))))) (. .)))

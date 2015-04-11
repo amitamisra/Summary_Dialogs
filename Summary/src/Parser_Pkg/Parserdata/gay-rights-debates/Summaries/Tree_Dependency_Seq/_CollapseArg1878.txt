@@ -1,8 +1,0 @@
-root(ROOT-0, troubled-4)
-nsubjpass(troubled-4, S2-1)
-aux(troubled-4, would-2)
-auxpass(troubled-4, be-3)
-poss(position-8, Biden-6)
-agent(troubled-4, position-8)
-amod(marriage-11, gay-10)
-prep_on(position-8, marriage-11)

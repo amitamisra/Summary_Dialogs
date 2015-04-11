@@ -1,2 +1,0 @@
-root(ROOT-0, people-2)
-amod(people-2, gay-1)

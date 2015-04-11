@@ -1,8 +1,0 @@
-root(ROOT-0, ruled-6)
-det(Government-4, the-1)
-nn(Government-4, United-2)
-nn(Government-4, States-3)
-nsubjpass(ruled-6, Government-4)
-auxpass(ruled-6, is-5)
-det(majority-9, the-8)
-agent(ruled-6, majority-9)

@@ -1,7 +1,0 @@
-root(ROOT-0, have-3)
-amod(gays-2, many-1)
-nsubj(have-3, gays-2)
-dobj(have-3, fidelity-4)
-prep(fidelity-4, in-5)
-poss(relationshipso-7, their-6)
-pobj(in-5, relationshipso-7)

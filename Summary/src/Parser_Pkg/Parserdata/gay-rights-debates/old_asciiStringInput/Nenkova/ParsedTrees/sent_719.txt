@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VP (VBZ calls) (NP (NP (DT the) (NN woman) (NN evil)) (CC and) (SBAR (IN that) (S (NP (PRP she)) (VP (MD should) (VP (VB admit) (SBAR (IN that) (S (NP (PRP she)) (VP (VBZ is) (ADJP (JJ anti-gay))))))))))) (CC and) (VP (VBZ wants) (S (VP (TO to) (VP (VB protect) (NP (PRP$ her) (JJ heterosexual) (NN privilege))))))) (. .)))

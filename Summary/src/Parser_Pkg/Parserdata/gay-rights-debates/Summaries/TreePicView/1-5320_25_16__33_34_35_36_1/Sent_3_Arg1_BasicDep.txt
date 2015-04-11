@@ -1,3 +1,0 @@
-root(ROOT-0, interpret-2)
-aux(interpret-2, to-1)
-dobj(interpret-2, it-3)

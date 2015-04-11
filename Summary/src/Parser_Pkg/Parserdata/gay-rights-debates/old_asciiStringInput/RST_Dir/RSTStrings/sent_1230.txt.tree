@@ -1,9 +1,0 @@
-(Joint[N][N]
-  (Attribution[S][N]
-    _!S2 does not believe!_
-    _!this is an inconsistent statement!_)
-  (Elaboration[N][S]
-    _!and attributes Bidens view to S1 ,!_
-    (Attribution[S][N]
-      _!making!_
-      _!it seem like S1 is calling his own view inconsistent . <s>!_)))

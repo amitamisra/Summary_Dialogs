@@ -1,5 +1,0 @@
-root(ROOT-0, threat-5)
-amod(government-2, centralized-1)
-nsubj(threat-5, government-2)
-cop(threat-5, is-3)
-det(threat-5, a-4)

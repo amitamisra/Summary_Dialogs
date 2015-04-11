@@ -1,7 +1,0 @@
-root(ROOT-0, legalized-5)
-num(states-2, Five-1)
-nsubj(legalized-5, states-2)
-aux(legalized-5, have-3)
-advmod(legalized-5, already-4)
-amod(marriage-7, gay-6)
-dobj(legalized-5, marriage-7)

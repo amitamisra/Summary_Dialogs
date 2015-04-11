@@ -1,6 +1,0 @@
-root(ROOT-0, uses-2)
-nsubj(uses-2, S2-1)
-det(statement-4, the-3)
-dobj(uses-2, statement-4)
-poss(effect-7, its-6)
-prep_for(statement-4, effect-7)

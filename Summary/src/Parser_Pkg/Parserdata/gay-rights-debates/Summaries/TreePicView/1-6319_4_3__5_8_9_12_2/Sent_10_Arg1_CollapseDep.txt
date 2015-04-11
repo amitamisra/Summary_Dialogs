@@ -1,4 +1,0 @@
-root(ROOT-0, look-2)
-aux(look-2, to-1)
-det(job-5, another-4)
-prep_for(look-2, job-5)

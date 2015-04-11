@@ -1,6 +1,0 @@
-root(ROOT-0, married-6)
-amod(people-2, single-1)
-nsubjpass(married-6, people-2)
-aux(married-6, can-3)
-advmod(married-6, always-4)
-auxpass(married-6, get-5)

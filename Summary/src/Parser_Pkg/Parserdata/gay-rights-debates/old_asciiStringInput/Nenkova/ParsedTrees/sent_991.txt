@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (DT a) (NN couple)) (PP (IN of) (NP (NNP Buddhist) (NNS sects)))) (VP (VBP allow) (NP (PRP it)))))) (. .)))

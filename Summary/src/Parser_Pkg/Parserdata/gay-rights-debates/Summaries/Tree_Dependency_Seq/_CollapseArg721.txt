@@ -1,3 +1,0 @@
-root(ROOT-0, was-2)
-nsubj(was-2, he-1)
-prep_in(was-2, error-4)

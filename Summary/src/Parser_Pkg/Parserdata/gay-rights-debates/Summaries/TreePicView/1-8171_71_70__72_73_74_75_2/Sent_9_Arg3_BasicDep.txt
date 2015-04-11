@@ -1,7 +1,0 @@
-root(ROOT-0, possible-7)
-prep(possible-7, for-1)
-nn(position-3, ones-2)
-pobj(for-1, position-3)
-nsubj(possible-7, it-4)
-aux(possible-7, may-5)
-cop(possible-7, be-6)

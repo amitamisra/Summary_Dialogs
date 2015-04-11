@@ -1,6 +1,0 @@
-root(ROOT-0, fought-2)
-nsubj(fought-2, he-1)
-det(right-5, the-4)
-prep_for(fought-2, right-5)
-amod(speech-8, free-7)
-prep_of(right-5, speech-8)

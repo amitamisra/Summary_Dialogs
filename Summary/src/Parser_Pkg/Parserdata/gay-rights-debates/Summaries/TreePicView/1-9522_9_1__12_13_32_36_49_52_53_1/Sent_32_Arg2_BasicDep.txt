@@ -1,7 +1,0 @@
-root(ROOT-0, normal-7)
-advmod(men-3, most-1)
-amod(men-3, gay-2)
-nsubj(normal-7, men-3)
-cop(normal-7, are-4)
-advmod(normal-7, assuredly-5)
-advmod(normal-7, quite-6)

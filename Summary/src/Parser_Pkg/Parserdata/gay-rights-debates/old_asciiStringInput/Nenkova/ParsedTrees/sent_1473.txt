@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT This) (NN person)) (VP (VBZ uses) (NP (NN theC) (NN council) (NNS votes)) (PP (IN as) (NP (NN evidence))) (S (VP (TO to) (VP (VB support) (NP (NP (DT this)) (CONJP (RB as) (RB well) (IN as)) (NP (DT the) (NN fact))) (SBAR (IN that) (S (NP (CD five) (NNS states)) (VP (VBP have) (VP (VBN passed) (NP (JJ gay) (NN marriage) (NN legislation)))))))))) (. .)))

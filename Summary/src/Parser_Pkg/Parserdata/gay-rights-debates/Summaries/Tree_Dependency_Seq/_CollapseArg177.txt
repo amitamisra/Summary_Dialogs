@@ -1,6 +1,0 @@
-root(ROOT-0, prohibited-4)
-amod(people-2, gay-1)
-nsubjpass(prohibited-4, people-2)
-auxpass(prohibited-4, are-3)
-auxpass(married-7, getting-6)
-prepc_from(prohibited-4, married-7)

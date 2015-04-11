@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ is) (ADJP (JJ happy) (SBAR (S (NP (NN S1)) (VP (VBZ is) (NP (NP (DT no) (NN loner)) (VP (VBG attacking) (NP (PRP him))))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ says) (SBAR (IN that) (S (NP (NP (NN S1)) (CC and) (NP (NP (DT the) (NN woman)) (NP (DT both)))) (VP (VBP have) (NP (PRP$ their) (JJ own) (NNS opinions)))))) (. .)))

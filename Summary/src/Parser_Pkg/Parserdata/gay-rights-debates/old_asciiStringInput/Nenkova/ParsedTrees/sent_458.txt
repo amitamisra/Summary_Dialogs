@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ rebuts) (SBAR (IN that) (S (NP (DT that)) (VP (VBZ goes) (PP (IN against) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NNS courts)) (VP (VBD were) (VP (VBN designed) (S (VP (TO to) (VP (VB work))))))))))))) (. .)))

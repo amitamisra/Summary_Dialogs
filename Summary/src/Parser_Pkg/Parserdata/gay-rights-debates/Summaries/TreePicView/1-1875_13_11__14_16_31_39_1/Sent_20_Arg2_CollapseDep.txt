@@ -1,4 +1,0 @@
-root(ROOT-0, marry-2)
-aux(marry-2, to-1)
-poss(girlfriend-4, his-3)
-dobj(marry-2, girlfriend-4)

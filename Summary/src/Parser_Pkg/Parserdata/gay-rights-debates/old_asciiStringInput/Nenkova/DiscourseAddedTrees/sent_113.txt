@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ argues) (SBAR (IN that) (S (NP (DT this) (NN information)) (VP (VBZ is) (NP (JJ clear) (NN evidence)) (SBAR (IN that) (S (NP (NP (DT the) (NN frequency)) (PP (IN of) (NP (NNS earthquakes)))) (VP (VBZ is) (VP (VBG increasing) (PRT (RP over)) (NP (NN time)))))))))) (. .)))

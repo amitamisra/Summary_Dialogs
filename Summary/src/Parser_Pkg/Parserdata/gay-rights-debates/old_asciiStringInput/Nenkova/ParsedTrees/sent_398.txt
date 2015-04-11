@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ wants) (S (VP (TO to) (VP (VB draw) (NP (DT the) (NN line)) (SBAR (IN as) (S (VP (VBZ is) (SBAR (IN so) (S (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (NN marriage)))) (VP (VBZ does) (RB not) (VP (VB change)))))))))))) (. .)))

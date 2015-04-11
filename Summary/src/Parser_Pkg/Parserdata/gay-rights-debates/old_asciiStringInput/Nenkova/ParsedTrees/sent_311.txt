@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (CD 100) (NNS men)) (PP (IN in) (NP (NP (DT a) (JJ daisy) (NN chain)) (VP (VBG performing) (NP (JJ unprotected) (NN sex)) (PP (IN on) (NP (CD one) (DT another))))))) (VP (MD would) (VP (VB be) (PP (IN in) (NP (NN comparison))) (PP (TO to) (NP (NNP Sodom)))))))) (. .)))

@@ -1,8 +1,0 @@
-root(ROOT-0, thinks-2)
-nsubj(thinks-2, S2-1)
-mark(rely-6, that-3)
-nsubj(rely-6, we-4)
-aux(rely-6, should-5)
-ccomp(thinks-2, rely-6)
-prep(rely-6, on-7)
-pobj(on-7, them-8)

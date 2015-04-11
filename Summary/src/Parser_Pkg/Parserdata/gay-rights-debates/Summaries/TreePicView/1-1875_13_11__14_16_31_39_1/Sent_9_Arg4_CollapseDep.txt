@@ -1,8 +1,0 @@
-root(ROOT-0, started-3)
-nsubj(started-3, S1-1)
-num(S1-1, :1-2)
-poss(comments-5, his-4)
-dobj(started-3, comments-5)
-prepc_by(started-3, talking-7)
-det(fact-10, the-9)
-prep_about(talking-7, fact-10)

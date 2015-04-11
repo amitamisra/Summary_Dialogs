@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (NN S1) (CD one)) (VP (VBZ believes) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ inconsistent) (S (VP (TO to) (VP (VB support) (NP (JJ gay) (NNS rights))))))))))) (CC but#0#Comparison) (S (VP (TO to) (VP (VB be) (PP (IN against) (NP (JJ gay) (NN marriage)))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ says) (SBAR (WHADVP (WRB when)) (S (NP (DT a) (JJ pre-birth) (NN child)) (VP (VBZ dies) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (DT a) (JJ real) (NN body))))))))) (. .)))

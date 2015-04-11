@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP argue) (PP (IN about) (NP (NP (NNS politicians)) (VP (VBG lying) (PP (IN through) (S (VP (VBG discussing) (SBAR (SBAR (WHADVP (WRB when#0#Temporal)) (S (NP (NNS politicians)) (VP (VBP are) (VP (VBN asked) (NP (NNS questions)))))) (CC and#1#Expansion) (SBAR (WHADVP (WRB how)) (S (NP (PRP they)) (VP (VBP answer) (NP (PRP them))))))))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (ADVP (RB also#0#Expansion)) (VP (VBZ mentions) (NP (NP (NN someone)) (VP (VBN named) (NP (NP (NNP Archie)) (SBAR (WHNP (WP who)) (S (NP (NNS posts)) (VP (VBP include) (NP (NP (DT a) (NN variety)) (PP (IN of) (NP (NP (NNS slurs)) (PP (IN towards) (NP (JJ gay) (NNS people))))))))))))) (. .)))

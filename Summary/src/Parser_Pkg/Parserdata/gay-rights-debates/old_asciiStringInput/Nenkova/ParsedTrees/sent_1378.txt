@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG pondering) (NP (NP (DT the) (NN future)) (PP (IN of) (NP (NP (JJ gay) (NN marriage) (NNS laws)) (PP (IN in) (NP (DT the) (NNP United) (NNPS States)))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (DT both) (VP (VBP compare) (ADJP (NN marriage) (PP (TO to) (NP (NN marriage)))) (PP (TO to) (NP (NNS woods) (CC and) (NNS trees)))) (. .)))

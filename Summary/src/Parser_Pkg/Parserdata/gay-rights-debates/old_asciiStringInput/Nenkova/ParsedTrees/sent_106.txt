@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ rebuts) (S (VP (VBG stating) (SBAR (SBAR (IN that) (S (NP (DT the) (JJ new) (NNS methods)) (VP (VBP detect) (NP (ADJP (JJ minimal) (CC or) (JJ localized)) (NNS earthquakes))))) (CC and) (SBAR (IN that) (S (NP (JJ major) (NNS ones)) (VP (MD can) (VP (VB be) (VP (VBN detected) (PP (IN without) (NP (DT a) (NN seismograph)))))))))))) (. .)))

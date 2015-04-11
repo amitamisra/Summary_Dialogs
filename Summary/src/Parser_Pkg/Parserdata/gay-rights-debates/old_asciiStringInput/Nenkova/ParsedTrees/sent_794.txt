@@ -1,1 +1,0 @@
-(ROOT (S (S (SBAR (IN If) (S (NP (PRP they)) (VP (VBP are) (ADJP (JJ unable) (S (VP (TO to) (VP (VB do) (NP (PRP$ their) (NN job))))))))) (, ,) (NP (PRP he)) (VP (VBZ suggests))) (, ,) (NP (PRP they)) (VP (MD should) (RB not) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB hold) (NP (DT that) (NN position)))))))) (. .)))

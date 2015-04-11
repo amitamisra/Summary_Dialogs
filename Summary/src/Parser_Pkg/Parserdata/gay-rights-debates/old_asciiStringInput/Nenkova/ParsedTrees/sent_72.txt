@@ -1,1 +1,0 @@
-(ROOT (S (PP (IN Without) (NP (JJ gay) (NN marriage))) (, ,) (NP (DT the) (NN state)) (VP (VBZ has) (S (VP (TO to) (VP (VB support) (NP (DT the) (JJ dependent) (NN spouse)))))) (. .)))

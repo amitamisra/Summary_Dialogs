@@ -1,4 +1,0 @@
-root(ROOT-0, calls-3)
-nsubj(calls-3, he-1)
-advmod(calls-3, clearly-2)
-dobj(calls-3, him-4)

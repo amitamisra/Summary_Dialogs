@@ -1,1 +1,0 @@
-(ROOT (S (SBAR (WHADVP (WRB When#0#Temporal)) (S (NP (DT the) (NN rhetoric)) (VP (VBZ inflames)))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ obvious)) (SBAR (WHADVP (WRB where)) (S (NP (PRP it)) (VP (VBZ starts) (SBAR (WHADVP (WRB when#1#Temporal)) (S (NP (NN somebody)) (VP (VBZ gets) (VP (VBN burned))))))))) (. .)))

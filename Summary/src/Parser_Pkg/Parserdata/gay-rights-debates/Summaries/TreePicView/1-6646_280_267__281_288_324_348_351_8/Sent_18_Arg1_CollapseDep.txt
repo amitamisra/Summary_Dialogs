@@ -1,5 +1,0 @@
-root(ROOT-0, called-2)
-nsubj(called-2, He-1)
-amod(families-4, such-3)
-dep(perverse-6, families-4)
-dep(called-2, perverse-6)

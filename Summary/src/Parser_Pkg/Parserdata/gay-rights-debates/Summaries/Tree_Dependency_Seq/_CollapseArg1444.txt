@@ -1,6 +1,0 @@
-root(ROOT-0, contradict-2)
-aux(contradict-2, To-1)
-mark(means-7, that-4)
-det(statement-6, the-5)
-nsubj(means-7, statement-6)
-ccomp(contradict-2, means-7)

@@ -1,6 +1,0 @@
-root(ROOT-0, satisfied-4)
-nsubjpass(satisfied-4, homosexuals-1)
-aux(satisfied-4, should-2)
-auxpass(satisfied-4, be-3)
-prep(satisfied-4, with-5)
-pobj(with-5, that-6)

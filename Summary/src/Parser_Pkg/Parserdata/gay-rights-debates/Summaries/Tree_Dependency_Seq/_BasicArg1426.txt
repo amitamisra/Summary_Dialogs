@@ -1,6 +1,0 @@
-root(ROOT-0, prove-4)
-nsubj(prove-4, he-2)
-aux(prove-4, will-3)
-poss(assertions-6, his-5)
-dobj(prove-4, assertions-6)
-dep(prove-4, true-7)

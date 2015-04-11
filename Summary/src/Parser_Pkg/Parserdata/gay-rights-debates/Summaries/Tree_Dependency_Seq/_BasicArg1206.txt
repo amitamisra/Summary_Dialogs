@@ -1,5 +1,0 @@
-root(ROOT-0, impediment-4)
-nsubj(impediment-4, it-1)
-cop(impediment-4, is-2)
-det(impediment-4, an-3)
-vmod(impediment-4, to-5)

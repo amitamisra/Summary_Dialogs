@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT The) (NN debate)) (VP (VBZ is) (VP (VBN ceased) (PP (IN by) (S (VP (VBG stating) (SBAR (IN that) (S (NP (DT no) (NN one)) (VP (MD can) (ADVP (RB actually)) (VP (VB know) (SBAR (WHNP (WP what)) (S (NP (NP (NN percentage)) (PP (IN of) (NP (NP (DT the) (NN population)) (PP (IN of) (NP (DT the) (NNP U.S.)))))) (VP (VBZ is) (ADJP (JJ gay)))))))))))))) (. .)))

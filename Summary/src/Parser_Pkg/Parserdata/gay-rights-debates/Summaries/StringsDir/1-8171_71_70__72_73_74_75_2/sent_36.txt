@@ -1,1 +1,0 @@
-S2 doesn't see the inconsistency and doesn't understand why S1 keeps calling it that.

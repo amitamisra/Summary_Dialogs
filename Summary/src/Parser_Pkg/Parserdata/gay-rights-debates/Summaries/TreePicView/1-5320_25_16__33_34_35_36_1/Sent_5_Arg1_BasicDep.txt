@@ -1,2 +1,0 @@
-root(ROOT-0, questioned-2)
-nsubj(questioned-2, S2-1)

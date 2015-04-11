@@ -1,7 +1,0 @@
-root(ROOT-0, is-1)
-dobj(supposed-5, what-2)
-nsubjpass(supposed-5, they-3)
-auxpass(supposed-5, are-4)
-ccomp(is-1, supposed-5)
-aux(do-7, to-6)
-xcomp(supposed-5, do-7)

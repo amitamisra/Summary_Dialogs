@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT This) (NN argument)) (VP (VBZ does) (RB not) (VP (VB have) (NP (DT a) (VBN set) (NN topic)))) (. .)))

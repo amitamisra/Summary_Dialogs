@@ -1,8 +1,0 @@
-root(ROOT-0, knows-3)
-neg(one-2, no-1)
-nsubj(knows-3, one-2)
-advmod(got-6, how-4)
-nsubj(got-6, AIS-5)
-ccomp(knows-3, got-6)
-det(US-9, the-8)
-prep_to(got-6, US-9)

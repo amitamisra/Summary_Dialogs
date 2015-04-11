@@ -1,6 +1,0 @@
-root(ROOT-0, perform-4)
-nsubj(perform-4, one-1)
-aux(perform-4, can-2)
-neg(perform-4, not-3)
-det(job-6, the-5)
-dobj(perform-4, job-6)

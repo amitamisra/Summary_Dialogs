@@ -1,7 +1,0 @@
-root(ROOT-0, oxymoron-7)
-det(marriage-4, the-1)
-nn(marriage-4, term-2)
-amod(marriage-4, gay-3)
-nsubj(oxymoron-7, marriage-4)
-cop(oxymoron-7, is-5)
-det(oxymoron-7, an-6)

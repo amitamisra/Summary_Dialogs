@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (NP (DT a) (NN problem)) (SBAR (IN because#0#Contingency) (S (NP (JJ same) (NN sex) (NN marriage)) (VP (VBZ has) (ADVP (RB never)) (VP (VBN been) (ADJP (RB legally) (SBAR (S (VP (VBZ recognizes) (SBAR (S (VP (VBZ is) (NP (DT a) (JJ big) (NN problem))))))))))))))))) (. .)))

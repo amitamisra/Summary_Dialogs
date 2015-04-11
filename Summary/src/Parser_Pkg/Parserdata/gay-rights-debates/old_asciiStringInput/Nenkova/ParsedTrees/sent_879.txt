@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ believes) (SBAR (S (NP (JJ radical) (NNS leftists)) (VP (VBD created) (NP (DT the) (NN group)) (PP (IN as) (NP (NP (DT a) (NN way)) (PP (IN of) (S (VP (VBG promoting) (NP (NP (NN fear)) (PP (IN of) (NP (NNS Christians))))))))))))) (. .)))

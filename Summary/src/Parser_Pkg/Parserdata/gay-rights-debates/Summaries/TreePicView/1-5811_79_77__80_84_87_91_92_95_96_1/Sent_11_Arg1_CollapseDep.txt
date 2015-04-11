@@ -1,3 +1,0 @@
-root(ROOT-0, belief-4)
-cop(belief-4, is-1)
-poss(belief-4, someone-2)

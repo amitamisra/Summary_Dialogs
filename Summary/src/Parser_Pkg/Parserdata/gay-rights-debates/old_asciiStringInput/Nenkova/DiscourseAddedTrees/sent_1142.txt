@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (S (NP (NNS someemocrats)) (VP (VBD wanted) (S (VP (TO to) (VP (VB spend) (NP (JJR more)) (PP (IN than) (NP (NNP Bush)))))))))) (. .)))

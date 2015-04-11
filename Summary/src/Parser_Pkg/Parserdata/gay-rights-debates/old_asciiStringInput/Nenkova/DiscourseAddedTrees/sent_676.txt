@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ says) (SBAR (S (NP (JJ religious) (NNS ceremonies)) (VP (VBP are) (RB n't)))) (SBAR (WHNP (WP what)) (S (NP (JJ gay) (NNS people)) (VP (VBP want) (SBAR (IN because#0#Contingency) (S (NP (PRP they)) (ADVP (RB already)) (VP (MD can) (VP (VB have) (NP (PRP them)) (PP (IN via) (NP (NNS churches))))))))))) (. .)))

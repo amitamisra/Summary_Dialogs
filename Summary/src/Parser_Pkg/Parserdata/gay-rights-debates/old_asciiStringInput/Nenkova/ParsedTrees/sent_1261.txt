@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (SBAR (IN that) (S (NP (NNS S1s) (NN position)) (VP (VBZ is) (ADJP (JJ inconsistent))))) (CC and) (SBAR (IN that) (S (NP (NN S2)) (VP (MD can) (VP (VB see) (NP (DT a) (NN person)) (PP (PP (IN for) (NP (JJ gay) (NNS rights))) (CC and) (PP (IN against) (NP (JJ gay) (NN marriage)))))))))) (. .)))

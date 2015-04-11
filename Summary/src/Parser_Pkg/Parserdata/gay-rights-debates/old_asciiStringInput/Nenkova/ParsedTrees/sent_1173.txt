@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ supports) (NP (JJ gay) (NN marriage))) (. .)))

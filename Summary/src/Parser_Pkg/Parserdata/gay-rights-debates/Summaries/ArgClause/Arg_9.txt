@@ -1,4 +1,0 @@
-TEXT  S2 cites the fact that gay marriage is already allowed in many countries and feels it soon will be in the state of Massachusetts.
-
-1ARG:    gay marriage is already allowed in many countries and feels it soon will be in the state of Massachusetts
-2ARG:    S2 cites the fact .

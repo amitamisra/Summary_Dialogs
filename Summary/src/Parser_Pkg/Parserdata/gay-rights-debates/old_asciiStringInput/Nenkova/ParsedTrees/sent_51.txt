@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ believes) (S (VP (VBG allowing) (NP (JJ gay) (NN marriage) (NNS forces) (NNS values)) (PP (IN on) (NP (NN society))) (PP (IN by) (S (VP (VBG forcing) (S (NP (PRP them)) (VP (TO to) (VP (VB accept) (NP (PRP it))))))))))) (. .)))

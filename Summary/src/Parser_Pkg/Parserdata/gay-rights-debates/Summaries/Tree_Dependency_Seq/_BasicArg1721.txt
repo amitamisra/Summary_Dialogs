@@ -1,2 +1,0 @@
-root(ROOT-0, marry-2)
-aux(marry-2, to-1)

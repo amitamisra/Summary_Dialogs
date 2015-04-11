@@ -1,7 +1,0 @@
-root(ROOT-0, discussing-4)
-num(people-2, Two-1)
-nsubj(discussing-4, people-2)
-aux(discussing-4, are-3)
-amod(rights-7, gay-5)
-nn(rights-7, marriage-6)
-dobj(discussing-4, rights-7)

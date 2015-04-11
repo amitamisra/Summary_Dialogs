@@ -1,7 +1,0 @@
-root(ROOT-0, challenged-2)
-cc(challenged-2, and-1)
-poss(source-4, his-3)
-dobj(challenged-2, source-4)
-poss(statistics-7, his-6)
-dobj(challenged-2, statistics-7)
-conj_and(source-4, statistics-7)

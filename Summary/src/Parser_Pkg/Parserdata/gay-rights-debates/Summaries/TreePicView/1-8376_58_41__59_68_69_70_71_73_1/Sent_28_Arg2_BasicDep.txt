@@ -1,6 +1,0 @@
-root(ROOT-0, conferred-4)
-amod(obligations-2, mutual-1)
-nsubj(conferred-4, obligations-2)
-advmod(conferred-4, currently-3)
-prep(conferred-4, by-5)
-pobj(by-5, marriage-6)

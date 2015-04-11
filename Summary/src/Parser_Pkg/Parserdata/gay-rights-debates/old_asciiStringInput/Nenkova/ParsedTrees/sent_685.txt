@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ threatens) (S (VP (TO to) (VP (VB respond) (PP (IN with) (NP (JJ similar) (NNS actions))) (PP (IN against) (NP (DT the) (NN church))) (, ,) (PP (IN like) (S (VP (VBG protesting) (NP (JJ ceremonial) (NNS events) (CC and) (NN church) (NNS services))))))))) (. .)))

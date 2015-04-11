@@ -1,1 +1,0 @@
-(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (DT a) (NN person)) (VP (VBZ is) (VP (VBN opposed) (PP (TO to) (NP (NP (DT the) (VBG banning)) (PP (IN of) (NP (JJ gay) (NN marriage))))))))) (, ,) (NP (PRP they)) (VP (MD must) (ADVP (RB therefore)) (VP (VB be) (NP (DT a) (NN heterophobe)))) (. .)))

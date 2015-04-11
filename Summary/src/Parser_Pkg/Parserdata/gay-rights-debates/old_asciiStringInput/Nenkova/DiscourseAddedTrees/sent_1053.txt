@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NP (NN S2) (POS 's)) (NNS beliefs)) (VP (VBP do) (RB not) (VP (VB make) (S (NP (PRP him)) (VP (VB correct)))))))) (. .)))

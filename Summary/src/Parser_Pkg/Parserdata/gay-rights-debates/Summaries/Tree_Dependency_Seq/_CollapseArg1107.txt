@@ -1,6 +1,0 @@
-root(ROOT-0, persecuted-7)
-poss(freedom-4, S1-1)
-amod(freedom-4, religious-3)
-nsubjpass(persecuted-7, freedom-4)
-aux(persecuted-7, is-5)
-auxpass(persecuted-7, being-6)

@@ -1,8 +1,0 @@
-root(ROOT-0, talks-2)
-nn(talks-2, S2-1)
-prep_about(talks-2, what-4)
-det(someone-10, a-6)
-amod(someone-10, proposed-7)
-nn(someone-10, law-8)
-nn(someone-10, hurt-9)
-prep_if(what-4, someone-10)

@@ -1,7 +1,0 @@
-root(ROOT-0, qualify-3)
-amod(couples-2, gay-1)
-nsubj(qualify-3, couples-2)
-prep(qualify-3, for-4)
-det(benefits-7, the-5)
-amod(benefits-7, same-6)
-pobj(for-4, benefits-7)

@@ -1,5 +1,0 @@
-root(ROOT-0, gay-5)
-nsubj(gay-5, they-1)
-cop(gay-5, were-2)
-neg(gay-5, n't-3)
-advmod(gay-5, openly-4)

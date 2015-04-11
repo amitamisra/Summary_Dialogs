@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (IN that) (S (NP (NP (DT the) (NN discussion)) (PP (IN of) (`` ``) (NP (NN morality)) ('' ''))) (VP (VBZ is) (NP (DT a) (JJ safe) (NN ground)) (SBAR (IN because#0#Contingency) (S (NP (NN morality)) (VP (VBZ is) (ADJP (JJ relative) (CC and#1#0) (JJ subjective))))))))) (. .)))

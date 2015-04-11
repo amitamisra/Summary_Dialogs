@@ -1,8 +1,0 @@
-root(ROOT-0, have-3)
-amod(people-2, gay-1)
-nsubj(have-3, people-2)
-det(rights-6, the-4)
-amod(rights-6, same-5)
-nsubj(due-7, rights-6)
-xcomp(have-3, due-7)
-prep_to(due-7, this-9)

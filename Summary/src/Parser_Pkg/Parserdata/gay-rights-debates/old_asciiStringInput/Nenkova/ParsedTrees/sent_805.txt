@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNP Speaker) (CD one)) (ADVP (RB therefore)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NN speaker) (CD two)) (VP (VBZ is) (ADVP (RB unfairly)) (VP (VBG discriminating) (PP (IN against) (NP (NP (DT an) (NN employee)) (VP (VBN based) (PP (IN off) (NP (PRP$ their) (JJ religious) (NNS views))))))))))) (. .)))

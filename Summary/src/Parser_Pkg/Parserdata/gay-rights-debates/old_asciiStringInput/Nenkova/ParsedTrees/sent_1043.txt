@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ contends) (SBAR (IN that) (S (NP (NN S1)) (VP (VBZ is) (RB not) (PP (IN against) (NP (NP (DT all) (NN diversity)) (, ,) (NP (NP (RB just) (JJ gay) (NN lifestyle)) (SBAR (WHNP (WDT which)) (S (PP (IN in) (NP (NP (NN S2) (POS 's)) (NN opinion))) (VP (VBZ makes) (ADJP (ADJP (JJR him/her) (JJ hateful)) (PP (IN toward) (NP (NNS gays)))))))))))))) (. .)))

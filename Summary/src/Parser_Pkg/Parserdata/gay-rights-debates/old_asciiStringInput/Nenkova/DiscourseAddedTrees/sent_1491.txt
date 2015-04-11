@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ responds) (UCP (ADVP (RB angrily)) (CC and#0#0) (PP (IN with) (NP (NP (JJ homosexual) (NNS slurs)) (, ,) (CC and#1#0) (NP (NP (NNS requests)) (SBAR (WHNP (WDT that)) (S (NP (NN S2)) (VP (VB take) (NP (PRP$ his) (NNS comments)) (PP (RP up) (PP (IN with) (NP (NNP Obama)))))))))))) (. .)))

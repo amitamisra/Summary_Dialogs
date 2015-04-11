@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT This) (NN debate)) (VP (VBZ is) (UCP (PP (IN about) (NP (DT the) (JJ 9th))) (CC and#0#0) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (JJ federal) (NN constitution)) (VP (VBZ applies) (PP (TO to) (NP (NN marriage)))))))) (. .)))

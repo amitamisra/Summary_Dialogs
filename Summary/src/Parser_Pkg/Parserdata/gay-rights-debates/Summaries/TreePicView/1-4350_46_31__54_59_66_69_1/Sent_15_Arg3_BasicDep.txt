@@ -1,3 +1,0 @@
-root(ROOT-0, rebuttals-4)
-advmod(rebuttals-4, so-1)
-nsubj(rebuttals-4, it-3)

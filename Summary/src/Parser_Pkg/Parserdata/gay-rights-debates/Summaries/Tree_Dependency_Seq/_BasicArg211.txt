@@ -1,7 +1,0 @@
-root(ROOT-0, get-4)
-nsubj(get-4, who-1)
-aux(get-4, ca-2)
-neg(get-4, n't-3)
-det(care-7, any-5)
-nn(care-7, health-6)
-dobj(get-4, care-7)

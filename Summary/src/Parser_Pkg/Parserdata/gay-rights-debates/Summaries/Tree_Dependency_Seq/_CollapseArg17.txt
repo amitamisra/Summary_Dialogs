@@ -1,8 +1,0 @@
-root(ROOT-0, is-2)
-nsubj(is-2, it-1)
-neg(is-2, not-3)
-advmod(is-2, just-4)
-amod(contact-7, heterosexual-6)
-prep_about(is-2, contact-7)
-amod(countries-10, many-9)
-prep_in(contact-7, countries-10)

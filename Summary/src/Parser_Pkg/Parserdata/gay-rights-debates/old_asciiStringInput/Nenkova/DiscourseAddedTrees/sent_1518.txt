@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (NN S1)) (VP (VBZ is) (ADJP (RB very) (JJ rude)))) (CC and#0#Expansion) (S (ADVP (RB constantly)) (VP (VBG being) (ADJP (JJ immature) (PP (IN towards) (NP (NN S2)))))) (. .)))

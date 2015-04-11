@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ criticizes) (NP (NP (DT the) (JJ new) (NN push)) (PP (IN for#0#0) (NP (NP (NN government)) (VP (VBG getting) (PRT (IN out)) (PP (IN of) (NP (NN marriage)))))))) (. .)))

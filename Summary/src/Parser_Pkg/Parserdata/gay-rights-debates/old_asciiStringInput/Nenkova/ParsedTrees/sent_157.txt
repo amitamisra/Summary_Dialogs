@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG debating) (NP (JJ gay) (NN marriage) (CC and) (NN healthcare) (NNS benefits)))) (. .)))

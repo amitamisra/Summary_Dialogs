@@ -1,1 +1,0 @@
-(ROOT (S (ADVP (RB Hence#0#0)) (NP (NNS gays)) (VP (VBP have) (S (VP (TO to) (VP (VB resort) (PP (TO to) (S (VP (VBG redefining) (NP (NN marriage)) (S (VP (TO to) (VP (VB secure) (NP (JJ legal) (NNS rights)) (PP (IN under) (NP (DT the) (NN marriage) (NN arrangement))))))))))))) (. .)))

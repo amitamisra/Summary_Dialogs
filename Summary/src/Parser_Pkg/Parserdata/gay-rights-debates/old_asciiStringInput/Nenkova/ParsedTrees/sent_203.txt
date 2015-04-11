@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (JJ American) (NN freedom)) (ADVP (RB never)) (VP (VBD existed))) (CC and) (S (NP (DT no) (PRP one)) (VP (MD ca) (RB n't) (VP (VB argue) (SBAR (IN that) (S (NP (NP (NP (NN FR) (POS 's)) (JJ public) (NN opinion)) (PP (IN on) (NP (DT the) (NN role)))) (PP (IN on) (NP (DT the) (JJ federal) (NN government)))))))) (. .)))

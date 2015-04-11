@@ -1,5 +1,0 @@
-root(ROOT-0, claim-2)
-nsubj(claim-2, people-1)
-dobj(claim-2, religion-3)
-prepc_in(claim-2, doing-5)
-dobj(doing-5, prejudice-6)

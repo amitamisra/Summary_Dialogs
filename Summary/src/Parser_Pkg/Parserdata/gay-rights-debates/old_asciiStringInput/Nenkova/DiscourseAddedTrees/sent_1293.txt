@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NN S2) (NNS talks)) (PP (IN about) (SBAR (WHADVP (WRB how)) (S (NP (NN violence)) (VP (VBZ is) (VP (VBN used) (S (VP (TO to) (VP (VB make) (NP (NNS people))))))))))) (VP (VB feel) (VP (VBN threatened) (S (VP (TO to) (VP (VB feel) (NP (DT a) (JJ certain) (NN way)) (PP (IN about) (NP (DT a) (NN topic) (CC or#0#0) (NN debate)))))))) (. .)))

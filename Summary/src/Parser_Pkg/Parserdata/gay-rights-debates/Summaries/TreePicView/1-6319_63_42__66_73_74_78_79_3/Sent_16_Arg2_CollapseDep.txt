@@ -1,5 +1,0 @@
-root(ROOT-0, due-3)
-nsubj(due-3, this-1)
-cop(due-3, is-2)
-amod(freedom-6, religious-5)
-prep_to(due-3, freedom-6)

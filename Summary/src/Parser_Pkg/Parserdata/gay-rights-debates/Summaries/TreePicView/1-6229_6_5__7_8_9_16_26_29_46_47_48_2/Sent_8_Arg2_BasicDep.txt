@@ -1,6 +1,0 @@
-root(ROOT-0, sustain-3)
-nsubj(sustain-3, she-1)
-aux(sustain-3, can-2)
-poss(privilege-6, her-4)
-amod(privilege-6, heterosexual-5)
-dobj(sustain-3, privilege-6)

@@ -1,6 +1,0 @@
-root(ROOT-0, criminalized-3)
-nsubjpass(criminalized-3, Sodomy-1)
-auxpass(criminalized-3, was-2)
-prep(criminalized-3, not-5)
-cop(gay-7, being-6)
-pcomp(not-5, gay-7)

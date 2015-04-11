@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ asks) (SBAR (WHADVP (WRB why)) (S (NP (DT a) (JJ homosexual) (NN union)) (VP (VBZ is) (RB not) (ADJP (RB legally) (VBN recognized)))))) (. .)))

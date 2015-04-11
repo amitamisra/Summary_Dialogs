@@ -1,6 +1,0 @@
-root(ROOT-0, thought-4)
-nsubjpass(thought-4, gays-1)
-auxpass(thought-4, were-2)
-neg(thought-4, not-3)
-prepc_as_of(thought-4, as-6)
-pobj(thought-4, human-7)

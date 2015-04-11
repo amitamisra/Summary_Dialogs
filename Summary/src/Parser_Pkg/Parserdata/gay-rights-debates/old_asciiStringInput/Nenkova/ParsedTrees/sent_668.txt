@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (NN marriage)) (VP (MD should) (RB not) (VP (VP (VB be) (VP (VBN handled) (PP (IN by) (NP (NN state) (CC or) (NN legislature))))) (CONJP (CC but) (RB instead)) (VP (VB be) (VP (VBN dealt) (PP (IN with) (PP (IN on) (NP (DT a) (JJ religious) (NN level))))))))))) (. .)))

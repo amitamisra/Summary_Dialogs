@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (PRP$ her) (JJ religious) (NN freedom)) (VP (VBZ is) (VP (VBG being) (VP (VBN persecuted) (PP (IN from) (NP (NP (NNS people)) (PP (IN against) (NP (JJ gay) (NN marriage))))))))))) (. .)))

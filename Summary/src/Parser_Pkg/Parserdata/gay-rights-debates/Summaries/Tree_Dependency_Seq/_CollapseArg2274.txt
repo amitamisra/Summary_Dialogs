@@ -1,4 +1,0 @@
-root(ROOT-0, say-1)
-det(thing-4, the-2)
-amod(thing-4, wrong-3)
-dobj(say-1, thing-4)

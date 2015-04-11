@@ -1,8 +1,0 @@
-root(ROOT-0, trying-6)
-det(point-3, the-2)
-prep_of(trying-6, point-3)
-nsubj(trying-6, they-4)
-aux(trying-6, are-5)
-aux(get-8, to-7)
-xcomp(trying-6, get-8)
-advmod(get-8, across-9)

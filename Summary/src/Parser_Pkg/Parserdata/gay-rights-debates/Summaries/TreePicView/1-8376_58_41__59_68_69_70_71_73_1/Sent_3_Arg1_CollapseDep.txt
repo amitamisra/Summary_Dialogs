@@ -1,8 +1,0 @@
-root(ROOT-0, encountered-2)
-nsubj(encountered-2, S2-1)
-dobj(encountered-2, problems-3)
-det(view-6, this-5)
-prep_with(encountered-2, view-6)
-poss(life-10, their-8)
-amod(life-10, personal-9)
-prep_in(encountered-2, life-10)

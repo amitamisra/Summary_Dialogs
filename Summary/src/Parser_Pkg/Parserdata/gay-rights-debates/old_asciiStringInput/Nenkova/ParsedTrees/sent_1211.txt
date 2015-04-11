@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP It)) (VP (VBD isnt) (ADJP (RB too) (JJ much) (S (VP (TO to) (VP (VB demand) (NP (NN honesty))))))) (. .)))

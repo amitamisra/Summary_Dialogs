@@ -1,5 +1,0 @@
-root(ROOT-0, discussingomionists-5)
-nsubj(discussingomionists-5, S1-1)
-cc(S1-1, and-2)
-conj(S1-1, S2-3)
-cop(discussingomionists-5, are-4)

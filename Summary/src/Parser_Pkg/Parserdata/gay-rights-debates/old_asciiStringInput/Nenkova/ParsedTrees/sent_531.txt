@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP$ His) (NN name)) (VP (VBZ appears) (PP (IN in) (NP (NP (DT the) (NNS citations)) (PP (IN of) (NP (NP (RB virtually) (DT every) (JJ legal) (NN brief)) (VP (VBN filed) (PP (IN by) (NP (NP (NNS opponents)) (PP (IN of) (NP (JJ same-sex) (NN marriage))))))))))) (. .)))

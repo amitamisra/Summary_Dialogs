@@ -1,6 +1,0 @@
-root(ROOT-0, argued-4)
-nsubjpass(argued-4, It-1)
-aux(argued-4, can-2)
-auxpass(argued-4, be-3)
-amod(ways-7, other-6)
-prep_in(argued-4, ways-7)

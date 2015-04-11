@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ contends) (SBAR (IN that) (S (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NP (NNS earthquakes)) (PP (IN in) (NP (DT the) (JJ last) (NN century)))))) (VP (VBZ is) (VP (VBG increasing) (ADVP (RB exponentially))))))) (. .)))

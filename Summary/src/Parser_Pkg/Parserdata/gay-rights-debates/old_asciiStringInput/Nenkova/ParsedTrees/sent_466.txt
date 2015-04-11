@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ disagrees) (S (VP (VBG advising) (SBAR (S (NP (NN he/she)) (VP (VBZ wants) (S (NP (RB only) (DT a) (NN society)) (ADJP (JJ free) (S (VP (TO to) (VP (VB vote) (PP (IN on) (NP (NNS laws)))))))))))))) (. .)))

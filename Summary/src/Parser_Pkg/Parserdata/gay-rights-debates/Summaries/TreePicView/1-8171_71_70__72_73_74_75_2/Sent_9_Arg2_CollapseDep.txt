@@ -1,7 +1,0 @@
-root(ROOT-0, be-4)
-advmod(be-4, how-1)
-nsubj(be-4, one-2)
-aux(be-4, can-3)
-amod(issue-7, such-6)
-prep_against(be-4, issue-7)
-prep_for(issue-7, society-9)

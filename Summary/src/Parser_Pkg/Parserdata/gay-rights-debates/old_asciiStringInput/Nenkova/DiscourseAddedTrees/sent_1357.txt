@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and#0#0) (NN S2)) (VP (VBP are) (ADVP (DT both)) (RB not) (ADJP (VBN surprised) (SBAR (IN if#1#Contingency) (S (NP (DT the) (NN government)) (VP (VBZ gets) (ADJP (VBN involved) (PP (IN in) (NP (NN marriage))))))))) (. .)))

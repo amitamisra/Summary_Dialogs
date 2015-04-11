@@ -1,4 +1,0 @@
-root(ROOT-0, complains-2)
-nsubj(complains-2, S2-1)
-prep(complains-2, about-3)
-pobj(about-3, it-4)

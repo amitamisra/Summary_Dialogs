@@ -1,7 +1,0 @@
-root(ROOT-0, roommates-7)
-amod(partners-3, same-1)
-nn(partners-3, sex-2)
-nsubj(roommates-7, partners-3)
-vmod(partners-3, living-4)
-advmod(living-4, together-5)
-cop(roommates-7, are-6)

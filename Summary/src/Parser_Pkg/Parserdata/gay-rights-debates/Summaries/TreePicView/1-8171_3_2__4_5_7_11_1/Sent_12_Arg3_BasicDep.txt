@@ -1,7 +1,0 @@
-root(ROOT-0, majority-5)
-dep(majority-5, its-1)
-nsubj(majority-5, what-2)
-cop(majority-5, is-3)
-det(majority-5, the-4)
-cc(not-8, or-7)
-advmod(majority-5, not-8)

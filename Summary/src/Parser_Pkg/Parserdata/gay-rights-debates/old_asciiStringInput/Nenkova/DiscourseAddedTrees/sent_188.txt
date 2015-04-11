@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (DT the) (NN term) (NN husband)) (VP (VP (VBZ is) (RB not) (ADJP (JJ recognizable) (PP (IN in) (NP (DT a) (JJ same) (NN sex) (NN relationship))))) (CC nor#0#0) (VP (VBZ is) (NP (DT the) (NN term) (NN wife))))))) (. .)))

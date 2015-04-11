@@ -1,5 +1,0 @@
-root(ROOT-0, bias-5)
-nsubj(bias-5, This-1)
-cop(bias-5, is-2)
-det(bias-5, an-3)
-amod(bias-5, anti-gay-4)

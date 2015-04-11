@@ -1,7 +1,0 @@
-root(ROOT-0, unfair-6)
-nn(support-2, government-1)
-nsubj(unfair-6, support-2)
-prep_of(support-2, marriage-4)
-cop(unfair-6, is-5)
-amod(people-9, single-8)
-prep_to(unfair-6, people-9)

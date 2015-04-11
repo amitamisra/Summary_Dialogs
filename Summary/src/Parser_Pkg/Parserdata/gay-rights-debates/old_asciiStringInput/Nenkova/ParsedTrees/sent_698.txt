@@ -1,1 +1,0 @@
-(ROOT (S (PP (IN For) (NP (NN example))) (, ,) (NP (VBG enslaving) (NNS people)) (VP (VBD was) (VP (VBN accepted) (PP (IN in) (NP (JJ previous) (NNS societies))))) (. .)))

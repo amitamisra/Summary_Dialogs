@@ -1,7 +1,0 @@
-root(ROOT-0, desires-4)
-det(desires-4, a-1)
-amod(desires-4, single-2)
-nn(desires-4, person-3)
-det(benefits-6, the-5)
-dep(desires-4, benefits-6)
-prep_of(benefits-6, marriage-8)

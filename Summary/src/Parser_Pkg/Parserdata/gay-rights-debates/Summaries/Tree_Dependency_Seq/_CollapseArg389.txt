@@ -1,5 +1,0 @@
-root(ROOT-0, standard-5)
-nsubj(standard-5, this-1)
-cop(standard-5, is-2)
-det(standard-5, a-3)
-amod(standard-5, double-4)

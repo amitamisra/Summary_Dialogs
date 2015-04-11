@@ -1,5 +1,0 @@
-root(ROOT-0, works-2)
-nsubj(works-2, it-1)
-det(way-5, the-3)
-amod(way-5, same-4)
-dobj(works-2, way-5)

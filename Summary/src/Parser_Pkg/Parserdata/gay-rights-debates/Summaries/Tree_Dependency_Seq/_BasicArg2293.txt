@@ -1,7 +1,0 @@
-root(ROOT-0, responds-2)
-nsubj(responds-2, S1-1)
-prep(responds-2, with-3)
-amod(remarks-5, immature-4)
-pobj(with-3, remarks-5)
-cc(remarks-5, and-6)
-conj(remarks-5, questions-7)

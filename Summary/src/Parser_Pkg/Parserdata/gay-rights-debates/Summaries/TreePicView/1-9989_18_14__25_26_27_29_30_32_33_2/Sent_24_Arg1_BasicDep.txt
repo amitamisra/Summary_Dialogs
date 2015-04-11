@@ -1,5 +1,0 @@
-root(ROOT-0, stupid-5)
-poss(position-3, S2-1)
-possessive(S2-1, 's-2)
-nsubj(stupid-5, position-3)
-cop(stupid-5, is-4)

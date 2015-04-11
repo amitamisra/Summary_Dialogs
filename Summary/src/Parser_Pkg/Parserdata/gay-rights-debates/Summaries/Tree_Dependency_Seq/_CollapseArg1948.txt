@@ -1,2 +1,0 @@
-root(ROOT-0, would-2)
-nsubj(would-2, anyone-1)

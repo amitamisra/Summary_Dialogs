@@ -1,5 +1,0 @@
-root(ROOT-0, keep-3)
-nsubj(keep-3, he-1)
-aux(keep-3, could-2)
-prepc_from(keep-3, losing-5)
-dobj(losing-5, votes-6)

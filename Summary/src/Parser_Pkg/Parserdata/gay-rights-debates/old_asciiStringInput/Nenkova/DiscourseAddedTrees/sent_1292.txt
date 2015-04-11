@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ states) (SBAR (IN that) (S (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-) (VP (VBP use) (NP (JJ boring) (JJ passive-aggressive) (NNS attacks)) (SBAR (WHADVP (WRB when#0#Temporal)) (S (VP (VBG talking) (PP (IN about) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (JJ gay) (NN marriage)))))))))))) (. .)))

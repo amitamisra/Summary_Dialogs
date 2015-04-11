@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VP (VBZ is) (VP (VBN angered) (SBAR (IN that) (S (NP (NN S2)) (VP (VBZ is) (VP (VBG making) (NP (JJ wide) (NN generalization)) (PP (IN about) (NP (DT the) (NNP Republican) (NNP Party))))))))) (, ,) (CC and) (VP (VBZ agrees) (SBAR (IN that) (S (NP (NNP Cameron)) (VP (VBZ is) (NP (JJ eccentric) (NN party) (NN member))))))) (. .)))

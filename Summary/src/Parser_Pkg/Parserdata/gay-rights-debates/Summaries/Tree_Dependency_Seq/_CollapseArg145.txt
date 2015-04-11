@@ -1,3 +1,0 @@
-root(ROOT-0, taken-2)
-auxpass(taken-2, was-1)
-prep_into(taken-2, account-4)

@@ -1,4 +1,0 @@
-root(ROOT-0, marriage-3)
-poss(marriage-3, another-1)
-possessive(another-1, 's-2)
-dep(marriage-3, license-4)

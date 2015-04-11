@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT The) (NN speaker)) (VP (VBZ believes) (SBAR (S (NP (JJ gay)) (VP (MD should) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VP (VB marry) (NP (NP (DT a) (NN person)) (PP (IN of) (NP (PRP$ their) (NN choice))))) (CC and) (VP (VB get) (NP (JJ equal) (NNS rights)))))))))))) (. .)))

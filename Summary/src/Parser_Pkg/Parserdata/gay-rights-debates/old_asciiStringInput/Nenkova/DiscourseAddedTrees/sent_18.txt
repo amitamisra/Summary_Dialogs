@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (S (NP (NN marriage)) (VP (VBZ is) (VP (VBG recognizing) (NP (DT a) (NN family) (NN unit)) (PP (VBN based) (PP (IN on) (NP (JJ natural) (JJ heterosexual) (NN contact))))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (UCP (PP (IN about) (NP (NNS politics))) (CC and#0#0) (SBAR (IN whether) (FRAG (CC or#1#0) (RB not) (NP (DT the) (NN lie)))))) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB get) (NP (JJR more) (NNS votes)))))) (. .)))

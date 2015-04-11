@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (DT any) (NN headway)) (VP (MD will) (VP (VB take) (NP (JJ many) (NNS years))))))) (. .)))

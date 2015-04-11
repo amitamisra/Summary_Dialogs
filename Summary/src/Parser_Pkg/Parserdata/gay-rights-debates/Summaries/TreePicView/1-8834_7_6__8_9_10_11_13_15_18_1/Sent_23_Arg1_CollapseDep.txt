@@ -1,8 +1,0 @@
-root(ROOT-0, use-4)
-advmod(use-4, How-1)
-aux(use-4, will-2)
-nsubj(use-4, states-3)
-det(choice-6, the-5)
-dobj(use-4, choice-6)
-nn(doctrine-9, law-8)
-prep_of(choice-6, doctrine-9)

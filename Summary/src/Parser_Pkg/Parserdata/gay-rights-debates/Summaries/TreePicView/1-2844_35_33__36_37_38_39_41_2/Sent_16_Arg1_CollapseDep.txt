@@ -1,8 +1,0 @@
-root(ROOT-0, states-2)
-nsubj(states-2, He-1)
-nsubj(theme-7, decentralization-3)
-cop(theme-7, was-4)
-det(theme-7, a-5)
-amod(theme-7, big-6)
-ccomp(states-2, theme-7)
-prep_for(theme-7, Jefferson-9)

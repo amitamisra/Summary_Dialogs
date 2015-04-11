@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (PRP He)) (VP (VBZ believes) (SBAR (S (NP (CD one)) (VP (MD should) (VP (VB have) (NP (NP (NN proof)) (PP (IN of) (NP (DT any) (NNS claims)))))))))) (NP (PRP they)) (VP (VBP make)) (. .)))

@@ -1,8 +1,0 @@
-root(ROOT-0, reasoning-10)
-csubj(reasoning-10, appealing-1)
-det(definition-5, the-3)
-amod(definition-5, traditional-4)
-prep_to(appealing-1, definition-5)
-prep_of(definition-5, marriage-7)
-cop(reasoning-10, is-8)
-amod(reasoning-10, circular-9)

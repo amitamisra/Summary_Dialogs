@@ -1,6 +1,7 @@
 eclipse.preferences.version=1
 encoding//src/Parser_Pkg/singapore_Parser.py=utf-8
 encoding//src/Similarity_Labels/CreateFeatures.py=utf8
+encoding//src/Similarity_Labels/CreateFeatures_LIWC_All.py=utf8
 encoding//src/data_pkg/FileHandling.py=utf8
 encoding//src/data_pkg/Mechanical_Turk_csv_Mt2_mid.py=utf8
 encoding//src/data_pkg/Mechanical_Turk_csv_gay_rights.py=utf8

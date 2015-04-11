@@ -1,6 +1,0 @@
-root(ROOT-0, violates-2)
-nsubj(violates-2, it-1)
-det(rights-6, the-3)
-amod(rights-6, First-4)
-nn(rights-6, amendment-5)
-dobj(violates-2, rights-6)

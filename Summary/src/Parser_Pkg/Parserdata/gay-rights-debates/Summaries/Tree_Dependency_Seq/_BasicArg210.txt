@@ -1,2 +1,0 @@
-root(ROOT-0, hopes-2)
-nsubj(hopes-2, he-1)

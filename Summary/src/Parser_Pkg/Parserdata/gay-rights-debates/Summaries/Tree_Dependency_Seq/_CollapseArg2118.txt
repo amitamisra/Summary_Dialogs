@@ -1,2 +1,0 @@
-root(ROOT-0, S2-2)
-dep(S2-2, questions-4)

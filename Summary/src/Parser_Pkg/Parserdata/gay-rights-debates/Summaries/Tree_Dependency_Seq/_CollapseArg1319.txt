@@ -1,4 +1,0 @@
-root(ROOT-0, real-4)
-det(group-2, the-1)
-nsubj(real-4, group-2)
-cop(real-4, is-3)

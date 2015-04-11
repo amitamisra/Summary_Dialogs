@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ anticipates) (S (NP (NP (DT the) (NNS responses)) (PP (IN of) (NP (NN S2) (CC and#0#0) (NNS questions) (NNS S2s)))) (NP (NN ability) (S (VP (TO to) (VP (VB learn) (PP (IN from) (NP (DT the) (NN debate))))))))) (. .)))

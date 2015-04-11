@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT Both) (NN S1) (CC and#1#0) (NN S2)) (VP (VBP have) (VP (VBN had) (NP (NN experience)) (PP (IN with) (NP (NP (NN marriage)) (, ,) (NP (NP (NN S2) (NNS states)) (SBAR (WHNP (WDT that)) (S (NP (NN marriage) (NNS benefits)) (VP (VBP are) (ADJP (JJ good) (PP (IN because#0#0) (PP (IN of) (NP (NN government) (NN intervention))))))))))))) (. .)))

@@ -1,4 +1,0 @@
-root(ROOT-0, attacks-2)
-nn(attacks-2, S2-1)
-dep(attacks-2, S1-3)
-prep(S1-3, by-4)

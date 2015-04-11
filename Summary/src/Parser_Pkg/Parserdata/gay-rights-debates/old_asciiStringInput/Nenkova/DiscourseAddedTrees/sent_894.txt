@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NNS theominionists)) (VP (VBZ is) (NP (NP (DT a) (JJ fictional) (NN group)) (VP (VBN created) (PP (IN by) (NP (JJ radical) (JJ left-leaning) (NNS groups))) (S (VP (TO to) (VP (VB demonize) (NP (NNP Christianity))))))))))) (. .)))

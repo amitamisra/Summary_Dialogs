@@ -1,5 +1,0 @@
-root(ROOT-0, indicates-4)
-nsubj(indicates-4, S2-2)
-xcomp(indicates-4, playing-5)
-nsubj(advocate-7, devils-6)
-ccomp(playing-5, advocate-7)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ proposes) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ easy) (PP (IN for) (NP (NN S2)))) (S (VP (TO to) (VP (VB be) (ADJP (JJ unsympathetic) (PP (IN because) (NP (NN S2) (NN dislikes) (NN religion))))))))))) (. .)))

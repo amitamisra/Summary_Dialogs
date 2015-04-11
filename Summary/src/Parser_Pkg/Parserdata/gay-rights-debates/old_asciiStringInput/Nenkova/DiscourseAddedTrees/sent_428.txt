@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNS Gay) (NN marriage)) (VP (VBD was) (VP (VBN considered) (ADVP (RB just) (RB as#1#0)) (ADVP (RB much) (NP (DT a) (NN taboo)) (PP (IN as#2#0) (NP (NN incest) (CC or#0#0) (NN polygamy)) (ADVP (NP (RB just) (DT a) (JJ few) (NNS years)) (RB ago)))))) (. .)))

@@ -1,4 +1,0 @@
-( Root (span 1 2)
-  ( Nucleus (leaf 1) (rel2par Joint) (text _!_!He argues that single parent families are natural!__!) )
-  ( Nucleus (leaf 2) (rel2par Joint) (text _!_!and suggests that time will decide which side is right . <s>!__!) )
-)

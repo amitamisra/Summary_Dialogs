@@ -1,5 +1,0 @@
-root(ROOT-0, get-4)
-poss(girlfriend-2, his-1)
-nsubj(get-4, girlfriend-2)
-aux(get-4, can-3)
-dobj(get-4, benefits-5)

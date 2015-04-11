@@ -1,1 +1,0 @@
-(ROOT (UCP (NP (NP (NNS Talks)) (PP (IN about) (NP (DT the) (JJ Healthy) (NNP Marriage) (NNP Initiative)))) (CC and) (SBAR (WHADVP (WRB how)) (S (NP (DT some) (JJ mean-spirited) (NNS hypocrites)) (VP (VBP want) (NP (DT the) (NN government)) (PRT (RP out)) (PP (IN for) (NP (DT the) (JJ wrong) (NNS reasons))))) (. .))))

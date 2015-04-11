@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (NNS states)) (NP (PRP he)) (VP (VP (VBZ is) (NP (DT a) (JJ Jeffersonian) (NN liberal))) (CC and) (VP (VBZ believes) (PP (IN in) (NP (DT the) (NNP Constitution))) (SBAR (IN as) (S (S (VP (VBN written))) (CC and) (S (NP (DT the) (NNS people) (POS 's)) (X (MD will))))))) (. .)))

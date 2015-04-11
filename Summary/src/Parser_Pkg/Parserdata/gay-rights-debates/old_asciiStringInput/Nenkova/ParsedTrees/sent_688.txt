@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ ends) (PP (IN by) (S (VP (VBG stating) (SBAR (S (NP (DT those)) (VP (MD would) (RB not) (VP (VB be) (ADJP (JJ possible) (NP-TMP (NN today)) (PP (IN because) (PP (IN of) (NP (DT the) (JJ 13th) (NN amendment))))))))))))) (. .)))

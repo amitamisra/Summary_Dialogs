@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NN S2) (NNS remarks)) (SBAR (WHNP (WDT that)) (S (NP (NN S1)) (VP (VBZ is) (ADVP (RB only)))))) (VP (VBN concerned) (PP (IN with) (NP (NP (DT the) (NNS rights)) (PP (IN of) (NP (NP (JJ gay)) (CC and#0#0) (NP (DT the) (JJ anti-gay) (NNP Christianity))))))) (. .)))

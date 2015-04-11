@@ -1,8 +1,0 @@
-root(ROOT-0, faith-6)
-csubj(faith-6, preventing-1)
-amod(marriage-3, gay-2)
-dobj(preventing-1, marriage-3)
-cop(faith-6, is-4)
-advmod(faith-6, simply-5)
-vmod(faith-6, based-7)
-dobj(based-7, hate-8)

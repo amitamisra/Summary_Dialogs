@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP seem) (S (VP (TO to) (VP (VB get) (ADJP (VBN annoyed) (PP (IN with) (NP (DT each) (JJ other)))) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NN dialog))))))))) (. .)))

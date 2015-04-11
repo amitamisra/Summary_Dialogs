@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ advises) (SBAR (S (NP (NP (DT the) (NN bulk)) (PP (IN of) (NP (DT the) (NNS arguments)))) (VP (VBD were) (VP (VBN based) (PP (IN on) (NP (NP (NN state) (NNS constitutions)) (SBAR (WHNP (WDT which)) (S (VP (VBP mirror) (NP (DT the) (JJ federal) (NN constitution)))))))))))) (. .)))

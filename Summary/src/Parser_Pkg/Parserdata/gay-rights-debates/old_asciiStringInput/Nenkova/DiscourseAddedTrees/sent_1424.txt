@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NP (NNP California) (POS 's)) (NN ban)) (PRN (-LRB- -LRB-) (VP (VBG being) (VP (VBN reviewed) (PP (IN by) (NP (DT the) (JJ 9th))))) (-RRB- -RRB-))) (VP (VBZ is) (ADVP (RB likewise#0#0)) (ADVP (RB about) ('' '')) (NP (NP (DT the) (NNS voters)) ('' '') (CC and#1#0) (NP (PRP$ their) (VBN desired) (NN definition)))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (FRAG (NP (NN S1)) (: :) (S (NP (NNP Religion)) (VP (VP (VBZ is) (NP (DT a) (JJ good) (NN tool)) (S (VP (TO to) (VP (VB guide) (NP (NP (CD one) (POS 's)) (JJ own) (NNS actions)))))) (, ,) (CC but#0#0) (VP (RB not) (PP (IN for#1#0) (S (VP (VBG telling) (NP (NNS others)) (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB live))))))))))) (. .)))

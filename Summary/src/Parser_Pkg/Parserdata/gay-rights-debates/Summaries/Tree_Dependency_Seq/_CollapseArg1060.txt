@@ -1,3 +1,0 @@
-root(ROOT-0, is-1)
-amod(marriage-4, gay-3)
-prep_like(is-1, marriage-4)

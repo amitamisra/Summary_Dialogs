@@ -1,6 +1,0 @@
-root(ROOT-0, believes-2)
-nsubj(believes-2, S1-1)
-nsubj(have-4, they-3)
-ccomp(believes-2, have-4)
-amod(similarities-6, many-5)
-dobj(have-4, similarities-6)

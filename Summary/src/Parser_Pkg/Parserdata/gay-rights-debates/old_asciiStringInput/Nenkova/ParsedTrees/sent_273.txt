@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (IN that) (S (NP (DT the) (NN term) (`` ``) (NN liberalism) ('' '')) (VP (VBZ has) (NP (NP (DT a) (JJ different) (NN meaning)) (ADJP (JJ different) (PP (VBN compared) (PP (TO to) (NP (NP (DT the) (NN time)) (PP (IN of) (NP (NNP Thomas) (NNP Jefferson)))))))))))) (. .)))

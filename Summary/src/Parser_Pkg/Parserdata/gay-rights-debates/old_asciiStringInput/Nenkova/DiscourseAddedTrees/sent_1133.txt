@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (S (VP (VBG allowing) (NP (NNS gays)) (S (VP (TO to) (VP (VB marry)))))) (VP (MD will) (VP (VB open) (PRT (RP up)) (NP (DT the) (NN door) (S (VP (TO to) (VP (VB legalize) (NP (NP (JJ other) (NNS types)) (PP (IN of) (NP (NP (NN marriage)) (PP (JJ such) (IN as#0#0) (NP (NN polygamy))))))))))))))) (. .)))

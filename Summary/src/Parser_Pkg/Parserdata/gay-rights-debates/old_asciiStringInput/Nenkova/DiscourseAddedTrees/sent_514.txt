@@ -1,1 +1,0 @@
-(ROOT (S (PP (VBG According) (PP (TO to) (NP (NN S1)))) (, ,) (NP (NP (NN S2) (NNS talks)) (PP (IN about) (NP (NNP Paul) (NNP Cameron)))) (ADVP (CC and#1#0)) (VP (VBZ makes) (S (NP (PRP it)) (VP (VB seem) (SBAR (IN as#0#Expansion) (IN if#0#Expansion) (S (NP (PRP he)) (VP (VBZ is) (NP (NP (DT the) (NN voice)) (PP (IN of) (NP (DT the) (NNPS Republicans)))))))))) (. .)))

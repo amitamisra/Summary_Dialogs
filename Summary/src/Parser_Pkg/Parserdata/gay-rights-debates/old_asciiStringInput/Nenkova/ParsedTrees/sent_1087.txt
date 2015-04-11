@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBD said) (SBAR (IN that) (S (S (VP (VBG offending) (NP (NP (DT the) (NNS sensibilities)) (PP (IN of) (NP (NNS people)))))) (VP (VBZ does) (RB not) (VP (VB constitute) (NP (NN harm))))))) (. .)))

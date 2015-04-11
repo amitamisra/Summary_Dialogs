@@ -1,5 +1,0 @@
-root(ROOT-0, promiscuous-4)
-nsubj(promiscuous-4, homosexuals-1)
-cop(promiscuous-4, are-2)
-advmod(promiscuous-4, more-3)
-prep_than(promiscuous-4, heterosexuals-6)

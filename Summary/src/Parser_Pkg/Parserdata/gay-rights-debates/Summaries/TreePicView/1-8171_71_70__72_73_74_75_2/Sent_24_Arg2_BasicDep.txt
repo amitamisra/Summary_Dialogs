@@ -1,4 +1,0 @@
-root(ROOT-0, being-1)
-prep(being-1, for-2)
-amod(rights-4, gay-3)
-pobj(for-2, rights-4)

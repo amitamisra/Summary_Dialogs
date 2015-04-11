@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VP (VBZ asks) (PP (IN for#1#0) (NP (JJ objective) (NN evidence)))) (CC and#0#0) (VP (VBZ thinks) (SBAR (S (NP (NP (NP (NN S1) (POS 's)) (NN lack)) (PP (IN of) (NP (NN evidence)))) (VP (VBZ proves) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NN none)))))))))) (. .)))

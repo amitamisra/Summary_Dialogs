@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (MD might) (ADVP (RB as#0#0) (RB well#0#0)) (VP (VB have) (VP (VBD said) (SBAR (IN that) (S (SBAR (IN since#1#Contingency) (S (NP (NNP John) (NNP Lennon)) (VP (VBD attacked) (NP (NN religion))))) (, ,) (NP (NNS thenemocrats)) (VP (VBP hate) (NP (NN religion)))))))) (. .)))

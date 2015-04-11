@@ -1,5 +1,0 @@
-root(ROOT-0, had-3)
-det(societies-2, the-1)
-nsubj(had-3, societies-2)
-amod(liaisons-5, homosexual-4)
-dobj(had-3, liaisons-5)

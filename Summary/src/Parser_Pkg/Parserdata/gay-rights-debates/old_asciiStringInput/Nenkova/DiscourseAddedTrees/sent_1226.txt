@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NN S2) (NNS finishes)) (PP (IN by) (S (VP (VBG telling) (NP (NN S1)) (NP (PRP we)))))) (VP (VP (MD should) (RB not) (VP (VB label) (NP (NNS politicians)))) (CC and#0#0) (VP (VBP expect) (NP (PRP them)) (S (VP (TO to) (VP (VB do) (CC and#1#0) (VB say) (NP (DT the) (NN right) (, ,) (JJ honest) (NN thing))))))) (. .)))

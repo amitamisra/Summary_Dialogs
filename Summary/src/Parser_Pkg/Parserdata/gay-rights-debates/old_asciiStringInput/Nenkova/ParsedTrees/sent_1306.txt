@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN built) (PRT (RP up)) (NP (NN toxicity)) (PP (IN from) (NP (NP (PDT all) (DT the) (JJ anti-gay) (NN rhetoric)) (SBAR (WHNP (WDT that)) (S (VP (VBZ reaches) (NP (DT a) (JJ boiling) (NN point))))))))) (. .)))

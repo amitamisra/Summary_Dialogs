@@ -1,5 +1,0 @@
-root(ROOT-0, made-5)
-det(point-2, the-1)
-nsubjpass(made-5, point-2)
-aux(made-5, has-3)
-auxpass(made-5, been-4)

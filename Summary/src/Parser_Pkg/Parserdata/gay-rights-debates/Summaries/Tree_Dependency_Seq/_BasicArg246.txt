@@ -1,3 +1,0 @@
-root(ROOT-0, prejudice-3)
-nsubj(prejudice-3, this-1)
-cop(prejudice-3, is-2)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ is) (ADJP (VBN surprised) (PP (IN at) (NP (NP (NN S1s) (NN affinity)) (PP (IN for#0#0) (NP (NP (DT the) (NN harm) (NN principle)) (VP (VBN given) (SBAR (IN that) (S (NP (NN S1)) (VP (VBZ has) (VP (VBN expressed) (S (VP (VBG being) (PP (IN at) (NP (NN war))) (PP (IN with) (NP (JJ evangelical) (JJ anti-gay) (NN christianity)))))))))))))))) (. .)))

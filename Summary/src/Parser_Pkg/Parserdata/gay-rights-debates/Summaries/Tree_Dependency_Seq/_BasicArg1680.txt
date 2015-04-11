@@ -1,4 +1,0 @@
-root(ROOT-0, wants-2)
-nsubj(wants-2, he-1)
-nsubj(overturned-4, it-3)
-dep(wants-2, overturned-4)

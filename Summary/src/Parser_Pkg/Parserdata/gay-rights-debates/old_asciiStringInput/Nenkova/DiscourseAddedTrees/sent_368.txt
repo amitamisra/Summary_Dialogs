@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ supports) (NP (PRP$ his) (NN theory)) (PP (IN by) (S (VP (VBG citing) (NP (DT the) (JJ constitutional) (NN amendment)) (S (VP (TO to) (VP (VB ban) (NP (CC both) (NP (JJ gay) (NN marriage)) (CC and#0#0) (NP (JJ same) (NN sex) (JJ civil) (NNS unions)))))))))) (. .)))

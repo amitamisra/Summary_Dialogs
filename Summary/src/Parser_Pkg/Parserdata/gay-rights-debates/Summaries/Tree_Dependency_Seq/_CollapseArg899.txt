@@ -1,6 +1,0 @@
-root(ROOT-0, knew-2)
-nsubj(knew-2, people-1)
-mark(occurred-6, that-3)
-amod(sex-5, gay-4)
-nsubj(occurred-6, sex-5)
-ccomp(knew-2, occurred-6)

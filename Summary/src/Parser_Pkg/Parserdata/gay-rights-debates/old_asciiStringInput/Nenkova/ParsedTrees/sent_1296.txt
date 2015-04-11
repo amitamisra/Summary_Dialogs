@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (NN anyone)) (ADVP (RB here)) (VP (MD would) (SBAR (IN with) (S (NP (NP (NN S2)) (SBAR (WHNP (WDT that)) (S (VP (VBZ gays))))) (VP (MD should) (RB n't) (VP (VB experience) (NP (NN violence) (CC and) (NN name-calling)))))))))) (. .)))

@@ -1,7 +1,0 @@
-root(ROOT-0, task-7)
-csubj(task-7, recognizing-1)
-nn(marriages-3, group-2)
-dobj(recognizing-1, marriages-3)
-cop(task-7, is-4)
-det(task-7, a-5)
-amod(task-7, huge-6)

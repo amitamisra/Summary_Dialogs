@@ -1,7 +1,0 @@
-root(ROOT-0, marry-5)
-det(man-3, a-1)
-amod(man-3, straight-2)
-nsubj(marry-5, man-3)
-aux(marry-5, can-4)
-poss(girlfriend-7, his-6)
-dobj(marry-5, girlfriend-7)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBD used) (NP (NP (DT the) (NN example)) (PP (IN of) (NP (NP (NNS kids)) (VP (VBG being) (VP (VBN taught) (PP (IN about) (NP (NP (JJ gay) (NN marriage)) (PP (IN in) (NP (NN school))))) (PP (IN as#0#0) (NP (DT a) (NN threat))))))))) (. .)))

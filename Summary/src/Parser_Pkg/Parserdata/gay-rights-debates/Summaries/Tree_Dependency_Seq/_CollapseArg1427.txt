@@ -1,8 +1,0 @@
-root(ROOT-0, unknown-10)
-det(origin-2, the-1)
-nsubj(unknown-10, origin-2)
-prep_of(origin-2, AIS-4)
-det(States-8, the-6)
-nn(States-8, United-7)
-prep_in(AIS-4, States-8)
-cop(unknown-10, is-9)

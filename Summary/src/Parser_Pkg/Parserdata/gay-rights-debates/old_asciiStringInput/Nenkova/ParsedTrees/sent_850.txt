@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (DT The) (NN goal)) (PP (IN of) (NP (JJ gay) (NN marriage) (NNS supporters)))) (VP (VBZ is) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB get) (S (VP (VBN married))) (: -) (S (RB not) (VP (TO to) (VP (VB broaden) (NP (NN marriage))))))))))))) (. .)))

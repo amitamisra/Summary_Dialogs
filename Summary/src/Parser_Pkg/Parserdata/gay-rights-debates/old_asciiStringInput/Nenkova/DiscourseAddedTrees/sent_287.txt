@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NNP Coretta) (NNP Scott) (NNP King) (CC and#0#0) (NNP Jillian) (NNP Bond)) (VP (VBP are) (PP (IN against) (NP (JJ gay) (NNS rights))))))) (. .)))

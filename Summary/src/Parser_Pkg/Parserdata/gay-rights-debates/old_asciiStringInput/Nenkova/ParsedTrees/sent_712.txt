@@ -1,1 +1,0 @@
-(ROOT (S (SBAR (IN If) (S (NP (PRP she)) (VP (VBZ is) (ADJP (JJ free) (S (VP (TO to) (VP (VB do) (NP (DT this))))))))) (, ,) (NP (RB then)) (ADVP (RB so)) (VP (VBZ is) (NP (NN S1))) (. .)))

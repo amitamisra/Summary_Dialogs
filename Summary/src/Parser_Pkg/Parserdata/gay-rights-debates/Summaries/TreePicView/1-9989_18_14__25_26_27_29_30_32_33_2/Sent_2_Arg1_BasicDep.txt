@@ -1,5 +1,0 @@
-root(ROOT-0, served-2)
-nsubj(served-2, S1-1)
-prep(served-2, in-3)
-det(military-5, the-4)
-pobj(in-3, military-5)

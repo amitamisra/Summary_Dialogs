@@ -1,7 +1,0 @@
-root(ROOT-0, get-4)
-det(government-2, the-1)
-nsubj(get-4, government-2)
-aux(get-4, should-3)
-det(business-9, the-7)
-nn(business-9, marriage-8)
-prep_out_of(get-4, business-9)

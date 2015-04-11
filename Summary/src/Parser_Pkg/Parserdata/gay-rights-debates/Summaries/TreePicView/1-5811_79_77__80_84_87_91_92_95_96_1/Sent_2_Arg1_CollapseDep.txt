@@ -1,4 +1,0 @@
-root(ROOT-0, claim-2)
-nsubj(claim-2, people-1)
-dobj(claim-2, religion-3)
-prep_in(religion-3, morals-5)

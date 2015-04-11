@@ -1,7 +1,0 @@
-root(ROOT-0, matters-2)
-nsubj(matters-2, It-1)
-dobj(matters-2, what-3)
-det(majority-5, the-4)
-tmod(matters-2, majority-5)
-dep(majority-5, votes-6)
-prep(matters-2, on-7)

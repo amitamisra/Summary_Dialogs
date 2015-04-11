@@ -1,6 +1,0 @@
-root(ROOT-0, commonplace-6)
-amod(marriage-2, same-sex-1)
-nsubj(commonplace-6, marriage-2)
-aux(commonplace-6, has-3)
-neg(commonplace-6, never-4)
-cop(commonplace-6, been-5)

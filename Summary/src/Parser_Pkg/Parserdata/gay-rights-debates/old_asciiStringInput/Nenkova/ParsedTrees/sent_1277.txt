@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ is) (ADVP (RB once) (RB again) (SBAR (S (VP (VBZ gets) (VP (VBN angered) (PP (IN by) (NP (NP (DT the) (NNS generalizations)) (VP (VBN used) (PP (IN by) (NP (NN S2))))))))))) (, ,) (SBAR (IN because) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB represent) (NP (PRP$ his) (NN point))))))) (. .)))

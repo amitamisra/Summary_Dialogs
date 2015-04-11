@@ -1,3 +1,0 @@
-root(ROOT-0, official-3)
-det(official-3, a-1)
-amod(official-3, public-2)

@@ -1,1 +1,0 @@
-(ROOT (S (CC But#0#Comparison) (SBAR (IN if#1#Contingency) (S (NP (JJ enough) (NNS people)) (VP (VBD wanted) (NP (JJ legal) (JJ polygamous) (NN marriage))))) (, ,) (NP (DT the) (NNS laws)) (VP (MD would) (VP (VB be) (VP (VBN passed)))) (. .)))

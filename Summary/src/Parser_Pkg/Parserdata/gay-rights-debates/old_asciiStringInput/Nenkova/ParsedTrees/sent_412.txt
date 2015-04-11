@@ -1,1 +1,0 @@
-(ROOT (FRAG (ADVP (RB Also)) (SBAR (IN that) (S (NP (NNS taboos)) (VP (VBP are) (VP (VBN constructed) (PP (IN on) (NP (NP (DT the) (NN basis)) (PP (IN of) (NP (NP (NNS peoples) (NN reasoning)) (, ,) (NP (NNS indications)) (CC and) (NP (NNS practices)))))))))) (. .)))

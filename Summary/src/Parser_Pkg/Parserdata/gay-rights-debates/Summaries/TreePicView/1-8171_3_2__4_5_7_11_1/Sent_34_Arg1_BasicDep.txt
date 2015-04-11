@@ -1,3 +1,0 @@
-root(ROOT-0, popular-3)
-aux(popular-3, to-1)
-cop(popular-3, become-2)

@@ -1,4 +1,0 @@
-root(ROOT-0, broadened-4)
-nsubjpass(broadened-4, Marriage-1)
-aux(broadened-4, would-2)
-auxpass(broadened-4, be-3)

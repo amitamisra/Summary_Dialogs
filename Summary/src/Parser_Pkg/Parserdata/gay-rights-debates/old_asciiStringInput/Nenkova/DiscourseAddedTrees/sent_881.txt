@@ -1,1 +1,0 @@
-(ROOT (S (ADVP (RB Also#0#Expansion)) (, ,) (NP (PRP he)) (VP (VP (VBZ thinks) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ corrupt) (S (VP (TO to) (VP (VB post) (NP (DT an) (NN article)))))))))) (CC but#1#0) (VP (VBP withhold) (NP (DT the) (NN source) (NN link)))) (. .)))

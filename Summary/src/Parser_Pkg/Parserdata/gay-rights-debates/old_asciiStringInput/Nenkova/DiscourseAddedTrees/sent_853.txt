@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP state) (SBAR (IN that) (S (NP (NP (NNS opponents)) (PP (IN of) (NP (JJ homosexual) (NN marriage)))) (VP (VB tend) (S (VP (TO to) (VP (VB argue) (SBAR (IN that) (S (NP (NP (DT a) (NN change)) (PP (TO to) (NP (NN marriage) (NN law)))) (VP (MD would) (VP (VB make) (S (NP (PRP it)) (ADJP (RB too) (JJ open)) (S (VP (VBN ended))))))))))))))) (. .)))

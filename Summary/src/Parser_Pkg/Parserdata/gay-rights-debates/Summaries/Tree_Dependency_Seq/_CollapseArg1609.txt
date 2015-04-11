@@ -1,6 +1,0 @@
-root(ROOT-0, necessary-3)
-nsubj(necessary-3, it-1)
-cop(necessary-3, is-2)
-aux(redefine-5, to-4)
-xcomp(necessary-3, redefine-5)
-dobj(redefine-5, marriage-6)

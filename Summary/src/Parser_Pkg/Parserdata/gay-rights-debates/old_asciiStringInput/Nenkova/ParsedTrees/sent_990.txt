@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (JJ same-sex) (NN marriage)) (VP (VBZ has) (ADVP (RB never)) (VP (VBN been) (ADJP (JJ commonplace))))))) (. .)))

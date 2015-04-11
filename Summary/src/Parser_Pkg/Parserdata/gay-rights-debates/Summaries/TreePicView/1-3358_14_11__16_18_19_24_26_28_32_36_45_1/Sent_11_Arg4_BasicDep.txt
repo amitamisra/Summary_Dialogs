@@ -1,5 +1,0 @@
-root(ROOT-0, states-2)
-nsubj(states-2, he-1)
-mark(prove-5, that-3)
-nsubj(prove-5, statistics-4)
-ccomp(states-2, prove-5)

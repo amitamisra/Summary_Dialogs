@@ -1,6 +1,0 @@
-root(ROOT-0, prejudice-4)
-nsubj(prejudice-4, S2-1)
-aux(prejudice-4, is-2)
-aux(prejudice-4, being-3)
-amod(people-7, religious-minded-6)
-prep_against(prejudice-4, people-7)

@@ -1,3 +1,0 @@
-root(ROOT-0, serving-1)
-det(military-4, the-3)
-prep_in(serving-1, military-4)

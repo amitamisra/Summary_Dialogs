@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN Marriage)) (VP (MD would) (VP (VB be) (VP (VBN broadened) (SBAR (IN if) (S (NP (JJ gay) (NN marriage)) (VP (VBZ is) (VP (VBN made) (S (ADJP (JJ legal))) (, ,) (SBAR (IN whether) (S (NP (DT that)) (VP (VBZ is) (NP (NP (DT the) (NN goal)) (PP (IN of) (NP (JJ gay) (NN marriage)))))) (CC or) (RB not))))))))) (. .)))

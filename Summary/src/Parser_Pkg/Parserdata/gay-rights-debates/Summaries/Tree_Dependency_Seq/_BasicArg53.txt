@@ -1,8 +1,0 @@
-root(ROOT-0, classified-3)
-nsubjpass(classified-3, marriage-1)
-auxpass(classified-3, is-2)
-prep(classified-3, by-4)
-det(contract-7, a-5)
-amod(contract-7, heterosexual-6)
-pobj(by-4, contract-7)
-advmod(classified-3, and-8)

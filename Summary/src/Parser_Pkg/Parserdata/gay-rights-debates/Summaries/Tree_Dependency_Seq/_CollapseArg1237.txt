@@ -1,4 +1,0 @@
-root(ROOT-0, finds-2)
-nsubj(finds-2, S1-1)
-nsubj(acceptable-4, it-3)
-xcomp(finds-2, acceptable-4)

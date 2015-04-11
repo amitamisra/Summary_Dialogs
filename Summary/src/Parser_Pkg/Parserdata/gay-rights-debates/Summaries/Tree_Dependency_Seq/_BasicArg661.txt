@@ -1,7 +1,0 @@
-root(ROOT-0, heartless-3)
-nsubj(heartless-3, conservatives-1)
-cop(heartless-3, are-2)
-cc(heartless-3, and-4)
-aux(care-7, do-5)
-neg(care-7, n't-6)
-conj(heartless-3, care-7)

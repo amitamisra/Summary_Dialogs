@@ -1,4 +1,0 @@
-root(ROOT-0, serving-1)
-prep(serving-1, in-2)
-det(military-4, the-3)
-pobj(in-2, military-4)

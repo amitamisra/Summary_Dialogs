@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (WHADVP (WRB whenever)) (S (NP (NNS gays)) (VP (VBP are) (ADJP (VBN involved) (SBAR (S (NP (NP (DT a) (NN group)) (PP (IN of) (NP (NNS people)))) (ADVP (RB always)) (VP (VBZ opposes))))))))) (. .)))

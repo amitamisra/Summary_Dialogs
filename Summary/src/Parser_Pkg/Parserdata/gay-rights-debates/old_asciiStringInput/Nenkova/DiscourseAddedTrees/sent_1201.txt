@@ -1,1 +1,0 @@
-(ROOT (NP (NP (DT The) (JJ particular) (NN case)) (PP (IN of) (NP (NP (NNP Biden)) (SBAR (WHNP (WP who)) (S (VP (VBD stated) (PP (IN that) (NP (JJ doesnt) (NN support) (JJ gay) (NN marriage)))))))) (. .)))

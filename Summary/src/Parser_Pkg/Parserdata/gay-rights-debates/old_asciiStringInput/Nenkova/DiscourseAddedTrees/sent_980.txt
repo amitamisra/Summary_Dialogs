@@ -1,1 +1,0 @@
-(ROOT (S (PP (IN In) (NP (DT some) (NNS cases))) (NP (PRP they)) (VP (VBD were) (ADVP (RB even)) (VP (VBN frowned) (PP (IN upon)))) (. .)))

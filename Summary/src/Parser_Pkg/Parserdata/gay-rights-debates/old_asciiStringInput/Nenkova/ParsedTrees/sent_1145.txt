@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ believes) (SBAR (S (NP (NP (NN anything)) (VP (VBN opposed) (PP (TO to) (NP (CD one) (NN wing))))) (VP (MD must) (VP (VB be) (NP (DT the) (JJ other))))))) (. .)))

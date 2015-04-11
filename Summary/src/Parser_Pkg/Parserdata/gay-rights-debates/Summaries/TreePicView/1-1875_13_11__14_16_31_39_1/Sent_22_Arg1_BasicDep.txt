@@ -1,4 +1,0 @@
-root(ROOT-0, applies-2)
-nsubj(applies-2, healthcare-1)
-prep(applies-2, to-3)
-pobj(to-3, spouses-4)

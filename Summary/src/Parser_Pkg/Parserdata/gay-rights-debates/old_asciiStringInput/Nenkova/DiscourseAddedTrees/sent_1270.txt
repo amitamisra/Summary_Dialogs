@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NP (NNP Biden)) (VP (VBG saying) (NP (DT this)))) (VP (VBZ is) (ADJP (JJ inconsistent))))))) (, ,) (CC and#1#Expansion) (S (NP (PRP it)) (VP (MD should) (VP (VB bother) (NP (NN S2)) (SBAR (IN because#0#Contingency) (S (NP (NN S2)) (VP (VBZ is) (PP (IN for#2#0) (NP (JJ gay) (NN marriage))))))))) (. .)))

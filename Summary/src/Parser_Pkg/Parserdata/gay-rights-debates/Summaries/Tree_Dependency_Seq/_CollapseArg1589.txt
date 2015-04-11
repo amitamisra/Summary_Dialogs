@@ -1,3 +1,0 @@
-root(ROOT-0, hates-2)
-nsubj(hates-2, S1-1)
-dobj(hates-2, gays-3)

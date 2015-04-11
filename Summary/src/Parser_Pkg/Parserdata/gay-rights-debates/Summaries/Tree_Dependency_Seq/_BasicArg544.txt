@@ -1,8 +1,0 @@
-root(ROOT-0, trying-4)
-advmod(Christians-2, most-1)
-nsubj(trying-4, Christians-2)
-aux(trying-4, are-3)
-aux(ban-6, to-5)
-xcomp(trying-4, ban-6)
-amod(unions-8, homosexual-7)
-dobj(ban-6, unions-8)

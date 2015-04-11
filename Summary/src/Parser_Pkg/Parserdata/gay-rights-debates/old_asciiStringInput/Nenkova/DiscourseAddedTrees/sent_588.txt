@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ feels) (SBAR (S (NP (NN S2)) (VP (VBZ does) (RB not) (VP (VB have) (S (NP (NP (DT a) (JJ firm) (NN grasp)) (PP (IN of) (NP (JJ historical) (NNS facts)))) (ADJP (JJ due) (PP (TO to) (NP (NP (DT the) (NNS points)) (VP (VBN made))))))))))) (. .)))

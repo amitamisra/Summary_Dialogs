@@ -1,7 +1,0 @@
-root(ROOT-0, laws-2)
-amod(laws-2, many-1)
-prep(laws-2, against-3)
-amod(polygamy-7, gay-4)
-nn(polygamy-7, marriage-5)
-nn(polygamy-7, outlaw-6)
-pobj(against-3, polygamy-7)

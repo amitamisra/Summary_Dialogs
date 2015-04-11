@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (S (VP (VBG forcing) (S (NP (PRP them)) (VP (TO to) (VP (VB do) (ADVP (RB so)) (PP (IN against) (NP (PRP$ their) (NNS beliefs)))))))) (VP (MD would) (VP (VB infringe) (PP (IN on) (NP (PRP$ their) (JJ religious) (NN freedom)))))))) (. .)))

@@ -1,6 +1,0 @@
-root(ROOT-0, pay-4)
-det(politicians-2, the-1)
-nsubj(pay-4, politicians-2)
-aux(pay-4, will-3)
-det(price-6, a-5)
-dobj(pay-4, price-6)

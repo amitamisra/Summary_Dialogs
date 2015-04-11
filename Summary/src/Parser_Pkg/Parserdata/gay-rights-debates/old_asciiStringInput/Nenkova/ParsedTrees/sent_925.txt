@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG discussing) (NP (NP (DT the) (NN onslaught)) (PP (IN of) (NP (NNP AIS)))) (PP (IN in) (NP (DT the) (NNP United) (NNPS States))))) (. .)))

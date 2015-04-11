@@ -1,1 +1,0 @@
-(ROOT (S (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-) (NNS questions)) (SBAR (WHADVP (WRB how)) (S (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-)) (NP (JJ religious) (NNS rights)) (VP (VBP are) (VP (VP (VBN taken) (PRT (RP away))) (CC or) (VP (VBN harmed)))))) (. .)))

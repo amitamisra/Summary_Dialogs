@@ -1,4 +1,0 @@
-root(ROOT-0, have-4)
-advmod(have-4, Now-1)
-det(religions-3, the-2)
-nsubj(have-4, religions-3)

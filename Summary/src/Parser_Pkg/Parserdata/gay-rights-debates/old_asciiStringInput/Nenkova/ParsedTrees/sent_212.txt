@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ uses) (NP (DT the) (NN example)) (SBAR (IN that) (S (NP (DT a) (NN cat)) (VP (MD can) (RB not) (VP (VB be) (VP (VBN called) (NP (DT a) (NN dog)) (SBAR (RB just) (IN because) (S (NP (NN someone)) (VP (VBZ wants) (PP (TO to))))))))))) (. .)))

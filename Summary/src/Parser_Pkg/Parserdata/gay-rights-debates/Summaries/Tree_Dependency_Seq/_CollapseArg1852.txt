@@ -1,5 +1,0 @@
-root(ROOT-0, use-2)
-nsubj(use-2, both-1)
-dobj(use-2, it-3)
-amod(ways-6, different-5)
-prep_in(use-2, ways-6)

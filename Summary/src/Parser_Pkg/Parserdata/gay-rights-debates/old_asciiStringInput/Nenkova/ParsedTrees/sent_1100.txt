@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT The) (NN speaker)) (ADVP (RB also)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NN world)) (VP (VBZ is) (RB not) (ADJP (IN as) (JJ anti-gay)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD used) (S (VP (TO to) (VP (VB be))))))))))) (. .)))

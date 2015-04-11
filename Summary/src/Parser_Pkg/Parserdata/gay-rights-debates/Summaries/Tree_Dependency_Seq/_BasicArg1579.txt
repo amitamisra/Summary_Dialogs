@@ -1,4 +1,0 @@
-root(ROOT-0, denied-2)
-nsubj(denied-2, he-1)
-xcomp(denied-2, hating-3)
-dobj(hating-3, gays-4)

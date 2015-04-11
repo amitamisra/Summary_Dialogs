@@ -1,7 +1,0 @@
-root(ROOT-0, able-4)
-nsubj(able-4, S1-1)
-aux(able-4, would-2)
-cop(able-4, be-3)
-aux(choose-6, to-5)
-xcomp(able-4, choose-6)
-dobj(choose-6, whomever-7)

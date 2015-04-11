@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (NN S2)) (VP (VBZ contends) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (RB not) (ADVP (RB legally)) (VP (VBN recognized) (ADVP (RB simply)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP 're) (ADJP (JJ gay))))))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (NP (JJ circular) (NN reasoning)))) (. .)))

@@ -1,7 +1,0 @@
-root(ROOT-0, eligible-5)
-advmod(eligible-5, typically-1)
-advmod(spouses-3, only-2)
-nsubj(eligible-5, spouses-3)
-cop(eligible-5, are-4)
-nn(care-8, health-7)
-prep_for(eligible-5, care-8)

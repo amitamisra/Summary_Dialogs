@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ says) (SBAR (S (NP (PRP they)) (VP (VBD were) (VP (VBG referring) (PP (TO to) (NP (NN namecalling) (CC and#0#0) (NN violence))) (PP (IN from) (NP (NP (DT the) (JJ original) (NN post)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBG opposing) (NP (JJ gay) (NNS rights))))))))))))) (. .)))

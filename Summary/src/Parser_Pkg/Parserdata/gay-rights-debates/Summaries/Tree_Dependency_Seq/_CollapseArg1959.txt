@@ -1,3 +1,0 @@
-root(ROOT-0, starts-3)
-advmod(starts-3, where-1)
-nsubj(starts-3, it-2)

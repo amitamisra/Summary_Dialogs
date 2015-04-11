@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ says) (S (NP (PRP he)) (VP (VB doesnt) (NP (NN care)) (PP (IN about) (S (NP (NP (DT the) (NN inconsistency)) (PP (IN of) (NP (CD one)))) (VP (VBG supporting) (NP (NP (JJ gay) (NNS rights)) (CC and) (RB not) (NP (JJ gay) (NN marriage))))))))) (. .)))

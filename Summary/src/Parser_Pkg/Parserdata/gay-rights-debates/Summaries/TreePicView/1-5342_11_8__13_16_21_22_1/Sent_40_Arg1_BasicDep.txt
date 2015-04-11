@@ -1,6 +1,0 @@
-root(ROOT-0, making-3)
-nsubj(making-3, he-1)
-aux(making-3, is-2)
-det(generalization-6, a-4)
-amod(generalization-6, ridiculous-5)
-dobj(making-3, generalization-6)

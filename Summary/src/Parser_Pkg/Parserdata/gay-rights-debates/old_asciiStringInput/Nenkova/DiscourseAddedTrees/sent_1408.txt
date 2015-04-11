@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (-LRB- -LRB-) (NN S1) (-RRB- -RRB-)) (ADVP (RB also#0#0))) (VP (VBZ mentions) (SBAR (IN that) (S (NP (EX there)) (VP (VP (VBP are) (NP (NP (NNS photos)) (PP (IN in) (NP (DT the) (NN web))))) (CC and#1#0) (VP (VBZ offers) (S (VP (TO to) (VP (VB debate) (PP (IN about) (NP (DT the) (NN topic))))))))))) (. .)))

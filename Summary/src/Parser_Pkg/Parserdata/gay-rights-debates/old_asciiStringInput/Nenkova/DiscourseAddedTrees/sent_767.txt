@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT The) (NN woman)) (VP (VBZ is) (ADVP (RB just)) (VP (VBG trying) (S (VP (TO to) (VP (VB keep) (NP (JJ gay) (NNS people)) (ADVP (IN out) (PP (IN of) (NP (NN marriage)))) (S (VP (TO to) (VP (VB preserve) (NP (PRP$ her) (JJ heterosexual) (NN privilege)))))))))) (. .)))

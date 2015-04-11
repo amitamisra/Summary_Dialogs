@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VP (VBZ disagrees) (PP (IN with) (NP (NP (DT the) (NNS statements)) (VP (VBN made))))) (CC and) (VP (VBZ gives) (NP (NNS links)) (PP (TO to) (NP (NP (NN info)) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (JJ related) (PP (TO to)))))))))) (. .)))

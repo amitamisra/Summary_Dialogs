@@ -1,6 +1,0 @@
-root(ROOT-0, banned-4)
-nsubjpass(banned-4, buses-1)
-aux(banned-4, should-2)
-auxpass(banned-4, be-3)
-nn(York-7, New-6)
-prep_in(banned-4, York-7)

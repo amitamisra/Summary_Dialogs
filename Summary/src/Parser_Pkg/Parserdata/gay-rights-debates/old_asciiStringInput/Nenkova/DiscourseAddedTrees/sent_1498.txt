@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ accuses) (NP (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-)) (PP (IN about) (S (VP (VBG lying) (PP (IN about) (SBAR (WHNP (WP what)) (S (NP (JJ other)) (VP (VBP have) (VP (VBN said))))))))))) (. .)))

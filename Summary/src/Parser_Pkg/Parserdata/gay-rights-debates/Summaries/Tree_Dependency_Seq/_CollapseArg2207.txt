@@ -1,7 +1,0 @@
-root(ROOT-0, has-4)
-det(community-3, the-1)
-amod(community-3, gay-2)
-nsubj(has-4, community-3)
-det(problem-7, a-5)
-nn(problem-7, PR-6)
-dobj(has-4, problem-7)

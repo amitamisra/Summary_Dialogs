@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ feels) (SBAR (S (NP (NP (NP (NN S1) (POS 's)) (NN objection)) (PP (TO to) (NP (NP (NP (NNS gays)) (CC and) (NP (DT the) (NN family) (POS 's))) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB make)))))))) (VP (VBZ is) (NP (NN prejudice)))))) (. .)))

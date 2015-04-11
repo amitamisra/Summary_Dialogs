@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (NN marriage)) (PP (IN as#1#0) (NP (NP (DT a) (NN union)) (PP (IN between) (NP (NP (CD one) (NN man)) (CC and#0#0) (NP (CD one) (NN woman))))))) (VP (VBZ is) (NP (DT a) (JJ recent) (NN construct)) (PP (IN as#2#0)) (PP (VBN compared) (PP (TO to) (NP (JJ gay) (NN marriage)))))))) (. .)))

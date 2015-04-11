@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ refutes) (NP (DT this)) (PP (IN by) (S (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBZ is) (NP (DT a) (JJ bigoted) (NN statement)) (: ;) (SBAR (IN as#0#Temporal) (S (NP (PRP it)) (VP (VBZ means) (SBAR (S (NP (NP (DT the) (NNS lives)) (PP (IN of) (NP (JJ gay) (NNS people)))) (VP (VBP are) (ADJP (RBR less) (JJ important))))))))))))))) (. .)))

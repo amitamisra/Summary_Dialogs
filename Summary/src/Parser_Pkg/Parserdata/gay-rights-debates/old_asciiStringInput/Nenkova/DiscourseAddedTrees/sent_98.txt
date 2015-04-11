@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NP (DT the) (NN push)) (PP (IN for#0#0) (NP (JJ gay) (NN marriage)))) (VP (VBZ is) (VP (VBN driven) (PP (IN by) (NP (NNS economics)))))))) (. .)))

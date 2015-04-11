@@ -1,3 +1,0 @@
-root(ROOT-0, want-2)
-nsubj(want-2, gays-1)
-dobj(want-2, healthcare-3)

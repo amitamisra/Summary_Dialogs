@@ -1,3 +1,0 @@
-root(ROOT-0, hate-3)
-nsubj(hate-3, thenemocrats-2)
-dep(hate-3, religion-4)

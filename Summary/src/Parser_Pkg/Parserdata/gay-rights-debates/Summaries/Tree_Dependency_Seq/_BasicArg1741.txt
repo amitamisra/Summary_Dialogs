@@ -1,5 +1,0 @@
-root(ROOT-0, support-4)
-nsubj(support-4, S2-1)
-aux(support-4, does-2)
-neg(support-4, not-3)
-dobj(support-4, them-5)

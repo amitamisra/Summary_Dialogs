@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (NP (NP (NN supreme) (NN court) (NNS decisions)) (PP (VBG regarding) (NP (NP (NNS violations)) (PP (IN of) (NP (NN state) (NNS constitutions)))))) (VP (VBP are) (ADJP (JJ irrelevant) (PP (TO to) (NP (DT the) (JJ federal) (NN constitution)))))))) (. .)))

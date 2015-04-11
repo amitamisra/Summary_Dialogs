@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ points) (PRT (RP out)) (SBAR (IN that) (S (NP (NN nobody)) (VP (MD can) (VP (VB marry) (NP (NP (NN someone)) (PP (IN of) (NP (NP (DT the) (JJ same) (NN sex)) (, ,) (RB not) (RB just) (NP (NNS homosexuals)))))))))) (. .)))

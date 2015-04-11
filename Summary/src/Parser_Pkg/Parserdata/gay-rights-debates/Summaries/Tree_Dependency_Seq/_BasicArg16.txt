@@ -1,4 +1,0 @@
-root(ROOT-0, behavior-4)
-det(sex-2, all-1)
-nsubj(behavior-4, sex-2)
-cop(behavior-4, is-3)

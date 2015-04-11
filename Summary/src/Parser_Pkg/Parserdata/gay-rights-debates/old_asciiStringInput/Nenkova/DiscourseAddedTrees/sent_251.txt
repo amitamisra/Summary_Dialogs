@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB also#0#Expansion)) (VP (VBZ advises) (SBAR (S (NP (NN liberalism)) (VP (VBZ is) (RB not) (VP (VBN based) (PP (IN on) (NP (DT the) (JJ same) (NN theory)))))))) (. .)))

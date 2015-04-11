@@ -1,8 +1,0 @@
-root(ROOT-0, was-4)
-prep(was-4, in-1)
-pobj(in-1, 1909-2)
-expl(was-4, there-3)
-neg(prejudice-6, no-5)
-nsubj(was-4, prejudice-6)
-prep(prejudice-6, toward-7)
-pobj(toward-7, gays-8)

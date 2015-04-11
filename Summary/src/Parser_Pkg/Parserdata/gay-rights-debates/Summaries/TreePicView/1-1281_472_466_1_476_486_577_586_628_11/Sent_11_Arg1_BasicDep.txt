@@ -1,6 +1,0 @@
-root(ROOT-0, challenged-2)
-nsubj(challenged-2, He-1)
-poss(argument-6, S1-3)
-possessive(S1-3, 's-4)
-nn(argument-6, earthquake-5)
-dobj(challenged-2, argument-6)

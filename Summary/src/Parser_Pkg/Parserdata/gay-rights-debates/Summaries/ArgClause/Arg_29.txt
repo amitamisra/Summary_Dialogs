@@ -1,4 +1,0 @@
-TEXT   no one in western society has recognized marriage rights for polygamists , to which S2 rebuts , stating that marriage is recognizing a family unit based on heterosexual contract.
-
-1ARG:    S2 rebuts , stating that marriage is recognizing a family unit based on heterosexual contract
-2ARG:    no one in western society has recognized marriage rights for polygamists , .

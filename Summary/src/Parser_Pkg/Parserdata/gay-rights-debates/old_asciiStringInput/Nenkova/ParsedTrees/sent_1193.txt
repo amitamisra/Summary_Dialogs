@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (IN that) (S (NP (DT the) (NN public)) (VP (MD should) (VP (VP (VB demand) (NP (NN honesty))) (CC but) (RB not) (VP (VB assume) (NP (PRP it)))))))) (. .)))

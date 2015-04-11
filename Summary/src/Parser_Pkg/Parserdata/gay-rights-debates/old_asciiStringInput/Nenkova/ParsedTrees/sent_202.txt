@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNP Welfare)) (VP (VBZ is) (VP (VBN referenced) (SBAR (WHADVP (WRB when)) (S (VP (VBG making) (NP (DT a) (NN point)) (PP (IN about) (NP (JJ political) (NN muscle)))))))) (. .)))

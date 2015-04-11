@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ argues) (SBAR (IN that) (S (SBAR (RB even) (IN though) (S (NP (DT some) (JJ European) (NNS countries)) (VP (VBP allow) (NP (JJ gay) (NN marriage))))) (, ,) (NP (NP (CD 90) (NN %)) (PP (IN of) (NP (DT the) (NN world)))) (VP (VBZ bans) (NP (JJ gay) (NNS marriages)))))) (. .)))

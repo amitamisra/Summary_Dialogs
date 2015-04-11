@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNP Speaker) (CD one)) (VP (VBZ believes) (SBAR (IN that) (S (S (VP (VBG leaving) (NP (PRP it)) (PRT (RP up)) (PP (TO to) (NP (NNS religions) (NNS groups))))) (VP (VBZ does) (RB not) (VP (VB satisfy) (SBAR (WHNP (WP what)) (S (NP (NNS gays)) (VP (VBP are) (VP (VBG looking) (PP (IN for))))))))))) (. .)))

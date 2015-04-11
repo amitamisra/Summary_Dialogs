@@ -1,2 +1,0 @@
-root(ROOT-0, immoral-6)
-prep_in(immoral-6, 1909-2)

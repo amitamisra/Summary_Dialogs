@@ -1,1 +1,0 @@
-(ROOT (X (ADVP (RB However#0#Comparison)) (, ,) (X (ADVP (NP (DT this) (NN person)) (RB still#1#0)) (NP (NNS desires))) (NP (NP (DT a) (NN debate)) (PP (IN on) (NP (NP (JJ moral) (CC and#2#0) (NN health) (NNS concerns)) (PP (IN of) (NP (DT the) (NN issue)))))) (. .)))

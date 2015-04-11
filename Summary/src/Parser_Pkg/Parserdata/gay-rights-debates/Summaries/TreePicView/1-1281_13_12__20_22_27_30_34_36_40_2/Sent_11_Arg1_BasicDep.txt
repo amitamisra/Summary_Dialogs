@@ -1,4 +1,0 @@
-root(ROOT-0, forced-4)
-nsubjpass(forced-4, morals-1)
-aux(forced-4, should-2)
-auxpass(forced-4, be-3)

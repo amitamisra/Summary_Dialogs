@@ -1,2 +1,0 @@
-root(ROOT-0, feels-2)
-nsubj(feels-2, S1-1)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2) (NNS states)) (SBAR (WHNP (WDT that)) (S (NP (NNP America)) (ADVP (RB already)) (VP (VBZ has) (NP (NP (JJ serial) (NN polygamy)) (ADJP (JJ due) (PP (TO to) (NP (DT the) (JJ liberal) (NN divorce) (NNS laws)))))))) (. .)))

@@ -1,3 +1,0 @@
-root(ROOT-0, gay-3)
-nsubj(gay-3, they-1)
-cop(gay-3, are-2)

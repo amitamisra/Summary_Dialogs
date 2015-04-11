@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT This) (NN person)) (VP (VBZ does) (RB not) (VP (VB believe) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (NP (NP (DT a) (JJ social) (NN identity)) (PP (IN among) (NP (NP (NNS homosexuals)) (PP (IN in) (NP (CD 1909)))))) (SBAR (IN because) (S (NP (NN society)) (VP (VBD viewed) (NP (PRP it)) (PP (IN as) (ADJP (RB morally) (JJ wrong))))))))))) (. .)))

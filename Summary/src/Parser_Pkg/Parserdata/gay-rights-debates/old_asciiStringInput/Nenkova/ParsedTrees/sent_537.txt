@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNP Paul) (NNP Cameron)) (VP (VBZ is) (NP (NP (DT a) (JJ frequent) (NN target)) (PP (IN of) (NP (NP (JJ gay) (NN pride) (NN movement)) (PP (IN for) (NP (NN demonization))))))) (. .)))

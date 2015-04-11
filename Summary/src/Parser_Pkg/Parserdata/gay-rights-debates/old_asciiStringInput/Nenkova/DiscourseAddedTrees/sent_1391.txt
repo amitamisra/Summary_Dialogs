@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (DT The) (NN choice)) (PP (IN of) (NP (NN law) (NN doctrine)))) (VP (MD must) (VP (VB be) (VP (VBN considered) (SBAR (S (NP (NN andOMA)) (VP (MD could) (VP (VB be) (VP (VBN found) (S (VP (TO to) (VP (VB be) (ADJP (JJ unconstitutional) (PP (IN by) (NP (NP (NN vote)) (PP (IN of) (NP (DT the) (NNP SCOTUS))))))))))))))))) (. .)))

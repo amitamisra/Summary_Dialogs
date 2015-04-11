@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ ends) (NP (DT the) (NN discussion)) (PP (IN by) (S (VP (VBG accusing) (NP (NP (NN S1)) (PP (IN of) (S (VP (VBG repeating) (NP (NP (PRP$ his) (NNS points)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP pertain) (PP (TO to) (NP (CD two) (JJ separate) (NNS issues))))))))))))))) (. .)))

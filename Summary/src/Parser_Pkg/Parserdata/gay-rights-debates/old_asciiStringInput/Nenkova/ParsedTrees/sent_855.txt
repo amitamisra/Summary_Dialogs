@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP believe) (SBAR (IN that) (S (S (VP (VBG bringing) (PRT (RP up)) (NP (JJ hypothetical) (NNS arguments)) (PP (TO to) (NP (DT the) (NN contrary))))) (VP (VBZ is) (NP (DT a) (NN distraction)))))) (. .)))

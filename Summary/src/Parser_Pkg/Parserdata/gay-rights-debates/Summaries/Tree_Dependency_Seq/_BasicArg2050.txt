@@ -1,8 +1,0 @@
-root(ROOT-0, have-4)
-det(government-2, the-1)
-nsubj(have-4, government-2)
-aux(have-4, should-3)
-neg(say-6, no-5)
-dobj(have-4, say-6)
-prep(say-6, in-7)
-pobj(in-7, marriage-8)

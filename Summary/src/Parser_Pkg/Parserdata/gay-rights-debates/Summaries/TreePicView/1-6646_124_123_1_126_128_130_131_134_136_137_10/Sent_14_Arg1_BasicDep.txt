@@ -1,5 +1,0 @@
-root(ROOT-0, debate-4)
-nsubj(debate-4, he-1)
-aux(debate-4, would-2)
-neg(debate-4, not-3)
-dobj(debate-4, S1-5)

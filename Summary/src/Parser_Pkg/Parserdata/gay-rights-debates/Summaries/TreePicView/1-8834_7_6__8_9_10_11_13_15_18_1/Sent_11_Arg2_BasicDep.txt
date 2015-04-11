@@ -1,8 +1,0 @@
-root(ROOT-0, acts-2)
-nsubj(acts-2, Congress-1)
-prep(acts-2, to-3)
-pobj(to-3, removeOMA-4)
-dep(removeOMA-4, efense-6)
-prep(efense-6, of-7)
-nn(Act-9, Marriage-8)
-pobj(of-7, Act-9)

@@ -1,8 +1,0 @@
-root(ROOT-0, much-5)
-nsubj(much-5, It-1)
-cop(much-5, is-2)
-neg(much-5, n't-3)
-advmod(much-5, too-4)
-aux(demand-7, to-6)
-xcomp(much-5, demand-7)
-dobj(demand-7, honesty-8)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ inappropriate) (PP (IN for#0#0) (NP (JJ public) (NNS officials)))) (S (VP (TO to) (VP (VB be) (ADJP (JJ able) (S (VP (TO to) (VP (VB deny) (NP (NNS services)) (PP (VBN based) (PP (IN on) (NP (PRP$ their) (JJ personal) (JJ religious) (NNS beliefs))))))))))))))) (. .)))

@@ -1,3 +1,0 @@
-root(ROOT-0, expect-3)
-nsubj(expect-3, we-1)
-aux(expect-3, should-2)

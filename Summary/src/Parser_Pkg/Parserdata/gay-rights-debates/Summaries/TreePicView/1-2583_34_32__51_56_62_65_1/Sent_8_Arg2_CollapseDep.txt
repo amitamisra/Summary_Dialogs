@@ -1,6 +1,0 @@
-root(ROOT-0, passed-3)
-nsubjpass(passed-3, legislation-1)
-auxpass(passed-3, were-2)
-aux(allow-5, to-4)
-xcomp(passed-3, allow-5)
-dobj(allow-5, it-6)

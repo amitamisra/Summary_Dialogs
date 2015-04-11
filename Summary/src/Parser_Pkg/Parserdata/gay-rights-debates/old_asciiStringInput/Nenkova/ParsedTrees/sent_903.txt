@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP believe) (SBAR (IN that) (S (NP (JJ such) (NNS arguments)) (VP (VP (VBP have) (NP (NP (DT no) (NN place)) (PP (IN in) (NP (NP (DT an) (NN argument)) (PP (IN about) (NP (JJ homosexual) (NN marriage))))))) (CC and) (VP (VBP are) (NP (JJ blatant) (NNS attempts))) (S (VP (TO to) (VP (VB sidetrack) (NP (DT the) (NN argument))))))))) (. .)))

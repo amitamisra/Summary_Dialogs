@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (DT this)) (VP (VBZ is) (ADJP (JJ alright) (S (VP (TO to) (VP (VB do) (SBAR (IN while#0#Comparison) (S (NP (NN S2)) (VP (VBZ does) (RB not) (VP (VB agree))))))))))))) (. .)))

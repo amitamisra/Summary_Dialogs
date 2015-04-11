@@ -1,2 +1,0 @@
-root(ROOT-0, meaning-1)
-advmod(meaning-1, just-3)

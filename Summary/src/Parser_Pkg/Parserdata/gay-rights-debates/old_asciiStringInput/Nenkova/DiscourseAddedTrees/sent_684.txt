@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ expresses) (SBAR (IN that) (S (NP (NP (DT the) (NNS rights)) (PP (IN of) (NP (NNS gays)))) (VP (VBZ is) (NP (NP (PRP$ their) (JJ first) (NN concern) (CC and#0#0) (NN protection)) (PP (IN from) (NP (NN church)))))))) (. .)))

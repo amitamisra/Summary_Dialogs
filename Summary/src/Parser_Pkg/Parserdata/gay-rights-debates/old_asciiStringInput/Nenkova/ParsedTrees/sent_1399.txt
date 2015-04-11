@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT The) (NN argument)) (ADVP (RB originally)) (VP (VBZ starts) (PP (IN in) (NP (NP (DT a) (NN tangent)) (PP (IN of) (NP (NN Abortion)))))) (. .)))

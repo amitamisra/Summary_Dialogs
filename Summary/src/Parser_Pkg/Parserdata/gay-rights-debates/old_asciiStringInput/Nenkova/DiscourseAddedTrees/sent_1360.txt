@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (NP (NP (DT the) (NN government)) (VP (VBG getting) (PRT (IN out)) (PP (IN of) (NP (NN marriage))))) (VP (VBZ is) (RB not) (NP (DT a) (JJ bad) (NN idea)))))) (. .)))

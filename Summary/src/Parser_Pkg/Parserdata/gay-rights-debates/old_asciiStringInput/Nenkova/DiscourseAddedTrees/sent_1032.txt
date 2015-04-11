@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (S (NP (NN S2)) (VP (MD may) (VP (VB believe) (PP (IN as#1#0) (NP (NNS wishes))) (SBAR (RB even) (IN if#0#Contingency) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ wrong)))))))))) (. .)))

@@ -1,6 +1,0 @@
-root(ROOT-0, irrelevant-3)
-nsubj(irrelevant-3, location-1)
-cop(irrelevant-3, is-2)
-prepc_in(irrelevant-3, refuting-5)
-poss(logic-8, S1-6)
-dobj(refuting-5, logic-8)

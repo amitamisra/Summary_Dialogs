@@ -1,1 +1,0 @@
-(ROOT (S (NP (JJ Many) (NN state) (NNS constitutions)) (VP (S (NP (NP (NN guarantee) (NNS rights)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB n't) (PP (IN in) (NP (DT the) (JJ federal) (NN constitution))))))))) (. .)))

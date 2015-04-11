@@ -1,9 +1,0 @@
-(Attribution[S][N]
-  _!He said!_
-  (Background[N][S]
-    (same-unit[N][N]
-      (Elaboration[N][S]
-        _!he did other research!_
-        _!which showed the same results!_)
-      _!even!_)
-    _!when that was taken into account . <s>!_))

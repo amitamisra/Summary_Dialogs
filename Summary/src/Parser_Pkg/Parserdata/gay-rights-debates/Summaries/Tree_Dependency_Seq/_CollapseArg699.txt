@@ -1,8 +1,0 @@
-root(ROOT-0, matter-4)
-nsubj(matter-4, it-1)
-aux(matter-4, does-2)
-neg(matter-4, n't-3)
-advmod(feels-8, how-5)
-det(individual-7, an-6)
-nsubj(feels-8, individual-7)
-ccomp(matter-4, feels-8)

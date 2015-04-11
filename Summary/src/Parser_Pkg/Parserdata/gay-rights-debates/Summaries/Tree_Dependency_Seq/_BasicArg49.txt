@@ -1,4 +1,0 @@
-root(ROOT-0, redefinition-4)
-nsubj(redefinition-4, S1-1)
-cop(redefinition-4, is-2)
-amod(redefinition-4, anti-marriage-3)

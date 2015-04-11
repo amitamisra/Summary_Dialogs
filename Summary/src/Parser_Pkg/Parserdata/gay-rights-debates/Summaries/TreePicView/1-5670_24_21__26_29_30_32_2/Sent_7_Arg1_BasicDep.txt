@@ -1,3 +1,0 @@
-root(ROOT-0, incorrect-3)
-nsubj(incorrect-3, it-1)
-cop(incorrect-3, is-2)

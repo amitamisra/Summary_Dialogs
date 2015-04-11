@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ suggests) (SBAR (IN that) (S (S (ADVP (RB once#1#0)) (NP (NN S1)) (VP (VBZ begins) (S (VP (TO to) (VP (VB debate) (ADVP (RB appropriately))))))) (, ,) (RB then#0#Temporal) (S (NP (PRP he)) (VP (MD will) (ADVP (RB too))))))) (. .)))

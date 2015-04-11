@@ -1,7 +1,0 @@
-root(ROOT-0, was-4)
-nsubj(was-4, prejudice-1)
-prep(prejudice-1, against-2)
-pobj(against-2, gays-3)
-advmod(was-4, around-5)
-advmod(around-5, even-6)
-advmod(was-4, then-7)

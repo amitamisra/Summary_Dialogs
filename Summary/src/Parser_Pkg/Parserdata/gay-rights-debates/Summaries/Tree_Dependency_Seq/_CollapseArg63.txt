@@ -1,6 +1,0 @@
-root(ROOT-0, nature-4)
-nsubj(nature-4, It-1)
-cop(nature-4, is-2)
-det(nature-4, the-3)
-det(relationship-7, the-6)
-prep_of(nature-4, relationship-7)

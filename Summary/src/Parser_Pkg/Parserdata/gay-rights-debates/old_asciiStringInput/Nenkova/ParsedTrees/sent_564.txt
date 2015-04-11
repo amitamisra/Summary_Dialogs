@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (S (VP (VBG citing) (SBAR (S (NP (NP (DT the) (NN protection)) (PP (IN of) (NP (NP (DT the) (NN sanctity)) (PP (IN of) (NP (NN marriage)))))) (VP (VBZ makes) (S (NP (NP (DT the) (NN study) (POS 's)) (NNS arguments)) (ADJP (JJ relevant) (PP (IN by) (S (VP (VBG supporting) (NP (PRP$ their) (NNS arguments))))))))))))) (. .)))

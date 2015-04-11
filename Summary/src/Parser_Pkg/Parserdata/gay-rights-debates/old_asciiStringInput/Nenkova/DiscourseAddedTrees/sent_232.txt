@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN He/She)) (VP (VBZ admits) (SBAR (IN that) (S (NP (NP (DT the) (JJ civil) (NN debate) (NN issue)) (PP (IN about) (NP (NNS gays)))) (VP (VBD did) (RB n't) (VP (VB have) (NP (NP (JJ such)) (PP (IN of) (NP (DT a) (DT a) (JJ negative) (JJ financial) (NN impact)))) (SBAR (IN as#0#Temporal) (S (NP (PRP they)) (ADVP (RB first)) (VP (VBD thought))))))))) (. .)))

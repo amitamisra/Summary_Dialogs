@@ -1,4 +1,0 @@
-root(ROOT-0, violates-2)
-nsubj(violates-2, it-1)
-det(constitution-4, the-3)
-dobj(violates-2, constitution-4)

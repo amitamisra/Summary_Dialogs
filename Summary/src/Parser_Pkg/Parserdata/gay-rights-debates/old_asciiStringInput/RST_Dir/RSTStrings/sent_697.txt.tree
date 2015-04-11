@@ -1,9 +1,0 @@
-(Elaboration[N][S]
-  (same-unit[N][N]
-    _!( S1 )!_
-    (same-unit[N][N]
-      _!then!_
-      (Elaboration[N][S]
-        _!gives the example that not just because majority rules!_
-        _!it means that!_)))
-  _!its a good thing . <s>!_)

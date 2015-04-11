@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NP (NN S1) (NNS questions)) (SBAR (IN whether) (S (NP (PRP they)) (VP (VBP do) (PP (IN in) (NP (NN fact) (NN support) (JJ gay) (NN marriage))))))) (, ,) (CC and) (NP (NN S2))) (VP (VBZ provides) (S (NP (NNS links)) (VP (TO to) (VP (VB support) (NP (PRP$ his) (NN assertion)))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP-TMP (NP (NN S2) (NNS states)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (RB not) (NP (NP (DT the) (NNS ceremonies)) (SBAR (WHNP (WDT that)) (S (NP (NNS gays)) (VP (VBP are) (VP (VBG looking) (PP (IN for))))))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (PDT all) (DT the) (JJ civil) (NNS benefits))) (. .)))

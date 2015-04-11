@@ -1,8 +1,0 @@
-root(ROOT-0, is-2)
-nsubj(is-2, it-1)
-neg(is-2, n't-3)
-prep(is-2, in-4)
-det(definition-6, the-5)
-pobj(in-4, definition-6)
-prep(definition-6, of-7)
-pobj(of-7, marriage-8)

@@ -1,4 +1,0 @@
-root(ROOT-0, stay-2)
-nsubj(stay-2, they-1)
-prep(stay-2, in-3)
-pobj(in-3, closet-4)

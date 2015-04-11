@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ is) (NP (JJ anti-marriage) (NN redefinition)) (SBAR (IN while#0#Comparison) (S (NP (NN S2)) (VP (VBZ is) (NP (JJ pro-gay) (NN marriage)))))) (. .)))

@@ -1,6 +1,0 @@
-root(ROOT-0, prevent-5)
-advmod(prevent-5, why-1)
-det(society-3, the-2)
-nsubj(prevent-5, society-3)
-aux(prevent-5, should-4)
-dobj(prevent-5, it-6)

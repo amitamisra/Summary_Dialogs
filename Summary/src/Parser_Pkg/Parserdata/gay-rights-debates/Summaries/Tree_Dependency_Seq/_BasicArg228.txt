@@ -1,6 +1,0 @@
-root(ROOT-0, has-4)
-det(man-3, a-1)
-amod(man-3, straight-2)
-nsubj(has-4, man-3)
-det(girlfriend-6, a-5)
-dobj(has-4, girlfriend-6)

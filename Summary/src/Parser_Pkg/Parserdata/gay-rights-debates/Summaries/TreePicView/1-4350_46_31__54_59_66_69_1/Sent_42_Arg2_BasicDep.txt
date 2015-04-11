@@ -1,2 +1,0 @@
-root(ROOT-0, say-2)
-aux(say-2, to-1)

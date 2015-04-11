@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (IN that) (S (NP (NNP Pauls) (NN research)) (VP (VBZ is) (ADJP (JJ present) (PP (IN in) (NP (NP (DT the) (NN debate)) (PP (IN over) (NP (JJ gay) (NN marriage)))))))))) (. .)))

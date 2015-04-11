@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (S (NP (PRP it)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN by) (NP (NNP Google) (NN search))))))))) (. .)))

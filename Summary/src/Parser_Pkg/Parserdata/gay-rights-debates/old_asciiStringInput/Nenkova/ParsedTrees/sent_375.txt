@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB also)) (VP (VBZ states) (SBAR (IN that) (S (NP (JJ gay) (NNS lobbyists)) (VP (VBP have) (ADVP (JJ long)) (VP (VBD stepped) (PP (IN over) (NP (NP (DT the) (NN line)) (PP (IN of) (S (VP (ADVP (RB simply)) (VBG counter-attacking) (PP (IN with) (NP (PRP$ their) (NN defense))))))))))))) (. .)))

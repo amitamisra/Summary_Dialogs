@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT This) (NN person)) (VP (VBZ believes) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (NP (NP (DT an) (NN impediment)) (PP (TO to) (NP (NP (DT the) (JJ public) (NN servant)) (VP (VBG performing) (NP (ADJP (PRP$ his) (CC or#1#0) (PRP$ her)) (NN job)) (SBAR (IN if#0#Contingency) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ true))))))))))))) (. .)))

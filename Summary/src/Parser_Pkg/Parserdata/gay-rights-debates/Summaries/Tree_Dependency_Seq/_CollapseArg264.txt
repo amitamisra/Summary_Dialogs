@@ -1,4 +1,0 @@
-root(ROOT-0, be-4)
-nsubj(be-4, there-1)
-aux(be-4, will-2)
-neg(be-4, never-3)

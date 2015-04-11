@@ -1,6 +1,0 @@
-root(ROOT-0, lying-4)
-nn(questions-2, S2-1)
-nsubj(lying-4, questions-2)
-aux(lying-4, was-3)
-nsubj(said-6, he-5)
-ccomp(lying-4, said-6)

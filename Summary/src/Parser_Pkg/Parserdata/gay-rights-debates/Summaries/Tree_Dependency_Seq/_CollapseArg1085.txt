@@ -1,8 +1,0 @@
-root(ROOT-0, concerned-4)
-nsubjpass(concerned-4, he-1)
-auxpass(concerned-4, is-2)
-advmod(concerned-4, only-3)
-det(rights-7, the-6)
-prep_with(concerned-4, rights-7)
-amod(people-10, gay-9)
-prep_of(rights-7, people-10)

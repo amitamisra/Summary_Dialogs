@@ -1,6 +1,0 @@
-root(ROOT-0, concept-6)
-nsubj(concept-6, it-1)
-cop(concept-6, is-2)
-neg(concept-6, not-3)
-det(concept-6, a-4)
-amod(concept-6, new-5)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNS Roommates)) (VP (VP (VBP are) (ADJP (JJ single))) (CC and) (VP (MD should) (RB not) (VP (VB have) (NP (NN marriage) (NNS benefits))))) (. .)))

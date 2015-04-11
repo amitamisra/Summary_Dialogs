@@ -1,8 +1,0 @@
-root(ROOT-0, share-4)
-nsubj(share-4, they-1)
-aux(share-4, can-2)
-neg(share-4, not-3)
-det(other-7, each-6)
-poss(care-10, other-7)
-nn(care-10, health-9)
-prep_in(share-4, care-10)

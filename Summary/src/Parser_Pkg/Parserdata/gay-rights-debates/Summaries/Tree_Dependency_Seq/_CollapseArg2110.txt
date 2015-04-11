@@ -1,8 +1,0 @@
-root(ROOT-0, use-3)
-nsubj(use-3, they-1)
-aux(use-3, should-2)
-amod(comparison-5, familiar-4)
-dobj(use-3, comparison-5)
-prep_of(comparison-5, attacks-7)
-amod(marriage-10, inter-racial-9)
-prep_on(attacks-7, marriage-10)

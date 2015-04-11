@@ -1,7 +1,0 @@
-root(ROOT-0, real-7)
-amod(precedent-4, cultural-1)
-cc(cultural-1, and-2)
-conj(cultural-1, legal-3)
-nsubj(real-7, precedent-4)
-cop(real-7, is-5)
-advmod(real-7, very-6)

@@ -1,9 +1,0 @@
-(Contrast[S][N]
-  (Background[N][S]
-    _!It is not clear!_
-    _!when the opinion was issued ,!_)
-  (Attribution[S][N]
-    _!but S2 suggests that the unanimous opinion of 6 judges implies!_
-    (Explanation[N][S]
-      _!that a ruling in 1909 against homosexuality was not based on prejudice!_
-      _!because the act of homosexuality was viewed more as a crime rather than membership in a group . <s>!_)))

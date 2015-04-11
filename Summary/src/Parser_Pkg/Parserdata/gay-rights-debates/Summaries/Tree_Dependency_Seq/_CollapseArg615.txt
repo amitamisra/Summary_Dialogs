@@ -1,8 +1,0 @@
-root(ROOT-0, exceptionally-4)
-nsubj(exceptionally-4, love-1)
-cop(exceptionally-4, is-2)
-neg(exceptionally-4, not-3)
-amod(people-7, gay-6)
-prep_for(exceptionally-4, people-7)
-prep(people-7, but-8)
-pobj(but-8, others-9)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ holds) (SBAR (SBAR (IN that) (S (NP (NN love)) (VP (VBZ applies) (PP (TO to) (NP (NP (JJ straight) (NNS marriages)) (CONJP (RB as) (RB well) (IN as)) (NP (JJ gay) (NNS marriages))))))) (CC and) (SBAR (IN that) (S (NP (NN love)) (VP (VBZ is) (RB not) (ADJP (JJ exclusive) (PP (TO to) (NP (JJ gay) (NNS marriages))))))))) (. .)))

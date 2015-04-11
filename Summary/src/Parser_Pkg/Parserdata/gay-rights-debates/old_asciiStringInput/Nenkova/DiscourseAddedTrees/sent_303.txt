@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB also#0#Expansion)) (VP (VBZ wonders) (SBAR (WHADVP (WRB how)) (S (NP (NNP Rev.) (NNP MLK)) (VP (MD would) (VP (VB feel) (PP (IN about) (NP (DT the) (JJ gay) (NNS rights) (NN issue)))))))) (. .)))

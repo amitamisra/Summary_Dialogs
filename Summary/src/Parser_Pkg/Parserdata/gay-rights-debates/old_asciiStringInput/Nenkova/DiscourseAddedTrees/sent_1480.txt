@@ -1,1 +1,0 @@
-(ROOT (S (NP (JJ Civil) (NNS unions)) (VP (MD will) (RB not) (VP (VB be) (VP (VBN accepted) (PP (IN in) (NP (NP (NN place)) (PP (IN of) (NP (NN marriage))))) (, ,) (SBAR (IN as#0#Temporal) (S (NP (PRP they)) (VP (VBP do) (RB not) (VP (VB allow) (NP (DT the) (JJ same) (JJ legal) (NNS rights)) (PP (IN as#1#0) (NP (NN marriage)))))))))) (. .)))

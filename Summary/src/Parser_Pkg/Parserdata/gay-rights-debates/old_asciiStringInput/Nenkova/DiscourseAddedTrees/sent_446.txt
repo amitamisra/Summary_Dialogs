@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (IN if#2#Contingency) (S (NP (DT a) (NN law)) (VP (VBZ is) (ADJP (JJ unjust) (RB then#2#Contingency) (SBAR (S (NP (PRP it)) (VP (MD should) (VP (VB be) (VP (VBN overturned) (ADVP (RB regardless#0#0) (PP (IN of) (SBAR (WHNP (WP what)) (S (NP (DT the) (NN majority)) (VP (VBZ wants)))))))))))))))) (. .)))

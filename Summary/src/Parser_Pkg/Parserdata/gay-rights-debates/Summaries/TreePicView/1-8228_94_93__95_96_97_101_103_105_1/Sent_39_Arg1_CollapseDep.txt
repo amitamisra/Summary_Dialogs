@@ -1,3 +1,0 @@
-root(ROOT-0, asks-2)
-nsubj(asks-2, S1-1)
-dobj(asks-2, S2-3)

@@ -1,7 +1,0 @@
-root(ROOT-0, got-2)
-nsubj(got-2, S1-1)
-det(information-4, the-3)
-dobj(got-2, information-4)
-prep_from(got-2, Focus-6)
-det(Family-9, the-8)
-prep_on(got-2, Family-9)

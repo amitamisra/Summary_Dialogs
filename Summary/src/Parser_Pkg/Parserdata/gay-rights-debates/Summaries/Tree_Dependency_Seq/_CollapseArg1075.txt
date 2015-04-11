@@ -1,8 +1,0 @@
-root(ROOT-0, free-3)
-nsubj(free-3, she-1)
-cop(free-3, is-2)
-aux(do-5, to-4)
-xcomp(free-3, do-5)
-dobj(do-5, this-6)
-prep(this-6, is-8)
-dep(is-8, S1-9)

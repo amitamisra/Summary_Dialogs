@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (DT A) (NN deviation)) (PP (IN for) (NP (NP (DT the) (NN norm)) (PP (IN in) (NP (PRP$ his) (NN opinion)))))) (VP (VBZ is) (NP (NN diversity))) (. .)))

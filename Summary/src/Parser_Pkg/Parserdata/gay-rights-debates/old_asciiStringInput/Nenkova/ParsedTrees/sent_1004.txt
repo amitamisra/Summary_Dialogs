@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VP (VBZ advises) (SBAR (S (S (VP (VBG excluding) (NP (NNS gays)) (PP (IN from) (NP (NP (JJ different) (NNS pieces)) (PP (IN of) (NP (NN society))))))) (VP (VBZ is) (NP (NP (DT the) (JJ same)) (PP (IN as) (S (VP (VBG excluding) (NP (DT any) (JJ other) (NN minority)))))))))) (CC and) (VP (VBZ is) (NP (RB just) (RB simply) (NN bigotry)))) (. .)))

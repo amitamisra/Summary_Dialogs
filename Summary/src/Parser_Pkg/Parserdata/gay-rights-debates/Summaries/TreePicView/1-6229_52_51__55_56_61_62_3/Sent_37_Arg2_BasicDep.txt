@@ -1,4 +1,0 @@
-root(ROOT-0, incorporated-1)
-prep(incorporated-1, into-2)
-det(law-4, the-3)
-pobj(into-2, law-4)

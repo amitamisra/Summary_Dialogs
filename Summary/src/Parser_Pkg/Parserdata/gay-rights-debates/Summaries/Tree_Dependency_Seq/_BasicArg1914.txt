@@ -1,4 +1,0 @@
-root(ROOT-0, bother-3)
-nsubj(bother-3, it-1)
-aux(bother-3, should-2)
-dobj(bother-3, S2-4)

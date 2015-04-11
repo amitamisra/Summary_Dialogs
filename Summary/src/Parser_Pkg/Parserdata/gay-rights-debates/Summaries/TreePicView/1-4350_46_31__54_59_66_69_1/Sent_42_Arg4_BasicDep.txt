@@ -1,3 +1,0 @@
-root(ROOT-0, trying-3)
-nsubj(trying-3, he-1)
-aux(trying-3, is-2)

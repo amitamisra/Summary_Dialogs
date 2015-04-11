@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT The) (NN issue)) (ADVP (RB here)) (VP (VBZ is) (SBAR (SBAR (IN whether) (S (NP (NN government) (CC or) (NN religion)) (VP (MD should) (VP (VBZ decides) (NP (NP (DT the) (NNS principles)) (PP (IN of) (NP (NN marriage)))))))) (, ,) (CC and) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBN allowed) (S (VP (TO to) (VP (VB get) (ADJP (VBN married))))))))))) (. .)))

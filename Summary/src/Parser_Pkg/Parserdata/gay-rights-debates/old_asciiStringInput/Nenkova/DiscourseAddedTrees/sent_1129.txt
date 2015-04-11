@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ claims) (SBAR (IN that) (S (NP (PRP we)) (ADVP (RB already)) (VP (VB practice) (NP (JJ serial) (NN polygamy)) (PP (IN because#0#0) (PP (IN of) (NP (NP (NNP America) (POS 's)) (JJ liberal) (NN divorce) (NNS laws)))))))) (. .)))

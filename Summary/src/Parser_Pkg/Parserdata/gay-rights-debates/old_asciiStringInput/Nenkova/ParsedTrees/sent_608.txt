@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT This) (NN person)) (ADVP (RB also)) (VP (VP (VBZ uses) (NP (NP (DT the) (NN parallel)) (PP (IN of) (NP (NP (NN treatment)) (PP (IN of) (NP (NNS blacks) (CC and) (NNS women))))))) (, ,) (CC but) (VP (VBZ argues) (SBAR (IN that) (S (NP (NN morality)) (VP (VBD was) (NP (DT an) (NN excuse) (S (VP (TO to) (VP (VB hide) (NP (DT the) (NN prejudice))))))))))) (. .)))

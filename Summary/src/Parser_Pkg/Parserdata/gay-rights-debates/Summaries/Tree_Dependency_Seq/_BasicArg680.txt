@@ -1,2 +1,0 @@
-root(ROOT-0, states-2)
-nn(states-2, S1-1)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ becomes) (ADJP (JJ angry) (PP (IN with) (NP (NN S1)))) (PP (IN for#0#0) (S (VP (VBG avoiding) (NP (DT the) (JJ main) (NN topic)) (PP (IN at) (NP (NN hand))))))) (. .)))

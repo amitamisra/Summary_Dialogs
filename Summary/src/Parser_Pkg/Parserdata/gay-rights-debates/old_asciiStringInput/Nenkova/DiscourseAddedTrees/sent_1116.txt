@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VP (VBZ defends) (PP (IN that) (NP (NN position)))) (CC and#0#0) (VP (VBZ argues) (SBAR (S (NP (PRP it)) (VP (VBZ is) (VP (VBN based) (PP (IN on) (NP (NP (JJ conservative) (NNS principles)) (PP (IN against) (NP (NNS intrusions))))) (PP (IN into) (NP (JJ individual) (NNS lives))))))))) (. .)))

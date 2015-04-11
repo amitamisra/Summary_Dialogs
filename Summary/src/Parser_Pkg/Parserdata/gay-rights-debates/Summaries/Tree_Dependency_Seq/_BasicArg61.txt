@@ -1,6 +1,0 @@
-root(ROOT-0, questioned-1)
-prep(questioned-1, about-2)
-amod(insemination-4, artificial-3)
-pobj(about-2, insemination-4)
-prep(questioned-1, by-5)
-pobj(by-5, S2-6)

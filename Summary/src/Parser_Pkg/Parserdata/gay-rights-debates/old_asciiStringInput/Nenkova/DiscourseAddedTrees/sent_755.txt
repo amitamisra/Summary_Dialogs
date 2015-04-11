@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP She)) (VP (VBZ is) (VP (VBG trying) (S (VP (TO to) (VP (VB keep) (NP (JJ gay) (NNS people)) (ADVP (IN out) (PP (IN of) (NP (NN marriage))))))))) (. .)))

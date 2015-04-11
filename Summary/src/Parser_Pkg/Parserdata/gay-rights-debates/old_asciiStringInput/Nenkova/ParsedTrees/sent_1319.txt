@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NN S1) (NNS brushes)) (PP (IN on) (NP (NP (DT the) (NN topic)) (, ,) (ADVP (CC but))))) (VP (VBZ goes) (PRT (RP off)) (NP (NN track)) (PP (IN from) (NP (NP (DT the) (NN topic)) (NP (RB quite) (DT a) (NN bit))))) (. .)))

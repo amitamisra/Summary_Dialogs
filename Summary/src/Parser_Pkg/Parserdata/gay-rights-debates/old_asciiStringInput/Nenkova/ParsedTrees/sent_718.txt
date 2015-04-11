@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ is) (ADVP (RB only)) (VP (VBN concerned) (PP (IN with) (NP (NP (DT the) (NNS rights)) (PP (IN of) (NP (JJ gay) (NNS people)))))))))) (. .)))

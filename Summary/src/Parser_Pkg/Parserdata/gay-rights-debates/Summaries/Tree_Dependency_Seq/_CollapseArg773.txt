@@ -1,8 +1,0 @@
-root(ROOT-0, 's-2)
-expl('s-2, there-1)
-det(difference-5, a-3)
-amod(difference-5, big-4)
-nsubj('s-2, difference-5)
-prep_between(difference-5, possibility-7)
-prep_between(difference-5, likelihood-9)
-conj_and(possibility-7, likelihood-9)

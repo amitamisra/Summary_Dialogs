@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NP (JJ individual) (NNS contracts)) (PP (IN by) (NP (NP (NNS lawyers)) (CONJP (RB rather) (IN than)) (NP (NP (DT the) (NN government)) (VP (VBG being) (VP (VBN involved))))))) (VP (MD would) (VP (VB be) (NP (DT the) (JJS fairest) (NN compromise))))))) (. .)))

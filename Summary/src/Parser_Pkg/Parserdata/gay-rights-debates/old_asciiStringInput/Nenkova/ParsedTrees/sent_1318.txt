@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ asks) (NP (NN S1)) (S (VP (TO to) (VP (VB quote) (SBAR (WHADJP (RB exactly) (WP what)) (S (NP (PRP he)) (VP (VBD said) (SBAR (IN because) (S (NP (PRP he)) (VP (VBZ thinks) (SBAR (S (NP (NNP Jason)) (VP (VBD did) (NP (DT no) (JJ such) (NN thing))))))))))))))) (. .)))

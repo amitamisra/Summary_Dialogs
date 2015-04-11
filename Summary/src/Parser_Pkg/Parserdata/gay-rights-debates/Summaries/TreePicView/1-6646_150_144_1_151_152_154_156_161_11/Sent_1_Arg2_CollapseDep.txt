@@ -1,5 +1,0 @@
-root(ROOT-0, argues-3)
-neg(one-2, no-1)
-nsubj(argues-3, one-2)
-det(fact-6, this-5)
-prep_with(argues-3, fact-6)

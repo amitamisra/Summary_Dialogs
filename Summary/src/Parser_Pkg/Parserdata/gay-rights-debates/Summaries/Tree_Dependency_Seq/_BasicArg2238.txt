@@ -1,5 +1,0 @@
-root(ROOT-0, kicked-4)
-nsubjpass(kicked-4, they-1)
-aux(kicked-4, should-2)
-auxpass(kicked-4, be-3)
-prt(kicked-4, out-5)

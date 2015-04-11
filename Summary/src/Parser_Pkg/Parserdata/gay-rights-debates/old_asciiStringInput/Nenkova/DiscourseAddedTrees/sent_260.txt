@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VBZ agrees) (PP (IN with) (S (VP (VBG taking) (NP (NP (NN care)) (PP (IN of) (NP (NP (DT the) (JJ elderly)) (, ,) (NP (NN fairness)) (, ,) (CC and#0#0) (NP (NN freedom)))))))))))) (. .)))

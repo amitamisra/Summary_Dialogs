@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP believe) (SBAR (IN that) (S (SBAR (IN if) (S (NP (CD one)) (VP (VBZ broaches) (NP (NP (DT the) (NN topic)) (PP (IN of) (NP (NNP AIS) (CD one))))))) (VP (MD must) (ADVP (RB also)) (VP (VB look) (PP (IN at) (NP (PRP it))) (PP (IN as) (NP (DT a) (NN whole)))))))) (. .)))

@@ -1,6 +1,0 @@
-root(ROOT-0, is-2)
-nsubj(is-2, it-1)
-neg(is-2, n't-3)
-det(definition-6, the-5)
-prep_in(is-2, definition-6)
-prep_of(definition-6, marriage-8)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (S (S (VP (VBG transforming) (S (VP (TO to) (VP (VB open) (VP (VBN ended))))))) (VP (MD would) (VP (VB open) (NP (DT the) (NN door)) (PP (IN for#0#0) (NP (NP (JJ other) (NNS issues)) (PP (JJ such) (IN as#1#0) (NP (NP (NNS children)) (VP (VBG being) (VP (VBN allowed) (S (VP (TO to) (VP (VB marry))))))))))))))) (. .)))

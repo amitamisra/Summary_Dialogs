@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT This) (NN person)) (VP (VBZ thinks) (SBAR (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ relevant) (PP (IN as) (ADJP (JJ long)))) (SBAR (IN as) (S (NP (NNS people)) (VP (VBP say) (SBAR (S (NP (PRP they)) (VP (VBP are) (VP (VBG protecting) (NP (NP (DT the) (NN sanctity)) (PP (IN of) (NP (NN marriage))))))))))))))) (. .)))

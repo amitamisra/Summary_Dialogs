@@ -1,3 +1,0 @@
-root(ROOT-0, referring-1)
-prep_to(referring-1, arguments-3)
-prep_of(arguments-3, disagreement-5)

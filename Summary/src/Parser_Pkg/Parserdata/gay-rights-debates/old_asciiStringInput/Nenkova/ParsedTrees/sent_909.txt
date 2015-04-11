@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ accuses) (NP (NP (NN S2)) (PP (IN of) (S (VP (VBG changing) (NP (DT the) (NN topic)) (PP (TO to) (NP (NP (NNS AIs)) (PP (IN in) (NP (NNP Africa))))) (S (VP (TO to) (VP (VB deflect) (NP (NN attention)) (PP (IN from) (NP (NP (DT the) (NN topic)) (PP (IN of) (NP (NP (NNS AIs)) (PP (IN in) (NP (DT the) (NNP US))))))))))))))) (. .)))

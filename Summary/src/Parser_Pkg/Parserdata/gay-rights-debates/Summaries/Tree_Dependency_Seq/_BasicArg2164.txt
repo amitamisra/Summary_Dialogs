@@ -1,6 +1,0 @@
-root(ROOT-0, ends-2)
-nsubj(ends-2, He-1)
-det(discussion-4, the-3)
-dobj(ends-2, discussion-4)
-prep(discussion-4, with-5)
-pobj(with-5, S1-6)

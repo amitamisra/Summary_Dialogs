@@ -1,1 +1,0 @@
-(ROOT (FRAG (NP (NN S2)) (: :) (S (S (NP (NNS Councils) (CC and) (NNS legislatures)) (VP (MD may) (VP (VB vote) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (JJ gay) (NN marriage)))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ has) (ADVP (RB yet)) (S (VP (TO to) (VP (VB be) (NP (NP (DT the) (NN majority) (NN vote)) (PP (IN of) (NP (DT the) (NNS people)))))))))) (. .)))

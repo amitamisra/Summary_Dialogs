@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (NP (DT Those)) (VP (VBN opposed) (PP (TO to) (NP (JJ gay) (NN marriage))))) (VP (MD may) (VP (VB view) (NP (NNS gays)) (PP (IN as) (NP (JJ promiscuous) (CC and) (JJ sexual) (NNS deviants)))))) (, ,) (CC but) (S (NP (JJS most) (JJ gay) (NNS men)) (VP (VBP are) (ADVP (RB assuredly)) (ADJP (RB quite) (JJ normal)))) (. .)))

@@ -1,7 +1,0 @@
-root(ROOT-0, thinks-2)
-nsubj(thinks-2, he-1)
-nsubj(did-4, Jason-3)
-ccomp(thinks-2, did-4)
-neg(thing-7, no-5)
-amod(thing-7, such-6)
-dobj(did-4, thing-7)

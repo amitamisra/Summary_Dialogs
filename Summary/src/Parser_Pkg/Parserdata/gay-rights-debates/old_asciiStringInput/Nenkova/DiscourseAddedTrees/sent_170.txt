@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBD compared) (NP (NP (DT the) (NN struggle)) (PP (IN for#1#0) (NP (JJ gay) (NN marriage)))) (PP (TO to) (S (VP (VP (VBG conquering) (NP (NNP polio))) (CC and#0#0) (VP (VBG getting) (NP (NP (DT the) (NN vote)) (, ,) (NP (FW etc.)))))))) (. .)))

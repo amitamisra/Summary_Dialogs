@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NNP AIS)) (VP (VBD became) (NP (DT an) (JJ epidemic)) (PP (IN in) (NP (DT the) (NNP US))) (PP (IN through) (NP (DT the) (JJ gay) (NN community))))))) (. .)))

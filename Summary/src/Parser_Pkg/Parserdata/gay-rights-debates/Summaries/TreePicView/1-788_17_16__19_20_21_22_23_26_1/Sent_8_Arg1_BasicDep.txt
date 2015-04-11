@@ -1,8 +1,0 @@
-root(ROOT-0, has-2)
-nsubj(has-2, he-1)
-det(right-4, a-3)
-nsubj(be-5, right-4)
-ccomp(has-2, be-5)
-prep(be-5, against-6)
-amod(marriage-8, gay-7)
-pobj(against-6, marriage-8)

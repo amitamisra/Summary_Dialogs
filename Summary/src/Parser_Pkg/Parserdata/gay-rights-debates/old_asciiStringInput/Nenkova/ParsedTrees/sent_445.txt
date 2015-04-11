@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (IN that) (S (NP (DT the) (NNS courts)) (VP (MD should) (VP (VB look) (PP (IN at) (NP (NP (NNS individuals) (NNS lives)) (CC and) (NP (NP (DT the) (NN effect)) (PP (IN of) (NP (NP (NNS laws)) (PP (IN on) (NP (NN everyone))))))))))))) (. .)))

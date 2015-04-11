@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNP Speaker) (CD one)) (VP (VBZ believes) (SBAR (S (NP (DT the) (NN world)) (VP (VBD changed) (SBAR (WHADVP (WRB when)) (S (NP (NNP Massachusetts) (NN legislature)) (VP (VBD ratified) (NP (DT a) (NN court) (NN decision)) (PP (IN for) (NP (NP (JJ equal) (NNS rights)) (PP (VBG regarding) (NP (NNS homosexuals)))))))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ claims) (SBAR (IN that) (IN because) (S (PP (IN of) (NP (DT this))) (, ,) (NP (JJ many) (NNS people)) (VP (VBP view) (NP (NP (DT the) (NN term) (JJ gay) (NN marriage)) (PP (IN as) (NP (DT an) (NN oxymoron)))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB then#0#Temporal)) (VP (VBZ states) (SBAR (IN that) (S (NP (NN marriage) (NN freedom)) (VP (MD should) (RB n't) (VP (VB trump) (NP (JJ religious) (NN freedom))))))) (. .)))

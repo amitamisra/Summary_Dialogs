@@ -1,8 +1,0 @@
-root(ROOT-0, limit-5)
-nsubj(limit-5, there-1)
-aux(limit-5, would-2)
-cop(limit-5, be-3)
-neg(limit-5, no-4)
-nsubj(marry-9, who-7)
-aux(marry-9, could-8)
-prepc_to(limit-5, marry-9)

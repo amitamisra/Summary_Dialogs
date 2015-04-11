@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (PRP you)) (VP (VBP need) (S (VP (TO to) (VP (VB look) (PP (IN at) (NP (NNS situations))) (PP (IN in) (IN from) (NP (NP (JJ different) (NNS perspectives)) (PP (IN like) (NP (NP (NNS trees)) (PP (IN in) (NP (DT the) (NNS woods)))))))))))))) (. .)))

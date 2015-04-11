@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBD expressed) (NP (PRP$ his) (NN gladness)) (PP (IN at) (S (VP (VBG being) (PP (IN in) (NP (NP (NNP Canada)) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (VBP are) (ADVP (RBR more)) (NP (NNS rights))))))))))) (. .)))

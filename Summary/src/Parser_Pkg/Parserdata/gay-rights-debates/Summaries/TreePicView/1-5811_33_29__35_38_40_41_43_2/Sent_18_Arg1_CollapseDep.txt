@@ -1,2 +1,0 @@
-root(ROOT-0, gay-2)
-cop(gay-2, be-1)

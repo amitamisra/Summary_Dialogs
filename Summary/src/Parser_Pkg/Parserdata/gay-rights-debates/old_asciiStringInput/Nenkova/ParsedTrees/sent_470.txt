@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP It)) (VP (VBZ matters) (NP (WP what)) (NP-TMP (NP (DT the) (NN majority)) (NP (NNS votes))) (PP (IN on))) (. .)))

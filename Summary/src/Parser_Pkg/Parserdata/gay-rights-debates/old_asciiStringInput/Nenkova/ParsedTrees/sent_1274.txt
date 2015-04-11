@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ thinks) (SBAR (S (NP (NP (NN violence)) (PP (IN towards) (NP (NNS gays)))) (VP (VBZ is) (VP (VBN used) (PP (IN as) (S (VP (VBG launching) (NP (NN point)) (PP (IN for) (NP (NNS gays))) (S (VP (TO to) (VP (VB preach) (NP (JJ gay) (NNS rights))))))))))))) (. .)))

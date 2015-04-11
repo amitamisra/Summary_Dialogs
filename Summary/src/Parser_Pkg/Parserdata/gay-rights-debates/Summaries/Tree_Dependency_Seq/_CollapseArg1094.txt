@@ -1,4 +1,0 @@
-root(ROOT-0, anti-gay-5)
-dep(anti-gay-5, the-2)
-nsubj(anti-gay-5, lady-3)
-cop(anti-gay-5, is-4)

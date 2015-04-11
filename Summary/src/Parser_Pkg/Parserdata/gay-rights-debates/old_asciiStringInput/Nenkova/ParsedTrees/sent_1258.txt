@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2) (NN doesnt)) (VP (VBP see) (SBAR (S (NP (DT the) (NN inconsistency) (CC and) (NN doesnt)) (VP (VBP understand) (SBAR (WHADVP (WRB why)) (S (NP (NN S1)) (VP (VBZ keeps) (S (VP (VBG calling) (S (NP (PRP it)) (ADJP (IN that)))))))))))) (. .)))

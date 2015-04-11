@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ interprets) (NP (NP (NN S2) (POS 's)) (NN argument)) (PP (IN as#2#0) (NP (DT a) (NN claim))) (SBAR (IN that) (S (NP (NN fairness)) (VP (MD should) (VP (VB exist) (PP (IN for#1#0) (NP (NP (DT all) (NNS people)) (PP (IN except#0#0) (NP (NNS homosexuals)))))))))) (. .)))

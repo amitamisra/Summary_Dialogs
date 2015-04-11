@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ unnecessary) (S (VP (TO to) (VP (VB redefine) (NP (NN marriage)) (S (VP (TO to) (VP (VB include) (NP (NNS gays))))))))))))) (. .)))

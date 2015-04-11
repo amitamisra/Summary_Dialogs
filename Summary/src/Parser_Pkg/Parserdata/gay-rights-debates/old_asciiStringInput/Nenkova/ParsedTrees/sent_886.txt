@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (IN that) (S (NP (NN S1)) (VP (MD can) (RB not) (VP (VB produce) (NP (NP (NP (CD one)) (NP (JJ objective))) (CC or) (NP (NP (NN source)) (PP (IN by) (NP (NNS theominionists))))) (ADVP (PRP themselves)) (SBAR (IN that) (S (NP (NNS states)) (NP (PRP$ their) (NN intention))))))))) (. .)))

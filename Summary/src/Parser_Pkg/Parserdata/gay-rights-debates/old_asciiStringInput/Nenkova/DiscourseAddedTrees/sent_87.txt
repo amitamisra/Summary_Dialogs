@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ believes) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NP (DT an) (JJ economic) (NN burden)) (SBAR (WHADVP (WRB when#0#Temporal)) (S (NP (JJ same) (NN sex) (NNS couples)) (VP (VBP break) (PRT (RP up)) (PP (IN without) (NP (NP (JJ legal) (NN recognition)) (PP (IN of) (NP (DT the) (NN marriage))))))))))))) (. .)))

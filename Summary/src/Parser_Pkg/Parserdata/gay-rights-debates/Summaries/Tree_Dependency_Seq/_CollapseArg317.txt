@@ -1,7 +1,0 @@
-root(ROOT-0, willing-3)
-nsubj(willing-3, people-1)
-cop(willing-3, were-2)
-aux(sacrifice-5, to-4)
-xcomp(willing-3, sacrifice-5)
-dobj(sacrifice-5, freedom-6)
-prep_for(sacrifice-5, security-8)

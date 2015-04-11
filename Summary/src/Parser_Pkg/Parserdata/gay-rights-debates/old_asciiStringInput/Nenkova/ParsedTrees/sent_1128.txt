@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ cites) (NP (NP (NNS instances)) (PP (IN of) (NP (NP (NNP God)) (VP (VBG supporting) (NP (NP (NN polygamy)) (PP (IN in) (NP (DT the) (NNP Bible))))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (NP (NP (DT this) (JJ dehumanizing) (NN talk)) (PP (IN in) (ADJP (JJ responsible)))) (PP (IN for#0#0) (NP (NP (NN hate)) (PP (IN against) (NP (NNS gays)))))) (. .)))

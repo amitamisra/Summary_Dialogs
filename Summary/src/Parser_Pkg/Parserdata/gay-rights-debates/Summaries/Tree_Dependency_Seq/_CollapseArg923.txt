@@ -1,4 +1,0 @@
-root(ROOT-0, lived-4)
-amod(people-2, gay-1)
-nsubj(lived-4, people-2)
-acomp(lived-4, straight-5)

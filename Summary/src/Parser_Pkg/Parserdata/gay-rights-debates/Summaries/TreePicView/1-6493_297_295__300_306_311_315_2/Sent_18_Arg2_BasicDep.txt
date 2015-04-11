@@ -1,5 +1,0 @@
-root(ROOT-0, make-3)
-aux(make-3, would-1)
-neg(make-3, not-2)
-nsubj(true-5, it-4)
-xcomp(make-3, true-5)

@@ -1,4 +1,0 @@
-root(ROOT-0, those-1)
-vmod(those-1, giving-2)
-nn(transfusions-4, blood-3)
-dobj(giving-2, transfusions-4)

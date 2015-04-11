@@ -1,8 +1,0 @@
-root(ROOT-0, find-4)
-nsubj(find-4, they-2)
-aux(find-4, might-3)
-amod(grounds-6, stronger-5)
-dobj(find-4, grounds-6)
-mark(acceptance-9, for-7)
-amod(acceptance-9, legal-8)
-advcl(find-4, acceptance-9)

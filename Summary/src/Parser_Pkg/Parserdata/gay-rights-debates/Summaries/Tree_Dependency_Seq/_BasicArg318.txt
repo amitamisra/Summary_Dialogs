@@ -1,6 +1,0 @@
-root(ROOT-0, caved-4)
-nsubj(caved-4, they-2)
-advmod(caved-4, eventually-3)
-prep(caved-4, to-5)
-poss(ideas-7, his-6)
-pobj(to-5, ideas-7)

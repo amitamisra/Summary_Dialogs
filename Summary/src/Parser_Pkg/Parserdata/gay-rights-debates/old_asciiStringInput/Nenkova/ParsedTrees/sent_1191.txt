@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ calls) (S (NP (NN S2)) (ADJP (JJ naive) (PP (IN for) (S (VP (VBG believing) (SBAR (IN that) (S (NP (VBG lying)) (VP (VBZ does) (RB not) (VP (VB happen) (PP (IN in) (NP (NNS politics))) (NP-TMP (NN today)))))))))))) (. .)))

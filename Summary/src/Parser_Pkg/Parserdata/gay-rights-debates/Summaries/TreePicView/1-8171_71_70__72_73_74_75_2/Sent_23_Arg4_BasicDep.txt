@@ -1,3 +1,0 @@
-root(ROOT-0, saying-3)
-nsubj(saying-3, S1-1)
-aux(saying-3, is-2)

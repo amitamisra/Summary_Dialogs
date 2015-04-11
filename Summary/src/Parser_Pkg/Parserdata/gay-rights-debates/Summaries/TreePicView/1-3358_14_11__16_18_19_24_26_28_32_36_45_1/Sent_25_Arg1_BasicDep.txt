@@ -1,5 +1,0 @@
-root(ROOT-0, drops-4)
-det(rate-3, the-1)
-nn(rate-3, divorce-2)
-nsubj(drops-4, rate-3)
-advmod(drops-4, significantly-5)

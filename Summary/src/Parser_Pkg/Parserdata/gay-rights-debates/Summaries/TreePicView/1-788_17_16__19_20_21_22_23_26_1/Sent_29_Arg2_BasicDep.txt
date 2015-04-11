@@ -1,8 +1,0 @@
-root(ROOT-0, seen-6)
-nsubjpass(seen-6, those-1)
-prep(those-1, against-2)
-amod(marriage-4, gay-3)
-pobj(against-2, marriage-4)
-auxpass(seen-6, are-5)
-prep(seen-6, as-7)
-pobj(as-7, homophobic-8)

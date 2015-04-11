@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NP (NN homosexuality)) (, ,) (NP (NN incest)) (, ,) (CC and) (NP (NN polygamy))) (VP (VBP are) (ADJP (DT all) (JJ related)) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP are) (NP (NP (DT all) (NNS taboos)) (PP (IN of) (NP (NN society))))))))))) (. .)))

@@ -1,4 +1,0 @@
-root(ROOT-0, saying-1)
-dobj(saying-1, its-2)
-dep(saying-1, all-3)
-prep_about(saying-1, motivation-5)

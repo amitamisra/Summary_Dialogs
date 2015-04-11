@@ -1,4 +1,0 @@
-root(ROOT-0, one-2)
-det(one-2, the-1)
-auxpass(oppressed-4, being-3)
-vmod(one-2, oppressed-4)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN addendum) (S (VP (TO to) (VP (VB everytime) (NP (PRP they)))))) (VP (VBD weighed) (PRT (RP in)) (PP (IN on) (NP (PRP it)))) (. .)))

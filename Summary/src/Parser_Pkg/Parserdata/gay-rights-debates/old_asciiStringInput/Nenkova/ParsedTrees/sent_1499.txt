@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (PRP He)) (VP (VBZ says) (SBAR (IN that) (S (NP (NNS gays)) (VP (MD can) (VP (VB serve))))))) (CC but) (S (NP (PRP they)) (VP (VBP need) (S (VP (TO to) (VP (VB stay) (PP (IN in) (NP (DT the) (NN closet)))))))) (. .)))

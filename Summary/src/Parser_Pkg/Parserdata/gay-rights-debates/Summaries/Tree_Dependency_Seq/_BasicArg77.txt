@@ -1,5 +1,0 @@
-root(ROOT-0, enforce-4)
-det(god-2, which-1)
-nsubj(enforce-4, god-2)
-aux(enforce-4, would-3)
-dobj(enforce-4, marriage-5)

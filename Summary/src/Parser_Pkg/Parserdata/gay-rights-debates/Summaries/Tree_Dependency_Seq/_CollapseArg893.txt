@@ -1,8 +1,0 @@
-root(ROOT-0, based-9)
-det(ruling-2, a-1)
-nsubjpass(based-9, ruling-2)
-prep_in(ruling-2, 1909-4)
-prep_against(1909-4, homosexuality-6)
-auxpass(based-9, was-7)
-neg(based-9, not-8)
-prep_on(based-9, prejudice-11)

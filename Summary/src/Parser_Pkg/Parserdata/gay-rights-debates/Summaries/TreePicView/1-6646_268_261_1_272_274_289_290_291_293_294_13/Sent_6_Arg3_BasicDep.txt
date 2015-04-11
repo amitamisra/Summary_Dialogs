@@ -1,4 +1,0 @@
-root(ROOT-0, rebuts-2)
-nsubj(rebuts-2, S2-1)
-prep(rebuts-2, by-3)
-pcomp(by-3, saying-4)

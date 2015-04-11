@@ -1,1 +1,0 @@
-(ROOT (NP (NP (NP (-LRB- -LRB-) (NN S1) (-RRB- -RRB-)) (NP (NN government) (NNS desires))) (SBAR (S (VP (TO to) (VP (VB be) (VP (VBN involved) (PP (IN in) (NP (NNS lives)))))))) (. .)))

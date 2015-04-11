@@ -1,1 +1,0 @@
-(ROOT (SQ (VBZ Is) (RB n't) (NP (NP (JJ fidelity) (NN part)) (PP (IN of) (NP (NP (DT the) (JJ american) (NN attitude)) (PP (IN of) ('' '') (NP (JJ normal))) ('' '')))) (. ?)))

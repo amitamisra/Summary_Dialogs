@@ -1,7 +1,0 @@
-root(ROOT-0, responds-2)
-nsubj(responds-2, S1-1)
-advmod(responds-2, angrily-3)
-advmod(responds-2, with-5)
-conj_and(angrily-3, with-5)
-amod(slurs-7, homosexual-6)
-pobj(with-5, slurs-7)

@@ -1,5 +1,0 @@
-root(ROOT-0, cites-2)
-nsubj(cites-2, He-1)
-dobj(cites-2, slavery-3)
-det(example-6, an-5)
-prep_as(cites-2, example-6)

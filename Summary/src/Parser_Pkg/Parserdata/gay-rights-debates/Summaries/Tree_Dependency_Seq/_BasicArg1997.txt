@@ -1,6 +1,0 @@
-root(ROOT-0, idea-6)
-nsubj(idea-6, it-1)
-cop(idea-6, is-2)
-neg(idea-6, not-3)
-det(idea-6, a-4)
-amod(idea-6, bad-5)

@@ -1,4 +1,0 @@
-root(ROOT-0, get-3)
-nsubj(get-3, she-1)
-aux(get-3, can-2)
-dobj(get-3, healthcare-4)

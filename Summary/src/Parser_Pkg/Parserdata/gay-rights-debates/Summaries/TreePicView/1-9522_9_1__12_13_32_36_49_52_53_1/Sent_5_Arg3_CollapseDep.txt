@@ -1,2 +1,0 @@
-aux(contradict-2, To-1)
-csubj(,-3, contradict-2)

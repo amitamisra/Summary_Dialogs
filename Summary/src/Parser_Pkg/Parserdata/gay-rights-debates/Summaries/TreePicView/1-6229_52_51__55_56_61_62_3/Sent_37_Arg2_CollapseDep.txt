@@ -1,3 +1,0 @@
-root(ROOT-0, incorporated-1)
-det(law-4, the-3)
-prep_into(incorporated-1, law-4)

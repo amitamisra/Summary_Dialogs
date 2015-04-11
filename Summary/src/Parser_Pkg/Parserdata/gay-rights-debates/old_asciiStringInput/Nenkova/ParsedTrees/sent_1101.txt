@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNP Speaker) (CD one)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NN speaker) (CD two)) (VP (VBZ is) (VP (VBN opposed) (PP (TO to) (NP (JJ gay) (NN marriage))) (SBAR (IN because) (S (NP (NN speaker) (CD two)) (VP (VBZ does) (RB not) (VP (VB support) (NP (JJ equal) (NNS rights)) (PP (IN for) (NP (NNS homosexuals)))))))))))) (. .)))

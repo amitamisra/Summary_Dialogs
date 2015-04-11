@@ -1,5 +1,0 @@
-root(ROOT-0, wrong-5)
-nsubj(wrong-5, Jesus-1)
-vmod(Jesus-1, saying-2)
-dobj(saying-2, polygamy-3)
-cop(wrong-5, was-4)

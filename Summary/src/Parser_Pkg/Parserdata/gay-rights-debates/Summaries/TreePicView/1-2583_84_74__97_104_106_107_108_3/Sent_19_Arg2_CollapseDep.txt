@@ -1,3 +1,0 @@
-root(ROOT-0, thought-3)
-nsubj(thought-3, they-1)
-advmod(thought-3, first-2)

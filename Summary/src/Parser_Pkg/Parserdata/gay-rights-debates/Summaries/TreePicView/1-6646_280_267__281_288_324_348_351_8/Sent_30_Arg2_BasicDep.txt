@@ -1,6 +1,0 @@
-root(ROOT-0, matter-3)
-dep(matter-3, no-2)
-advmod(wrong-5, how-4)
-dep(is-7, wrong-5)
-nsubj(is-7, he-6)
-ccomp(matter-3, is-7)

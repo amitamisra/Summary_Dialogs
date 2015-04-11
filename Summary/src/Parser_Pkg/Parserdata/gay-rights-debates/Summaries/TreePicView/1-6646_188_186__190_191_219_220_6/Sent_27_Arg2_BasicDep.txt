@@ -1,5 +1,0 @@
-root(ROOT-0, marriages-6)
-dep(marriages-6, these-2)
-nsubj(marriages-6, relationships-3)
-cop(marriages-6, were-4)
-neg(marriages-6, not-5)

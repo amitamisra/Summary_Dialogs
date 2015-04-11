@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2) (NNS questions)) (SBAR (WHADVP (WRB how)) (S (NP (JJ gay) (NN marriage)) (VP (MD would) (VP (VB violate) (NP (NP (NN someone) (POS 's)) (JJ constitutional) (NNS rights)))))) (. .)))

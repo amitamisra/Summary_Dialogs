@@ -1,8 +1,0 @@
-root(ROOT-0, began-3)
-det(forum-2, the-1)
-nsubj(began-3, forum-2)
-prepc_with(began-3, speaking-5)
-det(industry-10, the-7)
-amod(industry-10, gay-8)
-nn(industry-10, pride-9)
-prep_about(speaking-5, industry-10)

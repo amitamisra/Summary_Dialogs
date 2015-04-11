@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (PRP He)) (VP (VBZ states) (SBAR (S (NP (NN decentralization)) (VP (VBD was) (NP (NP (DT a) (JJ big) (NN theme)) (PP (IN for#1#0) (NP (NNP Jefferson))))))))) (CC and#0#Expansion) (S (NP (PRP he)) (VP (MD would) (VP (VB have) (VP (VBN opposed) (NP (NN over-regulation)))))) (. .)))

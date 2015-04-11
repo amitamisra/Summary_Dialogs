@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (-LRB- -LRB-) (NN S1) (-RRB- -RRB-)) (CC and#0#0) (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-))) (VP (VBP discuss) (PP (IN about) (SBAR (WHNP (WP$ whose) (NP (JJ religious) (NN belief))) (S (VP (VBZ is) (ADVP (RBR better)) (PP (IN for#1#0) (NP (NN society)))))))) (. .)))

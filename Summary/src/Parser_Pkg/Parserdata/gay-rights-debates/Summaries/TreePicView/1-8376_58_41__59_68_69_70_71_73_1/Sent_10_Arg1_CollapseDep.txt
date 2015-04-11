@@ -1,7 +1,0 @@
-root(ROOT-0, want-2)
-nsubj(want-2, they-1)
-det(government-4, the-3)
-nsubj(get-7, government-4)
-aux(get-7, to-5)
-xcomp(want-2, get-7)
-prep_out_of(get-7, marriage-10)

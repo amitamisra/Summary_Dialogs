@@ -1,1 +1,0 @@
-(ROOT (NP (NP (NN S1) (NNS rebutts)) (PP (IN by) (S (VP (VBG stating) (SBAR (IN that) (S (PP (IN in) (NP (DT those) (CD 5) (NNS states))) (, ,) (NP (JJ gay) (NN marriage)) (VP (VP (VBD was) (RB not) (VP (VB put) (PP (TO to) (NP (DT a) (NN ballot))))) (, ,) (CC but) (VP (VBD forced) (PP (IN through) (NP (DT the) (NN court) (CC or) (NN legislature)))))))))) (. .)))

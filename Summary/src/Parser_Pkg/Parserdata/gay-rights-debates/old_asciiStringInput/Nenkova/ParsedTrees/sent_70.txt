@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ believes) (SBAR (IN that) (S (NP (DT the) (NN majority)) (VP (MD will) (VP (VB support) (NP (NP (JJR less) (JJ ambiguous) (NNS laws)) (SBAR (WHNP (WDT that)) (S (VP (VBP ban) (NP (JJ gay) (NN marriage))))))))))) (. .)))

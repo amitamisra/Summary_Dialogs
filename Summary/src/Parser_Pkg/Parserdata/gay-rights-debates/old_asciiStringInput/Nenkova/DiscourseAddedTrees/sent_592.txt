@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (S (NP (NP (DT the) (NN morality)) (PP (IN of) (NP (DT the) (NN era)))) (VP (VBD was) (VP (VBN based) (PP (IN on) (NP (NN ignorance) (CC and#0#0) (NN prejudice))) (SBAR (IN as#1#Temporal) (S (NP (PRP it)) (VP (VBZ is) (NP-TMP (NN today)))))))))) (. .)))

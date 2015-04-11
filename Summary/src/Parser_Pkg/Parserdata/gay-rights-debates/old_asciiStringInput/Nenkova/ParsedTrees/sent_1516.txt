@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ says) (SBAR (S (NP (PRP he)) (VP (VP (VBD served) (NP (NNP Uncle) (NNP Sam))) (CC and) (VP (VBN fought) (PP (IN for) (NP (NP (PRP$ his) (NN freedom)) (PP (IN of) (NP (NN speech) (NN right))))) (PP (IN unlike) (NP (JJ other) (NNS people)))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ contends) (SBAR (IN that) (S (NP (NN practice)) (VP (VP (VBD was) (PP (IN of) (NP (DT the) (NNP Old) (NN Testament)))) (CC and#0#0) (VP (VBZ is) (ADVP (RB no) (RB longer)) (VP (VBN considered) (NP (NN commonplace)))))))) (. .)))

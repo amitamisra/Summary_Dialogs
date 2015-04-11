@@ -1,4 +1,0 @@
-root(ROOT-0, uses-2)
-nsubj(uses-2, He-1)
-det(example-4, the-3)
-dobj(uses-2, example-4)

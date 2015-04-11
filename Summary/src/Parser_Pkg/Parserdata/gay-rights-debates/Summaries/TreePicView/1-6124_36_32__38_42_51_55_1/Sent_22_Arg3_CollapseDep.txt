@@ -1,5 +1,0 @@
-root(ROOT-0, important-3)
-nsubj(important-3, it-1)
-cop(important-3, is-2)
-poss(situation-6, their-5)
-prep_to(important-3, situation-6)

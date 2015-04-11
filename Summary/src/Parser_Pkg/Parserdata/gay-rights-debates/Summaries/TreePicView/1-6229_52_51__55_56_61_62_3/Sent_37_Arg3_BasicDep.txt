@@ -1,3 +1,0 @@
-root(ROOT-0, hurt-3)
-nsubj(hurt-3, nobody-1)
-dep(hurt-3, gets-2)

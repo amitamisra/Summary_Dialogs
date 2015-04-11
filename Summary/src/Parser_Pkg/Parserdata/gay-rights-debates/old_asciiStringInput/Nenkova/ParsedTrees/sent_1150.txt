@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB then)) (VP (VBD said) (SBAR (IN that) (S (NP (DT the) (NNP Right) (NN Wing)) (VP (VBD was) (PP (IN against) (NP (NP (DT both) (JJ gay) (NN marriage)) (CC and) (NP (NN polygamy)))) (SBAR (IN while) (S (NP (DT the) (JJ left) (NN wing)) (VP (VBD was) (PP (IN for) (NP (PRP it)))))))))) (. .)))

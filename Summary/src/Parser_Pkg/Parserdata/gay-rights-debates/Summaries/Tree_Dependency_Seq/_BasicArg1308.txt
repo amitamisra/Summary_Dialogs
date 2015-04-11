@@ -1,5 +1,0 @@
-root(ROOT-0, passed-6)
-dep(passed-6, the-2)
-nsubjpass(passed-6, laws-3)
-aux(passed-6, would-4)
-auxpass(passed-6, be-5)

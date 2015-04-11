@@ -1,3 +1,0 @@
-root(ROOT-0, He-1)
-nn(S1-3, questions-2)
-dep(He-1, S1-3)

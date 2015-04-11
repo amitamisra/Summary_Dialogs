@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ tells) (NP (NN S2)) (S (VP (TO to) (VP (VB do) (NP (PRP$ his) (NN homework)) (PP (IN in) (S (VP (VBG verifying) (NP (NP (DT the) (NN existence)) (PP (IN of) (NP (NNS theominionists))))))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ does) (RB not) (VP (VB agree) (PP (IN with) (NP (NP (DT the) (NN comparison)) (PP (IN of) (NP (NP (JJ gay) (NNS rights)) (CC and) (NP (JJ gay) (NN marriage)))))) (PP (TO to) (NP (JJ African) (JJ American) (JJ civil) (NNS rights))))) (. .)))

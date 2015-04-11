@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (PRP He)) (VP (VBZ states) (SBAR (IN that) (S (NP (NNP Jefferson)) (VP (VBD believed) (SBAR (IN that) (S (NP (NN liberty)) (VP (VBD was) (VP (VBN threatened) (PP (IN by) (NP (DT a) (JJ centralized) (NN government)))))))))))) (, ,) (CC and) (S (NP (PRP he)) (VP (MD would) (VP (VB have) (VP (VBN opposed) (NP (NN over-regulation)))))) (. .)))

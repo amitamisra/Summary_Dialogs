@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ is) (PP (IN against) (NP (NP (JJ gay) (NN marriage)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (JJ shared) (NN healthcare)) (PP (IN between) (NP (JJ gay) (NNS couples))))))) (. .)))

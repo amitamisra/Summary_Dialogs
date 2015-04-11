@@ -1,7 +1,0 @@
-root(ROOT-0, disease-7)
-nsubj(disease-7, it-1)
-cop(disease-7, is-2)
-neg(disease-7, not-3)
-advmod(disease-7, simply-4)
-det(disease-7, a-5)
-amod(disease-7, homosexual-6)

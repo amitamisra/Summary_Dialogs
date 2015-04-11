@@ -1,3 +1,0 @@
-root(ROOT-0, calls-2)
-dobj(calls-2, S1-3)
-dep(calls-2, irresponsible-4)

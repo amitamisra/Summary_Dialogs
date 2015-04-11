@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN Namecalling) (CC and#0#0) (NN violence)) (VP (VP (VBP are) (ADJP (JJ wrong))) (, ,) (NP (NP (NN REGARLESS)) (PP (IN of) (SBAR (WHADVP (WRB where)) (S (NP (NNS people)) (VP (VBP fall) (PP (IN on) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (JJ gay) (NN marriage))))))))))) (. .)))

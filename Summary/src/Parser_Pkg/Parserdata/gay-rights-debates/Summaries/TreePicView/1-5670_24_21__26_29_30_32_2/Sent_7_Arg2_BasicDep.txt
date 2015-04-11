@@ -1,8 +1,0 @@
-root(ROOT-0, used-5)
-nsubjpass(used-5, it-1)
-aux(used-5, is-2)
-neg(used-5, n't-3)
-auxpass(used-5, being-4)
-aux(vilify-7, to-6)
-xcomp(used-5, vilify-7)
-dobj(vilify-7, anyone-8)

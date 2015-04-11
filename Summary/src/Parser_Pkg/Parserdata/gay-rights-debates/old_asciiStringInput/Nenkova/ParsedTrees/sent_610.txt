@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (NNP Homosexuality)) (VP (VBD was) (RB not) (VP (VBN understood) (PP (IN as) (NP (DT a) (JJ social) (NN identity))) (ADVP (RB back) (RB then))))) (, ,) (RB so) (S (NP (RB there)) (VP (VBD was) (NP (NP (DT no) (`` ``) (JJ gay) (NN lifestyle) ('' '')) (SBAR (S (VP (TO to) (VP (VB be) (ADJP (VBN prejudiced) (PP (IN against)))))))))) (. .)))

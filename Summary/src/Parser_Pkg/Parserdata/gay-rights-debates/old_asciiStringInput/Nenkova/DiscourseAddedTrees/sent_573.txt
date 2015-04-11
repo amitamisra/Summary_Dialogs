@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He) (CC or#1#0) (PRP she)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NNS objections)) (VP (MD should) (RB not) (VP (VB be) (NP (NP (JJ hypothetical)) (, ,) (CC but#0#0) (NP (JJ actual) (JJ proven) (NNS ones)))))))) (. .)))

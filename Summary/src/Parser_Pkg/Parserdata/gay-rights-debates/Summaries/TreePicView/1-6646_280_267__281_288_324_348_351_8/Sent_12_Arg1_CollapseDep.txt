@@ -1,8 +1,0 @@
-root(ROOT-0, clarifies-2)
-nsubj(clarifies-2, He-1)
-mark(hate-7, that-3)
-nsubj(hate-7, he-4)
-aux(hate-7, does-5)
-neg(hate-7, n't-6)
-ccomp(clarifies-2, hate-7)
-dobj(hate-7, gays-8)

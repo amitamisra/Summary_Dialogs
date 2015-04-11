@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBD said) (SBAR (IN that) (S (SBAR (IN if) (S (NP (NNS gays)) (VP (VBP want) (NP (NN healthcare))))) (NP (PRP they)) (VP (MD can) (VP (VB marry) (NP (NP (NN someone)) (PP (IN of) (NP (DT the) (JJ opposite) (NN sex)))) (SBAR (RB just) (IN like) (S (NP (JJ straight) (NNS people)) (VP (VBP do))))))))) (. .)))

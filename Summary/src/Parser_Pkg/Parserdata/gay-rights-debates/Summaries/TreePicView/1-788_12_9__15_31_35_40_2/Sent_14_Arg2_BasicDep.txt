@@ -1,7 +1,0 @@
-root(ROOT-0, want-2)
-nsubj(want-2, numerousemocrats-1)
-aux(spend-4, to-3)
-xcomp(want-2, spend-4)
-dobj(spend-4, more-5)
-prep(spend-4, than-6)
-pobj(than-6, Bush-7)

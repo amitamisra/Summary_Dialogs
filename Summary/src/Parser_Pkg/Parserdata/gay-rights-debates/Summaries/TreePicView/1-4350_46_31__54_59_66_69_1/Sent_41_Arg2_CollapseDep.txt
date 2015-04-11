@@ -1,6 +1,0 @@
-root(ROOT-0, already-2)
-cop(already-2, is-1)
-mark(question-5, that-3)
-det(question-5, the-4)
-dep(already-2, question-5)
-prep_of(question-5, legality-7)

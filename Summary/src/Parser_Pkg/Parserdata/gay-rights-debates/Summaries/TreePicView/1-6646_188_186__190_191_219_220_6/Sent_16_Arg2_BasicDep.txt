@@ -1,5 +1,0 @@
-root(ROOT-0, cases-5)
-amod(liaisons-2, homosexual-1)
-nsubj(cases-5, liaisons-2)
-cop(cases-5, were-3)
-amod(cases-5, special-4)

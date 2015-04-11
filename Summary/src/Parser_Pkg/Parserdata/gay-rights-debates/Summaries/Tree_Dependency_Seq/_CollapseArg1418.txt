@@ -1,6 +1,0 @@
-root(ROOT-0, clean-4)
-nsubj(clean-4, who-1)
-aux(clean-4, did-2)
-neg(clean-4, n't-3)
-poss(needles-6, their-5)
-dobj(clean-4, needles-6)

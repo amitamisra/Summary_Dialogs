@@ -1,5 +1,0 @@
-root(ROOT-0, is-2)
-expl(is-2, there-1)
-det(tribe-5, a-3)
-nn(tribe-5, Congo-4)
-nsubj(is-2, tribe-5)

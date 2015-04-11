@@ -1,5 +1,0 @@
-root(ROOT-0, talking-4)
-nsubj(talking-4, S2-1)
-aux(talking-4, is-2)
-advmod(talking-4, simply-3)
-prep_about(talking-4, perspective-6)

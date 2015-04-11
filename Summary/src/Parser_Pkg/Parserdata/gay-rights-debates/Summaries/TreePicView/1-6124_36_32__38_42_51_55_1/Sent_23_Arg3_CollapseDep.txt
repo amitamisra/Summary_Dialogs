@@ -1,4 +1,0 @@
-root(ROOT-0, are-3)
-amod(ceremonies-2, religious-1)
-nsubj(are-3, ceremonies-2)
-neg(are-3, n't-4)

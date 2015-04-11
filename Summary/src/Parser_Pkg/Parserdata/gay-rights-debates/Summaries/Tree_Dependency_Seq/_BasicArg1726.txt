@@ -1,7 +1,0 @@
-root(ROOT-0, spenders-4)
-nsubj(spenders-4, manyemocrats-1)
-cop(spenders-4, were-2)
-amod(spenders-4, bigger-3)
-prep(spenders-4, than-5)
-det(Republicans-7, the-6)
-pobj(than-5, Republicans-7)

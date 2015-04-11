@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (SBAR (IN that) (S (NP (JJ single) (NN parent)) (VP (VBZ is) (ADJP (JJ natural)) (SBAR (IN as) (S (NP (NNS husbands)) (VP (VBP die) (SBAR (S (NP (JJ early) (CC and) (JJ gay) (NNS rights)) (VP (VBZ is) (ADVP (RBR more)) (PP (IN about) (NP (NNS politics))))))))))))) (. .)))

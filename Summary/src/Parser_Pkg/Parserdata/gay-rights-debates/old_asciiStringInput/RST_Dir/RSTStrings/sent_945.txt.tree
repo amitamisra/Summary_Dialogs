@@ -1,7 +1,0 @@
-(Elaboration[N][S]
-  _!S1 believes that gay people are the ones!_
-  (Joint[N][N]
-    _!that made AIS a major health concern in the US!_
-    (same-unit[N][N]
-      _!and asks for proof!_
-      _!to the contrary . <s>!_)))

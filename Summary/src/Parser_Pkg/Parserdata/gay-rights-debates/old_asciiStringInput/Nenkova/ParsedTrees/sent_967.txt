@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ wants) (S (VP (TO to) (VP (VB see) (NP (DT an) (JJ actual) (NN argument)) (S (VP (VBG supporting) (SBAR (S (NP (NNP AIS)) (VP (VBD was) (RB not) (VP (VBN spread) (PP (IN in) (NP (DT the) (NNP United) (NNPS States))) (PP (IN by) (NP (NNS homosexuals))))))))))))) (. .)))

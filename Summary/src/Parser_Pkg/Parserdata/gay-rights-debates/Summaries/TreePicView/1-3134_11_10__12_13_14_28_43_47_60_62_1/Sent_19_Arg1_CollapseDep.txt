@@ -1,6 +1,0 @@
-root(ROOT-0, found-4)
-nsubjpass(found-4, it-1)
-aux(found-4, can-2)
-auxpass(found-4, be-3)
-nn(search-7, Google-6)
-agent(found-4, search-7)

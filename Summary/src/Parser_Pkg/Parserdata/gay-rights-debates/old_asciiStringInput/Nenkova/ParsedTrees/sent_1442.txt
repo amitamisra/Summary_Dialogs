@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (ADVP (RB also)) (VP (VBZ says) (SBAR (IN that) (S (NP (NNP Bowers) (NNP Justice) (NNP Stevens)) (VP (VBZ does) (RB n't) (VP (VB have) (NP (DT the) (NN evidence) (S (VP (TO to) (VP (VB withstand) (NP (PRP$ his) (NN analysis))))))))))) (. .)))

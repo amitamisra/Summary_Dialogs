@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP$ His) (NNS statistics)) (VP (VBP support) (NP (DT the) (NN fact)) (SBAR (IN that) (S (NP (CD 60,000) (JJ gay) (NNS couples)) (VP (MD would) (VP (VB get) (VP (VBN married) (SBAR (IN if#0#Contingency) (S (NP (PRP they)) (VP (VBD were) (VP (VBN allowed))))))))))) (. .)))

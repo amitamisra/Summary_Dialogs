@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ considers) (S (NP (NNP MLK)) (VP (TO to) (VP (VB have) (NP (NP (ADJP (RB far) (RBR more)) (NN credibility)) (PP (IN than) (NP (NP (DT either)) (PP (IN of) (NP (NP (DT the) (CD two) (NNS people)) (VP (VBN referenced))))))))))) (. .)))

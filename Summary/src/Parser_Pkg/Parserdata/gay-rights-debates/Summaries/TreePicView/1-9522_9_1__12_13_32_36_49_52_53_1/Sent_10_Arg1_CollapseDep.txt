@@ -1,6 +1,0 @@
-root(ROOT-0, accept-2)
-aux(accept-2, to-1)
-det(Union-6, the-3)
-nn(Union-6, title-4)
-nn(Union-6, Civil-5)
-dobj(accept-2, Union-6)

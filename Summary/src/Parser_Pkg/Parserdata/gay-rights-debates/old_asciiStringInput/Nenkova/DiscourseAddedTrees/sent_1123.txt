@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ does) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ thinks) (SBAR (S (VP (VBZ is) (ADJP (JJ right)))))))))))) (CC and#0#0) (VP (VBZ believes) (SBAR (IN that) (S (NP (NNP Jesus)) (VP (VBZ is) (RB not) (PP (IN against) (NP (NN polygamy)))))))) (. .)))

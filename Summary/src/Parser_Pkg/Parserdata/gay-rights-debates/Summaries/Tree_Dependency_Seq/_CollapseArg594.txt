@@ -1,5 +1,0 @@
-root(ROOT-0, present-3)
-nsubj(present-3, love-1)
-cop(present-3, is-2)
-det(marriage-6, all-5)
-prep_in(present-3, marriage-6)

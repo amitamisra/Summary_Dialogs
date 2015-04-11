@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ likens) (NP (NP (JJ historical) (NN discrimination)) (PP (IN against) (NP (NP (DT the) (JJ gay) (NN community)) (PP (TO to) (NP (NP (JJ historical) (NN discrimination)) (PP (IN against) (NP (NP (NNS blacks)) (PP (IN with) (NP (NN slavery) (CC and) (NNS women)))))))))) (PP (IN with) (NP (NN misogyny)))) (. .)))

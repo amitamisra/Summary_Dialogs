@@ -1,5 +1,0 @@
-root(ROOT-0, pointed-2)
-nsubj(pointed-2, S2-1)
-prt(pointed-2, out-3)
-det(fact-5, the-4)
-dobj(pointed-2, fact-5)

@@ -1,8 +1,0 @@
-root(ROOT-0, diversity-10)
-det(deviation-2, A-1)
-nsubj(diversity-10, deviation-2)
-det(norm-5, the-4)
-prep_for(deviation-2, norm-5)
-poss(opinion-8, his-7)
-prep_in(norm-5, opinion-8)
-cop(diversity-10, is-9)

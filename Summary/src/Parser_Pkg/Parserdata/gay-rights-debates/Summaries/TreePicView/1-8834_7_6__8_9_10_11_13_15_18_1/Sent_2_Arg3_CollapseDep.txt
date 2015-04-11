@@ -1,3 +1,0 @@
-root(ROOT-0, kept-3)
-aux(kept-3, will-1)
-auxpass(kept-3, be-2)

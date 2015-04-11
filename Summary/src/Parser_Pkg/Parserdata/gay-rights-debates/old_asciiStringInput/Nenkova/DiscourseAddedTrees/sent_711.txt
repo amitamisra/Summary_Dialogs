@@ -1,1 +1,0 @@
-(ROOT (SINV (PP (IN In) (NP (NP (DT a) (NN democracy)) (PP (IN like) (NP (JJ ours) (NNS people))))) (VP (VBP use) (NP (DT the) (JJ democratic) (NN process)) (S (VP (TO to) (VP (VB have))))) (NP (NP (NNS views)) (VP (VBN enacted) (PP (IN into) (NP (NN law))))) (. .)))

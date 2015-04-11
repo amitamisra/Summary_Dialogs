@@ -1,1 +1,0 @@
-(ROOT (S (NP (-LRB- -LRB-) (NN S2) (-RRB- -RRB-) (NNS questions)) (SBAR (IN if) (S (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-) (VP (VBZ is) (VP (VBG beginning) (S (VP (TO to) (VP (VB debate) (PP (IN about) (NP (NN abortion)))))))))) (. .)))

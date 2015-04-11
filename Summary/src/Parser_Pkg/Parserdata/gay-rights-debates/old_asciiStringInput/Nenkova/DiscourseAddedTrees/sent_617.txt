@@ -1,1 +1,0 @@
-(ROOT (S (SBAR (WHADVP (WRB When#0#Temporal)) (S (NP (NNS people)) (VP (VBP claim) (NP (NP (NN religion)) (PP (IN in) (NP (NNS morals))))))) (, ,) (NP (PRP they)) (VP (VBP abandon) (PP (IN that) (NP (JJ moral) (NN system)))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP You)) (VP (MD can) (RB not) (VP (VB justify) (NP (DT an) (JJ anti-gay) (NN agenda)) (PP (IN on) (NP (NNS morals) (CC or) (NN religion))))) (. .)))

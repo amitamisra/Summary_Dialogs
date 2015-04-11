@@ -1,6 +1,0 @@
-root(ROOT-0, flawed-6)
-advmod(flawed-6, how-1)
-poss(arguments-4, S1-2)
-possessive(S1-2, 's-3)
-nsubjpass(flawed-6, arguments-4)
-auxpass(flawed-6, are-5)

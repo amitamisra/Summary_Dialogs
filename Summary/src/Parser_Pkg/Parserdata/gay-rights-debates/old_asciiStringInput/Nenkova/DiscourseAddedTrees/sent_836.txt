@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (S (VP (VBG changing) (NP (DT the) (NN law) (S (VP (TO to) (VP (VB outline) (SBAR (S (NP (NN group) (NNS marriages)) (VP (MD would) (VP (VB be) (NP (DT a) (ADJP (JJ tedious)) (NN task))))))))))))) (. .)))

@@ -1,5 +1,0 @@
-root(ROOT-0, talking-1)
-det(issue-4, the-3)
-prep_about(talking-1, issue-4)
-amod(marriage-7, gay-6)
-prep_of(issue-4, marriage-7)

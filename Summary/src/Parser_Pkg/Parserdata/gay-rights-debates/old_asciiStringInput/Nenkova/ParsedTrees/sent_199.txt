@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ agrees) (SBAR (IN that) (S (SBAR (WHADVP (WRB when)) (S (NP (DT a) (NN husband)) (VP (VBZ is) (NP (NP (NN part)) (PP (IN of) (NP (DT a) (JJ heterosexual) (NN relationship))))))) (NP (DT a) (JJ gay) (NN husband)) (VP (VBZ is) (RB not) (ADJP (RB legally) (VBN recognized) (PP (IN in) (NP (DT the) (JJ same) (NN category)))))))) (. .)))

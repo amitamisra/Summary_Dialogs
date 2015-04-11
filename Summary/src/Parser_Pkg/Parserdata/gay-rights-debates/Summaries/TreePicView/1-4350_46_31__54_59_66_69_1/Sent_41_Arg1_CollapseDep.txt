@@ -1,5 +1,0 @@
-root(ROOT-0, believes-2)
-nsubj(believes-2, S2-1)
-det(couple-5, a-3)
-amod(couple-5, married-4)
-dobj(believes-2, couple-5)

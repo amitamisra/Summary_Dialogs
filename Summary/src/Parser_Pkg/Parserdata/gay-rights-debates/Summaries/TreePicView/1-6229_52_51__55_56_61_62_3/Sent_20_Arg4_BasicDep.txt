@@ -1,3 +1,0 @@
-root(ROOT-0, mean-3)
-aux(mean-3, does-1)
-neg(mean-3, n't-2)

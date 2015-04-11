@@ -1,1 +1,0 @@
-(ROOT (S (NP (JJ Polygamous) (NN marriage)) (VP (VBZ raises) (NP (NP (JJ legal) (NNS concerns)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (RB not) (ADVP (RB currently)) (VP (VBN covered) (PP (IN in) (NP (JJ traditional) (NN marriage) (NNS laws))) (, ,) (PP (IN for#0#Expansion) (NP (NN example#0#Expansion))))))))) (. .)))

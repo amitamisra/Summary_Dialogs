@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNS People)) (VP (MD should) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB stop) (S (VP (VBG standing) (PRT (RP up)) (PP (IN for) (NP (PRP$ their) (NNS principles))) (PP (ADVP (RB just)) (IN because) (IN of) (NP (NP (NNS nutcases)) (PP (IN out) (NP (RB there)))))))))))) (. .)))

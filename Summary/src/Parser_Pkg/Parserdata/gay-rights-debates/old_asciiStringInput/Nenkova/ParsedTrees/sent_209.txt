@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP do) (RB not) (VP (VB see) (NP (NP (DT a) (NN reason)) (PP (IN for) (NP (NN discrimination)))) (PP (IN against) (NP (JJ homosexual) (NN marriage))))) (. .)))

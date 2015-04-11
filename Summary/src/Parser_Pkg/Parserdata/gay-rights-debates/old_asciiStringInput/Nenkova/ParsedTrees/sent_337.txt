@@ -1,1 +1,0 @@
-(ROOT (S (NP (CD Two) (NNS people)) (VP (VBP are) (VP (VBG discussing) (NP (NP (DT the) (NN rate)) (PP (IN of) (NP (NN divorce)))) (PP (IN among) (NP (NP (JJ heterosexual) (NNS couples)) (PP (CC versus) (NP (NP (DT that)) (PP (IN of) (NP (JJ gay) (NNS couples))))))))) (. .)))

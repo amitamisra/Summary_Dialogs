@@ -1,8 +1,0 @@
-root(ROOT-0, said-3)
-cop(Frank-2, is-1)
-csubj(said-3, Frank-2)
-nsubj(am-6, I-5)
-ccomp(said-3, am-6)
-prep(am-6, against-7)
-det(abortion-9, all-8)
-pobj(against-7, abortion-9)

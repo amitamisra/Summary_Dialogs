@@ -1,2 +1,0 @@
-root(ROOT-0, suffer-2)
-nsubj(suffer-2, people-1)

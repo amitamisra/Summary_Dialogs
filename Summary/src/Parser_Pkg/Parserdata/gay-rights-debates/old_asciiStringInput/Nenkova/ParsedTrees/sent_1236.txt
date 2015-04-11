@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ states) (SBAR (IN that) (S (NP (NP (CD one)) (SBAR (WHNP (WP who)) (S (VP (VBZ supports) (NP (NP (JJ gay) (NN right)) (CONJP (CC but) (RB not)) (NP (JJ gay) (NN marriage))))))) (VP (VBZ brings) (NP (DT an) (ADJP (JJ inconsistent)) (NN problem)))))) (. .)))

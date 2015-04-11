@@ -1,3 +1,0 @@
-root(ROOT-0, retorts-2)
-nn(retorts-2, S2-1)
-prepc_by(retorts-2, stating-4)

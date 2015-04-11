@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ begins) (S (VP (VBG talking) (PP (PP (IN about) (NP (NP (DT the) (NN death)) (PP (IN of) (NP (DT a) (NN child))))) (CC either#0#0) (PP (IN by) (NP (JJ natural))) (CC or#0#0) (PP (IN in) (NP (NP (DT the) (NNS hands)) (PP (IN of) (NP (DT a) (NN doctor))))))))) (. .)))

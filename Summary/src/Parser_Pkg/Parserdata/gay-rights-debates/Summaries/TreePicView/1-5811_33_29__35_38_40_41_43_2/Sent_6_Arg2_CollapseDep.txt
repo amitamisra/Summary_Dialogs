@@ -1,8 +1,0 @@
-root(ROOT-0, understood-6)
-det(issue-2, the-1)
-nsubjpass(understood-6, issue-2)
-prep_in(issue-2, 1909-4)
-auxpass(understood-6, was-5)
-advmod(understood-6, behaviorally-7)
-advmod(understood-6, morally-9)
-conj_and(behaviorally-7, morally-9)

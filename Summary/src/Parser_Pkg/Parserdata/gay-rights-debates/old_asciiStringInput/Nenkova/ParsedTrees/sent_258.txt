@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ wishes) (SBAR (S (NP (JJ modern) (NN liberalism)) (VP (VBD were) (ADJP (JJR more)) (PP (IN like) (NP (JJ Jeffersonian) (NN liberalism))))))) (. .)))

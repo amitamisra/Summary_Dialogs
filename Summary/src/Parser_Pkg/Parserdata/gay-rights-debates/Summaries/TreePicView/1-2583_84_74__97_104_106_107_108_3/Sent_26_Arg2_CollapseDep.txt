@@ -1,6 +1,0 @@
-root(ROOT-0, sees-2)
-nsubj(sees-2, S1-1)
-dobj(sees-2, it-3)
-prep_as(sees-2, relative-5)
-prep_as(sees-2, subjective-7)
-conj_and(relative-5, subjective-7)

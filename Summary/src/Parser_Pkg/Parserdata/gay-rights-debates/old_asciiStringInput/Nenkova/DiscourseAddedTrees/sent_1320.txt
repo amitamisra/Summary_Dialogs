@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT These) (CD two) (NNS people)) (VP (VBP start) (S (VP (VBG referring) (PP (TO to) (NP (DT each) (NNS others))) (NP (`` ``) (NP (NNS attacks)) ('' '') (PP (IN on) (NP (NP (DT each) (JJ other)) (PP (IN towards) (NP (DT the) (NN end))))))))) (. .)))

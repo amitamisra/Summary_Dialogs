@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (NN S2)) (VP (VBZ contends) (SBAR (IN that) (S (NP (JJ European) (NNS countries)) (VP (VBP have) (S (NP (JJ many) (NNS laws)) (ADJP (JJ different) (PP (IN than) (NP (DT the) (NNP US)))))))))) (, ,) (CC but) (S (NP (DT the) (NN world) (NN majority)) (VP (VBZ views) (NP (PRP it)) (PP (IN as) (PP (IN about) (NP (DT the) (JJ traditional) (NNS families)))))) (. .)))

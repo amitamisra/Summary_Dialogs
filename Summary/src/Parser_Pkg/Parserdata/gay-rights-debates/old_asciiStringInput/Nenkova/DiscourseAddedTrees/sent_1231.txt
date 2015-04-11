@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and#0#0) (NN S2)) (VP (VBP begin) (S (VP (VP (VBG arguing) (PP (IN about) (NP (NP (DT the) (NN meaning)) (PP (IN of) (ADJP (JJ inconsistent)))))) (CC and#1#0) (VP (ADVP (RB eventually)) (VBG starting) (NP (NN fighting)))))) (. .)))

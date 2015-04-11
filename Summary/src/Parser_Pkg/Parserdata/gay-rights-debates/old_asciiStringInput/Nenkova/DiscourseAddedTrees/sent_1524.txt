@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NN S2) (NNS states)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP are) (VP (VBN granted) (NP (NP (NN freedom)) (PP (IN of) (NP (NN speech)))) (PP (IN by) (NP (NP (DT the) (NN constitution)) (, ,) (CC and#0#0) (NP (NN S1))))))))) (VP (VBZ responds) (PP (IN with) (NP (JJ immature) (NNS remarks) (CC and#1#0) (NNS questions)))) (. .)))

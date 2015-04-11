@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ is) (VP (VBG arguing) (PP (IN against) (NP (DT the) (NN position))) (ADVP (RB regardless#0#0) (PP (IN of) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (VP (VBG holding) (NP (PRP it)))))))))) (. .)))

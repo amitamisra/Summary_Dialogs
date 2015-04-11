@@ -1,3 +1,0 @@
-root(ROOT-0, obvious-3)
-nsubj(obvious-3, it-1)
-cop(obvious-3, 's-2)

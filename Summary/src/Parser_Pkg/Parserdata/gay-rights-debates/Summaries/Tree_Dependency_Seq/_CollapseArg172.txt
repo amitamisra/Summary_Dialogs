@@ -1,5 +1,0 @@
-root(ROOT-0, extended-4)
-nsubjpass(extended-4, healthcare-1)
-auxpass(extended-4, is-2)
-advmod(extended-4, generally-3)
-prep_to(extended-4, spouses-6)

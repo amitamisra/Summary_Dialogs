@@ -1,7 +1,0 @@
-root(ROOT-0, exclusive-4)
-nsubj(exclusive-4, love-1)
-cop(exclusive-4, is-2)
-neg(exclusive-4, not-3)
-prep(exclusive-4, to-5)
-amod(marriages-7, gay-6)
-pobj(to-5, marriages-7)

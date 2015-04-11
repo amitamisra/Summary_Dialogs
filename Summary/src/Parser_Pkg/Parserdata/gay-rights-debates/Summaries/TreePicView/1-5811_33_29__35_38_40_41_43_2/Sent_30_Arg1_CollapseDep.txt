@@ -1,6 +1,0 @@
-root(ROOT-0, excuse-5)
-nsubj(excuse-5, ignorance-1)
-cop(excuse-5, is-2)
-det(excuse-5, a-3)
-amod(excuse-5, reasonable-4)
-prep_for(excuse-5, prejudice-7)

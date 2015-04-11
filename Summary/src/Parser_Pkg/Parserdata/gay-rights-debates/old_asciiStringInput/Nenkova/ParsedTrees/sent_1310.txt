@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ agrees) (PP (IN that) (NP (NNS gays))) (NP (NP (JJ shouldnt) (NN experience) (NN violence)) (CC and) (NP (NN name-calling)))) (. .)))

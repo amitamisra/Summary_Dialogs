@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ feels) (S (VP (VBG allowing) (SBAR (S (NP (JJ gay) (NN marriage)) (VP (MD would) (VP (VB cause) (NP (NP (DT a) (JJ dependent) (NN class)) (VP (VBG needing) (NP (NP (QP (RBR more)) (NNS benefits)) (PP (IN of) (NP (NP (CD one) (NN kind)) (CC or#0#0) (NP (DT another)))))))))))))) (. .)))

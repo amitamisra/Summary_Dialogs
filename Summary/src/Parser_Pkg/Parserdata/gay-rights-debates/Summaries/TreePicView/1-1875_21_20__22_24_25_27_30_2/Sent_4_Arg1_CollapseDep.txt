@@ -1,7 +1,0 @@
-root(ROOT-0, ridiculous-5)
-poss(argument-3, S1-1)
-nsubj(ridiculous-5, argument-3)
-cop(ridiculous-5, is-4)
-nsubj(lack-8, gays-7)
-conj_and(ridiculous-5, lack-8)
-dobj(lack-8, rights-9)

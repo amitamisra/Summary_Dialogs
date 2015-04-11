@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ is) (ADJP (JJ confident) (SBAR (S (NP (PRP she)) (VP (VBD accounted) (PP (IN for) (NP (NP (DT the) (NNS variables)) (VP (VBN mentioned) (PP (IN by) (NP (NN S2))) (PP (IN by) (S (VP (VBG limiting) (NP (PRP$ her) (NN argument)) (PP (TO to) (NP (JJ large) (NNS earthquakes)))))))))))))) (. .)))

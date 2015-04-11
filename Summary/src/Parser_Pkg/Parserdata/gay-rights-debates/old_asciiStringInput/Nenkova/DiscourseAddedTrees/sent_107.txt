@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VP (VBD discussed) (NP (DT the) (NN increase)) (PP (IN in) (NP (NP (NNS earthquakes)) (ADVP (IN outside)) (PP (IN of) (NP (NNP Israel))))) (PP (IN in) (NP (DT the) (JJ last) (CD 100) (NNS years)))) (CC and#0#0) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBZ is) (`` ``) (NP (NN love) (NN waxing) (NN cold))))))) (. .) ('' '')))

@@ -1,6 +1,0 @@
-root(ROOT-0, considered-3)
-nsubjpass(considered-3, what-1)
-auxpass(considered-3, is-2)
-det(Testament-6, the-4)
-nn(Testament-6, New-5)
-dobj(considered-3, Testament-6)

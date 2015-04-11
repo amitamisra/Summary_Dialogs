@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (SBAR (IN that) (S (NP (PRP she)) (VP (VBD isnt) (S (VP (VP (VBG protecting) (NP (NN marriage))) (CC but#0#0) (VP (VBG preserving) (NP (PRP$ her) (JJ heterosexual) (NN privilege))))))))) (. .)))

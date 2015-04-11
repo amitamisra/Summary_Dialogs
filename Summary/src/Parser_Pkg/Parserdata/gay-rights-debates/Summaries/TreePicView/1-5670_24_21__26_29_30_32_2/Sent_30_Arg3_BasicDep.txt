@@ -1,2 +1,0 @@
-root(ROOT-0, claims-2)
-nn(claims-2, S1-1)

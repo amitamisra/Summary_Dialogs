@@ -1,5 +1,0 @@
-root(ROOT-0, look-2)
-aux(look-2, should-1)
-prep(look-2, for-3)
-det(job-5, another-4)
-pobj(for-3, job-5)

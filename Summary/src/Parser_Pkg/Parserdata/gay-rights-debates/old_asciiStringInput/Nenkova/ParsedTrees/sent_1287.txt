@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-))) (VP (VBZ is) (VP (VBG talking) (PP (IN about) (NP (NP (JJ bad) (NNS things)) (SBAR (WHNP (WDT that) (NNS people)) (S (VP (VBP make/talk) (PP (IN about) (NP (JJ gay) (NNS people))) (S (VP (TO to) (VP (VB influence) (NP (NN fear)) (PP (IN on) (NP (NNS others))))))))))))) (. .)))

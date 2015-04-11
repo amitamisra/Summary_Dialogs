@@ -1,7 +1,0 @@
-root(ROOT-0, experience-4)
-nsubj(experience-4, gays-1)
-aux(experience-4, should-2)
-neg(experience-4, n't-3)
-dobj(experience-4, violence-5)
-dobj(experience-4, name-calling-7)
-conj_and(violence-5, name-calling-7)

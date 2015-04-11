@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (S (VP (VBG legalizing) (NP (JJ gay) (NN marriage)))) (VP (MD will) (VP (VB alleviate) (NP (NP (DT the) (NN state) (POS 's)) (NN burden)) (PP (IN on) (NP (NN support))) (PP (IN for) (NP (NP (DT the) (JJ dependent) (NN spouse)) (PP (IN in) (NP (NP (DT the) (NN case)) (PP (IN of) (NP (DT a) (NN break-up)))))))))))) (. .)))

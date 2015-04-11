@@ -1,4 +1,0 @@
-root(ROOT-0, rumors-3)
-nsubj(rumors-3, this-1)
-cop(rumors-3, is-2)
-conj_and(rumors-3, misinformation-5)

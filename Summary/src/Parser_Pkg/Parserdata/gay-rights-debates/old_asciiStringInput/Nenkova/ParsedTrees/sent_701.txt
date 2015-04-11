@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NNS S1s) (NN way)) (PP (IN of) (NP (JJ equal) (NN marriage)))) (VP (MD would) (PP (RB not) (NP (NP (NN S1)) (CC or) (NP (PRP her))))) (. .)))

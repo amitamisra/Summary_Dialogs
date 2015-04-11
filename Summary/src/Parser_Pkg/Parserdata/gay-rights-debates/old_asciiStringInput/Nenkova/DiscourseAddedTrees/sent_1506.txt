@@ -1,1 +1,0 @@
-(ROOT (S (NP (EX There)) (VP (VBZ 's) (NP (NP (NNS consequences)) (PP (PP (IN on) (NP (NN earth))) (CC and#0#0) (PP (IN in) (NP (NP (DT the)) (PP (ADVP (RB hereafter)) (IN for#1#0) (NP (DT the) (JJ stiff-necked) (NN crowd)))))))) (. .)))

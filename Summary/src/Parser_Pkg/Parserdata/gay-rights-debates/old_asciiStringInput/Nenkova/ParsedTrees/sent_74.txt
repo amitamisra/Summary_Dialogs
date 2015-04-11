@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG discussing) (NP (NP (DT the) (NN issue)) (PP (IN of) (NP (NP (JJ gay) (NN marriage)) (CC and) (NP (DT the) (JJ financial) (NN effect)))))))) (NP (PRP it)) (VP (MD will) (VP (VB have) (PP (IN on) (NP (NN society))))) (. .)))

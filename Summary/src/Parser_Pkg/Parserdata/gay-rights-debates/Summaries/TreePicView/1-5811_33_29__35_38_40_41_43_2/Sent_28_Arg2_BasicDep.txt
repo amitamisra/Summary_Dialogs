@@ -1,6 +1,0 @@
-root(ROOT-0, prejudiced-7)
-nsubj(prejudiced-7, it-2)
-aux(prejudiced-7, could-3)
-neg(prejudiced-7, n't-4)
-aux(prejudiced-7, have-5)
-cop(prejudiced-7, been-6)

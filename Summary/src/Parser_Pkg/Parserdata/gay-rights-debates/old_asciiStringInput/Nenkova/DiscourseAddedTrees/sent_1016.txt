@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VP (VBZ disagrees)) (CC and#0#0) (VP (VBZ believes) (SBAR (IN that) (S (NP (NP (NNS arguments)) (VP (VBN made) (PP (IN against) (NP (JJ homosexual) (NN marriage))))) (VP (VBP are) (VP (VBN based) (PP (IN upon) (NP (NP (DT a) (NN bias)) (PP (IN against) (NP (NN homosexuality))))) (PP (IN as#1#0) (NP (DT a) (NN whole))))))))) (. .)))

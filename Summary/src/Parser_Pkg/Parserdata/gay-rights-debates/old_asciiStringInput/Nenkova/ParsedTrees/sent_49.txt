@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT the) (NN nature)) (PP (IN of) (NP (DT the) (NN relationship))))) (. .)))

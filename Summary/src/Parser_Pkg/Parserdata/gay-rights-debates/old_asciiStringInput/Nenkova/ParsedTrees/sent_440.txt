@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VP (VBZ understands) (NP (DT the) (JJ other) (NNS issues))) (, ,) (CC but) (VP (VBZ does) (RB n't) (VP (VB see) (NP (NP (NP (DT the) (NN relationship)) (PP (IN between) (NP (DT those)))) (CC and) (NP (NP (DT that)) (PP (IN of) (NP (JJ same-sex) (NN marriage)))))))) (. .)))

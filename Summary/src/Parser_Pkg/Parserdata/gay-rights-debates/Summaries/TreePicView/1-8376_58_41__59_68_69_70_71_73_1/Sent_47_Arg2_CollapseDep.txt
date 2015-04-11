@@ -1,7 +1,0 @@
-root(ROOT-0, practical-4)
-nsubj(practical-4, it-1)
-cop(practical-4, is-2)
-advmod(practical-4, more-3)
-tmod(world-8, today-6)
-possessive(today-6, 's-7)
-prep_in(practical-4, world-8)

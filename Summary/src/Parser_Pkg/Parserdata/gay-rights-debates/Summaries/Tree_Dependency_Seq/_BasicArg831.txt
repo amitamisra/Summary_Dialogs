@@ -1,5 +1,0 @@
-root(ROOT-0, conducted-5)
-advmod(conducted-5, how-1)
-det(study-3, the-2)
-nsubjpass(conducted-5, study-3)
-auxpass(conducted-5, was-4)

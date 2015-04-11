@@ -1,5 +1,0 @@
-root(ROOT-0, marriage-4)
-nsubj(marriage-4, it-1)
-cop(marriage-4, 's-2)
-advmod(marriage-4, just-3)
-advmod(marriage-4, altogether-5)

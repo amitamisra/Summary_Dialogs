@@ -1,7 +1,0 @@
-root(ROOT-0, finds-2)
-nsubj(finds-2, S2-1)
-nsubj(amusing-4, it-3)
-xcomp(finds-2, amusing-4)
-mark(believes-7, that-5)
-nsubj(believes-7, S1-6)
-ccomp(finds-2, believes-7)

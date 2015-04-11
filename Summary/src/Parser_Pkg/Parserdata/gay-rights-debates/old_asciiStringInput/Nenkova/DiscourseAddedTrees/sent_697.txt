@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (ADVP (RB then#1#Temporal)) (VBZ gives) (NP (NP (DT the) (NN example)) (SBAR (IN that) (FRAG (RB not) (ADVP (RB just))))) (PP (IN because#0#0) (NP (NN majority) (NNS rules))))) (NP (PRP it)) (VP (VBZ means) (PP (IN that) (NP (PRP$ its) (ADJP (DT a) (JJ good)) (NN thing)))) (. .)))

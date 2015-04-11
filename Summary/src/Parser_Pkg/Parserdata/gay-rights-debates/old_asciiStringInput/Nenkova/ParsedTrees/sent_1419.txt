@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ believes) (PP (IN that) (NP (NP (JJ dead)) ('' '') (SBAR (S (NP (NP (NN potential) ('' '')) (NP (NNS lives))) (VP (VBP do) (RB n't) (VP (VB have) ('' '') (PP (JJ real)) ('' ''))))))) (ADVP (CC or)) ('' '') (PP (JJ actual)) ('' '')) (NP (ADJP (JJ dead)) (NNS bodies)) (. .)))

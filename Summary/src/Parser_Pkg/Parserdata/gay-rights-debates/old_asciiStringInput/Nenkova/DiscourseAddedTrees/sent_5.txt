@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ is) (PP (IN in) (NP (NP (NN favor)) (PP (IN of) (NP (JJ gay) (NN marriage))))) (SBAR (IN while#0#Comparison) (S (NP (NN S2)) (VP (VBZ is) (PP (IN against)))))) (. .)))

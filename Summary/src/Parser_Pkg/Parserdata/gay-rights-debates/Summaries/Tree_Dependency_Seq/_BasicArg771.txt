@@ -1,3 +1,0 @@
-root(ROOT-0, generalizing-5)
-nsubj(generalizing-5, S2-2)
-aux(generalizing-5, is-4)

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VP (VBZ disagrees)) (CC and) (VP (VBZ thinks) (SBAR (S (NP (PRP she)) (VP (VBZ is) (VP (VBG doing) (SBAR (WHNP (WP what)) (S (NP (PRP she)) (VP (VBZ thinks) (SBAR (S (VP (VBZ is) (PP (IN before) (NP (NN society))))))))))))))) (. .)))

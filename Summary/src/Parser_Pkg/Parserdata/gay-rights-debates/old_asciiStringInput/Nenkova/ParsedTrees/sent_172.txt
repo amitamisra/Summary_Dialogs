@@ -1,1 +1,0 @@
-(ROOT (S (NP (NP (NN S1) (NNS states)) (SBAR (WHNP (WDT that)) (S (NP (NNS gays)) (VP (VBP do) (RB n't) (VP (VB have) (NP (NP (DT the) (NN right)) (PP (TO to) (NP (JJ shared) (NN health) (NN care)))) (PP (IN because) (NP (PRP they)))))))) (VP (VBP 're) (RB not) (VP (VBN married))) (. .)))

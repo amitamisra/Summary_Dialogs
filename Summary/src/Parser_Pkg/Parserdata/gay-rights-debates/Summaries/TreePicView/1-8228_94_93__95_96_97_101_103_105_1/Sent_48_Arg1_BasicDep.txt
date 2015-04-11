@@ -1,4 +1,0 @@
-root(ROOT-0, said-4)
-advmod(what-2, exactly-1)
-dep(said-4, what-2)
-nsubj(said-4, he-3)

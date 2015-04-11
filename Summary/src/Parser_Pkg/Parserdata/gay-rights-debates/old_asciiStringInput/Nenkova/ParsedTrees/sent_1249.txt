@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (NN S2)) (VP (MD would) (VP (VB be) (VP (VBN troubled) (PP (IN by) (NP (NP (NNS Bidens) (NN position)) (PP (IN on) (NP (JJ gay) (NN marriage))))))))))) (. .)))

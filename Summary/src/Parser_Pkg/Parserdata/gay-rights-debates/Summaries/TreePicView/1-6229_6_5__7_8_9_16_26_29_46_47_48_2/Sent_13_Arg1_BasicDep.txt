@@ -1,8 +1,0 @@
-root(ROOT-0, limits-3)
-det(law-2, This-1)
-nsubj(limits-3, law-2)
-amod(protection-5, legal-4)
-dobj(limits-3, protection-5)
-prep(protection-5, of-6)
-amod(couples-8, gay-7)
-pobj(of-6, couples-8)

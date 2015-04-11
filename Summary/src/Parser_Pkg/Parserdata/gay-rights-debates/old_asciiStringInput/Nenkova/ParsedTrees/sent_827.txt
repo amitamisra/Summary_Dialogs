@@ -1,1 +1,0 @@
-(ROOT (S (ADVP (RB Likewise)) (, ,) (NP (PRP he)) (VP (VBZ thinks) (SBAR (S (NP (NNS Christians)) (VP (MD should) (RB not) (VP (VB be) (VP (VBN required) (S (VP (TO to) (VP (VB serve) (NP (JJ gay) (NNS people)) (PP (IN in) (NP (NP (DT a) (NN way)) (SBAR (WHNP (IN that)) (S (VP (VBZ violates) (NP (PRP$ their) (JJ religious) (NNS beliefs)))))))))))))))) (. .)))

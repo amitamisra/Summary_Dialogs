@@ -1,5 +1,0 @@
-root(ROOT-0, referring-1)
-prep(referring-1, to-2)
-pobj(to-2, arguments-3)
-prep(arguments-3, of-4)
-pobj(of-4, disagreement-5)

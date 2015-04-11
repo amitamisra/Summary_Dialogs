@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ believes) (SBAR (IN that) (S (NP (NP (NN S1) (POS 's)) (NN argument)) (VP (VBZ is) (RB not) (NP (DT a) (JJ legitimate) (NN viewpoint)) (SBAR (IN because) (S (NP (NN S1)) (VP (VBZ has) (NP (NP (DT no) (NN justification)) (SBAR (IN that) (S (NP (DT this) (NN lady)) (VP (VBZ hates) (NP (NNS gays))))))))))))) (. .)))

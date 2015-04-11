@@ -1,8 +1,0 @@
-root(ROOT-0, feels-2)
-nsubj(feels-2, S1-1)
-det(headway-4, any-3)
-nsubj(take-6, headway-4)
-aux(take-6, will-5)
-ccomp(feels-2, take-6)
-amod(years-8, many-7)
-tmod(take-6, years-8)

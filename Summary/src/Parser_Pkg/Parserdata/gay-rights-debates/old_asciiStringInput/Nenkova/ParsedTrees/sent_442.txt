@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1) (CC and) (NN S2)) (VP (VBP discuss) (NP (JJ same-sex) (NN marriage))) (. .)))

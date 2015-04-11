@@ -1,3 +1,0 @@
-root(ROOT-0, rebuts-2)
-nsubj(rebuts-2, S1-1)
-xcomp(rebuts-2, stating-3)

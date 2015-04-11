@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ states) (NP (PRP$ his) (NN wish) (S (VP (TO to) (VP (VP (VB move) (NP (JJ past) (JJ fiscal) (NNS concerns))) (CC and#0#0) (VP (VB move) (ADVP (RB ont)) (NP (NP (DT the) (DT the) (JJ moral) (CC and#1#0) (NN health) (NNS concerns)) (PP (IN of) (NP (JJ same-sex) (NN marriage)))))))))) (. .)))

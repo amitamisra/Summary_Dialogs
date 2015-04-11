@@ -1,6 +1,0 @@
-root(ROOT-0, agrees-2)
-nsubj(agrees-2, S2-1)
-prep(agrees-2, in-3)
-det(beginning-5, the-4)
-pobj(in-3, beginning-5)
-rcmod(beginning-5, that-6)

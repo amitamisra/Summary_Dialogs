@@ -1,4 +1,0 @@
-root(ROOT-0, questioned-1)
-amod(insemination-4, artificial-3)
-prep_about(questioned-1, insemination-4)
-prep_by(questioned-1, S2-6)

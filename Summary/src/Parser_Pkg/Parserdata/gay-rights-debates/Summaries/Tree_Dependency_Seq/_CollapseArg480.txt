@@ -1,8 +1,0 @@
-root(ROOT-0, came-2)
-nsubj(came-2, AIS-1)
-nsubjpass(opened-7, AIS-1)
-prep(came-2, about-3)
-aux(opened-7, are-5)
-auxpass(opened-7, being-6)
-conj_but(came-2, opened-7)
-advmod(opened-7, again-8)

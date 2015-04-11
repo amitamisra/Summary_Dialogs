@@ -1,8 +1,0 @@
-root(ROOT-0, goes-3)
-det(argument-2, any-1)
-nsubj(goes-3, argument-2)
-advmod(goes-3, back-4)
-prep(goes-3, to-5)
-poss(motivations-8, one-6)
-possessive(one-6, 's-7)
-pobj(to-5, motivations-8)

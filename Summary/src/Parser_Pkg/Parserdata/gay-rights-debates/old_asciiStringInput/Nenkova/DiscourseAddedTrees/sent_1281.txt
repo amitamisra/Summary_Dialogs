@@ -1,1 +1,0 @@
-(ROOT (S (NP (DT The) (NN discussion)) (VP (VBZ diverges) (PP (IN into) (NP (NP (NN S2)) (VP (VP (VBG quoting) (NP (JJ previous) (NNS posters))) (CC and#0#0) (VP (VBG showing) (NP (JJ hateful) (NN speech))))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ provides) (NP (NP (DT a) (NN website)) (VP (VBG containing) (NP (NN information)) (S (VP (VBG advising) (SBAR (S (NP (NNP Coretta) (NNP Scott) (NNP King)) (VP (VBZ supports) (NP (JJ gay) (NN marriage) (NN equality)))))))))) (. .)))

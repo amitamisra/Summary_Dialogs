@@ -1,7 +1,0 @@
-root(ROOT-0, dealt-2)
-auxpass(dealt-2, be-1)
-prep(dealt-2, with-3)
-pcomp(with-3, on-4)
-det(level-7, a-5)
-amod(level-7, religious-6)
-pobj(on-4, level-7)

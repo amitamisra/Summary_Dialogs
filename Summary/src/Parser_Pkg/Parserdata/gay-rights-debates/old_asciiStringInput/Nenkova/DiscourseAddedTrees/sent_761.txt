@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ impossible)) (UCP (S (VP (TO to) (VP (VB know)))) (CC or#0#0) (PP (TO to) (NP (NP (NNS police)) (VP (VBZ someones) (NP (JJ real) (NNS motives))))))) (. .)))

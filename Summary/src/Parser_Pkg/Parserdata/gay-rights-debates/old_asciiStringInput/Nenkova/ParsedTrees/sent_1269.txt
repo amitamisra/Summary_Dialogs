@@ -1,1 +1,0 @@
-(ROOT (S (PP (IN In) (NP (DT this) (NN discussion))) (NP (NN S1) (CC and) (NN S2)) (VP (VBP are) (VP (VBG addressing) (NP (NP (DT the) (NNS inconsistencies)) (PP (IN of) (NP (NP (DT the) (NN position)) (PP (IN of) (S (VP (VBG being) (PP (PP (IN for) (NP (JJ gay) (NNS rights))) (, ,) (CC but) (PP (IN against) (NP (JJ gay) (NN marriage)))))))))))) (. .)))

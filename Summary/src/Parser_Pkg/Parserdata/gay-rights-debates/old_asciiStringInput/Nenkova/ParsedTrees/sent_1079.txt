@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP believe) (SBAR (IN that) (S (NP (NNS homosexuals)) (VP (VP (VBP are) (VP (VBN entitled) (PP (TO to) (NP (PRP$ their) (NNS rights))))) (, ,) (CC but) (VP (VBP do) (RB not) (VP (VB need) (S (VP (TO to) (VP (VB redefine) (NP (NN marriage)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB get) (NP (PRP them))))))))))))))) (. .)))

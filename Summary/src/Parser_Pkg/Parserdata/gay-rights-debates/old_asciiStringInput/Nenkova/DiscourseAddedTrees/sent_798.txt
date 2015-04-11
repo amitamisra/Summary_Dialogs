@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ asserts) (SBAR (IN that) (S (NP (NNP South) (NNP Africa)) (VP (VBZ takes) (NP (PRP$ his) (NN view)) (, ,) (PP (IN while#0#0) (NP (NN S2) (NNS claims))) (NP-TMP (NP (NNP Canada)) (NP (NNS sides))) (PP (IN with) (NP (PRP him))))))) (. .)))

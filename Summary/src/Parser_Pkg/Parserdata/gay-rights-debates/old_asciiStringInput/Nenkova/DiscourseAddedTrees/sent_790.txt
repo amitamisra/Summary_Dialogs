@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He) (CC or#3#0) (PRP she)) (VP (VBZ feels) (SBAR (IN that) (IN if#2#0) (S (NP (PRP one)) (VP (MD can) (RB not) (VP (VB perform) (NP (DT the) (NN job)) (, ,) (SBAR (ADVP (RB then#2#0)) (IN that) (S (NP (NN person)) (VP (MD should) (VP (VB look) (PP (IN for#1#0) (NP (DT another) (NN job)))))))))))) (. .)))

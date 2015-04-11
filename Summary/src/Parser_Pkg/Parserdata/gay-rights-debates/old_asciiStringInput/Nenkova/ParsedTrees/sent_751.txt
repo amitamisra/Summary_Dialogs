@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ is) (VP (VBG arguing) (SBAR (IN that) (S (NP (NP (NN S1) (POS 's)) (NN point)) (VP (VBZ is) (RB not) (ADJP (RB very) (JJ valid)) (SBAR (IN because) (S (NP (NN S1)) (VP (VBZ is) (RB not) (VP (VBG understanding) (SBAR (IN that) (S (NP (PRP they)) (VP (VBP are) (RB not) (VP (VBG using) (NP (DT the) (NNS persons) (NN perspective))))))))))))))) (. .)))

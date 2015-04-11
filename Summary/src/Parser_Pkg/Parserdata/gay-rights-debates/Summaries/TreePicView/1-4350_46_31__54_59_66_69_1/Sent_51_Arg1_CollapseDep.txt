@@ -1,6 +1,0 @@
-root(ROOT-0, discuss-4)
-nsubj(discuss-4, S1-1)
-conj_and(S1-1, S2-3)
-nsubj(discuss-4, S2-3)
-amod(marriage-6, same-sex-5)
-dobj(discuss-4, marriage-6)

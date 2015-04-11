@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (ADVP (RB further)) (VP (VBZ claims) (SBAR (IN that) (S (NP (DT the) (JJ currentemocratic) (NN party)) (VP (VBZ is) (UCP (ADJP (JJ anti-religion) (, ,) (JJ over-regulatory)) (, ,) (CC and) (VP (VBN controlled) (PP (IN by) (NP (DT the) (JJ gay) (NN lobby))))))))) (. .)))

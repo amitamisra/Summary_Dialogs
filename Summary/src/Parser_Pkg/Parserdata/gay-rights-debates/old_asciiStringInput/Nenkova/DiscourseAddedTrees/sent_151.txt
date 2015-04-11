@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ claims) (SBAR (IN that) (S (NP (JJ homosexual) (NNS partners)) (VP (MD should) (RB n't) (VP (VB expect) (NP (JJ shared) (NN healthcare)) (PP (IN in) (NP (DT the) (JJ same) (NN way))) (SBAR (IN that) (S (NP (DT an) (JJ unmarried) (NN couple)) (VP (MD should) (RB n't))))))))) (. .)))

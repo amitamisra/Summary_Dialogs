@@ -1,6 +1,0 @@
-root(ROOT-0, wrong-3)
-nsubj(wrong-3, S1-1)
-cop(wrong-3, was-2)
-prep(wrong-3, about-4)
-det(surplus-6, the-5)
-pobj(about-4, surplus-6)

@@ -1,3 +1,0 @@
-root(ROOT-0, marry-4)
-nsubj(marry-4, they-2)
-aux(marry-4, should-3)

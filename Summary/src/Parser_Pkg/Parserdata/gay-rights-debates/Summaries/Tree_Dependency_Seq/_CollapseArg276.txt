@@ -1,4 +1,0 @@
-root(ROOT-0, are-3)
-advmod(are-3, legally-1)
-nsubj(are-3, they-2)
-neg(are-3, not-4)

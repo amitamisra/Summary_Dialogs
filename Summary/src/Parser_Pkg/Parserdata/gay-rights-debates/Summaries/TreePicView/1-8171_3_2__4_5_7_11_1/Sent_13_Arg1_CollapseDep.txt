@@ -1,2 +1,0 @@
-root(ROOT-0, lie-2)
-aux(lie-2, to-1)

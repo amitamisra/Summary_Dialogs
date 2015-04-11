@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRN (-LRB- -LRB-) (NP (NN S1)) (-RRB- -RRB-))) (VP (VBZ says) (SBAR (IN that) (S (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-) (VP (VBZ is) (VP (VBG generalizing) (SBAR (IN while#0#Comparison) (S (-LRB- -LRB-) (NP (NN S2)) (-RRB- -RRB-) (VP (VBZ talks) (PP (IN about) (NP (NN family) (NNS values))))))))))) (. .)))

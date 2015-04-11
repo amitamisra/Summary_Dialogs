@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (PRP They)) (VP (VBP go) (ADVP (RB back) (PP (TO to) (S (VP (VBG talking) (NP (NN trash)) (PP (TO to) (NP (DT each) (JJ other))))))))) (CC and#0#Expansion) (S (NP (PRP they)) (VP (VBP end) (NP (DT the) (NN conversation)))) (. .)))

@@ -1,7 +1,0 @@
-root(ROOT-0, makes-2)
-nsubj(makes-2, it-1)
-det(decisions-4, those-3)
-dobj(makes-2, decisions-4)
-predet(time-7, all-5)
-det(time-7, the-6)
-tmod(makes-2, time-7)

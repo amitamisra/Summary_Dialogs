@@ -1,7 +1,0 @@
-root(ROOT-0, inappropriate-3)
-nsubj(inappropriate-3, it-1)
-cop(inappropriate-3, is-2)
-aux(label-5, to-4)
-xcomp(inappropriate-3, label-5)
-dobj(label-5, disagreement-6)
-prep_as(label-5, bigotry-8)

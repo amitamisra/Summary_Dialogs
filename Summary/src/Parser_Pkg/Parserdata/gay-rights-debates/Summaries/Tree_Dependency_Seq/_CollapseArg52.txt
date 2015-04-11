@@ -1,6 +1,0 @@
-root(ROOT-0, involves-2)
-nsubj(involves-2, it-1)
-dobj(involves-2, couples-3)
-det(sex-7, the-5)
-amod(sex-7, same-6)
-prep_of(couples-3, sex-7)

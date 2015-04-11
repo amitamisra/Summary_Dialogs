@@ -1,6 +1,0 @@
-root(ROOT-0, changed-5)
-poss(opinion-3, S2-1)
-possessive(S2-1, 's-2)
-nsubj(changed-5, opinion-3)
-aux(changed-5, has-4)
-advmod(changed-5, now-6)

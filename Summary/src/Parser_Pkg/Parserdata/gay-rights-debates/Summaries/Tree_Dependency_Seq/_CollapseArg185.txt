@@ -1,3 +1,0 @@
-root(ROOT-0, married-3)
-aux(get-2, to-1)
-csubj(married-3, get-2)

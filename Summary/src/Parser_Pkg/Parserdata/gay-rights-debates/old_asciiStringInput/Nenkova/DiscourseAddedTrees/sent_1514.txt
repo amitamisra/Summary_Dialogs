@@ -1,1 +1,0 @@
-(ROOT (S (ADVP (RB Thankfully)) (, ,) (NP (NP (PRP you)) (CC and#0#0) (NP (NP (PRP$ your) (JJ like-minded) (NN crowd)) (PP (IN of) (NP (NNS bigots))))) (VP (VBP are) (NP (DT a) (VBG dying) (NN breed))) (. .)))

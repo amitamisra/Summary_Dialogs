@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ thinks) (SBAR (S (NP (DT a) (JJR better) (NN comparison)) (VP (VBZ is) (NP (NNP Sodom)))))) (. .)))

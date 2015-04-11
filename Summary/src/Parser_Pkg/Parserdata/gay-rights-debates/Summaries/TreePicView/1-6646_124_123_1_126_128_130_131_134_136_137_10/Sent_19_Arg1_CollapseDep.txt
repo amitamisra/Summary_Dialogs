@@ -1,6 +1,0 @@
-root(ROOT-0, owns-2)
-nsubj(owns-2, S1-1)
-prt(owns-2, up-3)
-poss(requirements-7, his-5)
-amod(requirements-7, own-6)
-prep_to(owns-2, requirements-7)

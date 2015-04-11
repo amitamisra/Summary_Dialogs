@@ -1,7 +1,0 @@
-(same-unit[N][N]
-  _!( S1 )!_
-  (Attribution[S][N]
-    (Attribution[S][N] _!tells!_ _!( S2 )!_)
-    (same-unit[N][N]
-      _!that!_
-      _!it seems like he does not understand the concept of inconsistency . <s>!_)))

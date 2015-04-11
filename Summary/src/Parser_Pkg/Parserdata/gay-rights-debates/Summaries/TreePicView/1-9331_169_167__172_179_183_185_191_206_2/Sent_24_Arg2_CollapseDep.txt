@@ -1,5 +1,0 @@
-root(ROOT-0, it-2)
-rcmod(it-2, has-3)
-dobj(has-3, a-4)
-prep(has-3, real-6)
-dep(it-2, body-8)

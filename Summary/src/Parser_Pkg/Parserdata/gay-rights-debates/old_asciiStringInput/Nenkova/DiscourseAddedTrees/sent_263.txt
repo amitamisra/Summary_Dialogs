@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ contends) (SBAR (IN that) (S (NP (JJ modern) (NN liberalism)) (VP (VBZ has) (VP (VBN strayed) (PP (IN from) (SBAR (WHNP (WP what)) (S (NP (NNP Jefferson)) (VP (VBD believed)))))))))) (. .)))

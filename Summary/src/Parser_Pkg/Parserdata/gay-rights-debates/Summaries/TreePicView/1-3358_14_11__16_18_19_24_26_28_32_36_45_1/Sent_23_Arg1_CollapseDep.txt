@@ -1,6 +1,0 @@
-root(ROOT-0, compare-4)
-amod(relationships-2, homosexual-1)
-nsubj(compare-4, relationships-2)
-aux(compare-4, should-3)
-amod(marriages-7, heterosexual-6)
-prep_to(compare-4, marriages-7)

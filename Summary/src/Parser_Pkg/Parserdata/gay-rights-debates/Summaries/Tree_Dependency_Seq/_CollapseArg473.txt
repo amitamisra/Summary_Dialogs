@@ -1,2 +1,0 @@
-root(ROOT-0, determines-2)
-nsubj(determines-2, He-1)

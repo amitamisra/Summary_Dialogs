@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBZ claims) (SBAR (IN that) (S (NP (NN S2)) (VP (MD ca) (RB n't) (VP (VB come) (PRT (RP up)) (PP (IN with) (NP (DT a) (NN reference) (NN link)))))))) (. .)))

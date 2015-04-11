@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S2)) (VP (VBZ argues) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ is) (ADJP (JJ unfair) (S (VP (TO to) (VP (VB have) (NP (NNS laws)) (PP (VBN based) (PP (IN on) (NP (NP (JJ religious) (NN text)) (SBAR (WHNP (WDT that)) (S (VP (VBZ does) (VP (VB serve) (PP (IN as) (NP (NP (NNS everyones)) (NP (JJ religious) (NN text))))))))))))))))))) (. .)))

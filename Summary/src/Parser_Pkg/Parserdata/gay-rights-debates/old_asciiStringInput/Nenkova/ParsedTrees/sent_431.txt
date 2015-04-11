@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN Marriage)) (VP (VBZ has) (NP (NN nothing) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (DT the) (NN bible) (CC and) (NN everything))) (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (DT the) (JJ slippery) (NN slope) (JJ logical) (NN fallacy))))))))))) (. .)))

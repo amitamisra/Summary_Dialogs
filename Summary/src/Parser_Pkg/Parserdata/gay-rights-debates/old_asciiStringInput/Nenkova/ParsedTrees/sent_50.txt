@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VBZ thinks) (SBAR (IN that) (S (NP (NNS values)) (VP (VBP are) (SBAR (WHNP (WP what)) (S (NP (NN guide) (NNS people) (CC and) (NN everyone)) (VP (VBZ thinks) (SBAR (S (NP (PRP theirs)) (VP (VBP are) (ADJP (JJ correct)))))))))))) (. .)))

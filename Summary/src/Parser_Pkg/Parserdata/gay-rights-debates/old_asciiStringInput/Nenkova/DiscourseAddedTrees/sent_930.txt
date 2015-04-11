@@ -1,1 +1,0 @@
-(ROOT (S (NP (NN S1)) (VP (VBD said) (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ continues) (S (VP (TO to) (`` ``) (VP (VP (VB stand) (PP (IN by))) ('' '') (CC and#0#0) (VP (VB adhere) (PP (TO to) (NP (PRP$ his) (JJ previous) (NN post))))))))))) (. .)))

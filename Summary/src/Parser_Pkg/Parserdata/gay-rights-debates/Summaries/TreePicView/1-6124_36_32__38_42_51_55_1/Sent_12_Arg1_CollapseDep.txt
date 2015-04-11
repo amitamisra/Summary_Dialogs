@@ -1,8 +1,0 @@
-root(ROOT-0, involved-7)
-nsubjpass(involved-7, S1-1)
-aux(involved-7, is-2)
-advmod(involved-7, initially-3)
-prep_against(initially-3, government-5)
-auxpass(involved-7, being-6)
-det(equation-10, the-9)
-prep_in(involved-7, equation-10)

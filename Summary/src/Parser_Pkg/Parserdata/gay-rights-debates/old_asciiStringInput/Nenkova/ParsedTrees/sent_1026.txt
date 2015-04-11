@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP He)) (VP (VP (VBZ believes) (SBAR (IN that) (S (NP (NP (NNS opponents)) (PP (IN of) (NP (JJ gay) (NN marriage)))) (VP (VBP are) (RB not) (VP (VBG protecting) (NP (JJ traditional) (NN marriage))))))) (, ,) (CC but) (VP (VBP are) (VP (VBG discriminating) (PP (IN against) (NP (NNS homosexuals)))))) (. .)))

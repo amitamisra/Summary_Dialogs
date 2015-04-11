@@ -1,1 +1,0 @@
-(ROOT (S (NP (NNP Free)) (VP (TO to) (VP (VB be) (ADJP (JJ gay)) (ADVP (RB as#0#Contingency) (RB long#0#Contingency)) (SBAR (IN as#0#Contingency) (S (NP (PRP they)) (VP (VBD were) (RB n't) (ADVP (RB openly)) (ADJP (JJ gay))))))) (. .)))

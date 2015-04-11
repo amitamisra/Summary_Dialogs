@@ -1,8 +1,0 @@
-root(ROOT-0, punished-8)
-nsubjpass(punished-8, Men-1)
-nsubj(acted-4, who-2)
-rcmod(Men-1, acted-4)
-dobj(acted-4, gay-5)
-auxpass(punished-8, were-7)
-prep_for(punished-8, it-10)
-prep_in(punished-8, 1909-12)

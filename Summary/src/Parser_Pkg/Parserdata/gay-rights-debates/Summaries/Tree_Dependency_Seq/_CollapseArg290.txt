@@ -1,8 +1,0 @@
-root(ROOT-0, want-10)
-prepc_according_to(want-10, to-2)
-det(CBO-4, the-3)
-pobj(want-10, CBO-4)
-num(couples-8, 600,000-6)
-amod(couples-8, gay-7)
-nsubj(want-10, couples-8)
-aux(want-10, would-9)

@@ -1,1 +1,0 @@
-(ROOT (NP (NP (NP (NN S1)) (RRC (ADVP (RB specifically#1#0)) (NP (NP (NNS names)) (NP (NP (DT a) (NN woman)) (PP (IN in#0#0) (NP (JJ particular#0#0))))))) (SBAR (S (VP (TO to) (VP (VB admit) (NP (PRP$ her) (NN discrimination)))))) (. .)))

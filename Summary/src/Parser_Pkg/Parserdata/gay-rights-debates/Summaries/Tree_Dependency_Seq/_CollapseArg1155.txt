@@ -1,7 +1,0 @@
-root(ROOT-0, trying-4)
-mark(trying-4, that-1)
-nsubj(trying-4, person-2)
-aux(trying-4, is-3)
-aux(hurt-6, to-5)
-xcomp(trying-4, hurt-6)
-dobj(hurt-6, them-7)
