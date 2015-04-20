@@ -11,7 +11,7 @@ Created on Aug 5, 2014
 @author: amita
 '''
 
-def ADDPOS_string(String,list_pos):
+def ADDPOS_string(String,row,list_pos):
     
     text = word_tokenize(String)
     pos_string=nltk.pos_tag(text)

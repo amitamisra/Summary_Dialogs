@@ -196,18 +196,18 @@ def Users_Details(Users_Text,matter_pyr,regex,filename):
         
 if __name__ == '__main__':        
           
-    topic="gay-rights-debates"     
+    topic="gun-control"     
     Users_Text=list()
     Regex="[-]*\sD[0-9]*\s[-]*"
-    test=0# check annotator scores
+    test=0# if 1 check annotator scores
     #test=0#normal execution
     if test==1:
-        outputfile=os.path.dirname(os.getcwd())+ "/data_pkg/CSV/"+ topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_AllAnnotator_Scores"
-        outputfilescu=os.path.dirname(os.getcwd())+ "/data_pkg/CSV/"+ topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_AllScus"
-        file_scu_more2=os.path.dirname(os.getcwd())  + "/data_pkg/CSV/"+ topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_more2_Scus"
-        Jsonfilescu=os.path.dirname(os.getcwd())+   "/data_pkg/CSV/"+ topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_AllScusJson"
-        outputfiletopic_model=os.path.dirname(os.getcwd()) + "/data_pkg/CSV/" +topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_Scus_weights"
-        directory= os.path.dirname(os.getcwd())+   "/data_pkg/CSV/"+ topic +"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_annotator_pyramid/"
+        outputfile=os.path.dirname(os.getcwd())+ "/CSV/"+ topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_AllAnnotator_Scores"
+        outputfilescu=os.path.dirname(os.getcwd())+ "/CSV/"+ topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_AllScus"
+        file_scu_more2=os.path.dirname(os.getcwd())  + "/CSV/"+ topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_more2_Scus"
+        Jsonfilescu=os.path.dirname(os.getcwd())+   "/CSV/"+ topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_AllScusJson"
+        outputfiletopic_model=os.path.dirname(os.getcwd()) + "//CSV/" +topic+"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_Scus_weights"
+        directory= os.path.dirname(os.getcwd())+   "/CSV/"+ topic +"/MTdata/MT2/MT2Pyramid/Test_Scores/Test_annotator_pyramid/"
     else:
         #-------------------------------------------------------- done for phse1
         # outputfile=os.path.dirname(os.getcwd())+"data_pkg/CSV/"+ topic+"/MTdata/LabelUpdated/AllAnnotator_Scores"
@@ -219,12 +219,12 @@ if __name__ == '__main__':
 #------------------------------------------------------------------------------ 
        
        
-        outdirectory= os.path.dirname(os.getcwd() ) + "/data_pkg/CSV/"+ topic+"/MTdata/MTPhase2"
+        outdirectory= os.getcwd() + "/CSV/"+ topic+"/MTdata/Phase1/Pyramids_Natural"
+        Pyramiddirectory=outdirectory+"/AllPyramids_Natural/"
         outputfile=outdirectory+"/AllAnnotator_Scores"
         outputfilescu=outdirectory+"/AllScus"
         file_scu_more2=outdirectory+"/more2_Scus"
         Jsonfilescu=outdirectory+"/AllScusJson"
-        directory= outdirectory+"/AllPyramids/"
     
     
     fieldnames=["score_:1","score_:2","score_:3","score_:4","score_:5","filename"]
@@ -236,11 +236,11 @@ if __name__ == '__main__':
     rows_scu_more2=list()
     
     first =True
-    for fileid in os.listdir(directory):
+    for fileid in os.listdir(Pyramiddirectory):
         if "Icon" in str(fileid)  or "Store" in str(fileid): continue
         if not fileid.startswith('.'):
             #print directory+fileid
-            matter_pyr = Pyramid(directory+fileid)
+            matter_pyr = Pyramid(Pyramiddirectory+fileid)
             #print directory+fileid
             
             for scu in matter_pyr.scus:
@@ -255,7 +255,7 @@ if __name__ == '__main__':
                     rows_scu_more2.append(rowscu)
                     
                 
-            Users_Details(Users_Text,matter_pyr,Regex,directory+fileid)
+            Users_Details(Users_Text,matter_pyr,Regex,Pyramiddirectory+fileid)
                 
      
     sortedAll_annotator=sorted(All_annotator, key=lambda k: k['filename'].lower())
@@ -263,5 +263,6 @@ if __name__ == '__main__':
     FileHandling.write_csv(outputfilescu,Allrows_scu, fieldnames_scu)
     FileHandling.write_csv(file_scu_more2,rows_scu_more2, fieldnames_scu)
     FileHandling.writejson(Allrows_scu,Jsonfilescu)
+    FileHandling.writejson(rows_scu_more2,file_scu_more2)
     #topic_model(outputfilescu,Allrows_scu, fieldnames_scu)( done for phase 1)
     

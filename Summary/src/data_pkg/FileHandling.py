@@ -15,9 +15,43 @@ import unicodecsv
 import json
 import NewFormat_text
 #from nlp.text_obj import TextObj
+from operator import itemgetter
+from copy import deepcopy
+
 import sys
 from random import shuffle
 
+def AddUniqueRowNo(AllRows):
+    count=0
+    AllNewRows=[]
+    for row in AllRows:
+        Newrow=deepcopy(row)
+        Newrow["_"+"uniqueRowNo"]=count # gives each row a unique number for Mechanical turk
+        count=count+1
+        AllNewRows.append(Newrow)
+    return AllNewRows    
+    
+        
+def splitcsv(inputcsv,outfolder,numtosplit):
+    rows=read_csv(inputcsv)
+    start=0
+    fieldnames=rows[0].keys()
+    sizefile=len(rows)/numtosplit
+    rem=len(rows) % numtosplit
+    for count in range(0,numtosplit):
+        rowbegin=start
+        if count == numtosplit:
+            rowend=sizefile + start
+        else:
+            rowend=sizefile + + start+ rem +1 
+        rowswrite=rows[rowbegin:rowend]
+        out=outfolder+"/"+inputcsv+ "_"+ str(count)
+        write_csv(out,rowswrite,fieldnames)
+        start=rowend
+        
+def csvtojson(inputfile):
+    Allrows= read_csv(inputfile)
+    writejson(Allrows,inputfile)
 # write a list of dictionaries to a json file
 def  writejson(list_dict,filename):
     
@@ -38,7 +72,6 @@ def writeHtml(outputfile,all_lines):
     f.close()
  
 def write_csv(outputcsv, rowdicts, fieldnames):
-        try:
             restval=""
             extrasaction="ignore"
             dialect="excel"
@@ -47,19 +80,11 @@ def write_csv(outputcsv, rowdicts, fieldnames):
             csv_writer.writeheader()
             csv_writer.writerows(rowdicts) 
             outputfile.close()
-        except csv.Error :
-                print "csverror" + outputcsv +" in function FileHandling.write_csv"
-                sys.exit(1)  
                 
 def read_csv(inputcsv):   
-    try:
         inputfile = codecs.open(inputcsv+ ".csv",'r') 
         result = list(csv.DictReader(inputfile))
         return result              
-    except csv.Error:
-                print "inputcsverror" + inputcsv + " in function FileHandling.read_csv"
-                sys.exit(1)   
-                
                 
 def KeepColumns_Csv(InputCsvStr,OutputCsvStr, fields):
     fields=sorted(fields)
@@ -83,30 +108,17 @@ def getcolumnnames(db1,tablename):
         
     return Setcolnames                                            
 def WriteTextFile(Filename,Lines): 
-    try:
         f = open(Filename+".txt", "w")
-        try:
-                f.writelines(Lines)
-        finally:
-                f.close()
-    except IOError:
-        print Filename +" Error, not found or directory does not exist  , in function FileHandling.WriteTextFile"     
-        sys.exit(1)      
+        f.writelines(Lines)
+        f.close()
 def ReadTextFile(Filename): 
-    try:
         f = open(Filename, "r")
-        try:
-                Text=f.readlines()
-                return Text
-        finally:
-                f.close()
-    except IOError:
-        print Filename +" Error, not found  in function FileHandling.ReadTextFile"       
-        sys.exit(1) 
-        
+        Text=f.readlines()
+        f.close()
+        return Text
 #convert json as list of hashed items ( written from DISCO) to csv        
 def  convert_json_tocsv( InputFileJsontxt,OutputCSv):
-    try:
+    
             rowdicts=jsontorowdicts(InputFileJsontxt)
             fieldnames= sorted(rowdicts[0].keys())
             newrowdicts=list()
@@ -118,20 +130,17 @@ def  convert_json_tocsv( InputFileJsontxt,OutputCSv):
                     #text=text_obj.text
                     #print type(text)
                     #new_text=text.encode('ascii', 'ignore')
-                    newrow[key]=NewFormat_text.ascii_only(newrow[key])
+                    if type(newrow[key]) is str :
+                        newrow[key]=NewFormat_text.ascii_only(newrow[key])
+                    else:
+                         print " type not string"   
                 newrowdicts.append(newrow)        
                 
             write_csv(OutputCSv, newrowdicts, fieldnames)
-    except Exception as e:
-        s = str(e)
-        print "error in file" + InputFileJsontxt + "in function FileHandling.convert_json_tocsv"
-        print s
-        sys.exit(1)
-
+    
 
 
 def  convert_json_tocsv_posts( InputFileJsontxt,OutputCSv):
-    try:
             rowdicts=jsontorowdicts(InputFileJsontxt)
             fieldnames= sorted(rowdicts[0].keys())
             newrowdicts=list()
@@ -143,11 +152,6 @@ def  convert_json_tocsv_posts( InputFileJsontxt,OutputCSv):
                 newrowdicts.append(newrow)        
                 
             write_csv(OutputCSv, newrowdicts, fieldnames)
-    except Exception as e:
-        s = str(e)
-        print "error in file" + InputFileJsontxt + "in function FileHandling.convert_json_tocsv"
-        print s
-        sys.exit(1)
 
 
 def Randomize(inputfile,output):
@@ -166,7 +170,12 @@ def RemoveDup(Input,Output):
             rowdictsNodup.append(AllRows[i])
             
     fieldnames=sorted(rowdictsNodup[0].keys())
-    write_csv(Output, rowdictsNodup, fieldnames)                                                              
+    write_csv(Output, rowdictsNodup, fieldnames)   
+
+def SortRows(AllRows,fieldname):
+    sortedrows=sorted(AllRows,key = itemgetter(fieldname), reverse =True)
+    return sortedrows
+                                                                   
 if __name__ == '__main__':
 #     Inputjson="/Users/amita/git/summary_repo/Summary/src/Similarity_Labels/Similarity_Data/CD_Convince_gayrights_Sent.json"
 #     OutputCsv="/Users/amita/git/summary_repo/Summary/src/Similarity_Labels/Similarity_Data/CD_Convince_gayrights_Sent"

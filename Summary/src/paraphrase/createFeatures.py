@@ -23,19 +23,19 @@ class Features:
         self.InpDir=InpDir
         self.Allrows=Allrows
     
-    def sss(self,row, type_sim='relation', corpus='webbase'):
-        sss_url = "http://swoogle.umbc.edu/SimService/GetSimilarity"
-        try:
-            s1=row["SCU1"]
-            s2=row["SCU2"]
-            response = get(sss_url, params={'operation':'api','phrase1':s1,'phrase2':s2,'type':type,'corpus':corpus})
-            return float(response.text.strip())
-        except:
-            print response.raw
-            print response.reason
-            print 'Error in getting similarity for %s: %s' % ((s1,s2), response)
-            print "filename_ "+ row["filename"]+ "id1_ " + row["id1"] + "id12_ " + row["id2"] +"\n"
-            return 0.0
+    #----------------- def sss(self,row, type_sim='relation', corpus='webbase'):
+        #---------- sss_url = "http://swoogle.umbc.edu/SimService/GetSimilarity"
+        #------------------------------------------------------------------ try:
+            #---------------------------------------------------- s1=row["SCU1"]
+            #---------------------------------------------------- s2=row["SCU2"]
+            # response = get(sss_url, params={'operation':'api','phrase1':s1,'phrase2':s2,'type':type,'corpus':corpus})
+            #------------------------------- return float(response.text.strip())
+        #--------------------------------------------------------------- except:
+            #------------------------------------------------ print response.raw
+            #--------------------------------------------- print response.reason
+            # print 'Error in getting similarity for %s: %s' % ((s1,s2), response)
+            # print "filename_ "+ row["filename"]+ "id1_ " + row["id1"] + "id12_ " + row["id2"] +"\n"
+            #-------------------------------------------------------- return 0.0
         
     def UMBCSIM(self,rowdict,row): 
         #print type(s1)
@@ -45,11 +45,6 @@ class Features:
         corpus='webbase'
         sim= self.sss(row,type_sim,corpus)
         rowdict["UMBC"]=sim
-
-
-
-
-
 
 def buildVector(iterable1, iterable2):
     counter1 = Counter(iterable1)

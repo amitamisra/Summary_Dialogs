@@ -2,6 +2,7 @@
 Created on Aug 9, 2014
 Rhis program takes an input as two SCUs from balanced pairs file and computes similarity between them
 @author: amita
+only used sss function from this file in naacl 2015
 '''
 from data_pkg import FileHandling
 from requests import get

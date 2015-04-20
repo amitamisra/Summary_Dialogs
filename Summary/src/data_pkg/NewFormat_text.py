@@ -12,6 +12,8 @@ import os
 import FileHandling
 from file_formatting import csv_wrapper
 import unidecode
+from ast import literal_eval
+from collections import MutableMapping
 
 
 #------------------------------------------------------------ print type(string)
@@ -55,7 +57,13 @@ def correctPunct(new_text):
         new_text=new_text.replace(" ?", "?") 
         new_text=new_text.replace(" !", "!") 
         return new_text  
-
+def convertUnicode_to_dictlist(WordDictList):
+        newlist=[]
+        for dictlist in WordDictList:
+            my_dict = literal_eval(dictlist)
+            assert isinstance(my_dict, MutableMapping)
+            newlist.append(my_dict)
+        return newlist  
 def ascii_only_posts(text):
     """If you really can't use unicode..."""
     
@@ -99,6 +107,17 @@ def replacetoken(tokens,replacefrom,replaceto):
     
     return tokens
 
+
+def removePOSSSeg(text):
+    Alltokens=[]
+    tokens=str(text).split()
+    for token in tokens:
+        tokens_Pos=token.split("/")
+        tokenNoPos=tokens_Pos[0]
+        Alltokens.append(tokenNoPos)
+    Newtext= " ".join(Alltokens)  
+    return Newtext  
+
 def checkencoding():
     topic="gay-rights-debates"
     inputfile=os.getcwd()+ "/CSV/"+ topic +"/Summaries/TextFiles/TextFiles_1/1-6229_6_5__7_8_9_16_26_29_46_47_48_2_user2.txt" 
@@ -132,7 +151,22 @@ def checkencoding():
     fieldnames.append("text")
     FileHandling.write_csv(outputcsv, rowdicts, fieldnames)
     
-    
+def changeListtodict(Allrows,listitem):
+    NewRows=[] 
+    for row in Allrows:  
+        newrow=dict()
+        for key, value in row.iteritems():
+            if key ==listitem :
+                contribdict=dict()
+                no_of_contrib=len(value)
+                for i in range(0,no_of_contrib) :
+                    key=listitem + str(i)
+                    contribdict[key]=ascii_only(value[i][0])
+                newrow[listitem]=contribdict
+            else:
+                newrow[key]=ascii_only(str(value))
+        NewRows.append(newrow) 
+    return NewRows      
 if __name__ == '__main__':
     
     checkencoding()

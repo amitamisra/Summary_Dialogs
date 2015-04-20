@@ -1,6 +1,9 @@
 '''
 Created on Aug 24, 2014
 This program takes input labels from pyramids created by running scores pyramid from data package  and creates  clusters
+ #ADDPOS_string returns a dictionary with keys as Noun, Verb, Adj, AllPOSstring. 
+            # For Naacl Used   AllPOSstring, this includes noun, verb and adj
+            #AllPOSstring signifies to take the key   
 @author: amita
 '''
 from sklearn.feature_extraction.text  import CountVectorizer
@@ -85,9 +88,7 @@ class Cluster:
                     print "Error in Part of speech in function Create_Agg_cluster"
                     sys.exit(0)
                     
-            #ADDPOS_string returns a dictionary with keys as Noun, Verb, Adj, AllPOSstring. 
-            # For Naacl Used   AllPOSstring, this includes noun, verb and adj
-            #AllPOSstring signifies to take the key    
+            
             for string in Allstrings:
                 POS_String=Add_POS.ADDPOS_string(string,POS_List)["AllPOSstring"] 
                 POS_Strings.append(POS_String)                  
