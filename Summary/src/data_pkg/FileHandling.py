@@ -14,6 +14,7 @@ import MySQLdb as mdb
 import unicodecsv
 import json
 import NewFormat_text
+import re
 #from nlp.text_obj import TextObj
 from operator import itemgetter
 from copy import deepcopy
@@ -160,6 +161,21 @@ def Randomize(inputfile,output):
     fieldnames=rows[0].keys()
     write_csv(output,rows,fieldnames)
 
+def removeregularexp(summary,field):
+    #print summary
+   # summ = re.sub(r'-*\s*D[0-9]*\s*-*\s*', r'', summary)
+    summ_list = re.split(r'-+\s*D[0-9]*\s*-+\s*', summary)
+    Newsummdict=dict()
+    count=0
+    for summ in summ_list:
+        newsumm_nonewline=summ.replace("\n", " ")
+        newsumm_nonewline=newsumm_nonewline.strip()
+        if len(newsumm_nonewline) > 0:
+            if not  newsumm_nonewline.isspace():
+                count= count+1
+                Newsummdict[field+"_"+str(count)]=newsumm_nonewline.strip()
+                
+    return Newsummdict
 
 #remove duplicates from a csv file    
 def RemoveDup(Input,Output):  
@@ -175,6 +191,10 @@ def RemoveDup(Input,Output):
 def SortRows(AllRows,fieldname):
     sortedrows=sorted(AllRows,key = itemgetter(fieldname), reverse =True)
     return sortedrows
+
+def AppendTextFile(textfile,lines):
+    with open(textfile +".txt", "a") as myfile:
+        myfile.writelines(lines)
                                                                    
 if __name__ == '__main__':
 #     Inputjson="/Users/amita/git/summary_repo/Summary/src/Similarity_Labels/Similarity_Data/CD_Convince_gayrights_Sent.json"

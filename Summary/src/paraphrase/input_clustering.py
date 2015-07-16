@@ -156,7 +156,7 @@ if __name__ == '__main__':
     # clustercsv=os.getcwd() + "/para_data/"+topic+"/cluster/LabelUpdated/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
     #end===========================================================================done for NAACL
     topic="gun-control"
-    guncontrolpyramiddir="/Users/amita/git/FacetIdentification/src/Data_Pkg_Data/CSV/gun-control/MTdata/Phase1/Pyramids_Natural"
+    guncontrolpyramiddir="/Users/amita/git/FacetIdentification/src/data_pkg_whowon/CSV/gun-control/MTdata/Phase1/Pyramids_Natural"
     clusterfile_cosine="/Users/amita/git/FacetIdentification/src/Paraphrase_Pkg_data/"+topic+"/cluster/Phase1/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
     clustercsv="/Users/amita/git/FacetIdentification/src/Paraphrase_Pkg_data/" + topic+"/cluster/Phase1/TFIdf/Cos_Cluster_70_AVG_Noun_Verb_Ad"
     

@@ -14,7 +14,9 @@ from file_formatting import csv_wrapper
 import unidecode
 from ast import literal_eval
 from collections import MutableMapping
-
+import re
+from nltk.tokenize import sent_tokenize
+from nltk.tokenize import word_tokenize
 
 #------------------------------------------------------------ print type(string)
                 #-------------------------------------------------- print string
@@ -22,17 +24,38 @@ from collections import MutableMapping
                 #----------------- #stringnew=unidecode(Dialogrow["Dialogtext"])
                 # #stringnew=unicodedata.normalize('NFKD', string).encode('ascii','ignore')
 #------------------------------------------------------------------------------ 
-class color:
-    PURPLE = '\033[95m'
-    CYAN = '\033[96m'
-    DARKCYAN = '\033[36m'
-    BLUE = '\033[94m'
-    GREEN = '\033[92m'
-    YELLOW = '\033[93m'
-    RED = '\033[91m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
-    END = '\033[0m'
+
+def stemstoptokens(stop,stoplist,stem,stemmername,wordlist):
+    newwordlist=[]
+    for word in wordlist:
+                if stem:
+                    word=stemmername.stem(word)
+                    if stop:
+                            stemstoplist=[stemmername.stem(stemword) for stemword in stoplist ]
+                            if  word not in stemstoplist:
+                                newwordlist.append(word)
+                    else:
+                            newwordlist.append(word)
+                else:
+                    if stop:
+                            if  word not in stoplist:
+                                newwordlist.append(word)
+                    else:
+                            newwordlist=wordlist
+                            
+    return newwordlist                        
+    
+def ascii_only_unicodeerror(text):  
+    try:
+        text=text.decode('utf-8',errors='strict')
+        ascii_str=unidecode.unidecode(text)
+        return ascii_str.decode('utf-8')
+    except UnicodeDecodeError:
+        print text
+def getsents(lines): 
+        asciitext=ascii_only(lines)
+        sent_list = sent_tokenize(asciitext)
+        return  sent_list     
 def ascii_only(text):
     """If you really can't use unicode..."""
     
@@ -166,7 +189,12 @@ def changeListtodict(Allrows,listitem):
             else:
                 newrow[key]=ascii_only(str(value))
         NewRows.append(newrow) 
-    return NewRows      
+    return NewRows   
+
+def replace_s1s2(Text):
+    Text1=re.sub("s1|s1:","Author1",Text,flags=re.IGNORECASE ) 
+    Text2=re.sub("s2|s2:","Author2",Text1,flags=re.IGNORECASE ) 
+    return Text2      
 if __name__ == '__main__':
     
     checkencoding()
