@@ -134,7 +134,7 @@ def  convert_json_tocsv( InputFileJsontxt,OutputCSv):
                     if type(newrow[key]) is str :
                         newrow[key]=NewFormat_text.ascii_only(newrow[key])
                     else:
-                         print " type not string"   
+                        print (" type not string"   )
                 newrowdicts.append(newrow)        
                 
             write_csv(OutputCSv, newrowdicts, fieldnames)
