@@ -6,4 +6,4 @@ and ignore for acii
 
 hoewever after summaries used nltk wordtokenize as s1 s2 splitting
 
-use stanford parser for praragraoh to sentences.
+use stanford parser for praragraph to sentences.
